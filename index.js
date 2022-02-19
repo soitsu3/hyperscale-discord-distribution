@@ -4,7 +4,7 @@ const getMessageCount = require("./getMessageCount")
 const calculateTokens = require("./calculateTokens")
 
 // Assuming 100 million token total supply for calcs, easy to change
-const DISCORD_SUPPLY = 1_000_000
+const DISCORD_SUPPLY = 3_000_000
 
 // Parse the json files and read the number of message for each active user
 let users = getMessageCount()
