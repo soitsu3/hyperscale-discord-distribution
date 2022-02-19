@@ -1,0 +1,1615 @@
+{
+  "guild": {
+    "id": "916751469678579784",
+    "name": "Hyperscale",
+    "iconUrl": "https://cdn.discordapp.com/icons/916751469678579784/874219cdd9c60b09fc62afefa1efea43.png"
+  },
+  "channel": {
+    "id": "917610015571972106",
+    "type": "GuildTextChat",
+    "categoryId": "922689148861685780",
+    "category": "archived",
+    "name": "bot-dev",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "messages": [
+    {
+      "id": "917611035828035624",
+      "type": "Default",
+      "timestamp": "2021-12-07T02:58:39.33+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@Development Please read #deleted-channel for context.\n\nWe need two bots:\n1. Takes the Airtable applications and posts them in the twitter thread.\n2. Every hour post the leaderboard of applications (sorted by retweets) and the time until the competition/race ends.\n\nAlso check out #deleted-channel if you can help market this!\n\nWho's up for this?",
+      "author": {
+        "id": "915035187547615243",
+        "name": "kevalin",
+        "discriminator": "4394",
+        "nickname": "kevalin",
+        "color": "#1F8B4C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/915035187547615243/8aec11e684cd1c3ab575358a58fda0bd.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "917611292775292939",
+      "type": "Default",
+      "timestamp": "2021-12-07T02:59:40.591+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I’ve got it",
+      "author": {
+        "id": "530673798433734656",
+        "name": "davidh.eth",
+        "discriminator": "5637",
+        "nickname": "davidh.eth",
+        "color": "#1ABC9C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/530673798433734656/6e69cd0bbdd3b2a4f350c48d4bde8d3c.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "917611349826207805",
+      "type": "Default",
+      "timestamp": "2021-12-07T02:59:54.193+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "cc: @m1guelpf @longtran @neelr @rorhug @nathan.eth",
+      "author": {
+        "id": "915035187547615243",
+        "name": "kevalin",
+        "discriminator": "4394",
+        "nickname": "kevalin",
+        "color": "#1F8B4C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/915035187547615243/8aec11e684cd1c3ab575358a58fda0bd.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "794805316515790848",
+          "name": "nathan.eth",
+          "discriminator": "0001",
+          "nickname": "nathan.eth",
+          "isBot": false
+        },
+        {
+          "id": "539618266579206145",
+          "name": "neelr",
+          "discriminator": "5007",
+          "nickname": "neelr",
+          "isBot": false
+        },
+        {
+          "id": "656638112251904002",
+          "name": "rorhug",
+          "discriminator": "0001",
+          "nickname": "rorhug",
+          "isBot": false
+        },
+        {
+          "id": "215866112972161036",
+          "name": "m1guelpf",
+          "discriminator": "4217",
+          "nickname": "m1guelpf",
+          "isBot": false
+        },
+        {
+          "id": "507400361238069260",
+          "name": "longtran",
+          "discriminator": "8358",
+          "nickname": "longtran",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "917612147268280420",
+      "type": "Default",
+      "timestamp": "2021-12-07T03:03:04.318+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Can you send a@head.ai Airtable access and any other existing bot tooling to build on top of?",
+      "author": {
+        "id": "530673798433734656",
+        "name": "davidh.eth",
+        "discriminator": "5637",
+        "nickname": "davidh.eth",
+        "color": "#1ABC9C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/530673798433734656/6e69cd0bbdd3b2a4f350c48d4bde8d3c.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "917613580461932604",
+      "type": "Reply",
+      "timestamp": "2021-12-07T03:08:46.018+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "i'm down to help. have you started yet?",
+      "author": {
+        "id": "794805316515790848",
+        "name": "nathan.eth",
+        "discriminator": "0001",
+        "nickname": "nathan.eth",
+        "color": "#1ABC9C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/1.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "915035187547615243",
+          "name": "kevalin",
+          "discriminator": "4394",
+          "nickname": "kevalin",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "917611349826207805",
+        "channelId": "917610015571972106",
+        "guildId": "916751469678579784"
+      }
+    },
+    {
+      "id": "917616345468776478",
+      "type": "Default",
+      "timestamp": "2021-12-07T03:19:45.247+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Also curious if there are remaining needs and what kind of timeline we are looking at",
+      "author": {
+        "id": "141006935154491393",
+        "name": "aaron",
+        "discriminator": "9232",
+        "nickname": "aaron",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/141006935154491393/42d0ec60d5747fc0cabec2317f60c2d3.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "917626668519145522",
+      "type": "Default",
+      "timestamp": "2021-12-07T04:00:46.454+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Should we say all applications due by X date, and post all submissions at that time? (rather than having the bot post as soon as an air table receives a submission) \n\nSeems like first to submit will have a large advantage over others and I don't think first to submit the application should influence the decision too heavily",
+      "author": {
+        "id": "783927840638369812",
+        "name": "nicklinck",
+        "discriminator": "6691",
+        "nickname": "nicklinck",
+        "color": "#1ABC9C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/783927840638369812/e5d89c5d7f7b63d63e77e8077da89c96.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "917628035736416286",
+      "type": "Default",
+      "timestamp": "2021-12-07T04:06:12.424+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "If you batched them all at once and tweeted them out.. still the first one would have an advantage of getting the \"easy\" retweets. As people read the other ones they'd get a bit worn out. It's almost better if they are spaced out as submitted.",
+      "author": {
+        "id": "638326110135910410",
+        "name": "LuckofBuck (Ben)",
+        "discriminator": "3777",
+        "nickname": "LuckofBuck (Ben)",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/638326110135910410/4f1659f08b0ae34a1a1f96e43fa86609.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "917628268637741126",
+      "type": "Default",
+      "timestamp": "2021-12-07T04:07:07.952+00:00",
+      "timestampEdited": "2021-12-07T04:08:51.73+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Unless there's a low amount of submissions (most likely won't be), which in that case I agree.",
+      "author": {
+        "id": "638326110135910410",
+        "name": "LuckofBuck (Ben)",
+        "discriminator": "3777",
+        "nickname": "LuckofBuck (Ben)",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/638326110135910410/4f1659f08b0ae34a1a1f96e43fa86609.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "917628997939114065",
+      "type": "Default",
+      "timestamp": "2021-12-07T04:10:01.831+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "yeah thats a good point, first would still get the most reads.\n\nMaybe we keep it spaced out and be sure to include on the leader board the newly submitted applications to help give them more visability?",
+      "author": {
+        "id": "783927840638369812",
+        "name": "nicklinck",
+        "discriminator": "6691",
+        "nickname": "nicklinck",
+        "color": "#1ABC9C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/783927840638369812/e5d89c5d7f7b63d63e77e8077da89c96.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "917629583698841711",
+      "type": "Default",
+      "timestamp": "2021-12-07T04:12:21.487+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I think having it that way creates a bit of urgency",
+      "author": {
+        "id": "539618266579206145",
+        "name": "neelr",
+        "discriminator": "5007",
+        "nickname": "neelr",
+        "color": "#1ABC9C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/539618266579206145/792d626cbd0a8c77dd4880e8afab29cf.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDC4D",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/svg/1f44d.svg"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "917629736220508242",
+      "type": "Default",
+      "timestamp": "2021-12-07T04:12:57.851+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Also for the stack I think we should go node for just development speed and unofficial Twitter api https://github.com/ttezel/twit",
+      "author": {
+        "id": "539618266579206145",
+        "name": "neelr",
+        "discriminator": "5007",
+        "nickname": "neelr",
+        "color": "#1ABC9C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/539618266579206145/792d626cbd0a8c77dd4880e8afab29cf.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "GitHub - ttezel/twit: Twitter API Client for node (REST & Streaming...",
+          "url": "https://github.com/ttezel/twit",
+          "timestamp": null,
+          "description": "Twitter API Client for node (REST & Streaming API) - GitHub - ttezel/twit: Twitter API Client for node (REST & Streaming API)",
+          "color": "#1E2327",
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/grlkgFKkcNWgE1UFyFnyX_D2DjKYvhp-rNwztx_XIFo/https/opengraph.githubassets.com/472d481c787a0c57b893ec16755c76b668ea9dc66fd153766df748c196933a3d/ttezel/twit",
+            "width": 1200,
+            "height": 600
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "917629783888760833",
+      "type": "Default",
+      "timestamp": "2021-12-07T04:13:09.216+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "The benefit of the first getting the most reads is it incentivizes people to apply more. Creates FOMO. So from a marketing perspective I see a case for real-time posting",
+      "author": {
+        "id": "530673798433734656",
+        "name": "davidh.eth",
+        "discriminator": "5637",
+        "nickname": "davidh.eth",
+        "color": "#1ABC9C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/530673798433734656/6e69cd0bbdd3b2a4f350c48d4bde8d3c.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "⭐",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/svg/2b50.svg"
+          },
+          "count": 2
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDC4D",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/svg/1f44d.svg"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "917630006782464030",
+      "type": "Reply",
+      "timestamp": "2021-12-07T04:14:02.358+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "For #1 Airtable to twitter could be an easy zapier. #2 def use something like that I'd presume.",
+      "author": {
+        "id": "638326110135910410",
+        "name": "LuckofBuck (Ben)",
+        "discriminator": "3777",
+        "nickname": "LuckofBuck (Ben)",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/638326110135910410/4f1659f08b0ae34a1a1f96e43fa86609.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "539618266579206145",
+          "name": "neelr",
+          "discriminator": "5007",
+          "nickname": "neelr",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "917629583698841711",
+        "channelId": "917610015571972106",
+        "guildId": "916751469678579784"
+      }
+    },
+    {
+      "id": "917630114609643520",
+      "type": "Default",
+      "timestamp": "2021-12-07T04:14:28.066+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "The Node API looks pretty sweet. I was thinking about doing all of this in Airtable and Integromat. I'm looking at the Twitter API now and testing it out with Postman",
+      "author": {
+        "id": "530673798433734656",
+        "name": "davidh.eth",
+        "discriminator": "5637",
+        "nickname": "davidh.eth",
+        "color": "#1ABC9C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/530673798433734656/6e69cd0bbdd3b2a4f350c48d4bde8d3c.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "917630192791486534",
+      "type": "Default",
+      "timestamp": "2021-12-07T04:14:46.706+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "The tricky bit is dealing with threads but it looks doable so far",
+      "author": {
+        "id": "530673798433734656",
+        "name": "davidh.eth",
+        "discriminator": "5637",
+        "nickname": "davidh.eth",
+        "color": "#1ABC9C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/530673798433734656/6e69cd0bbdd3b2a4f350c48d4bde8d3c.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "917630483041484800",
+      "type": "Reply",
+      "timestamp": "2021-12-07T04:15:55.907+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Im convinced to NOT batch all the applications \uD83D\uDE42 good points",
+      "author": {
+        "id": "783927840638369812",
+        "name": "nicklinck",
+        "discriminator": "6691",
+        "nickname": "nicklinck",
+        "color": "#1ABC9C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/783927840638369812/e5d89c5d7f7b63d63e77e8077da89c96.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "➕",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/svg/2795.svg"
+          },
+          "count": 2
+        }
+      ],
+      "mentions": [
+        {
+          "id": "530673798433734656",
+          "name": "davidh.eth",
+          "discriminator": "5637",
+          "nickname": "davidh.eth",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "917629783888760833",
+        "channelId": "917610015571972106",
+        "guildId": "916751469678579784"
+      }
+    },
+    {
+      "id": "917631144567144479",
+      "type": "Reply",
+      "timestamp": "2021-12-07T04:18:33.627+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I was hoping AT would work directly for #1 but you can't post in threads with it",
+      "author": {
+        "id": "530673798433734656",
+        "name": "davidh.eth",
+        "discriminator": "5637",
+        "nickname": "davidh.eth",
+        "color": "#1ABC9C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/530673798433734656/6e69cd0bbdd3b2a4f350c48d4bde8d3c.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "638326110135910410",
+          "name": "LuckofBuck (Ben)",
+          "discriminator": "3777",
+          "nickname": "LuckofBuck (Ben)",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "917630006782464030",
+        "channelId": "917610015571972106",
+        "guildId": "916751469678579784"
+      }
+    },
+    {
+      "id": "917631665990406164",
+      "type": "Default",
+      "timestamp": "2021-12-07T04:20:37.944+00:00",
+      "timestampEdited": "2021-12-07T04:21:19.442+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@kevalin the question I have here is will this be one ongoing thread, or will we have one thread of applications per week, or something like that?",
+      "author": {
+        "id": "530673798433734656",
+        "name": "davidh.eth",
+        "discriminator": "5637",
+        "nickname": "davidh.eth",
+        "color": "#1ABC9C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/530673798433734656/6e69cd0bbdd3b2a4f350c48d4bde8d3c.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "915035187547615243",
+          "name": "kevalin",
+          "discriminator": "4394",
+          "nickname": "kevalin",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "917631801927794748",
+      "type": "Default",
+      "timestamp": "2021-12-07T04:21:10.354+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Seems like there's more marketing opportunity to having a concept of \"weekly cohorts\" or similar",
+      "author": {
+        "id": "530673798433734656",
+        "name": "davidh.eth",
+        "discriminator": "5637",
+        "nickname": "davidh.eth",
+        "color": "#1ABC9C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/530673798433734656/6e69cd0bbdd3b2a4f350c48d4bde8d3c.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDE80",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/svg/1f680.svg"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "917632128609570816",
+      "type": "Reply",
+      "timestamp": "2021-12-07T04:22:28.241+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Just checked zapier and it's the same. Code it is lol",
+      "author": {
+        "id": "638326110135910410",
+        "name": "LuckofBuck (Ben)",
+        "discriminator": "3777",
+        "nickname": "LuckofBuck (Ben)",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/638326110135910410/4f1659f08b0ae34a1a1f96e43fa86609.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "530673798433734656",
+          "name": "davidh.eth",
+          "discriminator": "5637",
+          "nickname": "davidh.eth",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "917631144567144479",
+        "channelId": "917610015571972106",
+        "guildId": "916751469678579784"
+      }
+    },
+    {
+      "id": "917632269949227038",
+      "type": "Reply",
+      "timestamp": "2021-12-07T04:23:01.939+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I'm still confident we can do this with no-code tools. We just need to use the Twitter API directly",
+      "author": {
+        "id": "530673798433734656",
+        "name": "davidh.eth",
+        "discriminator": "5637",
+        "nickname": "davidh.eth",
+        "color": "#1ABC9C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/530673798433734656/6e69cd0bbdd3b2a4f350c48d4bde8d3c.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "638326110135910410",
+          "name": "LuckofBuck (Ben)",
+          "discriminator": "3777",
+          "nickname": "LuckofBuck (Ben)",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "917632128609570816",
+        "channelId": "917610015571972106",
+        "guildId": "916751469678579784"
+      }
+    },
+    {
+      "id": "917633199042076692",
+      "type": "Default",
+      "timestamp": "2021-12-07T04:26:43.452+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I’ll get started on a code solution because that’ll probably be more sustainable long term",
+      "author": {
+        "id": "539618266579206145",
+        "name": "neelr",
+        "discriminator": "5007",
+        "nickname": "neelr",
+        "color": "#1ABC9C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/539618266579206145/792d626cbd0a8c77dd4880e8afab29cf.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDCAF",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/svg/1f4af.svg"
+          },
+          "count": 2
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "917633307829755945",
+      "type": "Default",
+      "timestamp": "2021-12-07T04:27:09.389+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "One more note on the airtable part. Do we want to make sure there's a check before it's tweeted out? If there's no boolean in airtable saying it's okay to tweet out we might see a lot of spam \uD83D\uDE05",
+      "author": {
+        "id": "638326110135910410",
+        "name": "LuckofBuck (Ben)",
+        "discriminator": "3777",
+        "nickname": "LuckofBuck (Ben)",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/638326110135910410/4f1659f08b0ae34a1a1f96e43fa86609.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "917633957997207563",
+      "type": "Reply",
+      "timestamp": "2021-12-07T04:29:44.401+00:00",
+      "timestampEdited": "2021-12-07T04:29:49.725+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Good point. We'd probably need someone manually reviewing which ones get tweeted. So we could setup a trigger in Airtable that they could click to approve and tweet it",
+      "author": {
+        "id": "530673798433734656",
+        "name": "davidh.eth",
+        "discriminator": "5637",
+        "nickname": "davidh.eth",
+        "color": "#1ABC9C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/530673798433734656/6e69cd0bbdd3b2a4f350c48d4bde8d3c.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "638326110135910410",
+          "name": "LuckofBuck (Ben)",
+          "discriminator": "3777",
+          "nickname": "LuckofBuck (Ben)",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "917633307829755945",
+        "channelId": "917610015571972106",
+        "guildId": "916751469678579784"
+      }
+    },
+    {
+      "id": "917634040142659644",
+      "type": "Reply",
+      "timestamp": "2021-12-07T04:30:03.986+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Couldn't hurt",
+      "author": {
+        "id": "530673798433734656",
+        "name": "davidh.eth",
+        "discriminator": "5637",
+        "nickname": "davidh.eth",
+        "color": "#1ABC9C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/530673798433734656/6e69cd0bbdd3b2a4f350c48d4bde8d3c.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "539618266579206145",
+          "name": "neelr",
+          "discriminator": "5007",
+          "nickname": "neelr",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "917633199042076692",
+        "channelId": "917610015571972106",
+        "guildId": "916751469678579784"
+      }
+    },
+    {
+      "id": "917695116020449311",
+      "type": "Reply",
+      "timestamp": "2021-12-07T08:32:45.61+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Do we have a repo yet? I can help with that, I have used Twitter API before",
+      "author": {
+        "id": "577229116097429558",
+        "name": "pawel",
+        "discriminator": "0756",
+        "nickname": "pawel",
+        "color": "#1ABC9C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/577229116097429558/d3d6d970e3e20cd4e8cd8a8cc004304d.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "539618266579206145",
+          "name": "neelr",
+          "discriminator": "5007",
+          "nickname": "neelr",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "917633199042076692",
+        "channelId": "917610015571972106",
+        "guildId": "916751469678579784"
+      }
+    },
+    {
+      "id": "917697497361690625",
+      "type": "Default",
+      "timestamp": "2021-12-07T08:42:13.366+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Putting this on pause",
+      "author": {
+        "id": "915035187547615243",
+        "name": "kevalin",
+        "discriminator": "4394",
+        "nickname": "kevalin",
+        "color": "#1F8B4C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/915035187547615243/8aec11e684cd1c3ab575358a58fda0bd.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "917697513446866984",
+      "type": "Default",
+      "timestamp": "2021-12-07T08:42:17.201+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Will explain in 30 min",
+      "author": {
+        "id": "915035187547615243",
+        "name": "kevalin",
+        "discriminator": "4394",
+        "nickname": "kevalin",
+        "color": "#1F8B4C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/915035187547615243/8aec11e684cd1c3ab575358a58fda0bd.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDC4D",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/svg/1f44d.svg"
+          },
+          "count": 2
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "917750472113279006",
+      "type": "Reply",
+      "timestamp": "2021-12-07T12:12:43.531+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Good point. This project has been paused.",
+      "author": {
+        "id": "915035187547615243",
+        "name": "kevalin",
+        "discriminator": "4394",
+        "nickname": "kevalin",
+        "color": "#1F8B4C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/915035187547615243/8aec11e684cd1c3ab575358a58fda0bd.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "783927840638369812",
+          "name": "nicklinck",
+          "discriminator": "6691",
+          "nickname": "nicklinck",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "917626668519145522",
+        "channelId": "917610015571972106",
+        "guildId": "916751469678579784"
+      }
+    },
+    {
+      "id": "917750616275685416",
+      "type": "Reply",
+      "timestamp": "2021-12-07T12:13:17.902+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "We're going to build this referral system on a website",
+      "author": {
+        "id": "915035187547615243",
+        "name": "kevalin",
+        "discriminator": "4394",
+        "nickname": "kevalin",
+        "color": "#1F8B4C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/915035187547615243/8aec11e684cd1c3ab575358a58fda0bd.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "783927840638369812",
+          "name": "nicklinck",
+          "discriminator": "6691",
+          "nickname": "nicklinck",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "917628997939114065",
+        "channelId": "917610015571972106",
+        "guildId": "916751469678579784"
+      }
+    },
+    {
+      "id": "917750623628300308",
+      "type": "Default",
+      "timestamp": "2021-12-07T12:13:19.655+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Not twitter",
+      "author": {
+        "id": "915035187547615243",
+        "name": "kevalin",
+        "discriminator": "4394",
+        "nickname": "kevalin",
+        "color": "#1F8B4C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/915035187547615243/8aec11e684cd1c3ab575358a58fda0bd.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "917750883444473856",
+      "type": "Default",
+      "timestamp": "2021-12-07T12:14:21.6+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "any details?",
+      "author": {
+        "id": "782536284094201857",
+        "name": "DCH88",
+        "discriminator": "5921",
+        "nickname": "DCH88",
+        "color": "#1ABC9C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/1.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "917751090169139251",
+      "type": "Reply",
+      "timestamp": "2021-12-07T12:15:10.887+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Yeah we're going to build this into the website",
+      "author": {
+        "id": "915035187547615243",
+        "name": "kevalin",
+        "discriminator": "4394",
+        "nickname": "kevalin",
+        "color": "#1F8B4C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/915035187547615243/8aec11e684cd1c3ab575358a58fda0bd.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "530673798433734656",
+          "name": "davidh.eth",
+          "discriminator": "5637",
+          "nickname": "davidh.eth",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "917631801927794748",
+        "channelId": "917610015571972106",
+        "guildId": "916751469678579784"
+      }
+    },
+    {
+      "id": "917751115301421066",
+      "type": "Default",
+      "timestamp": "2021-12-07T12:15:16.879+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "This is all phase #2 stuff",
+      "author": {
+        "id": "915035187547615243",
+        "name": "kevalin",
+        "discriminator": "4394",
+        "nickname": "kevalin",
+        "color": "#1F8B4C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/915035187547615243/8aec11e684cd1c3ab575358a58fda0bd.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "917751140282683413",
+      "type": "Default",
+      "timestamp": "2021-12-07T12:15:22.835+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "After our launch in a few hours",
+      "author": {
+        "id": "915035187547615243",
+        "name": "kevalin",
+        "discriminator": "4394",
+        "nickname": "kevalin",
+        "color": "#1F8B4C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/915035187547615243/8aec11e684cd1c3ab575358a58fda0bd.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "917751768820092939",
+      "type": "Default",
+      "timestamp": "2021-12-07T12:17:52.69+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@Development this is an excerpt from what I sent to the core.\n\nThis marketing campaign—dubbed the “nuke”—has been set aside. This nuke version is too spammy. It’ll also be botted on Twitter. Not a good look. Will tarnish our reputation.\n\nWe know it’d generate tons of hype. Many people will apply & join the community. Hyperscale isn’t ready. We need a strong product that we’ll build these viral loops into.\n\nWe’re going to build these launch ideas into our product—a one-click DAO formation form & an investment marketplace. BTW our product is very open-ended. Need to trial investments and see what the DAOs & the community needs. These are just ideas in a direction: ecosystem support.\n\nToday we’re doing a small launch. The main objective is to get applications. We also want to grow the community. This is a small win that’ll rally everyone around phase #2 of Hyperscale.",
+      "author": {
+        "id": "915035187547615243",
+        "name": "kevalin",
+        "discriminator": "4394",
+        "nickname": "kevalin",
+        "color": "#1F8B4C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/915035187547615243/8aec11e684cd1c3ab575358a58fda0bd.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDC4D",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/svg/1f44d.svg"
+          },
+          "count": 10
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "917751899409747998",
+      "type": "Default",
+      "timestamp": "2021-12-07T12:18:23.825+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "We're going to build a share for % of investment & weekly DAO competitions (think Mirror write race) into the website.",
+      "author": {
+        "id": "915035187547615243",
+        "name": "kevalin",
+        "discriminator": "4394",
+        "nickname": "kevalin",
+        "color": "#1F8B4C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/915035187547615243/8aec11e684cd1c3ab575358a58fda0bd.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "917751961217024010",
+      "type": "Default",
+      "timestamp": "2021-12-07T12:18:38.561+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "This is part of phase #2 which will launch in 1-2 weeks.",
+      "author": {
+        "id": "915035187547615243",
+        "name": "kevalin",
+        "discriminator": "4394",
+        "nickname": "kevalin",
+        "color": "#1F8B4C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/915035187547615243/8aec11e684cd1c3ab575358a58fda0bd.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDC4D",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/svg/1f44d.svg"
+          },
+          "count": 4
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "917782735249080321",
+      "type": "Default",
+      "timestamp": "2021-12-07T14:20:55.662+00:00",
+      "timestampEdited": "2021-12-07T14:28:15.751+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Yeah this is one of the reasons I mentioned at least having a check in Airtable before it gets sent out. But even that doesn't stop someone from bot retweeting their own project \uD83D\uDE04",
+      "author": {
+        "id": "638326110135910410",
+        "name": "LuckofBuck (Ben)",
+        "discriminator": "3777",
+        "nickname": "LuckofBuck (Ben)",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/638326110135910410/4f1659f08b0ae34a1a1f96e43fa86609.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "917793000917205013",
+      "type": "Reply",
+      "timestamp": "2021-12-07T15:01:43.188+00:00",
+      "timestampEdited": "2021-12-07T15:01:51.393+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "This all makes sense. Love the vision",
+      "author": {
+        "id": "530673798433734656",
+        "name": "davidh.eth",
+        "discriminator": "5637",
+        "nickname": "davidh.eth",
+        "color": "#1ABC9C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/530673798433734656/6e69cd0bbdd3b2a4f350c48d4bde8d3c.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "⚡",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/svg/26a1.svg"
+          },
+          "count": 2
+        }
+      ],
+      "mentions": [
+        {
+          "id": "915035187547615243",
+          "name": "kevalin",
+          "discriminator": "4394",
+          "nickname": "kevalin",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "917751768820092939",
+        "channelId": "917610015571972106",
+        "guildId": "916751469678579784"
+      }
+    },
+    {
+      "id": "917810384763760691",
+      "type": "Reply",
+      "timestamp": "2021-12-07T16:10:47.82+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Hey David! I know how to build Twitter bots, do you want to add me to the repo so I can help?",
+      "author": {
+        "id": "507400361238069260",
+        "name": "longtran",
+        "discriminator": "8358",
+        "nickname": "longtran",
+        "color": "#1ABC9C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/507400361238069260/810bf8c20724a3849eb57191a12f10fd.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "530673798433734656",
+          "name": "davidh.eth",
+          "discriminator": "5637",
+          "nickname": "davidh.eth",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "917793000917205013",
+        "channelId": "917610015571972106",
+        "guildId": "916751469678579784"
+      }
+    },
+    {
+      "id": "917834214706135140",
+      "type": "Reply",
+      "timestamp": "2021-12-07T17:45:29.321+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Project is on pause right now",
+      "author": {
+        "id": "915035187547615243",
+        "name": "kevalin",
+        "discriminator": "4394",
+        "nickname": "kevalin",
+        "color": "#1F8B4C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/915035187547615243/8aec11e684cd1c3ab575358a58fda0bd.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "507400361238069260",
+          "name": "longtran",
+          "discriminator": "8358",
+          "nickname": "longtran",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "917810384763760691",
+        "channelId": "917610015571972106",
+        "guildId": "916751469678579784"
+      }
+    },
+    {
+      "id": "917936090210529292",
+      "type": "Reply",
+      "timestamp": "2021-12-08T00:30:18.334+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Yeah down to collaborate once we decide to prioritize this",
+      "author": {
+        "id": "530673798433734656",
+        "name": "davidh.eth",
+        "discriminator": "5637",
+        "nickname": "davidh.eth",
+        "color": "#1ABC9C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/530673798433734656/6e69cd0bbdd3b2a4f350c48d4bde8d3c.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "507400361238069260",
+          "name": "longtran",
+          "discriminator": "8358",
+          "nickname": "longtran",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "917810384763760691",
+        "channelId": "917610015571972106",
+        "guildId": "916751469678579784"
+      }
+    },
+    {
+      "id": "917989007021977640",
+      "type": "Default",
+      "timestamp": "2021-12-08T04:00:34.685+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "\uD83D\uDC40",
+      "author": {
+        "id": "791950058350313473",
+        "name": "cg123",
+        "discriminator": "7910",
+        "nickname": "cg123",
+        "color": "#E74C3C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/791950058350313473/012f0f9c54d7017dbcb4a365a6d5b3d4.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "918082657747890176",
+      "type": "Default",
+      "timestamp": "2021-12-08T10:12:42.758+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Could someone here make a post wrt this channel summarising:\n\n1). What has been completed so far\n2). What are the next 3-5 big priorities \n\nWe can then pin this to help new people contribute effectively, every day it gets harder to scroll back and read through to catch up. So this would really help.",
+      "author": {
+        "id": "722076034765160498",
+        "name": "Inklin",
+        "discriminator": "7437",
+        "nickname": "Inklin",
+        "color": "#E74C3C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/722076034765160498/f656111f3f0936f9626e7ed60948021a.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDC46",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/svg/1f446.svg"
+          },
+          "count": 7
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "918124385590730772",
+      "type": "Reply",
+      "timestamp": "2021-12-08T12:58:31.451+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Yes would be very helpful! Also please do this for all building category channels",
+      "author": {
+        "id": "915035187547615243",
+        "name": "kevalin",
+        "discriminator": "4394",
+        "nickname": "kevalin",
+        "color": "#1F8B4C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/915035187547615243/8aec11e684cd1c3ab575358a58fda0bd.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "722076034765160498",
+          "name": "Inklin",
+          "discriminator": "7437",
+          "nickname": "Inklin",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "918082657747890176",
+        "channelId": "917610015571972106",
+        "guildId": "916751469678579784"
+      }
+    },
+    {
+      "id": "918754472367370270",
+      "type": "Default",
+      "timestamp": "2021-12-10T06:42:15.845+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "For the twitter bot, I’ve specced it lightly, setup the database, got the Twitter API connected, and started working on getting it to post properly in a thread. Paused since @kevalin said to pause though",
+      "author": {
+        "id": "530673798433734656",
+        "name": "davidh.eth",
+        "discriminator": "5637",
+        "nickname": "davidh.eth",
+        "color": "#1ABC9C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/530673798433734656/6e69cd0bbdd3b2a4f350c48d4bde8d3c.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "915035187547615243",
+          "name": "kevalin",
+          "discriminator": "4394",
+          "nickname": "kevalin",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "919288101229191248",
+      "type": "Default",
+      "timestamp": "2021-12-11T18:02:42.88+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "mods, pls delete spam ^^",
+      "author": {
+        "id": "637334628893458441",
+        "name": "sj",
+        "discriminator": "6242",
+        "nickname": "sj",
+        "color": "#E74C3C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/637334628893458441/a1d855988f9513efaaf1839233121413.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "919467152963149894",
+      "type": "Default",
+      "timestamp": "2021-12-12T05:54:12.14+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Darn, just realized realized I got fished by that link.",
+      "author": {
+        "id": "826730285441351721",
+        "name": "Rhomboid",
+        "discriminator": "4607",
+        "nickname": "Rhomboid",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/826730285441351721/ff9f1b28445c7f3dd7c152921a08a67e.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "919467318646546442",
+      "type": "Default",
+      "timestamp": "2021-12-12T05:54:51.642+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Someone should actually delete that.",
+      "author": {
+        "id": "826730285441351721",
+        "name": "Rhomboid",
+        "discriminator": "4607",
+        "nickname": "Rhomboid",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/826730285441351721/ff9f1b28445c7f3dd7c152921a08a67e.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "919468885638537247",
+      "type": "Default",
+      "timestamp": "2021-12-12T06:01:05.242+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@kevalin ^",
+      "author": {
+        "id": "266778624647102465",
+        "name": "connorg",
+        "discriminator": "4386",
+        "nickname": "connor",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/266778624647102465/bc553aefa36f23af0abefd9db54fbb17.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "915035187547615243",
+          "name": "kevalin",
+          "discriminator": "4394",
+          "nickname": "kevalin",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "919469163376955443",
+      "type": "Reply",
+      "timestamp": "2021-12-12T06:02:11.46+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Done",
+      "author": {
+        "id": "915035187547615243",
+        "name": "kevalin",
+        "discriminator": "4394",
+        "nickname": "kevalin",
+        "color": "#1F8B4C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/915035187547615243/8aec11e684cd1c3ab575358a58fda0bd.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDE4F",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/svg/1f64f.svg"
+          },
+          "count": 2
+        }
+      ],
+      "mentions": [
+        {
+          "id": "266778624647102465",
+          "name": "connorg",
+          "discriminator": "4386",
+          "nickname": "connor",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "919468885638537247",
+        "channelId": "917610015571972106",
+        "guildId": "916751469678579784"
+      }
+    }
+  ],
+  "messageCount": 53
+}

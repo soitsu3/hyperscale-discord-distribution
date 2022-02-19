@@ -1,0 +1,2207 @@
+{
+  "guild": {
+    "id": "916751469678579784",
+    "name": "Hyperscale",
+    "iconUrl": "https://cdn.discordapp.com/icons/916751469678579784/874219cdd9c60b09fc62afefa1efea43.png"
+  },
+  "channel": {
+    "id": "920084059458273281",
+    "type": "GuildTextChat",
+    "categoryId": "922689148861685780",
+    "category": "archived",
+    "name": "hype-tokenomics",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "messages": [
+    {
+      "id": "920084989025083442",
+      "type": "Default",
+      "timestamp": "2021-12-13T22:49:15.736+00:00",
+      "timestampEdited": "2021-12-13T22:50:41.456+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Some quick info on **$HYPE**\n- Is going to be released during phase #3 \n- The only way that you can earn it is through the bounty platform or airdrop\n- Contributors will hold the most **$HYPE**\n- Hyperscale will issue bounties that reward members in **$HYPE**\n- **$HYPE** will initially be backed by our treasury and can be traded for stablecoins (we'll supply our own liquidity)",
+      "author": {
+        "id": "915035187547615243",
+        "name": "kevalin",
+        "discriminator": "4394",
+        "nickname": "kevalin",
+        "color": "#1F8B4C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/915035187547615243/8aec11e684cd1c3ab575358a58fda0bd.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDD25",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/svg/1f525.svg"
+          },
+          "count": 8
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "920085112534761512",
+      "type": "Default",
+      "timestamp": "2021-12-13T22:49:45.183+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Please discus ideas and provide feedback!\ncc: @nicklinck",
+      "author": {
+        "id": "915035187547615243",
+        "name": "kevalin",
+        "discriminator": "4394",
+        "nickname": "kevalin",
+        "color": "#1F8B4C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/915035187547615243/8aec11e684cd1c3ab575358a58fda0bd.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "783927840638369812",
+          "name": "nicklinck",
+          "discriminator": "6691",
+          "nickname": "nicklinck",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "920085699389169684",
+      "type": "Default",
+      "timestamp": "2021-12-13T22:52:05.1+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Thanks for the info! Will the treasury be backed by the initial 10 mil from Sam?",
+      "author": {
+        "id": "783927840638369812",
+        "name": "nicklinck",
+        "discriminator": "6691",
+        "nickname": "nicklinck",
+        "color": "#1ABC9C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/783927840638369812/e5d89c5d7f7b63d63e77e8077da89c96.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "920085855635398656",
+      "type": "Default",
+      "timestamp": "2021-12-13T22:52:42.352+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Do we mint new tokens by contributing stable coins to the treasury?",
+      "author": {
+        "id": "783927840638369812",
+        "name": "nicklinck",
+        "discriminator": "6691",
+        "nickname": "nicklinck",
+        "color": "#1ABC9C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/783927840638369812/e5d89c5d7f7b63d63e77e8077da89c96.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "920085976095801414",
+      "type": "Reply",
+      "timestamp": "2021-12-13T22:53:11.072+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Yup!",
+      "author": {
+        "id": "915035187547615243",
+        "name": "kevalin",
+        "discriminator": "4394",
+        "nickname": "kevalin",
+        "color": "#1F8B4C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/915035187547615243/8aec11e684cd1c3ab575358a58fda0bd.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "783927840638369812",
+          "name": "nicklinck",
+          "discriminator": "6691",
+          "nickname": "nicklinck",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "920085699389169684",
+        "channelId": "920084059458273281",
+        "guildId": "916751469678579784"
+      }
+    },
+    {
+      "id": "920086011378303026",
+      "type": "Reply",
+      "timestamp": "2021-12-13T22:53:19.484+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Not initially",
+      "author": {
+        "id": "915035187547615243",
+        "name": "kevalin",
+        "discriminator": "4394",
+        "nickname": "kevalin",
+        "color": "#1F8B4C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/915035187547615243/8aec11e684cd1c3ab575358a58fda0bd.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "783927840638369812",
+          "name": "nicklinck",
+          "discriminator": "6691",
+          "nickname": "nicklinck",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "920085855635398656",
+        "channelId": "920084059458273281",
+        "guildId": "916751469678579784"
+      }
+    },
+    {
+      "id": "920086411485519932",
+      "type": "Reply",
+      "timestamp": "2021-12-13T22:54:54.877+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "So a capped supply upon the initial investment? And then as we get more investments, we mint more?",
+      "author": {
+        "id": "783927840638369812",
+        "name": "nicklinck",
+        "discriminator": "6691",
+        "nickname": "nicklinck",
+        "color": "#1ABC9C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/783927840638369812/e5d89c5d7f7b63d63e77e8077da89c96.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "915035187547615243",
+          "name": "kevalin",
+          "discriminator": "4394",
+          "nickname": "kevalin",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "920086011378303026",
+        "channelId": "920084059458273281",
+        "guildId": "916751469678579784"
+      }
+    },
+    {
+      "id": "920086957378375731",
+      "type": "Reply",
+      "timestamp": "2021-12-13T22:57:05.028+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Not capped supply. We (as the fund) can mint more by adding more stablecoins to the treasury",
+      "author": {
+        "id": "915035187547615243",
+        "name": "kevalin",
+        "discriminator": "4394",
+        "nickname": "kevalin",
+        "color": "#1F8B4C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/915035187547615243/8aec11e684cd1c3ab575358a58fda0bd.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDC4D",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/svg/1f44d.svg"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": [
+        {
+          "id": "783927840638369812",
+          "name": "nicklinck",
+          "discriminator": "6691",
+          "nickname": "nicklinck",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "920086411485519932",
+        "channelId": "920084059458273281",
+        "guildId": "916751469678579784"
+      }
+    },
+    {
+      "id": "920086978303787059",
+      "type": "Default",
+      "timestamp": "2021-12-13T22:57:10.017+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Also, will $HYPE be given to DAOs we invest in, or HYPE is primarily for bounties?",
+      "author": {
+        "id": "783927840638369812",
+        "name": "nicklinck",
+        "discriminator": "6691",
+        "nickname": "nicklinck",
+        "color": "#1ABC9C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/783927840638369812/e5d89c5d7f7b63d63e77e8077da89c96.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "920087044502462544",
+      "type": "Reply",
+      "timestamp": "2021-12-13T22:57:25.8+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Both",
+      "author": {
+        "id": "915035187547615243",
+        "name": "kevalin",
+        "discriminator": "4394",
+        "nickname": "kevalin",
+        "color": "#1F8B4C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/915035187547615243/8aec11e684cd1c3ab575358a58fda0bd.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "783927840638369812",
+          "name": "nicklinck",
+          "discriminator": "6691",
+          "nickname": "nicklinck",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "920086978303787059",
+        "channelId": "920084059458273281",
+        "guildId": "916751469678579784"
+      }
+    },
+    {
+      "id": "920087137888649218",
+      "type": "Default",
+      "timestamp": "2021-12-13T22:57:48.065+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "cool, any governance power with tokens?",
+      "author": {
+        "id": "783927840638369812",
+        "name": "nicklinck",
+        "discriminator": "6691",
+        "nickname": "nicklinck",
+        "color": "#1ABC9C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/783927840638369812/e5d89c5d7f7b63d63e77e8077da89c96.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "920087334349852792",
+      "type": "Reply",
+      "timestamp": "2021-12-13T22:58:34.905+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "If we have something to vote on yes. This isn't currently the case",
+      "author": {
+        "id": "915035187547615243",
+        "name": "kevalin",
+        "discriminator": "4394",
+        "nickname": "kevalin",
+        "color": "#1F8B4C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/915035187547615243/8aec11e684cd1c3ab575358a58fda0bd.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDC4D",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/svg/1f44d.svg"
+          },
+          "count": 3
+        }
+      ],
+      "mentions": [
+        {
+          "id": "783927840638369812",
+          "name": "nicklinck",
+          "discriminator": "6691",
+          "nickname": "nicklinck",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "920087137888649218",
+        "channelId": "920084059458273281",
+        "guildId": "916751469678579784"
+      }
+    },
+    {
+      "id": "920088436810063892",
+      "type": "Default",
+      "timestamp": "2021-12-13T23:02:57.752+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Any information on initial distributions to certain people via airdrop or initial exchange rates?",
+      "author": {
+        "id": "351172668533506049",
+        "name": "Griz",
+        "discriminator": "3169",
+        "nickname": "Griz",
+        "color": "#E74C3C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/351172668533506049/12a94e1c14c3f318b1987044b5a7e042.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "920088895490785281",
+      "type": "Default",
+      "timestamp": "2021-12-13T23:04:47.11+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "HELLO",
+      "author": {
+        "id": "802405096541257759",
+        "name": "refined",
+        "discriminator": "7945",
+        "nickname": "refined",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/802405096541257759/d262594f00560db5376c70856d0fac37.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "920088919142461461",
+      "type": "Default",
+      "timestamp": "2021-12-13T23:04:52.749+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "how to get airdrop?",
+      "author": {
+        "id": "802405096541257759",
+        "name": "refined",
+        "discriminator": "7945",
+        "nickname": "refined",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/802405096541257759/d262594f00560db5376c70856d0fac37.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "920092509449879573",
+      "type": "Reply",
+      "timestamp": "2021-12-13T23:19:08.745+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@nicklinck small suggestion. Nothing wrong with $HYPE ticker of course, but would the DAO consider taking a step in the direction of an emoji ticker ($⚡️⚡️). I’ve done it with $\uD83C\uDDFA\uD83C\uDDF8 as an experiment and it looks great in a wallet",
+      "author": {
+        "id": "814923153666605097",
+        "name": "GeoCities",
+        "discriminator": "5700",
+        "nickname": "GeoCities",
+        "color": "#E74C3C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/814923153666605097/df3e6e3545bdee777bedc66cab891d24.png?size=128"
+      },
+      "attachments": [
+        {
+          "id": "920092508611051540",
+          "url": "https://cdn.discordapp.com/attachments/920084059458273281/920092508611051540/IMG_1032.png",
+          "fileName": "IMG_1032.png",
+          "fileSizeBytes": 165720
+        }
+      ],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "915035187547615243",
+          "name": "kevalin",
+          "discriminator": "4394",
+          "nickname": "kevalin",
+          "isBot": false
+        },
+        {
+          "id": "783927840638369812",
+          "name": "nicklinck",
+          "discriminator": "6691",
+          "nickname": "nicklinck",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "920085112534761512",
+        "channelId": "920084059458273281",
+        "guildId": "916751469678579784"
+      }
+    },
+    {
+      "id": "920092963130986507",
+      "type": "Reply",
+      "timestamp": "2021-12-13T23:20:56.911+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Contribute",
+      "author": {
+        "id": "915035187547615243",
+        "name": "kevalin",
+        "discriminator": "4394",
+        "nickname": "kevalin",
+        "color": "#1F8B4C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/915035187547615243/8aec11e684cd1c3ab575358a58fda0bd.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "802405096541257759",
+          "name": "refined",
+          "discriminator": "7945",
+          "nickname": "refined",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "920088919142461461",
+        "channelId": "920084059458273281",
+        "guildId": "916751469678579784"
+      }
+    },
+    {
+      "id": "920093019431112745",
+      "type": "Reply",
+      "timestamp": "2021-12-13T23:21:10.334+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Most of the airdrop will go to the people who contributed the most",
+      "author": {
+        "id": "915035187547615243",
+        "name": "kevalin",
+        "discriminator": "4394",
+        "nickname": "kevalin",
+        "color": "#1F8B4C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/915035187547615243/8aec11e684cd1c3ab575358a58fda0bd.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "351172668533506049",
+          "name": "Griz",
+          "discriminator": "3169",
+          "nickname": "Griz",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "920088436810063892",
+        "channelId": "920084059458273281",
+        "guildId": "916751469678579784"
+      }
+    },
+    {
+      "id": "920093049349111849",
+      "type": "Default",
+      "timestamp": "2021-12-13T23:21:17.467+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Airdrop size is tbd",
+      "author": {
+        "id": "915035187547615243",
+        "name": "kevalin",
+        "discriminator": "4394",
+        "nickname": "kevalin",
+        "color": "#1F8B4C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/915035187547615243/8aec11e684cd1c3ab575358a58fda0bd.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "920099581390360607",
+      "type": "Reply",
+      "timestamp": "2021-12-13T23:47:14.827+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Are runs on the treasury possible? Is there a guarantee that the treasury will contain enough stablecoins to redeem all $HYPE or will the treasury only contain a fractional reserve?",
+      "author": {
+        "id": "351172668533506049",
+        "name": "Griz",
+        "discriminator": "3169",
+        "nickname": "Griz",
+        "color": "#E74C3C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/351172668533506049/12a94e1c14c3f318b1987044b5a7e042.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "915035187547615243",
+          "name": "kevalin",
+          "discriminator": "4394",
+          "nickname": "kevalin",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "920084989025083442",
+        "channelId": "920084059458273281",
+        "guildId": "916751469678579784"
+      }
+    },
+    {
+      "id": "920099665385521152",
+      "type": "Reply",
+      "timestamp": "2021-12-13T23:47:34.853+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "No fractional reserve haha",
+      "author": {
+        "id": "915035187547615243",
+        "name": "kevalin",
+        "discriminator": "4394",
+        "nickname": "kevalin",
+        "color": "#1F8B4C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/915035187547615243/8aec11e684cd1c3ab575358a58fda0bd.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "351172668533506049",
+          "name": "Griz",
+          "discriminator": "3169",
+          "nickname": "Griz",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "920099581390360607",
+        "channelId": "920084059458273281",
+        "guildId": "916751469678579784"
+      }
+    },
+    {
+      "id": "920099696100392970",
+      "type": "Default",
+      "timestamp": "2021-12-13T23:47:42.176+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "1:1 backed",
+      "author": {
+        "id": "915035187547615243",
+        "name": "kevalin",
+        "discriminator": "4394",
+        "nickname": "kevalin",
+        "color": "#1F8B4C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/915035187547615243/8aec11e684cd1c3ab575358a58fda0bd.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "920101668312469525",
+      "type": "Reply",
+      "timestamp": "2021-12-13T23:55:32.388+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Super important to clarify. Will the treasury that holds the 1:1 stablecoins also hold the 5% of tokens from the projects that HS backs? Or will those tokens be held separately?",
+      "author": {
+        "id": "351172668533506049",
+        "name": "Griz",
+        "discriminator": "3169",
+        "nickname": "Griz",
+        "color": "#E74C3C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/351172668533506049/12a94e1c14c3f318b1987044b5a7e042.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "915035187547615243",
+          "name": "kevalin",
+          "discriminator": "4394",
+          "nickname": "kevalin",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "920099696100392970",
+        "channelId": "920084059458273281",
+        "guildId": "916751469678579784"
+      }
+    },
+    {
+      "id": "920101799095070781",
+      "type": "Reply",
+      "timestamp": "2021-12-13T23:56:03.569+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "More like 1:20 backed",
+      "author": {
+        "id": "915035187547615243",
+        "name": "kevalin",
+        "discriminator": "4394",
+        "nickname": "kevalin",
+        "color": "#1F8B4C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/915035187547615243/8aec11e684cd1c3ab575358a58fda0bd.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "920099696100392970",
+        "channelId": "920084059458273281",
+        "guildId": "916751469678579784"
+      }
+    },
+    {
+      "id": "920101857186168903",
+      "type": "Default",
+      "timestamp": "2021-12-13T23:56:17.419+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "So **$HYPE** has a 20 USD floor",
+      "author": {
+        "id": "915035187547615243",
+        "name": "kevalin",
+        "discriminator": "4394",
+        "nickname": "kevalin",
+        "color": "#1F8B4C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/915035187547615243/8aec11e684cd1c3ab575358a58fda0bd.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "920102026111766559",
+      "type": "Reply",
+      "timestamp": "2021-12-13T23:56:57.694+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "We'll hold the DAO tokens in a separate treasury and merge them both at a later stage",
+      "author": {
+        "id": "915035187547615243",
+        "name": "kevalin",
+        "discriminator": "4394",
+        "nickname": "kevalin",
+        "color": "#1F8B4C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/915035187547615243/8aec11e684cd1c3ab575358a58fda0bd.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "351172668533506049",
+          "name": "Griz",
+          "discriminator": "3169",
+          "nickname": "Griz",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "920101668312469525",
+        "channelId": "920084059458273281",
+        "guildId": "916751469678579784"
+      }
+    },
+    {
+      "id": "920102048517726258",
+      "type": "Default",
+      "timestamp": "2021-12-13T23:57:03.036+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Most of this is TBD",
+      "author": {
+        "id": "915035187547615243",
+        "name": "kevalin",
+        "discriminator": "4394",
+        "nickname": "kevalin",
+        "color": "#1F8B4C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/915035187547615243/8aec11e684cd1c3ab575358a58fda0bd.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "920102702875299850",
+      "type": "Reply",
+      "timestamp": "2021-12-13T23:59:39.047+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Yeah, I figured \uD83D\uDE00 . Just wanted to point out some important issues to think through. If the tokens have governance rights that exercise control over the treasury, then there are important tax implications for $HYPE holders when the contents of the treasury change.",
+      "author": {
+        "id": "351172668533506049",
+        "name": "Griz",
+        "discriminator": "3169",
+        "nickname": "Griz",
+        "color": "#E74C3C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/351172668533506049/12a94e1c14c3f318b1987044b5a7e042.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "915035187547615243",
+          "name": "kevalin",
+          "discriminator": "4394",
+          "nickname": "kevalin",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "920102048517726258",
+        "channelId": "920084059458273281",
+        "guildId": "916751469678579784"
+      }
+    },
+    {
+      "id": "920103020958740551",
+      "type": "Reply",
+      "timestamp": "2021-12-14T00:00:54.884+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "The main idea here is that we'll have a bounty system to compensate for work",
+      "author": {
+        "id": "915035187547615243",
+        "name": "kevalin",
+        "discriminator": "4394",
+        "nickname": "kevalin",
+        "color": "#1F8B4C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/915035187547615243/8aec11e684cd1c3ab575358a58fda0bd.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "351172668533506049",
+          "name": "Griz",
+          "discriminator": "3169",
+          "nickname": "Griz",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "920102702875299850",
+        "channelId": "920084059458273281",
+        "guildId": "916751469678579784"
+      }
+    },
+    {
+      "id": "920103056840986694",
+      "type": "Default",
+      "timestamp": "2021-12-14T00:01:03.439+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "And also reward people for past work",
+      "author": {
+        "id": "915035187547615243",
+        "name": "kevalin",
+        "discriminator": "4394",
+        "nickname": "kevalin",
+        "color": "#1F8B4C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/915035187547615243/8aec11e684cd1c3ab575358a58fda0bd.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDC4D",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/svg/1f44d.svg"
+          },
+          "count": 2
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "920103120590209104",
+      "type": "Default",
+      "timestamp": "2021-12-14T00:01:18.638+00:00",
+      "timestampEdited": "2021-12-14T00:01:29.033+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Hyperscale is run by contributors",
+      "author": {
+        "id": "915035187547615243",
+        "name": "kevalin",
+        "discriminator": "4394",
+        "nickname": "kevalin",
+        "color": "#1F8B4C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/915035187547615243/8aec11e684cd1c3ab575358a58fda0bd.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "920103722443497502",
+      "type": "Reply",
+      "timestamp": "2021-12-14T00:03:42.131+00:00",
+      "timestampEdited": "2021-12-14T05:45:18.382+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Love the approach. Interested in thinking through how contributors that get $HYPE also can get exposure to the upside from the projects HS backs.",
+      "author": {
+        "id": "351172668533506049",
+        "name": "Griz",
+        "discriminator": "3169",
+        "nickname": "Griz",
+        "color": "#E74C3C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/351172668533506049/12a94e1c14c3f318b1987044b5a7e042.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "915035187547615243",
+          "name": "kevalin",
+          "discriminator": "4394",
+          "nickname": "kevalin",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "920103020958740551",
+        "channelId": "920084059458273281",
+        "guildId": "916751469678579784"
+      }
+    },
+    {
+      "id": "920112312994627624",
+      "type": "Default",
+      "timestamp": "2021-12-14T00:37:50.278+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "We've talked quite a bit about this in #referral-program.\nI'd prefer a more holistic $HYPE approach, especially as the $HYPE can rise against the underlying as the projects funded by $HYPE mature.\nhttps://discord.com/channels/916751469678579784/916849735439093760/918469500544892948",
+      "author": {
+        "id": "253418842200604673",
+        "name": "Qworg",
+        "discriminator": "3284",
+        "nickname": "Qworg",
+        "color": "#1ABC9C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/253418842200604673/4aca02d325346f367844d2127c17852e.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "920112832874414100",
+      "type": "Default",
+      "timestamp": "2021-12-14T00:39:54.227+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Awarding a little $HYPE for referrals, a lot for analysis.\nCross participation for funded companies.\n\nAlso, per governance, a simple \"has the gold, makes the rules\", especially in picking companies, doesn't result in the best outcome.",
+      "author": {
+        "id": "253418842200604673",
+        "name": "Qworg",
+        "discriminator": "3284",
+        "nickname": "Qworg",
+        "color": "#1ABC9C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/253418842200604673/4aca02d325346f367844d2127c17852e.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "920113078270558269",
+      "type": "Default",
+      "timestamp": "2021-12-14T00:40:52.734+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Also, bounties don't respect anything but speed - maintainability and security go out the window. What's the plan for bounties?",
+      "author": {
+        "id": "253418842200604673",
+        "name": "Qworg",
+        "discriminator": "3284",
+        "nickname": "Qworg",
+        "color": "#1ABC9C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/253418842200604673/4aca02d325346f367844d2127c17852e.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "920113413089292298",
+      "type": "Reply",
+      "timestamp": "2021-12-14T00:42:12.561+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "How does the distribution of upside work vis treasury appreciation?",
+      "author": {
+        "id": "253418842200604673",
+        "name": "Qworg",
+        "discriminator": "3284",
+        "nickname": "Qworg",
+        "color": "#1ABC9C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/253418842200604673/4aca02d325346f367844d2127c17852e.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "915035187547615243",
+          "name": "kevalin",
+          "discriminator": "4394",
+          "nickname": "kevalin",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "920086957378375731",
+        "channelId": "920084059458273281",
+        "guildId": "916751469678579784"
+      }
+    },
+    {
+      "id": "920116050761240636",
+      "type": "Reply",
+      "timestamp": "2021-12-14T00:52:41.431+00:00",
+      "timestampEdited": "2021-12-14T01:01:37.13+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "thanks for the info on $HYPE. Few questions. looks like we can earn by accomplishing tasks via the bounty system. since to my knowledge the system hasn't launched yet, is the team tracking contributions in discord and elsewhere and are such contributions eligible for $HYPE airdrop? IE: Does contributing to marketing/PR stuff qualify for an airdrop? thanks!",
+      "author": {
+        "id": "905571325920292914",
+        "name": "Eric Berry",
+        "discriminator": "2971",
+        "nickname": "Eric Berry",
+        "color": "#2ECC71",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/905571325920292914/9ffe17e7248c5f0b48815f611a910395.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "915035187547615243",
+          "name": "kevalin",
+          "discriminator": "4394",
+          "nickname": "kevalin",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "920103020958740551",
+        "channelId": "920084059458273281",
+        "guildId": "916751469678579784"
+      }
+    },
+    {
+      "id": "920118258810642432",
+      "type": "Default",
+      "timestamp": "2021-12-14T01:01:27.871+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Ex: Here's an example proposal for an alternative voting system/reward system for picking companies/managing the organization, as well as a worked example you can play with: https://docs.google.com/document/d/1ZBLjm1wD9mITtZsSkPUrmsTfJGoWQ_0lkAfVAAkus2c/edit#\n\nHappy to discuss/take comments.",
+      "author": {
+        "id": "253418842200604673",
+        "name": "Qworg",
+        "discriminator": "3284",
+        "nickname": "Qworg",
+        "color": "#1ABC9C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/253418842200604673/4aca02d325346f367844d2127c17852e.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "DRAFT: HyperscaleDAO Voting Proposal - Meritocratic Quadratic Voting",
+          "url": "https://docs.google.com/document/d/1ZBLjm1wD9mITtZsSkPUrmsTfJGoWQ_0lkAfVAAkus2c/edit",
+          "timestamp": null,
+          "description": "HyperscaleDAO Voting Proposal - Meritocratic Quadratic Voting Introduction DAOs enable a large number of untrusted participants to coordinate and make decisions at scale. Traditional VC firms consist of a small number of highly trusted participants generating deal flow and deciding on investments...",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/2M5YAt0bTIUP0RK9J1XTQ8WUciAjDoB0iHZrGxQbasU/https/lh3.googleusercontent.com/Q3-I6-vKACft-JurMUkkTzcbFz-cbxrM_iMbHAOpsAetsjwMQPKttC916EKEmvLajr_vQPG6lSpUHQ%3Dw1200-h630-p",
+            "width": 1200,
+            "height": 630
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDC4D",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/svg/1f44d.svg"
+          },
+          "count": 2
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "920118456999890974",
+      "type": "Default",
+      "timestamp": "2021-12-14T01:02:15.123+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I'll work up a direct tokenomics proposal for $HYPE as well.",
+      "author": {
+        "id": "253418842200604673",
+        "name": "Qworg",
+        "discriminator": "3284",
+        "nickname": "Qworg",
+        "color": "#1ABC9C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/253418842200604673/4aca02d325346f367844d2127c17852e.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "920118754388623421",
+      "type": "Default",
+      "timestamp": "2021-12-14T01:03:26.026+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Sounds good. What areas are we looking to gather feedback? Initially we dove into discussion over on investments/terms but seems we might be heading down a different path. I do believe bootstrapping the community is the hardest part of the process so this part is rather important (considering the heavy DAO focus).",
+      "author": {
+        "id": "804010873776898058",
+        "name": "DonaldBullers",
+        "discriminator": "1534",
+        "nickname": "DonaldBullers",
+        "color": "#2ECC71",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/804010873776898058/e53e7774dd62c19994f99a640e7f913d.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "920119233474625576",
+      "type": "Reply",
+      "timestamp": "2021-12-14T01:05:20.249+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "yes, would be great if possible",
+      "author": {
+        "id": "905571325920292914",
+        "name": "Eric Berry",
+        "discriminator": "2971",
+        "nickname": "Eric Berry",
+        "color": "#2ECC71",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/905571325920292914/9ffe17e7248c5f0b48815f611a910395.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "351172668533506049",
+          "name": "Griz",
+          "discriminator": "3169",
+          "nickname": "Griz",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "920103722443497502",
+        "channelId": "920084059458273281",
+        "guildId": "916751469678579784"
+      }
+    },
+    {
+      "id": "920121131535564850",
+      "type": "Reply",
+      "timestamp": "2021-12-14T01:12:52.782+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "There'd just be other bounties for long-term contributors that insure maintainability & security. In order for a bounty task to be approved it'd be passed by this group.",
+      "author": {
+        "id": "915035187547615243",
+        "name": "kevalin",
+        "discriminator": "4394",
+        "nickname": "kevalin",
+        "color": "#1F8B4C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/915035187547615243/8aec11e684cd1c3ab575358a58fda0bd.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "253418842200604673",
+          "name": "Qworg",
+          "discriminator": "3284",
+          "nickname": "Qworg",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "920113078270558269",
+        "channelId": "920084059458273281",
+        "guildId": "916751469678579784"
+      }
+    },
+    {
+      "id": "920130101906128906",
+      "type": "Reply",
+      "timestamp": "2021-12-14T01:48:31.485+00:00",
+      "timestampEdited": "2021-12-14T01:49:06.52+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "do contributions ie: website development or marketing tasks qualify for $HYPE or only bounties?",
+      "author": {
+        "id": "905571325920292914",
+        "name": "Eric Berry",
+        "discriminator": "2971",
+        "nickname": "Eric Berry",
+        "color": "#2ECC71",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/905571325920292914/9ffe17e7248c5f0b48815f611a910395.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "915035187547615243",
+          "name": "kevalin",
+          "discriminator": "4394",
+          "nickname": "kevalin",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "920121131535564850",
+        "channelId": "920084059458273281",
+        "guildId": "916751469678579784"
+      }
+    },
+    {
+      "id": "920171955364171786",
+      "type": "Reply",
+      "timestamp": "2021-12-14T04:34:50.127+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I believe the point of bounties is to formally delegate tasks such as dev or marketing and provide $HYPE as a means of productivity",
+      "author": {
+        "id": "481156587776507906",
+        "name": "Party Doodle",
+        "discriminator": "2753",
+        "nickname": "Party Doodle",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/481156587776507906/dfeeaedbc0b733134116e1d4ee388922.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "905571325920292914",
+          "name": "Eric Berry",
+          "discriminator": "2971",
+          "nickname": "Eric Berry",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "920130101906128906",
+        "channelId": "920084059458273281",
+        "guildId": "916751469678579784"
+      }
+    },
+    {
+      "id": "920262949745074177",
+      "type": "Reply",
+      "timestamp": "2021-12-14T10:36:24.878+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Awesome that HYPE is gonna be given out for bounties. Have you got any thoughts on how this process will be managed?",
+      "author": {
+        "id": "694761268589887498",
+        "name": "unhappiimochii",
+        "discriminator": "5533",
+        "nickname": "unhappiimochii",
+        "color": "#2ECC71",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/694761268589887498/fc787128bc2c0408a2bd2194fc3380fa.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "915035187547615243",
+          "name": "kevalin",
+          "discriminator": "4394",
+          "nickname": "kevalin",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "920087044502462544",
+        "channelId": "920084059458273281",
+        "guildId": "916751469678579784"
+      }
+    },
+    {
+      "id": "920263374208647218",
+      "type": "Reply",
+      "timestamp": "2021-12-14T10:38:06.078+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "More info being released soon",
+      "author": {
+        "id": "915035187547615243",
+        "name": "kevalin",
+        "discriminator": "4394",
+        "nickname": "kevalin",
+        "color": "#1F8B4C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/915035187547615243/8aec11e684cd1c3ab575358a58fda0bd.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "694761268589887498",
+          "name": "unhappiimochii",
+          "discriminator": "5533",
+          "nickname": "unhappiimochii",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "920262949745074177",
+        "channelId": "920084059458273281",
+        "guildId": "916751469678579784"
+      }
+    },
+    {
+      "id": "920263794930888714",
+      "type": "Reply",
+      "timestamp": "2021-12-14T10:39:46.386+00:00",
+      "timestampEdited": "2021-12-14T10:40:00.752+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I'm specifically curious about what tool you are thinking about using for this actually since my team's working on a relevant project. Mind if I send you a DM?",
+      "author": {
+        "id": "694761268589887498",
+        "name": "unhappiimochii",
+        "discriminator": "5533",
+        "nickname": "unhappiimochii",
+        "color": "#2ECC71",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/694761268589887498/fc787128bc2c0408a2bd2194fc3380fa.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "915035187547615243",
+          "name": "kevalin",
+          "discriminator": "4394",
+          "nickname": "kevalin",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "920263374208647218",
+        "channelId": "920084059458273281",
+        "guildId": "916751469678579784"
+      }
+    },
+    {
+      "id": "920264172506333204",
+      "type": "Reply",
+      "timestamp": "2021-12-14T10:41:16.407+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Go ahead",
+      "author": {
+        "id": "915035187547615243",
+        "name": "kevalin",
+        "discriminator": "4394",
+        "nickname": "kevalin",
+        "color": "#1F8B4C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/915035187547615243/8aec11e684cd1c3ab575358a58fda0bd.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "694761268589887498",
+          "name": "unhappiimochii",
+          "discriminator": "5533",
+          "nickname": "unhappiimochii",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "920263794930888714",
+        "channelId": "920084059458273281",
+        "guildId": "916751469678579784"
+      }
+    },
+    {
+      "id": "920265280654028820",
+      "type": "Reply",
+      "timestamp": "2021-12-14T10:45:40.61+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "\uD83D\uDC4D friend request sent",
+      "author": {
+        "id": "694761268589887498",
+        "name": "unhappiimochii",
+        "discriminator": "5533",
+        "nickname": "unhappiimochii",
+        "color": "#2ECC71",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/694761268589887498/fc787128bc2c0408a2bd2194fc3380fa.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "915035187547615243",
+          "name": "kevalin",
+          "discriminator": "4394",
+          "nickname": "kevalin",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "920264172506333204",
+        "channelId": "920084059458273281",
+        "guildId": "916751469678579784"
+      }
+    },
+    {
+      "id": "920286351700672553",
+      "type": "Default",
+      "timestamp": "2021-12-14T12:09:24.339+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@nicklinck  can we mine or stake the token",
+      "author": {
+        "id": "864406808436277248",
+        "name": "rx",
+        "discriminator": "5834",
+        "nickname": "rx",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/864406808436277248/f45b034d81a9f2db7be18ffded9f9bda.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "783927840638369812",
+          "name": "nicklinck",
+          "discriminator": "6691",
+          "nickname": "nicklinck",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "920287634125889547",
+      "type": "Reply",
+      "timestamp": "2021-12-14T12:14:30.093+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Are you referring to $HYPE?",
+      "author": {
+        "id": "915035187547615243",
+        "name": "kevalin",
+        "discriminator": "4394",
+        "nickname": "kevalin",
+        "color": "#1F8B4C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/915035187547615243/8aec11e684cd1c3ab575358a58fda0bd.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "864406808436277248",
+          "name": "rx",
+          "discriminator": "5834",
+          "nickname": "rx",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "920286351700672553",
+        "channelId": "920084059458273281",
+        "guildId": "916751469678579784"
+      }
+    },
+    {
+      "id": "920289326896668673",
+      "type": "Default",
+      "timestamp": "2021-12-14T12:21:13.681+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "yes can we mine it @kevalin",
+      "author": {
+        "id": "864406808436277248",
+        "name": "rx",
+        "discriminator": "5834",
+        "nickname": "rx",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/864406808436277248/f45b034d81a9f2db7be18ffded9f9bda.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "915035187547615243",
+          "name": "kevalin",
+          "discriminator": "4394",
+          "nickname": "kevalin",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "920289447315132486",
+      "type": "Reply",
+      "timestamp": "2021-12-14T12:21:42.391+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I'm quite confused",
+      "author": {
+        "id": "915035187547615243",
+        "name": "kevalin",
+        "discriminator": "4394",
+        "nickname": "kevalin",
+        "color": "#1F8B4C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/915035187547615243/8aec11e684cd1c3ab575358a58fda0bd.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "864406808436277248",
+          "name": "rx",
+          "discriminator": "5834",
+          "nickname": "rx",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "920289326896668673",
+        "channelId": "920084059458273281",
+        "guildId": "916751469678579784"
+      }
+    },
+    {
+      "id": "920289502596067378",
+      "type": "Default",
+      "timestamp": "2021-12-14T12:21:55.571+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Yes you can \"mine\" (earn) it by completing bounties",
+      "author": {
+        "id": "915035187547615243",
+        "name": "kevalin",
+        "discriminator": "4394",
+        "nickname": "kevalin",
+        "color": "#1F8B4C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/915035187547615243/8aec11e684cd1c3ab575358a58fda0bd.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "920289538918719508",
+      "type": "Default",
+      "timestamp": "2021-12-14T12:22:04.231+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "There's no staking atm",
+      "author": {
+        "id": "915035187547615243",
+        "name": "kevalin",
+        "discriminator": "4394",
+        "nickname": "kevalin",
+        "color": "#1F8B4C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/915035187547615243/8aec11e684cd1c3ab575358a58fda0bd.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "920289589254570024",
+      "type": "Default",
+      "timestamp": "2021-12-14T12:22:16.232+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I'm writing a doc on the token soon",
+      "author": {
+        "id": "915035187547615243",
+        "name": "kevalin",
+        "discriminator": "4394",
+        "nickname": "kevalin",
+        "color": "#1F8B4C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/915035187547615243/8aec11e684cd1c3ab575358a58fda0bd.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "920289777838874685",
+      "type": "Default",
+      "timestamp": "2021-12-14T12:23:01.194+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@kevalin minig like bitcoin proof of work or staking like ethereum",
+      "author": {
+        "id": "864406808436277248",
+        "name": "rx",
+        "discriminator": "5834",
+        "nickname": "rx",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/864406808436277248/f45b034d81a9f2db7be18ffded9f9bda.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "915035187547615243",
+          "name": "kevalin",
+          "discriminator": "4394",
+          "nickname": "kevalin",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "920289881798873129",
+      "type": "Reply",
+      "timestamp": "2021-12-14T12:23:25.98+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "No there will be none of this",
+      "author": {
+        "id": "915035187547615243",
+        "name": "kevalin",
+        "discriminator": "4394",
+        "nickname": "kevalin",
+        "color": "#1F8B4C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/915035187547615243/8aec11e684cd1c3ab575358a58fda0bd.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "864406808436277248",
+          "name": "rx",
+          "discriminator": "5834",
+          "nickname": "rx",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "920289777838874685",
+        "channelId": "920084059458273281",
+        "guildId": "916751469678579784"
+      }
+    },
+    {
+      "id": "920289904959823942",
+      "type": "Default",
+      "timestamp": "2021-12-14T12:23:31.502+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "It's a token",
+      "author": {
+        "id": "915035187547615243",
+        "name": "kevalin",
+        "discriminator": "4394",
+        "nickname": "kevalin",
+        "color": "#1F8B4C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/915035187547615243/8aec11e684cd1c3ab575358a58fda0bd.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "920289910999638098",
+      "type": "Default",
+      "timestamp": "2021-12-14T12:23:32.942+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "ERC-20",
+      "author": {
+        "id": "915035187547615243",
+        "name": "kevalin",
+        "discriminator": "4394",
+        "nickname": "kevalin",
+        "color": "#1F8B4C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/915035187547615243/8aec11e684cd1c3ab575358a58fda0bd.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "920289967308161054",
+      "type": "Default",
+      "timestamp": "2021-12-14T12:23:46.367+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "We don't have our own consensus layer",
+      "author": {
+        "id": "915035187547615243",
+        "name": "kevalin",
+        "discriminator": "4394",
+        "nickname": "kevalin",
+        "color": "#1F8B4C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/915035187547615243/8aec11e684cd1c3ab575358a58fda0bd.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "920290330790756392",
+      "type": "Default",
+      "timestamp": "2021-12-14T12:25:13.028+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "oh k great @kevalin",
+      "author": {
+        "id": "864406808436277248",
+        "name": "rx",
+        "discriminator": "5834",
+        "nickname": "rx",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/864406808436277248/f45b034d81a9f2db7be18ffded9f9bda.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "915035187547615243",
+          "name": "kevalin",
+          "discriminator": "4394",
+          "nickname": "kevalin",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "920298485557899285",
+      "type": "Reply",
+      "timestamp": "2021-12-14T12:57:37.276+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "i meant if past contributions -- pre-bounty tasks -- qualify for $HYPE. Folks in here have been doing dev or marketing stuff... do they get tokens? or any only ppl who complete bounties?",
+      "author": {
+        "id": "905571325920292914",
+        "name": "Eric Berry",
+        "discriminator": "2971",
+        "nickname": "Eric Berry",
+        "color": "#2ECC71",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/905571325920292914/9ffe17e7248c5f0b48815f611a910395.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "481156587776507906",
+          "name": "Party Doodle",
+          "discriminator": "2753",
+          "nickname": "Party Doodle",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "920171955364171786",
+        "channelId": "920084059458273281",
+        "guildId": "916751469678579784"
+      }
+    },
+    {
+      "id": "920300230321258496",
+      "type": "Reply",
+      "timestamp": "2021-12-14T13:04:33.26+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Past contributions get airdrop",
+      "author": {
+        "id": "915035187547615243",
+        "name": "kevalin",
+        "discriminator": "4394",
+        "nickname": "kevalin",
+        "color": "#1F8B4C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/915035187547615243/8aec11e684cd1c3ab575358a58fda0bd.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "905571325920292914",
+          "name": "Eric Berry",
+          "discriminator": "2971",
+          "nickname": "Eric Berry",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "920298485557899285",
+        "channelId": "920084059458273281",
+        "guildId": "916751469678579784"
+      }
+    },
+    {
+      "id": "920300298642272256",
+      "type": "Default",
+      "timestamp": "2021-12-14T13:04:49.549+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@kevalin great",
+      "author": {
+        "id": "864406808436277248",
+        "name": "rx",
+        "discriminator": "5834",
+        "nickname": "rx",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/864406808436277248/f45b034d81a9f2db7be18ffded9f9bda.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "915035187547615243",
+          "name": "kevalin",
+          "discriminator": "4394",
+          "nickname": "kevalin",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "920315487794106378",
+      "type": "Reply",
+      "timestamp": "2021-12-14T14:05:10.925+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "roger that and gm",
+      "author": {
+        "id": "905571325920292914",
+        "name": "Eric Berry",
+        "discriminator": "2971",
+        "nickname": "Eric Berry",
+        "color": "#2ECC71",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/905571325920292914/9ffe17e7248c5f0b48815f611a910395.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "915035187547615243",
+          "name": "kevalin",
+          "discriminator": "4394",
+          "nickname": "kevalin",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "920300230321258496",
+        "channelId": "920084059458273281",
+        "guildId": "916751469678579784"
+      }
+    },
+    {
+      "id": "920354394606796810",
+      "type": "Default",
+      "timestamp": "2021-12-14T16:39:47.032+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "How will you be tracking contributions?",
+      "author": {
+        "id": "920037323301875714",
+        "name": "Maxximum Time",
+        "discriminator": "0030",
+        "nickname": "Maxximum Time",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/920037323301875714/b2b98af2804bcadf699e80a6ea58885c.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "920355775182958632",
+      "type": "Default",
+      "timestamp": "2021-12-14T16:45:16.187+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@Maxximum Time  through tokenomics and blockchain accounting .",
+      "author": {
+        "id": "864406808436277248",
+        "name": "rx",
+        "discriminator": "5834",
+        "nickname": "rx",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/864406808436277248/f45b034d81a9f2db7be18ffded9f9bda.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "920037323301875714",
+          "name": "Maxximum Time",
+          "discriminator": "0030",
+          "nickname": "Maxximum Time",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "920444021422305371",
+      "type": "Default",
+      "timestamp": "2021-12-14T22:35:55.73+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Well that doesnt mean much @rx . Im assuming we will do something similar to what Bankless did and do a retro for early contributors and then going forward have a contributor metric model",
+      "author": {
+        "id": "652085657266814986",
+        "name": "JayIRL",
+        "discriminator": "8804",
+        "nickname": "JayIRL",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/652085657266814986/ac1f32bd7930e668aaad81d9d9461ac5.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDC4D",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/svg/1f44d.svg"
+          },
+          "count": 3
+        }
+      ],
+      "mentions": [
+        {
+          "id": "864406808436277248",
+          "name": "rx",
+          "discriminator": "5834",
+          "nickname": "rx",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "920505810457608274",
+      "type": "Default",
+      "timestamp": "2021-12-15T02:41:27.384+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Oh k @JayIRL",
+      "author": {
+        "id": "864406808436277248",
+        "name": "rx",
+        "discriminator": "5834",
+        "nickname": "rx",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/864406808436277248/f45b034d81a9f2db7be18ffded9f9bda.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "652085657266814986",
+          "name": "JayIRL",
+          "discriminator": "8804",
+          "nickname": "JayIRL",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "920702081327857694",
+      "type": "Reply",
+      "timestamp": "2021-12-15T15:41:22.006+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "see @JayIRL kevalin is already on it. Let him finish the doc first.",
+      "author": {
+        "id": "452465881700630529",
+        "name": "mhrnik",
+        "discriminator": "3998",
+        "nickname": "mhrnik",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/452465881700630529/9f97bec6bfcc0c5eb3bb83e35da036fe.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDC4D",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/svg/1f44d.svg"
+          },
+          "count": 2
+        }
+      ],
+      "mentions": [
+        {
+          "id": "652085657266814986",
+          "name": "JayIRL",
+          "discriminator": "8804",
+          "nickname": "JayIRL",
+          "isBot": false
+        },
+        {
+          "id": "915035187547615243",
+          "name": "kevalin",
+          "discriminator": "4394",
+          "nickname": "kevalin",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "920289589254570024",
+        "channelId": "920084059458273281",
+        "guildId": "916751469678579784"
+      }
+    }
+  ],
+  "messageCount": 71
+}

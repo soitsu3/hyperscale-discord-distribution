@@ -1,0 +1,1551 @@
+{
+  "guild": {
+    "id": "916751469678579784",
+    "name": "Hyperscale",
+    "iconUrl": "https://cdn.discordapp.com/icons/916751469678579784/874219cdd9c60b09fc62afefa1efea43.png"
+  },
+  "channel": {
+    "id": "917677089564532756",
+    "type": "GuildTextChat",
+    "categoryId": "922689148861685780",
+    "category": "archived",
+    "name": "marketing-core",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "messages": [
+    {
+      "id": "917787864434081792",
+      "type": "Default",
+      "timestamp": "2021-12-07T14:41:18.555+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Hey, should I be able to see history in here?",
+      "author": {
+        "id": "563816603918008340",
+        "name": "graham",
+        "discriminator": "2727",
+        "nickname": "graham",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/563816603918008340/b8f978229cf918e97f6385e77568b7f6.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "917793273530179675",
+      "type": "Default",
+      "timestamp": "2021-12-07T15:02:48.184+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "No. We separated all core members into categories. There's marketing-core, dev-core, etc.",
+      "author": {
+        "id": "915035187547615243",
+        "name": "kevalin",
+        "discriminator": "4394",
+        "nickname": "kevalin",
+        "color": "#1F8B4C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/915035187547615243/8aec11e684cd1c3ab575358a58fda0bd.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "917793297483845633",
+      "type": "Default",
+      "timestamp": "2021-12-07T15:02:53.895+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "This is for simplicity",
+      "author": {
+        "id": "915035187547615243",
+        "name": "kevalin",
+        "discriminator": "4394",
+        "nickname": "kevalin",
+        "color": "#1F8B4C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/915035187547615243/8aec11e684cd1c3ab575358a58fda0bd.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "917793310414864434",
+      "type": "Default",
+      "timestamp": "2021-12-07T15:02:56.978+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "okay awesome",
+      "author": {
+        "id": "563816603918008340",
+        "name": "graham",
+        "discriminator": "2727",
+        "nickname": "graham",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/563816603918008340/b8f978229cf918e97f6385e77568b7f6.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "917793338936164432",
+      "type": "Default",
+      "timestamp": "2021-12-07T15:03:03.778+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "We still have to core team but we're keeping it really small",
+      "author": {
+        "id": "915035187547615243",
+        "name": "kevalin",
+        "discriminator": "4394",
+        "nickname": "kevalin",
+        "color": "#1F8B4C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/915035187547615243/8aec11e684cd1c3ab575358a58fda0bd.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "917793407429148752",
+      "type": "Default",
+      "timestamp": "2021-12-07T15:03:20.108+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "totally understandable, likely makes many thing easier",
+      "author": {
+        "id": "563816603918008340",
+        "name": "graham",
+        "discriminator": "2727",
+        "nickname": "graham",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/563816603918008340/b8f978229cf918e97f6385e77568b7f6.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDCAF",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/svg/1f4af.svg"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "917794117692583997",
+      "type": "Default",
+      "timestamp": "2021-12-07T15:06:09.448+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "should i be able to read on the other core channels?",
+      "author": {
+        "id": "563816603918008340",
+        "name": "graham",
+        "discriminator": "2727",
+        "nickname": "graham",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/563816603918008340/b8f978229cf918e97f6385e77568b7f6.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "917811446811873381",
+      "type": "Default",
+      "timestamp": "2021-12-07T16:15:01.032+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "A starting point for condensing ideas (work in progress)\n\nhttps://docs.google.com/document/d/123nAEMlmdkEJQ_T8-1DM7OboMk4cyaqKZsFwjDn102w/edit?usp=sharing",
+      "author": {
+        "id": "563816603918008340",
+        "name": "graham",
+        "discriminator": "2727",
+        "nickname": "graham",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/563816603918008340/b8f978229cf918e97f6385e77568b7f6.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Hyperscale Brainstorm 12/7/21",
+          "url": "https://docs.google.com/document/d/123nAEMlmdkEJQ_T8-1DM7OboMk4cyaqKZsFwjDn102w/edit?usp=sharing",
+          "timestamp": null,
+          "description": "Hyperscale Brainstorm These are all ideas and suggestions. I know some of these strategies contradict some of the current strategies or may be similar to existing plans. Don’t expect all of them to stick. My goal is to get them into three buckets:   ✅ → Discuss now \t\t\uD83D\uDD56 →  Table for later\t\t❌ →  D...",
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/R5RPL9ahtWRfyg-9DgGbc1cjDSLY3vGktIVeFSmHOxQ/https/lh3.googleusercontent.com/jIKAEEYSXje7vf9KQ7RY595oRocrO6ehA3ZWhskRtNtzGU7iGQe3mJmFhby48fEwoaAwtNj_8QIdcg%3Dw1200-h630-p",
+            "width": 1200,
+            "height": 630
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "918019694533955624",
+      "type": "Default",
+      "timestamp": "2021-12-08T06:02:31.158+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@kevalin what's the priority for marketing rn?",
+      "author": {
+        "id": "266778624647102465",
+        "name": "connorg",
+        "discriminator": "4386",
+        "nickname": "connor",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/266778624647102465/bc553aefa36f23af0abefd9db54fbb17.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "915035187547615243",
+          "name": "kevalin",
+          "discriminator": "4394",
+          "nickname": "kevalin",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "918021246741000203",
+      "type": "Default",
+      "timestamp": "2021-12-08T06:08:41.233+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Could we add austin to marketing-core as well? He is interested in helping out here (starting with bounty brainstorming/planning)",
+      "author": {
+        "id": "266778624647102465",
+        "name": "connorg",
+        "discriminator": "4386",
+        "nickname": "connor",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/266778624647102465/bc553aefa36f23af0abefd9db54fbb17.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "918128048950366228",
+      "type": "Default",
+      "timestamp": "2021-12-08T13:13:04.864+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Yes, he's very talented and I highly recommend him joining as well",
+      "author": {
+        "id": "563816603918008340",
+        "name": "graham",
+        "discriminator": "2727",
+        "nickname": "graham",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/563816603918008340/b8f978229cf918e97f6385e77568b7f6.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "918128149361995847",
+      "type": "Default",
+      "timestamp": "2021-12-08T13:13:28.804+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "let's keep getting ideas (actionable ideas) into that doc, plan a time to touch base, then run from there",
+      "author": {
+        "id": "563816603918008340",
+        "name": "graham",
+        "discriminator": "2727",
+        "nickname": "graham",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/563816603918008340/b8f978229cf918e97f6385e77568b7f6.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "918128602296508426",
+      "type": "Default",
+      "timestamp": "2021-12-08T13:15:16.792+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@kevalin I have to say, working on marketing ideas are really hard when we can't see the trajectory of ideas of the rest of the core team. I feel like I'm just taking the information that's already publicly available and re-phrasing it",
+      "author": {
+        "id": "563816603918008340",
+        "name": "graham",
+        "discriminator": "2727",
+        "nickname": "graham",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/563816603918008340/b8f978229cf918e97f6385e77568b7f6.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "915035187547615243",
+          "name": "kevalin",
+          "discriminator": "4394",
+          "nickname": "kevalin",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "918128668537159690",
+      "type": "Default",
+      "timestamp": "2021-12-08T13:15:32.585+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Seeing directionality is super helpful",
+      "author": {
+        "id": "563816603918008340",
+        "name": "graham",
+        "discriminator": "2727",
+        "nickname": "graham",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/563816603918008340/b8f978229cf918e97f6385e77568b7f6.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "➕",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/svg/2795.svg"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "918130853735960597",
+      "type": "Reply",
+      "timestamp": "2021-12-08T13:24:13.577+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Reading over now",
+      "author": {
+        "id": "915035187547615243",
+        "name": "kevalin",
+        "discriminator": "4394",
+        "nickname": "kevalin",
+        "color": "#1F8B4C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/915035187547615243/8aec11e684cd1c3ab575358a58fda0bd.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "563816603918008340",
+          "name": "graham",
+          "discriminator": "2727",
+          "nickname": "graham",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "917811446811873381",
+        "channelId": "917677089564532756",
+        "guildId": "916751469678579784"
+      }
+    },
+    {
+      "id": "918131693599227905",
+      "type": "Default",
+      "timestamp": "2021-12-08T13:27:33.816+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Yeah the idea here is what I picked up too",
+      "author": {
+        "id": "915035187547615243",
+        "name": "kevalin",
+        "discriminator": "4394",
+        "nickname": "kevalin",
+        "color": "#1F8B4C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/915035187547615243/8aec11e684cd1c3ab575358a58fda0bd.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "918131950382891068",
+      "type": "Reply",
+      "timestamp": "2021-12-08T13:28:35.038+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@austin added",
+      "author": {
+        "id": "915035187547615243",
+        "name": "kevalin",
+        "discriminator": "4394",
+        "nickname": "kevalin",
+        "color": "#1F8B4C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/915035187547615243/8aec11e684cd1c3ab575358a58fda0bd.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDCAF",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/svg/1f4af.svg"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": [
+        {
+          "id": "266778624647102465",
+          "name": "connorg",
+          "discriminator": "4386",
+          "nickname": "connor",
+          "isBot": false
+        },
+        {
+          "id": "805826940161490945",
+          "name": "austin",
+          "discriminator": "9342",
+          "nickname": "austin",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "918021246741000203",
+        "channelId": "917677089564532756",
+        "guildId": "916751469678579784"
+      }
+    },
+    {
+      "id": "918132206503858247",
+      "type": "Reply",
+      "timestamp": "2021-12-08T13:29:36.102+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Yeah rn it's a synthesizing doc",
+      "author": {
+        "id": "915035187547615243",
+        "name": "kevalin",
+        "discriminator": "4394",
+        "nickname": "kevalin",
+        "color": "#1F8B4C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/915035187547615243/8aec11e684cd1c3ab575358a58fda0bd.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "563816603918008340",
+          "name": "graham",
+          "discriminator": "2727",
+          "nickname": "graham",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "918128602296508426",
+        "channelId": "917677089564532756",
+        "guildId": "916751469678579784"
+      }
+    },
+    {
+      "id": "918132249793298522",
+      "type": "Default",
+      "timestamp": "2021-12-08T13:29:46.423+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "glad to have you on board @austin  \uD83D\uDC4D",
+      "author": {
+        "id": "563816603918008340",
+        "name": "graham",
+        "discriminator": "2727",
+        "nickname": "graham",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/563816603918008340/b8f978229cf918e97f6385e77568b7f6.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "⚡",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/svg/26a1.svg"
+          },
+          "count": 3
+        }
+      ],
+      "mentions": [
+        {
+          "id": "805826940161490945",
+          "name": "austin",
+          "discriminator": "9342",
+          "nickname": "austin",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "918132254138564639",
+      "type": "Default",
+      "timestamp": "2021-12-08T13:29:47.459+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "But the marketing-core will add",
+      "author": {
+        "id": "915035187547615243",
+        "name": "kevalin",
+        "discriminator": "4394",
+        "nickname": "kevalin",
+        "color": "#1F8B4C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/915035187547615243/8aec11e684cd1c3ab575358a58fda0bd.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "918132324426739793",
+      "type": "Reply",
+      "timestamp": "2021-12-08T13:30:04.217+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I'm making an announcement for today",
+      "author": {
+        "id": "915035187547615243",
+        "name": "kevalin",
+        "discriminator": "4394",
+        "nickname": "kevalin",
+        "color": "#1F8B4C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/915035187547615243/8aec11e684cd1c3ab575358a58fda0bd.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "563816603918008340",
+          "name": "graham",
+          "discriminator": "2727",
+          "nickname": "graham",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "918128602296508426",
+        "channelId": "917677089564532756",
+        "guildId": "916751469678579784"
+      }
+    },
+    {
+      "id": "918132415933861908",
+      "type": "Default",
+      "timestamp": "2021-12-08T13:30:26.034+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "But the general idea is:\nThe primary bottleneck rn is phase #2 details\nCommunicating with a few members on the specifics of this\nI'll create frontend, backend, solidity, etc projects\nThat will move us towards the phase #2 launch\nFor the phase #2 details I'm speaking with some core members and advisors.\nWill have clear direction this afternoon.",
+      "author": {
+        "id": "915035187547615243",
+        "name": "kevalin",
+        "discriminator": "4394",
+        "nickname": "kevalin",
+        "color": "#1F8B4C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/915035187547615243/8aec11e684cd1c3ab575358a58fda0bd.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDC4D",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/svg/1f44d.svg"
+          },
+          "count": 3
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "918132763599720508",
+      "type": "Default",
+      "timestamp": "2021-12-08T13:31:48.924+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "TL;DR: We're figuring out many details. Will post all thoughts clearly this afternoon.",
+      "author": {
+        "id": "915035187547615243",
+        "name": "kevalin",
+        "discriminator": "4394",
+        "nickname": "kevalin",
+        "color": "#1F8B4C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/915035187547615243/8aec11e684cd1c3ab575358a58fda0bd.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "918132841987059723",
+      "type": "Default",
+      "timestamp": "2021-12-08T13:32:07.613+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "From there it'll be easier to proceed with marketing and community alignment in general",
+      "author": {
+        "id": "915035187547615243",
+        "name": "kevalin",
+        "discriminator": "4394",
+        "nickname": "kevalin",
+        "color": "#1F8B4C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/915035187547615243/8aec11e684cd1c3ab575358a58fda0bd.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "918138760431026246",
+      "type": "Default",
+      "timestamp": "2021-12-08T13:55:38.68+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Hi everyone! Excited to be on board.\nI chatted with @connorg some last night re: bounty planning.\nCan someone give the TL;DR for this team's responsibility rn and how it aligns with the broad mission?",
+      "author": {
+        "id": "805826940161490945",
+        "name": "austin",
+        "discriminator": "9342",
+        "nickname": "austin",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/805826940161490945/d00b6c9dec510caefc96f632a29984ef.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "266778624647102465",
+          "name": "connorg",
+          "discriminator": "4386",
+          "nickname": "connor",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "918138865548681266",
+      "type": "Default",
+      "timestamp": "2021-12-08T13:56:03.742+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "lmk where I can be helpful",
+      "author": {
+        "id": "805826940161490945",
+        "name": "austin",
+        "discriminator": "9342",
+        "nickname": "austin",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/805826940161490945/d00b6c9dec510caefc96f632a29984ef.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "918143303193608222",
+      "type": "Default",
+      "timestamp": "2021-12-08T14:13:41.759+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@kevalin would be helpful to have you help define the extents of this group's responsibilities. Since we can't tell what else is being worked on, it's hard to know the \"jurisdiction\" and where we have overlap (or not)",
+      "author": {
+        "id": "563816603918008340",
+        "name": "graham",
+        "discriminator": "2727",
+        "nickname": "graham",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/563816603918008340/b8f978229cf918e97f6385e77568b7f6.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "915035187547615243",
+          "name": "kevalin",
+          "discriminator": "4394",
+          "nickname": "kevalin",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "918214742894588005",
+      "type": "Default",
+      "timestamp": "2021-12-08T18:57:34.311+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Doc to brainstorm bounty structure. Started by outlining the Gitcoin process, which has been brought up a couple times and seems like a good option: https://docs.google.com/document/d/17igzhK7nqQzNOdBN9xGMMs9Nm1UIodwMwUv6voMhrxw/edit?usp=sharing",
+      "author": {
+        "id": "266778624647102465",
+        "name": "connorg",
+        "discriminator": "4386",
+        "nickname": "connor",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/266778624647102465/bc553aefa36f23af0abefd9db54fbb17.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Bounties Structure Ideation",
+          "url": "https://docs.google.com/document/d/17igzhK7nqQzNOdBN9xGMMs9Nm1UIodwMwUv6voMhrxw/edit?usp=sharing",
+          "timestamp": null,
+          "description": "The goal of posting bounties is to incentivize those within and outside the Hyperscale community to contribute to the development of the DAO. Gitcoin https://gitcoin.co/funding/new Gitcoin requirements Chain on which to fund Github issue to be funded Type of project Number of contributors desired...",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/3bGcCpLv6CjHB2kKHkaV_qQhHqcbyfXI1PSjiL2lcfg/https/lh3.googleusercontent.com/TWj7FjMF5xLRVp9WmFeX_lkxvXz37JpYbmmpKls1DZCM2-iQqf18B4tJkZd5NafL7566hmhu_Dj8rQ%3Dw1200-h630-p",
+            "width": 1200,
+            "height": 630
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "918529329527414844",
+      "type": "Default",
+      "timestamp": "2021-12-09T15:47:37.609+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@connorg have time to jam on this tonight? I am talking to one of the co-creators from ethBounty later today who is also affiliated with github",
+      "author": {
+        "id": "805826940161490945",
+        "name": "austin",
+        "discriminator": "9342",
+        "nickname": "austin",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/805826940161490945/d00b6c9dec510caefc96f632a29984ef.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "266778624647102465",
+          "name": "connorg",
+          "discriminator": "4386",
+          "nickname": "connor",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "918531494413213726",
+      "type": "Reply",
+      "timestamp": "2021-12-09T15:56:13.758+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Yes, would love to",
+      "author": {
+        "id": "266778624647102465",
+        "name": "connorg",
+        "discriminator": "4386",
+        "nickname": "connor",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/266778624647102465/bc553aefa36f23af0abefd9db54fbb17.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "805826940161490945",
+          "name": "austin",
+          "discriminator": "9342",
+          "nickname": "austin",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "918529329527414844",
+        "channelId": "917677089564532756",
+        "guildId": "916751469678579784"
+      }
+    },
+    {
+      "id": "918550842951483442",
+      "type": "Reply",
+      "timestamp": "2021-12-09T17:13:06.809+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "free at 6PM ET? I'll DM you my #",
+      "author": {
+        "id": "805826940161490945",
+        "name": "austin",
+        "discriminator": "9342",
+        "nickname": "austin",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/805826940161490945/d00b6c9dec510caefc96f632a29984ef.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "266778624647102465",
+          "name": "connorg",
+          "discriminator": "4386",
+          "nickname": "connor",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "918531494413213726",
+        "channelId": "917677089564532756",
+        "guildId": "916751469678579784"
+      }
+    },
+    {
+      "id": "918582354564497419",
+      "type": "Default",
+      "timestamp": "2021-12-09T19:18:19.763+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@graham do you have a running list of influencers? I've had convos with a couple last night and today - haven't asked for a post, but I think they'd endorse",
+      "author": {
+        "id": "805826940161490945",
+        "name": "austin",
+        "discriminator": "9342",
+        "nickname": "austin",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/805826940161490945/d00b6c9dec510caefc96f632a29984ef.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "563816603918008340",
+          "name": "graham",
+          "discriminator": "2727",
+          "nickname": "graham",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "918586336968061008",
+      "type": "Default",
+      "timestamp": "2021-12-09T19:34:09.242+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "He's got a list of first-degree connections at the bottom of this doc: https://docs.google.com/document/d/123nAEMlmdkEJQ_T8-1DM7OboMk4cyaqKZsFwjDn102w/edit#heading=h.lriet2m8g7br",
+      "author": {
+        "id": "266778624647102465",
+        "name": "connorg",
+        "discriminator": "4386",
+        "nickname": "connor",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/266778624647102465/bc553aefa36f23af0abefd9db54fbb17.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Hyperscale Brainstorm 12/7/21",
+          "url": "https://docs.google.com/document/d/123nAEMlmdkEJQ_T8-1DM7OboMk4cyaqKZsFwjDn102w/edit",
+          "timestamp": null,
+          "description": "Hyperscale Brainstorm These are all ideas and suggestions. I know some of these strategies contradict some of the current strategies or may be similar to existing plans. Don’t expect all of them to stick. My goal is to get them into three buckets:   ✅ → Discuss now \t\t\uD83D\uDD56 →  Table for later\t\t❌ →  D...",
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/R5RPL9ahtWRfyg-9DgGbc1cjDSLY3vGktIVeFSmHOxQ/https/lh3.googleusercontent.com/jIKAEEYSXje7vf9KQ7RY595oRocrO6ehA3ZWhskRtNtzGU7iGQe3mJmFhby48fEwoaAwtNj_8QIdcg%3Dw1200-h630-p",
+            "width": 1200,
+            "height": 630
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "918586597409169450",
+      "type": "Default",
+      "timestamp": "2021-12-09T19:35:11.336+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "awesome - thanks!",
+      "author": {
+        "id": "805826940161490945",
+        "name": "austin",
+        "discriminator": "9342",
+        "nickname": "austin",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/805826940161490945/d00b6c9dec510caefc96f632a29984ef.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "918888808982904842",
+      "type": "Default",
+      "timestamp": "2021-12-10T15:36:04.19+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Exchanging messages with Sahil Bloom about buying the X Games. That could be a huge first port co. Big name people, buying a sport, and won't req an exorbitant amont of $ @graham",
+      "author": {
+        "id": "805826940161490945",
+        "name": "austin",
+        "discriminator": "9342",
+        "nickname": "austin",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/805826940161490945/d00b6c9dec510caefc96f632a29984ef.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "563816603918008340",
+          "name": "graham",
+          "discriminator": "2727",
+          "nickname": "graham",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "918897677813571654",
+      "type": "Default",
+      "timestamp": "2021-12-10T16:11:18.684+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "X games, like the one sponsored by redbull?",
+      "author": {
+        "id": "563816603918008340",
+        "name": "graham",
+        "discriminator": "2727",
+        "nickname": "graham",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/563816603918008340/b8f978229cf918e97f6385e77568b7f6.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "918897758532952146",
+      "type": "Default",
+      "timestamp": "2021-12-10T16:11:37.929+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "how would it not require a lot of money?",
+      "author": {
+        "id": "563816603918008340",
+        "name": "graham",
+        "discriminator": "2727",
+        "nickname": "graham",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/563816603918008340/b8f978229cf918e97f6385e77568b7f6.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "918901809853112350",
+      "type": "Reply",
+      "timestamp": "2021-12-10T16:27:43.839+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I haven't done DD, but he quoted $50M (seems reasonable) been neglected by ESPN and Disney for the last decade. and has gradually lost prominence since Tony Hawk retired.",
+      "author": {
+        "id": "805826940161490945",
+        "name": "austin",
+        "discriminator": "9342",
+        "nickname": "austin",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/805826940161490945/d00b6c9dec510caefc96f632a29984ef.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "563816603918008340",
+          "name": "graham",
+          "discriminator": "2727",
+          "nickname": "graham",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "918897758532952146",
+        "channelId": "917677089564532756",
+        "guildId": "916751469678579784"
+      }
+    },
+    {
+      "id": "918901998319964251",
+      "type": "Default",
+      "timestamp": "2021-12-10T16:28:28.773+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "i mean, prob way too huge for hyperscale given the size of stuff we're targeting this early, right?",
+      "author": {
+        "id": "563816603918008340",
+        "name": "graham",
+        "discriminator": "2727",
+        "nickname": "graham",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/563816603918008340/b8f978229cf918e97f6385e77568b7f6.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "918902962766626827",
+      "type": "Default",
+      "timestamp": "2021-12-10T16:32:18.715+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "maybe, but it would garner incredible interest, is feasible, and the ~200k seed money could be used for development, putting IP on chain, proving distribution, and building proof of concept to get the nod from ESPN and Disney. then raising the other ~49.75 would be a lot easier.",
+      "author": {
+        "id": "805826940161490945",
+        "name": "austin",
+        "discriminator": "9342",
+        "nickname": "austin",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/805826940161490945/d00b6c9dec510caefc96f632a29984ef.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "918903022455767050",
+      "type": "Default",
+      "timestamp": "2021-12-10T16:32:32.946+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I dunno, just a thought w/ a little potential.",
+      "author": {
+        "id": "805826940161490945",
+        "name": "austin",
+        "discriminator": "9342",
+        "nickname": "austin",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/805826940161490945/d00b6c9dec510caefc96f632a29984ef.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "920326007200813056",
+      "type": "Default",
+      "timestamp": "2021-12-14T14:46:58.947+00:00",
+      "timestampEdited": "2021-12-14T15:43:31.607+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "it's certainly intriguing. bloom could perhaps raise $50m and execute vision. on top of potentially turning out to be a solid investment, HS could capture asymmetrical marketing upside early into launch with a $200k allocation from us, as austin said. a powerful pr boost this early could be a critical momentum catalyst. of course, funding companies we think will have a big impact on the world >>> funding companies that will get us positive PR. in this case, funding bloom's idea may yield both. @austin, have you touched base with him since your note above?",
+      "author": {
+        "id": "905571325920292914",
+        "name": "Eric Berry",
+        "discriminator": "2971",
+        "nickname": "Eric Berry",
+        "color": "#2ECC71",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/905571325920292914/9ffe17e7248c5f0b48815f611a910395.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "805826940161490945",
+          "name": "austin",
+          "discriminator": "9342",
+          "nickname": "austin",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "920349742079299695",
+      "type": "Default",
+      "timestamp": "2021-12-14T16:21:17.783+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "we've been in touch with him, but it sounds like there's another group that's \"very far along\" in their process to purchase the assets, so it's not clear if they have exclusivity.\n\nWill keep you posted if we hear more, but I'm not very optimistic there's a good opportunity there for hyperscale",
+      "author": {
+        "id": "563816603918008340",
+        "name": "graham",
+        "discriminator": "2727",
+        "nickname": "graham",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/563816603918008340/b8f978229cf918e97f6385e77568b7f6.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDC4D",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/svg/1f44d.svg"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "920349850132967505",
+      "type": "Default",
+      "timestamp": "2021-12-14T16:21:43.545+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I could really use your guys' help with getting this document fleshed out more. For now, just making all of the questions as robust as possible will be helpful",
+      "author": {
+        "id": "563816603918008340",
+        "name": "graham",
+        "discriminator": "2727",
+        "nickname": "graham",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/563816603918008340/b8f978229cf918e97f6385e77568b7f6.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "920349852221734932",
+      "type": "Default",
+      "timestamp": "2021-12-14T16:21:44.043+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://docs.google.com/document/d/1OyyUAj0ZH1HyjnokWzpicyuqgnE2TeJO0wL5d1ooWK4/edit?usp=sharing",
+      "author": {
+        "id": "563816603918008340",
+        "name": "graham",
+        "discriminator": "2727",
+        "nickname": "graham",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/563816603918008340/b8f978229cf918e97f6385e77568b7f6.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Press Responses",
+          "url": "https://docs.google.com/document/d/1OyyUAj0ZH1HyjnokWzpicyuqgnE2TeJO0wL5d1ooWK4/edit?usp=sharing",
+          "timestamp": null,
+          "description": "First, let’s just start by brainstorming all the questions we’re likely to receive:    Origins How did the project start? When did the project start? Who’s backing this project? What excites you most about this project? Has anything like this been done before? What’s the end-goal of the project? ...",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/p-iqtWMhwcb9Y1Lr2mjUCwUJSorFM3WD0dGl0ooxrac/https/lh5.googleusercontent.com/mxJ2cchXMV-TLirypsEyU9H62G85CqZw3dPsF5ANk9Lc-5bHe7y60Ouy_x0GuBPuAiZ41m_1wZdSWA%3Dw1200-h630-p",
+            "width": 1200,
+            "height": 630
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "920349927803076620",
+      "type": "Default",
+      "timestamp": "2021-12-14T16:22:02.063+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Can you help facilitate conversation with people in the general group?",
+      "author": {
+        "id": "563816603918008340",
+        "name": "graham",
+        "discriminator": "2727",
+        "nickname": "graham",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/563816603918008340/b8f978229cf918e97f6385e77568b7f6.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "920358728816029796",
+      "type": "Reply",
+      "timestamp": "2021-12-14T16:57:00.388+00:00",
+      "timestampEdited": "2021-12-14T17:40:09.004+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "copy -- edit: added 5 more qs.",
+      "author": {
+        "id": "905571325920292914",
+        "name": "Eric Berry",
+        "discriminator": "2971",
+        "nickname": "Eric Berry",
+        "color": "#2ECC71",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/905571325920292914/9ffe17e7248c5f0b48815f611a910395.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "❤️",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/svg/2764.svg"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": [
+        {
+          "id": "563816603918008340",
+          "name": "graham",
+          "discriminator": "2727",
+          "nickname": "graham",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "920349927803076620",
+        "channelId": "917677089564532756",
+        "guildId": "916751469678579784"
+      }
+    },
+    {
+      "id": "920368901978742805",
+      "type": "Default",
+      "timestamp": "2021-12-14T17:37:25.859+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "thanks!",
+      "author": {
+        "id": "563816603918008340",
+        "name": "graham",
+        "discriminator": "2727",
+        "nickname": "graham",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/563816603918008340/b8f978229cf918e97f6385e77568b7f6.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "920703704909381732",
+      "type": "Default",
+      "timestamp": "2021-12-15T15:47:49.098+00:00",
+      "timestampEdited": "2021-12-15T15:48:04.289+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "gm -- feel free to hmu w/ any tasks. thx!",
+      "author": {
+        "id": "905571325920292914",
+        "name": "Eric Berry",
+        "discriminator": "2971",
+        "nickname": "Eric Berry",
+        "color": "#2ECC71",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/905571325920292914/9ffe17e7248c5f0b48815f611a910395.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "920735088117940344",
+      "type": "Default",
+      "timestamp": "2021-12-15T17:52:31.438+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "gm",
+      "author": {
+        "id": "805826940161490945",
+        "name": "austin",
+        "discriminator": "9342",
+        "nickname": "austin",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/805826940161490945/d00b6c9dec510caefc96f632a29984ef.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "920812616513892382",
+      "type": "Default",
+      "timestamp": "2021-12-15T23:00:35.648+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Can you guys help generate some more brainstorm ideas? When we're getting closer to full-scale launch, we'll prioritize these. For now, cast a wide net, and get creative https://docs.google.com/document/d/123nAEMlmdkEJQ_T8-1DM7OboMk4cyaqKZsFwjDn102w/edit#heading=h.lriet2m8g7br",
+      "author": {
+        "id": "563816603918008340",
+        "name": "graham",
+        "discriminator": "2727",
+        "nickname": "graham",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/563816603918008340/b8f978229cf918e97f6385e77568b7f6.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Hyperscale Brainstorm 12/7/21",
+          "url": "https://docs.google.com/document/d/123nAEMlmdkEJQ_T8-1DM7OboMk4cyaqKZsFwjDn102w/edit",
+          "timestamp": null,
+          "description": "Hyperscale Brainstorm These are all ideas and suggestions. I know some of these strategies contradict some of the current strategies or may be similar to existing plans. Don’t expect all of them to stick. My goal is to get them into three buckets:   ✅ → Discuss now \t\t\uD83D\uDD56 →  Table for later\t\t❌ →  D...",
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/R5RPL9ahtWRfyg-9DgGbc1cjDSLY3vGktIVeFSmHOxQ/https/lh3.googleusercontent.com/jIKAEEYSXje7vf9KQ7RY595oRocrO6ehA3ZWhskRtNtzGU7iGQe3mJmFhby48fEwoaAwtNj_8QIdcg%3Dw1200-h630-p",
+            "width": 1200,
+            "height": 630
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "920876092364029963",
+      "type": "Reply",
+      "timestamp": "2021-12-16T03:12:49.47+00:00",
+      "timestampEdited": "2021-12-16T03:20:46.251+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Great work. Really like the \"Investor Lobby\" idea and POAP is a nice touch. I agree that it's super important to make HS into a \"hub.\" Expanding on that view, I brainstormed a weekly \"Speaker Series\" concept.",
+      "author": {
+        "id": "905571325920292914",
+        "name": "Eric Berry",
+        "discriminator": "2971",
+        "nickname": "Eric Berry",
+        "color": "#2ECC71",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/905571325920292914/9ffe17e7248c5f0b48815f611a910395.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "563816603918008340",
+          "name": "graham",
+          "discriminator": "2727",
+          "nickname": "graham",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "920812616513892382",
+        "channelId": "917677089564532756",
+        "guildId": "916751469678579784"
+      }
+    },
+    {
+      "id": "921433234741534730",
+      "type": "Default",
+      "timestamp": "2021-12-17T16:06:42.564+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "thanks for adding that!",
+      "author": {
+        "id": "563816603918008340",
+        "name": "graham",
+        "discriminator": "2727",
+        "nickname": "graham",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/563816603918008340/b8f978229cf918e97f6385e77568b7f6.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "⚡",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/svg/26a1.svg"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "923237996520685618",
+      "type": "Default",
+      "timestamp": "2021-12-22T15:38:11.303+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "gm -- feel free to ping me for assistance for any marketing items",
+      "author": {
+        "id": "905571325920292914",
+        "name": "Eric Berry",
+        "discriminator": "2971",
+        "nickname": "Eric Berry",
+        "color": "#2ECC71",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/905571325920292914/9ffe17e7248c5f0b48815f611a910395.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    }
+  ],
+  "messageCount": 54
+}

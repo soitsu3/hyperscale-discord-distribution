@@ -1,0 +1,1308 @@
+{
+  "guild": {
+    "id": "916751469678579784",
+    "name": "Hyperscale",
+    "iconUrl": "https://cdn.discordapp.com/icons/916751469678579784/874219cdd9c60b09fc62afefa1efea43.png"
+  },
+  "channel": {
+    "id": "923991360883810314",
+    "type": "GuildTextChat",
+    "categoryId": "922689148861685780",
+    "category": "archived",
+    "name": "community-interviews",
+    "topic": "NOTICE: Archived channel. Please do NOT post!"
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "messages": [
+    {
+      "id": "923991747661541446",
+      "type": "Default",
+      "timestamp": "2021-12-24T17:33:19.579+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Interview notes are here",
+      "author": {
+        "id": "915035187547615243",
+        "name": "kevalin",
+        "discriminator": "4394",
+        "nickname": "kevalin",
+        "color": "#1F8B4C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/915035187547615243/8aec11e684cd1c3ab575358a58fda0bd.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "923991749255380992",
+      "type": "Default",
+      "timestamp": "2021-12-24T17:33:19.959+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://docs.google.com/document/d/1WbL9VQx4Lj6dcxKlRoDWSbQH6MBr443GYXLWvASisOk/edit?usp=sharing",
+      "author": {
+        "id": "915035187547615243",
+        "name": "kevalin",
+        "discriminator": "4394",
+        "nickname": "kevalin",
+        "color": "#1F8B4C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/915035187547615243/8aec11e684cd1c3ab575358a58fda0bd.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Community Interviews - Hyperscale",
+          "url": "https://docs.google.com/document/d/1WbL9VQx4Lj6dcxKlRoDWSbQH6MBr443GYXLWvASisOk/edit?usp=sharing",
+          "timestamp": null,
+          "description": "",
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDC4D\uD83C\uDFFD",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/svg/1f44d-1f3fd.svg"
+          },
+          "count": 3
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "923992391462060115",
+      "type": "Default",
+      "timestamp": "2021-12-24T17:35:53.073+00:00",
+      "timestampEdited": "2021-12-24T17:36:05.429+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@Party Doodle is leading this. Reach out to them with inquiries!!",
+      "author": {
+        "id": "915035187547615243",
+        "name": "kevalin",
+        "discriminator": "4394",
+        "nickname": "kevalin",
+        "color": "#1F8B4C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/915035187547615243/8aec11e684cd1c3ab575358a58fda0bd.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "481156587776507906",
+          "name": "Party Doodle",
+          "discriminator": "2753",
+          "nickname": "Party Doodle",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "923992578678984756",
+      "type": "Default",
+      "timestamp": "2021-12-24T17:36:37.709+00:00",
+      "timestampEdited": "2021-12-24T17:44:04.38+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": true,
+      "content": "If you’re free today for a community interview, please drop your Discord name in this channel and someone will respond for a follow up",
+      "author": {
+        "id": "481156587776507906",
+        "name": "Party Doodle",
+        "discriminator": "2753",
+        "nickname": "Party Doodle",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/481156587776507906/dfeeaedbc0b733134116e1d4ee388922.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "923992670651699200",
+      "type": "Default",
+      "timestamp": "2021-12-24T17:36:59.637+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "We’re trying to better understand the community pain points and iterate on governance and culture moving",
+      "author": {
+        "id": "481156587776507906",
+        "name": "Party Doodle",
+        "discriminator": "2753",
+        "nickname": "Party Doodle",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/481156587776507906/dfeeaedbc0b733134116e1d4ee388922.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDE3B",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/svg/1f63b.svg"
+          },
+          "count": 5
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "923992808531046450",
+      "type": "ChannelPinnedMessage",
+      "timestamp": "2021-12-24T17:37:32.51+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Pinned a message.",
+      "author": {
+        "id": "915035187547615243",
+        "name": "kevalin",
+        "discriminator": "4394",
+        "nickname": "kevalin",
+        "color": "#1F8B4C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/915035187547615243/8aec11e684cd1c3ab575358a58fda0bd.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "923992578678984756",
+        "channelId": "923991360883810314",
+        "guildId": null
+      }
+    },
+    {
+      "id": "923994345378545664",
+      "type": "Reply",
+      "timestamp": "2021-12-24T17:43:38.923+00:00",
+      "timestampEdited": "2021-12-24T17:44:20.107+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Don't you think we should call it \"Community Interviews\" as gdoc title instead of \"customer interview? Just small correction in message.",
+      "author": {
+        "id": "452465881700630529",
+        "name": "mhrnik",
+        "discriminator": "3998",
+        "nickname": "mhrnik",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/452465881700630529/9f97bec6bfcc0c5eb3bb83e35da036fe.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "481156587776507906",
+          "name": "Party Doodle",
+          "discriminator": "2753",
+          "nickname": "Party Doodle",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "923992578678984756",
+        "channelId": "923991360883810314",
+        "guildId": "916751469678579784"
+      }
+    },
+    {
+      "id": "923994553952903188",
+      "type": "Reply",
+      "timestamp": "2021-12-24T17:44:28.651+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Good catch. Mind if I reach out?",
+      "author": {
+        "id": "481156587776507906",
+        "name": "Party Doodle",
+        "discriminator": "2753",
+        "nickname": "Party Doodle",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/481156587776507906/dfeeaedbc0b733134116e1d4ee388922.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "452465881700630529",
+          "name": "mhrnik",
+          "discriminator": "3998",
+          "nickname": "mhrnik",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "923994345378545664",
+        "channelId": "923991360883810314",
+        "guildId": "916751469678579784"
+      }
+    },
+    {
+      "id": "923994598475444234",
+      "type": "Default",
+      "timestamp": "2021-12-24T17:44:39.266+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "sure.",
+      "author": {
+        "id": "452465881700630529",
+        "name": "mhrnik",
+        "discriminator": "3998",
+        "nickname": "mhrnik",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/452465881700630529/9f97bec6bfcc0c5eb3bb83e35da036fe.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83E\uDD1D",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/svg/1f91d.svg"
+          },
+          "count": 2
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "923995882997842010",
+      "type": "Default",
+      "timestamp": "2021-12-24T17:49:45.52+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "boshd",
+      "author": {
+        "id": "671696590272200720",
+        "name": "boshd",
+        "discriminator": "8094",
+        "nickname": "boshd",
+        "color": "#1ABC9C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/671696590272200720/ad40a4e8d27fb64be8bbc92f1bccace6.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83E\uDD1D",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/svg/1f91d.svg"
+          },
+          "count": 2
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDC4D",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/svg/1f44d.svg"
+          },
+          "count": 2
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "923998945892503572",
+      "type": "Default",
+      "timestamp": "2021-12-24T18:01:55.771+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "andrew",
+      "author": {
+        "id": "106002466864144384",
+        "name": "Andrew",
+        "discriminator": "4295",
+        "nickname": "Andrew",
+        "color": "#2ECC71",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/106002466864144384/c9a7bdbfc98cba3a53f4030d87ebf64e.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83E\uDD1D",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/svg/1f91d.svg"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "924007546614853632",
+      "type": "Default",
+      "timestamp": "2021-12-24T18:36:06.343+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Ben",
+      "author": {
+        "id": "703540563328368691",
+        "name": "BenJ",
+        "discriminator": "0551",
+        "nickname": "BenJ",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/703540563328368691/e4eacd321d76a0e2b88bbcb8076d5e4d.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83E\uDD1D",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/svg/1f91d.svg"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "924009465597030450",
+      "type": "Default",
+      "timestamp": "2021-12-24T18:43:43.864+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@loitering_gorilla",
+      "author": {
+        "id": "907282948976410644",
+        "name": "loitering_gorilla",
+        "discriminator": "9179",
+        "nickname": "loitering_gorilla",
+        "color": "#9B59B6",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/907282948976410644/073087e189a4596d1eb699219d963468.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "907282948976410644",
+          "name": "loitering_gorilla",
+          "discriminator": "9179",
+          "nickname": "loitering_gorilla",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "924023490527506474",
+      "type": "Default",
+      "timestamp": "2021-12-24T19:39:27.668+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@jkey",
+      "author": {
+        "id": "630645146102267924",
+        "name": "jkey",
+        "discriminator": "2329",
+        "nickname": "jkey",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/630645146102267924/6e61d2671238895beb3254d7e0a27b30.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "630645146102267924",
+          "name": "jkey",
+          "discriminator": "2329",
+          "nickname": "jkey",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "924040682241413130",
+      "type": "Default",
+      "timestamp": "2021-12-24T20:47:46.492+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@kasra",
+      "author": {
+        "id": "690120031454887992",
+        "name": "kasra",
+        "discriminator": "0001",
+        "nickname": "kasra",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/690120031454887992/89e74918c7e8ca9b868d8f32a5810676.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "690120031454887992",
+          "name": "kasra",
+          "discriminator": "0001",
+          "nickname": "kasra",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "924114142267322408",
+      "type": "Default",
+      "timestamp": "2021-12-25T01:39:40.727+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Aswanth @Aswanth",
+      "author": {
+        "id": "296591568750641155",
+        "name": "Aswanth",
+        "discriminator": "1733",
+        "nickname": "Aswanth",
+        "color": "#1ABC9C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/296591568750641155/4ef4fc06afe9edc7b5ff97180ced2d9f.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "296591568750641155",
+          "name": "Aswanth",
+          "discriminator": "1733",
+          "nickname": "Aswanth",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "924526299500929105",
+      "type": "Default",
+      "timestamp": "2021-12-26T04:57:26.669+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "\uD83D\uDE00",
+      "author": {
+        "id": "851174988199231491",
+        "name": "joshpizzaro",
+        "discriminator": "4496",
+        "nickname": "joshpizzaro",
+        "color": "#E67E22",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/851174988199231491/2a8fc4862f59584f06bc9e7859ba73b0.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "924988640902414396",
+      "type": "Default",
+      "timestamp": "2021-12-27T11:34:37.449+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "emirbolen.eth#6782",
+      "author": {
+        "id": "899944147811725323",
+        "name": "emirbolen.eth",
+        "discriminator": "6782",
+        "nickname": "emirbolen.eth",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/899944147811725323/f7f9fabb1fba2e52e37fe3330129ef4a.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "925077063516450827",
+      "type": "Default",
+      "timestamp": "2021-12-27T17:25:59.043+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": ":G_Hype:",
+      "author": {
+        "id": "793509935761588234",
+        "name": "bambumalo",
+        "discriminator": "3656",
+        "nickname": "bambumalo",
+        "color": "#E74C3C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/793509935761588234/22cf8a707294d1585a300bd824b27444.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "925119439601557577",
+      "type": "Default",
+      "timestamp": "2021-12-27T20:14:22.289+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": ":4038_CatHype:",
+      "author": {
+        "id": "760969548412616714",
+        "name": "Exito",
+        "discriminator": "2134",
+        "nickname": "Exito",
+        "color": "#F1C40F",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/760969548412616714/bbba0a46482519ab343bbf581c75fc6d.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "925180787173752842",
+      "type": "Default",
+      "timestamp": "2021-12-28T00:18:08.69+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "\uD83D\uDE0A",
+      "author": {
+        "id": "894477761362673665",
+        "name": "Qredogon11",
+        "discriminator": "7995",
+        "nickname": "Qredogon11",
+        "color": "#F1C40F",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "925241234883215370",
+      "type": "Default",
+      "timestamp": "2021-12-28T04:18:20.547+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "hello there",
+      "author": {
+        "id": "365685903928328203",
+        "name": "Lecter",
+        "discriminator": "6754",
+        "nickname": "Lecter",
+        "color": "#E74C3C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/365685903928328203/f072ddd05b90bd0a5f76b9a9708d5ac2.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "925252130116350052",
+      "type": "Default",
+      "timestamp": "2021-12-28T05:01:38.173+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "\uD83D\uDD90️",
+      "author": {
+        "id": "831430666289152021",
+        "name": "morssigrv",
+        "discriminator": "6679",
+        "nickname": "morssigrv",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/831430666289152021/e3bba8e04334e97e797de2da49471e8a.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "925310139391692811",
+      "type": "Default",
+      "timestamp": "2021-12-28T08:52:08.662+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Hiiii",
+      "author": {
+        "id": "792069187933175848",
+        "name": "dimadimadima4646",
+        "discriminator": "1917",
+        "nickname": "dimadimadima4646",
+        "color": "#E74C3C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/792069187933175848/b27013b651b5842d884b13e065dc176d.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "925423937817559070",
+      "type": "Default",
+      "timestamp": "2021-12-28T16:24:20.321+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "hi))",
+      "author": {
+        "id": "844091684652580915",
+        "name": "angelmonkey27",
+        "discriminator": "6063",
+        "nickname": "angelmonkey27",
+        "color": "#E74C3C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/844091684652580915/c054521bc8015e16d1f18c7b731f4de2.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "925428243488731147",
+      "type": "Default",
+      "timestamp": "2021-12-28T16:41:26.873+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": ":doge:",
+      "author": {
+        "id": "844095957405794304",
+        "name": "diablo_dude_xp",
+        "discriminator": "9957",
+        "nickname": "diablo_dude_xp",
+        "color": "#E74C3C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/844095957405794304/5d1711e73c6bbeda7290ed1b0ad02f0d.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "925446856484478977",
+      "type": "Default",
+      "timestamp": "2021-12-28T17:55:24.557+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Hey",
+      "author": {
+        "id": "820560752095133696",
+        "name": "Bobby ᴰᴿᴬᴳᴼᴺᔆ ᴬᴿᴱᴺᴬ",
+        "discriminator": "9923",
+        "nickname": "Bobby ᴰᴿᴬᴳᴼᴺᔆ ᴬᴿᴱᴺᴬ",
+        "color": "#E74C3C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/820560752095133696/f4f0a40273db99f6be10aeccae1bd196.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "925603846493970432",
+      "type": "Default",
+      "timestamp": "2021-12-29T04:19:13.892+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "We are still doing interviews! Those of you who have already replied above, expect a DM in the next couple days",
+      "author": {
+        "id": "266778624647102465",
+        "name": "connorg",
+        "discriminator": "4386",
+        "nickname": "connor",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/266778624647102465/bc553aefa36f23af0abefd9db54fbb17.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "925603988886388826",
+      "type": "Default",
+      "timestamp": "2021-12-29T04:19:47.841+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "If you'd like to participate and haven't dropped a message in this channel yet, I encourage you to do that",
+      "author": {
+        "id": "266778624647102465",
+        "name": "connorg",
+        "discriminator": "4386",
+        "nickname": "connor",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/266778624647102465/bc553aefa36f23af0abefd9db54fbb17.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "925634154790551602",
+      "type": "Default",
+      "timestamp": "2021-12-29T06:19:39.953+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Hey!",
+      "author": {
+        "id": "530673798433734656",
+        "name": "davidh.eth",
+        "discriminator": "5637",
+        "nickname": "davidh.eth",
+        "color": "#1ABC9C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/530673798433734656/6e69cd0bbdd3b2a4f350c48d4bde8d3c.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "925723745673412628",
+      "type": "Default",
+      "timestamp": "2021-12-29T12:15:40.084+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "HI",
+      "author": {
+        "id": "846083464344109089",
+        "name": "06potehina10729ldkn",
+        "discriminator": "6110",
+        "nickname": "06potehina10729ldkn",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/846083464344109089/5b381c1dfd92548bf7db80c8c55fa85d.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "925775402503381062",
+      "type": "Default",
+      "timestamp": "2021-12-29T15:40:56.032+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Available as well",
+      "author": {
+        "id": "254069756313862144",
+        "name": "VirTius",
+        "discriminator": "4407",
+        "nickname": "VirTius",
+        "color": "#1ABC9C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/254069756313862144/fc7a17eddfda18c82d104601e6437516.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "925781516460642314",
+      "type": "Default",
+      "timestamp": "2021-12-29T16:05:13.713+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@Party Doodle I'm really excited about Hyperscale and would be happy to be interviewed",
+      "author": {
+        "id": "807716623937962064",
+        "name": "OmnistratMatt",
+        "discriminator": "8692",
+        "nickname": "OmnistratMatt",
+        "color": "#F1C40F",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/807716623937962064/8e878b350d70a484eca6368e81eff41a.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "481156587776507906",
+          "name": "Party Doodle",
+          "discriminator": "2753",
+          "nickname": "Party Doodle",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "925861363421704202",
+      "type": "Reply",
+      "timestamp": "2021-12-29T21:22:30.712+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I'm taking over here. Please follow this process: https://discord.com/channels/916751469678579784/924233086869323856/924569483153121292",
+      "author": {
+        "id": "915035187547615243",
+        "name": "kevalin",
+        "discriminator": "4394",
+        "nickname": "kevalin",
+        "color": "#1F8B4C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/915035187547615243/8aec11e684cd1c3ab575358a58fda0bd.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "923992391462060115",
+        "channelId": "923991360883810314",
+        "guildId": "916751469678579784"
+      }
+    },
+    {
+      "id": "925893041892507658",
+      "type": "Default",
+      "timestamp": "2021-12-29T23:28:23.448+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "\uD83D\uDC7E",
+      "author": {
+        "id": "919720829162520588",
+        "name": "lolibeat",
+        "discriminator": "9420",
+        "nickname": "lolibeat",
+        "color": "#F1C40F",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/919720829162520588/633910746253dc565b081cd988e8ae09.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "926074250132094976",
+      "type": "Default",
+      "timestamp": "2021-12-30T11:28:26.859+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Hi",
+      "author": {
+        "id": "829730950790381659",
+        "name": "starksuu",
+        "discriminator": "6719",
+        "nickname": "starksuu",
+        "color": "#E74C3C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/829730950790381659/77a8dbdc85168af3bd001921d8789343.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "926098134424231937",
+      "type": "Default",
+      "timestamp": "2021-12-30T13:03:21.318+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Hey",
+      "author": {
+        "id": "342966393928548353",
+        "name": "tempest",
+        "discriminator": "4002",
+        "nickname": "tempest",
+        "color": "#1ABC9C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/2.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "926191445742870538",
+      "type": "Reply",
+      "timestamp": "2021-12-30T19:14:08.47+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "\"REDACTED\" \uD83D\uDE22",
+      "author": {
+        "id": "597196802458124311",
+        "name": "Brady",
+        "discriminator": "0053",
+        "nickname": "Brady Neal",
+        "color": "#9B59B6",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/597196802458124311/13b945bff40b1c548872567d7cf4fe00.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "915035187547615243",
+          "name": "kevalin",
+          "discriminator": "4394",
+          "nickname": "kevalin",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "923991749255380992",
+        "channelId": "923991360883810314",
+        "guildId": "916751469678579784"
+      }
+    },
+    {
+      "id": "926529240323735612",
+      "type": "Default",
+      "timestamp": "2021-12-31T17:36:24.974+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I'm thinking of spinning out a DAO (DAO) to find and organize DAOs to help with the DAO formation part of the mission. Any suggestions for people to reach out to?",
+      "author": {
+        "id": "188786211844784128",
+        "name": "Lucas | DAOHQ",
+        "discriminator": "0001",
+        "nickname": "lucaschu.eth",
+        "color": "#E74C3C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/188786211844784128/e977b78e6fae47bf4f0b7ba2808d5269.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "926548823961108480",
+      "type": "Default",
+      "timestamp": "2021-12-31T18:54:14.077+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "What is it you want from these people? customer discovery, join, invest?",
+      "author": {
+        "id": "807716623937962064",
+        "name": "OmnistratMatt",
+        "discriminator": "8692",
+        "nickname": "OmnistratMatt",
+        "color": "#F1C40F",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/807716623937962064/8e878b350d70a484eca6368e81eff41a.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "926555108639121498",
+      "type": "Reply",
+      "timestamp": "2021-12-31T19:19:12.461+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Understand what problems the community faces & what their desires are.",
+      "author": {
+        "id": "915035187547615243",
+        "name": "kevalin",
+        "discriminator": "4394",
+        "nickname": "kevalin",
+        "color": "#1F8B4C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/915035187547615243/8aec11e684cd1c3ab575358a58fda0bd.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "807716623937962064",
+          "name": "OmnistratMatt",
+          "discriminator": "8692",
+          "nickname": "OmnistratMatt",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "926548823961108480",
+        "channelId": "923991360883810314",
+        "guildId": "916751469678579784"
+      }
+    },
+    {
+      "id": "926559064010424330",
+      "type": "Default",
+      "timestamp": "2021-12-31T19:34:55.495+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "OK, customer discovery. That helps. I'm happy to speak with you next week. Have a great new year in the meantime!",
+      "author": {
+        "id": "807716623937962064",
+        "name": "OmnistratMatt",
+        "discriminator": "8692",
+        "nickname": "OmnistratMatt",
+        "color": "#F1C40F",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/807716623937962064/8e878b350d70a484eca6368e81eff41a.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "927740868365017118",
+      "type": "Default",
+      "timestamp": "2022-01-04T01:50:59.61+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Happy to participate",
+      "author": {
+        "id": "901561751605231707",
+        "name": "jennifer hinkel",
+        "discriminator": "5065",
+        "nickname": "jennifer hinkel",
+        "color": "#E74C3C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/901561751605231707/91338575b5c2957293c04f29b8e3d658.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "927994535475294298",
+      "type": "Default",
+      "timestamp": "2022-01-04T18:38:58.562+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Same here",
+      "author": {
+        "id": "918793573615423519",
+        "name": "justkaran",
+        "discriminator": "4082",
+        "nickname": "justkaran",
+        "color": "#9B59B6",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/918793573615423519/767fe0d1e06d4ab93ea7eb710dbc5531.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "928051065360879666",
+      "type": "Default",
+      "timestamp": "2022-01-04T22:23:36.337+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Great! We’re synthesizing insights from the last batch and will reach out to you soon @justkaran and @jennifer hinkel ☺️",
+      "author": {
+        "id": "630645146102267924",
+        "name": "jkey",
+        "discriminator": "2329",
+        "nickname": "jkey",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/630645146102267924/6e61d2671238895beb3254d7e0a27b30.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDC4D",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/svg/1f44d.svg"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": [
+        {
+          "id": "901561751605231707",
+          "name": "jennifer hinkel",
+          "discriminator": "5065",
+          "nickname": "jennifer hinkel",
+          "isBot": false
+        },
+        {
+          "id": "918793573615423519",
+          "name": "justkaran",
+          "discriminator": "4082",
+          "nickname": "justkaran",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "928337115887075429",
+      "type": "Default",
+      "timestamp": "2022-01-05T17:20:16.097+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Would like to interview! \uD83D\uDE4F",
+      "author": {
+        "id": "516839294418288641",
+        "name": "MushCoin",
+        "discriminator": "3602",
+        "nickname": "MushCoin",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/516839294418288641/3779dd93a44a796fe33361939218044e.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "928352521112674385",
+      "type": "Default",
+      "timestamp": "2022-01-05T18:21:28.989+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@MushCoin great, we'll contact you too!",
+      "author": {
+        "id": "630645146102267924",
+        "name": "jkey",
+        "discriminator": "2329",
+        "nickname": "jkey",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/630645146102267924/6e61d2671238895beb3254d7e0a27b30.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "516839294418288641",
+          "name": "MushCoin",
+          "discriminator": "3602",
+          "nickname": "MushCoin",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "933922205451030569",
+      "type": "Default",
+      "timestamp": "2022-01-21T03:13:25.215+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Hey! Would love to interview as well. :)",
+      "author": {
+        "id": "772074722635808788",
+        "name": "saxenasaheb",
+        "discriminator": "2331",
+        "nickname": "saxenasaheb",
+        "color": "#2ECC71",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/772074722635808788/c85e663eb0cef243de81884917e95dbd.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDC4D",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/svg/1f44d.svg"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    }
+  ],
+  "messageCount": 48
+}

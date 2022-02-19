@@ -1,0 +1,378 @@
+{
+  "guild": {
+    "id": "916751469678579784",
+    "name": "Hyperscale",
+    "iconUrl": "https://cdn.discordapp.com/icons/916751469678579784/874219cdd9c60b09fc62afefa1efea43.png"
+  },
+  "channel": {
+    "id": "932015753853562941",
+    "type": "GuildTextChat",
+    "categoryId": "922689148861685780",
+    "category": "archived",
+    "name": "off-topic",
+    "topic": "NOTICE: Archived channel. Please do NOT post!"
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "messages": [
+    {
+      "id": "932015846761582652",
+      "type": "Default",
+      "timestamp": "2022-01-15T20:58:13.885+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@AMICA and @ǪuickMythril new channel for you \uD83D\uDE42",
+      "author": {
+        "id": "630645146102267924",
+        "name": "jkey",
+        "discriminator": "2329",
+        "nickname": "jkey",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/630645146102267924/6e61d2671238895beb3254d7e0a27b30.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDC4D",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/svg/1f44d.svg"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": [
+        {
+          "id": "191956661156577280",
+          "name": "ǪuickMythril",
+          "discriminator": "3670",
+          "nickname": "ǪuickMythril",
+          "isBot": false
+        },
+        {
+          "id": "900502872670744616",
+          "name": "AMICA",
+          "discriminator": "7675",
+          "nickname": "AMICA",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "932016043583488040",
+      "type": "Default",
+      "timestamp": "2022-01-15T20:59:00.811+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@jkey You are the man! \uD83D\uDE0E",
+      "author": {
+        "id": "900502872670744616",
+        "name": "AMICA",
+        "discriminator": "7675",
+        "nickname": "AMICA",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/900502872670744616/798fb3bd4007400558239f1e5a504b50.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDCA5",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/svg/1f4a5.svg"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": [
+        {
+          "id": "630645146102267924",
+          "name": "jkey",
+          "discriminator": "2329",
+          "nickname": "jkey",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "932122831305719839",
+      "type": "Default",
+      "timestamp": "2022-01-16T04:03:20.988+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Sorry, dog person here \uD83D\uDC36\uD83E\uDD26",
+      "author": {
+        "id": "630645146102267924",
+        "name": "jkey",
+        "discriminator": "2329",
+        "nickname": "jkey",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/630645146102267924/6e61d2671238895beb3254d7e0a27b30.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDE4C\uD83C\uDFFB",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/svg/1f64c-1f3fb.svg"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "932130238895374376",
+      "type": "Default",
+      "timestamp": "2022-01-16T04:32:47.095+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I had dogs too. So that makes me a cat dog person",
+      "author": {
+        "id": "900502872670744616",
+        "name": "AMICA",
+        "discriminator": "7675",
+        "nickname": "AMICA",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/900502872670744616/798fb3bd4007400558239f1e5a504b50.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "937222436276011069",
+      "type": "ChannelPinnedMessage",
+      "timestamp": "2022-01-30T05:47:21.559+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Pinned a message.",
+      "author": {
+        "id": "915035187547615243",
+        "name": "kevalin",
+        "discriminator": "4394",
+        "nickname": "kevalin",
+        "color": "#1F8B4C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/915035187547615243/8aec11e684cd1c3ab575358a58fda0bd.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "937123028645589032",
+        "channelId": "932015753853562941",
+        "guildId": null
+      }
+    },
+    {
+      "id": "937222448200417290",
+      "type": "Default",
+      "timestamp": "2022-01-30T05:47:24.402+00:00",
+      "timestampEdited": "2022-01-30T05:47:33.45+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Cool group @Aaryaman!",
+      "author": {
+        "id": "915035187547615243",
+        "name": "kevalin",
+        "discriminator": "4394",
+        "nickname": "kevalin",
+        "color": "#1F8B4C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/915035187547615243/8aec11e684cd1c3ab575358a58fda0bd.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "768075359651495956",
+          "name": "Aaryaman",
+          "discriminator": "0001",
+          "nickname": "Aaryaman",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "937222601833578556",
+      "type": "Reply",
+      "timestamp": "2022-01-30T05:48:01.031+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Yes should be in #\uD83E\uDD11shill",
+      "author": {
+        "id": "915035187547615243",
+        "name": "kevalin",
+        "discriminator": "4394",
+        "nickname": "kevalin",
+        "color": "#1F8B4C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/915035187547615243/8aec11e684cd1c3ab575358a58fda0bd.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "864406808436277248",
+          "name": "rx",
+          "discriminator": "5834",
+          "nickname": "rx",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "937168427372675072",
+        "channelId": "932015753853562941",
+        "guildId": "916751469678579784"
+      }
+    },
+    {
+      "id": "937241346996064297",
+      "type": "Default",
+      "timestamp": "2022-01-30T07:02:30.226+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "ohh ic",
+      "author": {
+        "id": "768075359651495956",
+        "name": "Aaryaman",
+        "discriminator": "0001",
+        "nickname": "Aaryaman",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/768075359651495956/5e5f5d9e70a9f7867ef3f525a0817b7d.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "937241355007164476",
+      "type": "Default",
+      "timestamp": "2022-01-30T07:02:32.136+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "my bad",
+      "author": {
+        "id": "768075359651495956",
+        "name": "Aaryaman",
+        "discriminator": "0001",
+        "nickname": "Aaryaman",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/768075359651495956/5e5f5d9e70a9f7867ef3f525a0817b7d.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "937241382421164042",
+      "type": "Reply",
+      "timestamp": "2022-01-30T07:02:38.672+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "and thank you!",
+      "author": {
+        "id": "768075359651495956",
+        "name": "Aaryaman",
+        "discriminator": "0001",
+        "nickname": "Aaryaman",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/768075359651495956/5e5f5d9e70a9f7867ef3f525a0817b7d.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "915035187547615243",
+          "name": "kevalin",
+          "discriminator": "4394",
+          "nickname": "kevalin",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "937222448200417290",
+        "channelId": "932015753853562941",
+        "guildId": "916751469678579784"
+      }
+    },
+    {
+      "id": "937243545532784660",
+      "type": "Default",
+      "timestamp": "2022-01-30T07:11:14.398+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "sure",
+      "author": {
+        "id": "768075359651495956",
+        "name": "Aaryaman",
+        "discriminator": "0001",
+        "nickname": "Aaryaman",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/768075359651495956/5e5f5d9e70a9f7867ef3f525a0817b7d.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "938145367873175552",
+      "type": "Default",
+      "timestamp": "2022-02-01T18:54:45.599+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Hey quick question - have you heard of this guys https://www.superfans.tv/? I am looking for a good refer-to-earn platform to grow my crypto community (NFT) - do you think it would be worth using or should rather build it internally? Worth exploring?",
+      "author": {
+        "id": "894975770378772510",
+        "name": "funkydegen",
+        "discriminator": "2155",
+        "nickname": "funkydegen",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/894975770378772510/4415a43bbde635dd337191e0b81d6c7e.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    }
+  ],
+  "messageCount": 12
+}

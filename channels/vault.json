@@ -1,0 +1,44 @@
+{
+  "guild": {
+    "id": "916751469678579784",
+    "name": "Hyperscale",
+    "iconUrl": "https://cdn.discordapp.com/icons/916751469678579784/874219cdd9c60b09fc62afefa1efea43.png"
+  },
+  "channel": {
+    "id": "940691596511416400",
+    "type": "GuildTextChat",
+    "categoryId": "922689148861685780",
+    "category": "archived",
+    "name": "vault",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "messages": [
+    {
+      "id": "940691654581559377",
+      "type": "Default",
+      "timestamp": "2022-02-08T19:32:47.658+00:00",
+      "timestampEdited": "2022-02-08T19:36:02.217+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Archived channels**\nhttps://soitsu3.github.io/discord-channel-archive/\n\n**Repo/Forks**\nhttps://github.com/soitsu3/discord-channel-archive\nhttps://github.com/kvlnxyz/discord-channel-archive",
+      "author": {
+        "id": "915035187547615243",
+        "name": "kevalin",
+        "discriminator": "4394",
+        "nickname": "kevalin",
+        "color": "#1F8B4C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/915035187547615243/8aec11e684cd1c3ab575358a58fda0bd.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    }
+  ],
+  "messageCount": 1
+}

@@ -1,0 +1,2948 @@
+{
+  "guild": {
+    "id": "916751469678579784",
+    "name": "Hyperscale",
+    "iconUrl": "https://cdn.discordapp.com/icons/916751469678579784/874219cdd9c60b09fc62afefa1efea43.png"
+  },
+  "channel": {
+    "id": "925152337213943848",
+    "type": "GuildTextChat",
+    "categoryId": "916751469678579785",
+    "category": "Community",
+    "name": "\uD83E\uDD1Dintros",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "messages": [
+    {
+      "id": "926038139955449946",
+      "type": "Default",
+      "timestamp": "2021-12-30T09:04:57.522+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Hey",
+      "author": {
+        "id": "926032278054916096",
+        "name": "lily777",
+        "discriminator": "3207",
+        "nickname": "lily777",
+        "color": "#1ABC9C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/926032278054916096/8569adcbd36c70a7578c017bf5604ea5.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "926045976278474792",
+      "type": "Default",
+      "timestamp": "2021-12-30T09:36:05.847+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Hello everybody. I am a mechanical engineering student starting a DAO to develop software and hardware solutions for the maritime space! Feel free to message me if you have any Mechanical questions or just wanna talk about what I am doing.",
+      "author": {
+        "id": "826730285441351721",
+        "name": "Rhomboid",
+        "discriminator": "4607",
+        "nickname": "Rhomboid",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/826730285441351721/ff9f1b28445c7f3dd7c152921a08a67e.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDC4B",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/svg/1f44b.svg"
+          },
+          "count": 3
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDC4D",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/svg/1f44d.svg"
+          },
+          "count": 2
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83C\uDF86",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/svg/1f386.svg"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "926784174445187072",
+      "type": "Default",
+      "timestamp": "2022-01-01T10:29:26.005+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Hey guys! So great to see some awesome people here already. \nI'm an engineer & product designer that has found a passion in Web3 innovations, over the past three years I have dove deep into the rabbit hole. \nI'm now proud to be building core infrastructure and products for the semantic web with an amazing team. Our company https://www.semantu.com/ is focusing on creating a no-code web3 app builder that works completely in the browser. \nWith the ecosystem we plan to build, developers & designers will have a chance to be rewarded for their work. All by leveraging this proprietary tech for linked data that makes code & data interoperable, is program language agnostic and can run in any environment making way for IoT and AI. \nI look forward to hearing about your interests and seeing what a beautiful online-offline world we can build together!",
+      "author": {
+        "id": "767981871766044712",
+        "name": "Enki",
+        "discriminator": "9506",
+        "nickname": "Enki",
+        "color": "#F1C40F",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/767981871766044712/e732d28faf4d0f189841ce9dcdd713a0.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Semantu - bring your data to life",
+          "url": "https://www.semantu.com/",
+          "timestamp": null,
+          "description": "daCore",
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDE00",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/svg/1f600.svg"
+          },
+          "count": 5
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "926964585813143602",
+      "type": "Default",
+      "timestamp": "2022-01-01T22:26:19.427+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Welcome @Enki  @lily777 @Rhomboid! So awesome to have you all here!",
+      "author": {
+        "id": "630645146102267924",
+        "name": "jkey",
+        "discriminator": "2329",
+        "nickname": "jkey",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/630645146102267924/6e61d2671238895beb3254d7e0a27b30.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDC4B",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/svg/1f44b.svg"
+          },
+          "count": 3
+        }
+      ],
+      "mentions": [
+        {
+          "id": "767981871766044712",
+          "name": "Enki",
+          "discriminator": "9506",
+          "nickname": "Enki",
+          "isBot": false
+        },
+        {
+          "id": "826730285441351721",
+          "name": "Rhomboid",
+          "discriminator": "4607",
+          "nickname": "Rhomboid",
+          "isBot": false
+        },
+        {
+          "id": "926032278054916096",
+          "name": "lily777",
+          "discriminator": "3207",
+          "nickname": "lily777",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "930014085922324510",
+      "type": "Default",
+      "timestamp": "2022-01-10T08:23:56.91+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Hey guys, i'm a venture investor and co-founder of blanksoles, a Solana NFT. What started off as a shoe nft backed by Raj Gokal (co-founder of Solana) and Metta World Peace is becoming a platform for the Sac Kings and different NBA players to express themselves. When you mint a pair of NFTs, you also get a pair of physical shoes shipped to you. You also can burn your NFT for a pair of designer NFTs (David Garibaldi and Kickstradomis) and get a pair of designer shoes. Pretty neat for only one NFT.\n\nI'm also working on a number of other projects in stealth including some anime NFTs and metaverses. I'm excited to meet this community and see what everyone is up to. \n\nThis is me: https://twitter.com/dubicboi/status/1467664791464558593?s=20",
+      "author": {
+        "id": "286755327636930561",
+        "name": "wangsta",
+        "discriminator": "4142",
+        "nickname": "wangsta",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/286755327636930561/21903b8d9d91237b29014970788f93ab.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": "https://twitter.com/dubicboi/status/1467664791464558593?s=20",
+          "timestamp": "2021-12-06T01:18:48.835+00:00",
+          "description": "@KotaTheFriend @blanksoles back this solana nft project we got it fosho #wagmi https://t.co/25jZob5Pr8",
+          "color": "#1DA1F2",
+          "author": {
+            "name": "wangsta.eth (@dubicboi)",
+            "url": "https://twitter.com/dubicboi",
+            "iconUrl": "https://images-ext-2.discordapp.net/external/utN-dOWvCTC5Zq60Lju0OuwQJV2vS6lNXzCNoaicfPc/https/pbs.twimg.com/profile_images/1470301641450557440/Cs7aTgEn_bigger.jpg"
+          },
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/LnLH2fmXUleRWd4bId29xJ1fXYoCDiM878YR6mNB9s8/https/pbs.twimg.com/ext_tw_video_thumb/1467664743230062592/pu/img/QFJjA2ZJhRol6VJB.jpg",
+            "width": 675,
+            "height": 1200
+          },
+          "footer": {
+            "text": "Twitter",
+            "iconUrl": "https://images-ext-1.discordapp.net/external/bXJWV2Y_F3XSra_kEqIYXAAsI3m1meckfLhYuWzxIfI/https/abs.twimg.com/icons/apple-touch-icon-192x192.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDC4B",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/svg/1f44b.svg"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "930360286936965190",
+      "type": "Default",
+      "timestamp": "2022-01-11T07:19:37.664+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Welcome @wangsta!",
+      "author": {
+        "id": "630645146102267924",
+        "name": "jkey",
+        "discriminator": "2329",
+        "nickname": "jkey",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/630645146102267924/6e61d2671238895beb3254d7e0a27b30.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "901003549532622898",
+            "name": "PepeLove",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/901003549532622898.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": [
+        {
+          "id": "286755327636930561",
+          "name": "wangsta",
+          "discriminator": "4142",
+          "nickname": "wangsta",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "930777535267086336",
+      "type": "Default",
+      "timestamp": "2022-01-12T10:57:37.418+00:00",
+      "timestampEdited": "2022-01-12T10:58:34.747+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Hey guys I'm Alan Carsey. Conversations/research with Open AI led me here. I'm huge science nerd with deep knowledge of the universe(dm astro stuff anytime) and love all knowledge. \n\nI see DAO is forthcoming into the new digital economy. I am looking for a team to see my potential to a project\n\nMy question is: how can I be apart of a project? How can I benefit a team that's working on a DAO. I'm a valuable asset please utilize me.\n\nCan anyone lead me the right way? I have an open schedule\n\nThank you\n\uD83E\uDD29 Alan Carsey\uD83E\uDD70",
+      "author": {
+        "id": "391832438026010626",
+        "name": "Carsey",
+        "discriminator": "7622",
+        "nickname": "Carsey",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/391832438026010626/68e9e4b53b8fc5f3e391e89c66b69e1a.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDE00",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/svg/1f600.svg"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "930789507391954954",
+      "type": "Reply",
+      "timestamp": "2022-01-12T11:45:11.795+00:00",
+      "timestampEdited": "2022-01-12T11:51:22.213+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Awesome. Highly recommend reading this! https://vision.hyperscalefund.com\n\nGreat to have you here",
+      "author": {
+        "id": "915035187547615243",
+        "name": "kevalin",
+        "discriminator": "4394",
+        "nickname": "kevalin",
+        "color": "#1F8B4C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/915035187547615243/8aec11e684cd1c3ab575358a58fda0bd.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "391832438026010626",
+          "name": "Carsey",
+          "discriminator": "7622",
+          "nickname": "Carsey",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "930777535267086336",
+        "channelId": "925152337213943848",
+        "guildId": "916751469678579784"
+      }
+    },
+    {
+      "id": "930830851246264400",
+      "type": "Reply",
+      "timestamp": "2022-01-12T14:29:28.938+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Astro stuff in what sense. Sounds interesting...",
+      "author": {
+        "id": "900502872670744616",
+        "name": "AMICA",
+        "discriminator": "7675",
+        "nickname": "AMICA",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/900502872670744616/798fb3bd4007400558239f1e5a504b50.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "391832438026010626",
+          "name": "Carsey",
+          "discriminator": "7622",
+          "nickname": "Carsey",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "930777535267086336",
+        "channelId": "925152337213943848",
+        "guildId": "916751469678579784"
+      }
+    },
+    {
+      "id": "930830901762465802",
+      "type": "Default",
+      "timestamp": "2022-01-12T14:29:40.982+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Ad Astra per Aspera",
+      "author": {
+        "id": "900502872670744616",
+        "name": "AMICA",
+        "discriminator": "7675",
+        "nickname": "AMICA",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/900502872670744616/798fb3bd4007400558239f1e5a504b50.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83E\uDD70",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/svg/1f970.svg"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDE0D",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/svg/1f60d.svg"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "931011269589344287",
+      "type": "Default",
+      "timestamp": "2022-01-13T02:26:24.023+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "My name is Daniel I am an Environmental & Atmospheric Scientist located in South America. I have a passion for Web3, Cryptos, NFTs and NoCode Tools. Currently working to become an expert in Community Management and NoCode Tools such as Bubble and Webflow. I am a Crypto investor since 2011. I Contribute to other DAOs such as Decentraliens, KLIMA, Mammalz and others. \n\nLooking forward to meet like-minded individuals and I would love to contribute the best way I can to this amazing community. Cheers!",
+      "author": {
+        "id": "415508833654538243",
+        "name": "→ \uD835\uDDD7\uD835\uDDD4\uD835\uDDE1\uD835\uDDDC\uD835\uDDD8\uD835\uDDDF ←",
+        "discriminator": "0001",
+        "nickname": "→ \uD835\uDDD7\uD835\uDDD4\uD835\uDDE1\uD835\uDDDC\uD835\uDDD8\uD835\uDDDF ←",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/415508833654538243/7673164cd8b8d45d814103bda89b0fdb.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "931036605748232213",
+      "type": "Default",
+      "timestamp": "2022-01-13T04:07:04.634+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Welcome @→ \uD835\uDDD7\uD835\uDDD4\uD835\uDDE1\uD835\uDDDC\uD835\uDDD8\uD835\uDDDF ←!",
+      "author": {
+        "id": "531561241219694592",
+        "name": "hawtlava",
+        "discriminator": "2461",
+        "nickname": "Ryu",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/531561241219694592/e93e2b42b8236ac750bae3fe24b0772b.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "❤️",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/svg/2764.svg"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": [
+        {
+          "id": "415508833654538243",
+          "name": "→ \uD835\uDDD7\uD835\uDDD4\uD835\uDDE1\uD835\uDDDC\uD835\uDDD8\uD835\uDDDF ←",
+          "discriminator": "0001",
+          "nickname": "→ \uD835\uDDD7\uD835\uDDD4\uD835\uDDE1\uD835\uDDDC\uD835\uDDD8\uD835\uDDDF ←",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "931036934640386109",
+      "type": "Reply",
+      "timestamp": "2022-01-13T04:08:23.048+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Thank You!",
+      "author": {
+        "id": "415508833654538243",
+        "name": "→ \uD835\uDDD7\uD835\uDDD4\uD835\uDDE1\uD835\uDDDC\uD835\uDDD8\uD835\uDDDF ←",
+        "discriminator": "0001",
+        "nickname": "→ \uD835\uDDD7\uD835\uDDD4\uD835\uDDE1\uD835\uDDDC\uD835\uDDD8\uD835\uDDDF ←",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/415508833654538243/7673164cd8b8d45d814103bda89b0fdb.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "531561241219694592",
+          "name": "hawtlava",
+          "discriminator": "2461",
+          "nickname": "Ryu",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "931036605748232213",
+        "channelId": "925152337213943848",
+        "guildId": "916751469678579784"
+      }
+    },
+    {
+      "id": "931080596111908885",
+      "type": "Reply",
+      "timestamp": "2022-01-13T07:01:52.754+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "If you'd like some recommended readings on DAOs, I'd be happy to provide some. Feel free to DM me.",
+      "author": {
+        "id": "630645146102267924",
+        "name": "jkey",
+        "discriminator": "2329",
+        "nickname": "jkey",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/630645146102267924/6e61d2671238895beb3254d7e0a27b30.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "391832438026010626",
+          "name": "Carsey",
+          "discriminator": "7622",
+          "nickname": "Carsey",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "930777535267086336",
+        "channelId": "925152337213943848",
+        "guildId": "916751469678579784"
+      }
+    },
+    {
+      "id": "931080926224592926",
+      "type": "Reply",
+      "timestamp": "2022-01-13T07:03:11.459+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Welcome, @→ \uD835\uDDD7\uD835\uDDD4\uD835\uDDE1\uD835\uDDDC\uD835\uDDD8\uD835\uDDDF ←! Good to have you here. I see you're a fellow marketer, feel free to DM me \uD83D\uDE42 I may know some cool opportunities for you.",
+      "author": {
+        "id": "630645146102267924",
+        "name": "jkey",
+        "discriminator": "2329",
+        "nickname": "jkey",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/630645146102267924/6e61d2671238895beb3254d7e0a27b30.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "415508833654538243",
+          "name": "→ \uD835\uDDD7\uD835\uDDD4\uD835\uDDE1\uD835\uDDDC\uD835\uDDD8\uD835\uDDDF ←",
+          "discriminator": "0001",
+          "nickname": "→ \uD835\uDDD7\uD835\uDDD4\uD835\uDDE1\uD835\uDDDC\uD835\uDDD8\uD835\uDDDF ←",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "931011269589344287",
+        "channelId": "925152337213943848",
+        "guildId": "916751469678579784"
+      }
+    },
+    {
+      "id": "931253150038499378",
+      "type": "Reply",
+      "timestamp": "2022-01-13T18:27:32.816+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "DM'ing you! \uD83D\uDE42",
+      "author": {
+        "id": "415508833654538243",
+        "name": "→ \uD835\uDDD7\uD835\uDDD4\uD835\uDDE1\uD835\uDDDC\uD835\uDDD8\uD835\uDDDF ←",
+        "discriminator": "0001",
+        "nickname": "→ \uD835\uDDD7\uD835\uDDD4\uD835\uDDE1\uD835\uDDDC\uD835\uDDD8\uD835\uDDDF ←",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/415508833654538243/7673164cd8b8d45d814103bda89b0fdb.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDCAF",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/svg/1f4af.svg"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": [
+        {
+          "id": "630645146102267924",
+          "name": "jkey",
+          "discriminator": "2329",
+          "nickname": "jkey",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "931080926224592926",
+        "channelId": "925152337213943848",
+        "guildId": "916751469678579784"
+      }
+    },
+    {
+      "id": "932470605733842944",
+      "type": "Default",
+      "timestamp": "2022-01-17T03:05:16.873+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Hi, I’m Patrick, an angel investor, recovering lawyer, permanent learner, and dad.  I’m currently researching non-profit DAOs and DAOs for grant making purposes.",
+      "author": {
+        "id": "790280775446691870",
+        "name": "patrickryan.eth",
+        "discriminator": "6019",
+        "nickname": "patrickryan.eth",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/790280775446691870/94199066626d7d0843e2cd58325adde9.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "932488253909655613",
+      "type": "Default",
+      "timestamp": "2022-01-17T04:15:24.526+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Hi everyone, I am Akhil Potdar. (doxxed https://www.linkedin.com/in/akhil-potdar/ )\nCurrently doing data analytics & data strategy work at Barclays with previous experience in data dept @ Bloomberg.\nMy role is almost a liaison between business & IT - understanding both worlds and manage the delivery of complex projects that emerge from the 2 sides colliding. \n\nI am currently working on what would be considered a web 3 project that is a value adding service to existing NFT collections. \nI have a lot of the groundwork laid out over the last few weeks - concept, design, wireframes, strategy, market sizing,go to market(pre/launch/post launch strats) user acquisition/risks/potential monetization - all of the business side of things essentially. \n\nCurrently in the process of acquiring project proposals from various development teams on delivering an MVP. \nLooking to learn more about this DAO, in general as well as questions about the application process.",
+      "author": {
+        "id": "337748024325570570",
+        "name": "akhilp.eth",
+        "discriminator": "3757",
+        "nickname": "akhilp.eth",
+        "color": "#2ECC71",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/337748024325570570/30cc4c8cd198a06cc6b3946eb1a5714d.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "932488813287190538",
+      "type": "Reply",
+      "timestamp": "2022-01-17T04:17:37.892+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Welcome!  I think this post addresses what you're looking for: https://discord.com/channels/916751469678579784/924233086869323856/931872990310834227",
+      "author": {
+        "id": "531561241219694592",
+        "name": "hawtlava",
+        "discriminator": "2461",
+        "nickname": "Ryu",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/531561241219694592/e93e2b42b8236ac750bae3fe24b0772b.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "337748024325570570",
+          "name": "akhilp.eth",
+          "discriminator": "3757",
+          "nickname": "akhilp.eth",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "932488253909655613",
+        "channelId": "925152337213943848",
+        "guildId": "916751469678579784"
+      }
+    },
+    {
+      "id": "932495889317117952",
+      "type": "Reply",
+      "timestamp": "2022-01-17T04:45:44.949+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "thanks! just read through the google doc as well as the medium post. Think I have a rough idea of how to navigate this process",
+      "author": {
+        "id": "337748024325570570",
+        "name": "akhilp.eth",
+        "discriminator": "3757",
+        "nickname": "akhilp.eth",
+        "color": "#2ECC71",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/337748024325570570/30cc4c8cd198a06cc6b3946eb1a5714d.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDC4D",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/svg/1f44d.svg"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": [
+        {
+          "id": "531561241219694592",
+          "name": "hawtlava",
+          "discriminator": "2461",
+          "nickname": "Ryu",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "932488813287190538",
+        "channelId": "925152337213943848",
+        "guildId": "916751469678579784"
+      }
+    },
+    {
+      "id": "932498580349009940",
+      "type": "Reply",
+      "timestamp": "2022-01-17T04:56:26.541+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "is there a specific channel I can see what has been funded and see how the dao is assisting them?",
+      "author": {
+        "id": "337748024325570570",
+        "name": "akhilp.eth",
+        "discriminator": "3757",
+        "nickname": "akhilp.eth",
+        "color": "#2ECC71",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/337748024325570570/30cc4c8cd198a06cc6b3946eb1a5714d.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "531561241219694592",
+          "name": "hawtlava",
+          "discriminator": "2461",
+          "nickname": "Ryu",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "932488813287190538",
+        "channelId": "925152337213943848",
+        "guildId": "916751469678579784"
+      }
+    },
+    {
+      "id": "932498650603602030",
+      "type": "Default",
+      "timestamp": "2022-01-17T04:56:43.291+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Not yet, soon",
+      "author": {
+        "id": "531561241219694592",
+        "name": "hawtlava",
+        "discriminator": "2461",
+        "nickname": "Ryu",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/531561241219694592/e93e2b42b8236ac750bae3fe24b0772b.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDC4D",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/svg/1f44d.svg"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "932713698236170270",
+      "type": "Default",
+      "timestamp": "2022-01-17T19:11:14.642+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Hi everyone, I'm Josh, I come from the mobility space, launched/operated shared bikes and scooters in over 20 cities. Americans spend 13% of their household expenditure on transportation. I believe that DAO's can facilitate better transportation choices and reduce the cost of transportation. I'm currently in the early stages of building the Micromobility DAO.  More about it here: https://medium.com/@josh_94206/micro-mobility-dao-e79dd970c706",
+      "author": {
+        "id": "917482204756607047",
+        "name": "MMRides",
+        "discriminator": "8592",
+        "nickname": "MMRides",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/917482204756607047/5eba155e3fdeb262989e81a1cf4aaa7d.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Micro Mobility DAO",
+          "url": "https://medium.com/@josh_94206/micro-mobility-dao-e79dd970c706",
+          "timestamp": null,
+          "description": "Our Mission",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/6NgArkY8ek0XDyehxTzFiAmrZ905HC9sbXGUhb9RUXU/https/miro.medium.com/max/1200/1%2A_86XFHztGQQZViKQVvndWw.png",
+            "width": 1200,
+            "height": 675
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "932715143580766278",
+      "type": "Reply",
+      "timestamp": "2022-01-17T19:16:59.239+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Welcome to Hyperscale! Interesting DAO. Feel free to ask anything on #❓help-desk if you feel lost.",
+      "author": {
+        "id": "900502872670744616",
+        "name": "AMICA",
+        "discriminator": "7675",
+        "nickname": "AMICA",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/900502872670744616/798fb3bd4007400558239f1e5a504b50.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "917482204756607047",
+          "name": "MMRides",
+          "discriminator": "8592",
+          "nickname": "MMRides",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "932713698236170270",
+        "channelId": "925152337213943848",
+        "guildId": "916751469678579784"
+      }
+    },
+    {
+      "id": "932765284652159006",
+      "type": "Default",
+      "timestamp": "2022-01-17T22:36:13.802+00:00",
+      "timestampEdited": "2022-01-17T22:37:59.458+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Hi everyone,\n\nMy name is Angelo and I'm a veteran turned Fintech entrepreneur now working for the long haul on a project called build_ (https://www.buildcities.network/).  build\\_ is a multiverse coworking DAO looking to incubate & grow startup cities around the globe.\n\nDetailed open-source whitepaper here:  https://docs.google.com/document/d/19LE7H56z2cIJ9QLa60SktL1mZSMSM-bSBwEo-qeqUU0/edit?usp=sharing\n\nLooking forward to connecting with folks here",
+      "author": {
+        "id": "441750040248320000",
+        "name": "angelo | build_",
+        "discriminator": "0202",
+        "nickname": "angelo | build_",
+        "color": "#2ECC71",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/441750040248320000/3b48ab70d09c5bb6f68375b00b1ef814.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "932780590929960961",
+      "type": "Reply",
+      "timestamp": "2022-01-17T23:37:03.103+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Welcome Angelo!",
+      "author": {
+        "id": "900502872670744616",
+        "name": "AMICA",
+        "discriminator": "7675",
+        "nickname": "AMICA",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/900502872670744616/798fb3bd4007400558239f1e5a504b50.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "441750040248320000",
+          "name": "angelo | build_",
+          "discriminator": "0202",
+          "nickname": "angelo | build_",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "932765284652159006",
+        "channelId": "925152337213943848",
+        "guildId": "916751469678579784"
+      }
+    },
+    {
+      "id": "932833243600928808",
+      "type": "Reply",
+      "timestamp": "2022-01-18T03:06:16.478+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Great",
+      "author": {
+        "id": "864406808436277248",
+        "name": "rx",
+        "discriminator": "5834",
+        "nickname": "rx",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/864406808436277248/f45b034d81a9f2db7be18ffded9f9bda.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "441750040248320000",
+          "name": "angelo | build_",
+          "discriminator": "0202",
+          "nickname": "angelo | build_",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "932765284652159006",
+        "channelId": "925152337213943848",
+        "guildId": "916751469678579784"
+      }
+    },
+    {
+      "id": "932836742027968542",
+      "type": "Default",
+      "timestamp": "2022-01-18T03:20:10.568+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@Minato | CTO give Intro He is a developer ready to work volunteer",
+      "author": {
+        "id": "864406808436277248",
+        "name": "rx",
+        "discriminator": "5834",
+        "nickname": "rx",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/864406808436277248/f45b034d81a9f2db7be18ffded9f9bda.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "883873565936615464",
+          "name": "Minato | CTO",
+          "discriminator": "5411",
+          "nickname": "Minato | CTO",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "932838149787361330",
+      "type": "Default",
+      "timestamp": "2022-01-18T03:25:46.204+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@happyfisherod  dev",
+      "author": {
+        "id": "864406808436277248",
+        "name": "rx",
+        "discriminator": "5834",
+        "nickname": "rx",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/864406808436277248/f45b034d81a9f2db7be18ffded9f9bda.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "881672080410693642",
+          "name": "happyfisherod",
+          "discriminator": "4146",
+          "nickname": "happyfisherod",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "932838187892629524",
+      "type": "Default",
+      "timestamp": "2022-01-18T03:25:55.289+00:00",
+      "timestampEdited": "2022-01-18T03:26:17.812+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Hi, @rx @Minato | CTO",
+      "author": {
+        "id": "881672080410693642",
+        "name": "happyfisherod",
+        "discriminator": "4146",
+        "nickname": "happyfisherod",
+        "color": "#1ABC9C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/881672080410693642/990965348cff27b0ac18d997146649da.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "864406808436277248",
+          "name": "rx",
+          "discriminator": "5834",
+          "nickname": "rx",
+          "isBot": false
+        },
+        {
+          "id": "883873565936615464",
+          "name": "Minato | CTO",
+          "discriminator": "5411",
+          "nickname": "Minato | CTO",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "932838309468700732",
+      "type": "Reply",
+      "timestamp": "2022-01-18T03:26:24.275+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Hi give your intro",
+      "author": {
+        "id": "864406808436277248",
+        "name": "rx",
+        "discriminator": "5834",
+        "nickname": "rx",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/864406808436277248/f45b034d81a9f2db7be18ffded9f9bda.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "881672080410693642",
+          "name": "happyfisherod",
+          "discriminator": "4146",
+          "nickname": "happyfisherod",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "932838187892629524",
+        "channelId": "925152337213943848",
+        "guildId": "916751469678579784"
+      }
+    },
+    {
+      "id": "932838576146755685",
+      "type": "Default",
+      "timestamp": "2022-01-18T03:27:27.856+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "This is a blockchain architect from Japan.\nhttps://www.linkedin.com/in/nero-zato\nhttps://twitter.com/nero_zato\nhttps://github.com/happyfisherod\nI have much experience in developing smart contracts with Solidity.\nI am also familiar with Web3, and Ethers sdk.\n\nThese are OHM forks on ETH, BSC, and AVAX.\nhttps://vault79.on.fleek.co/\nhttps://tropicaldao.on.fleek.co/\nThis is DEX platform.\nhttps://iqautotrade.com/\nDEX aggregator and Bridge protocol. \nhttps://takaprotocol.org/\nAnd forked WolfGame on AVAX. \nhttps://fishgame.vercel.app/\na NFT game of my best examples.\nhttps://splinterlands.io/\n\nI will be happy to work in the team.\nNero Zato",
+      "author": {
+        "id": "881672080410693642",
+        "name": "happyfisherod",
+        "discriminator": "4146",
+        "nickname": "happyfisherod",
+        "color": "#1ABC9C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/881672080410693642/990965348cff27b0ac18d997146649da.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDC4B",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/svg/1f44b.svg"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "932843439127683072",
+      "type": "Default",
+      "timestamp": "2022-01-18T03:46:47.281+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Hey, everyone\nAs a senior **full-stack**/**blockchain**/**game **dev, I have 8+ years of web experience and 4+ years of blockchain experience.\nboth ETH (Solidity) & Solana (Rust)\n\nhttps://portfoliominato.netlify.app/\nThis is my portfolio\nYou can see my best works on there\nI can help you all with my experience.\n\nThanks!",
+      "author": {
+        "id": "883873565936615464",
+        "name": "Minato | CTO",
+        "discriminator": "5411",
+        "nickname": "Minato | CTO",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/883873565936615464/be7a00750b67e9935bd436ff5ad0b912.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "933263162814377994",
+      "type": "Reply",
+      "timestamp": "2022-01-19T07:34:37.206+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Glad to have you here!",
+      "author": {
+        "id": "915035187547615243",
+        "name": "kevalin",
+        "discriminator": "4394",
+        "nickname": "kevalin",
+        "color": "#1F8B4C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/915035187547615243/8aec11e684cd1c3ab575358a58fda0bd.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "883873565936615464",
+          "name": "Minato | CTO",
+          "discriminator": "5411",
+          "nickname": "Minato | CTO",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "932843439127683072",
+        "channelId": "925152337213943848",
+        "guildId": "916751469678579784"
+      }
+    },
+    {
+      "id": "933263243059793950",
+      "type": "Reply",
+      "timestamp": "2022-01-19T07:34:56.338+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "thanks!",
+      "author": {
+        "id": "883873565936615464",
+        "name": "Minato | CTO",
+        "discriminator": "5411",
+        "nickname": "Minato | CTO",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/883873565936615464/be7a00750b67e9935bd436ff5ad0b912.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "915035187547615243",
+          "name": "kevalin",
+          "discriminator": "4394",
+          "nickname": "kevalin",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "933263162814377994",
+        "channelId": "925152337213943848",
+        "guildId": "916751469678579784"
+      }
+    },
+    {
+      "id": "933264180411236402",
+      "type": "Default",
+      "timestamp": "2022-01-19T07:38:39.82+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Welcome @Minato | CTO!",
+      "author": {
+        "id": "630645146102267924",
+        "name": "jkey",
+        "discriminator": "2329",
+        "nickname": "jkey",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/630645146102267924/6e61d2671238895beb3254d7e0a27b30.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "883873565936615464",
+          "name": "Minato | CTO",
+          "discriminator": "5411",
+          "nickname": "Minato | CTO",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "933288810354212904",
+      "type": "Reply",
+      "timestamp": "2022-01-19T09:16:32.056+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "We need all the help we can get in development and design! Welcome to Hyperscale!",
+      "author": {
+        "id": "900502872670744616",
+        "name": "AMICA",
+        "discriminator": "7675",
+        "nickname": "AMICA",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/900502872670744616/798fb3bd4007400558239f1e5a504b50.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "883873565936615464",
+          "name": "Minato | CTO",
+          "discriminator": "5411",
+          "nickname": "Minato | CTO",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "932843439127683072",
+        "channelId": "925152337213943848",
+        "guildId": "916751469678579784"
+      }
+    },
+    {
+      "id": "933648645193105418",
+      "type": "Default",
+      "timestamp": "2022-01-20T09:06:23.367+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "\uD83E\uDDD8‍♂️\uD83E\uDDF3\uD83E\uDDED\uD83C\uDFDD️⏳\uD83D\uDCE1⏲️\uD83D\uDEF8\uD83D\uDC7D\uD83C\uDF89",
+      "author": {
+        "id": "822749116529901569",
+        "name": "ozone914",
+        "discriminator": "2374",
+        "nickname": "ozone914",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/822749116529901569/260ffdeec65495fc06483aab5a93e51b.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "933648773081600030",
+      "type": "Default",
+      "timestamp": "2022-01-20T09:06:53.858+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "You can learn about how me here. http://ozone-designs.com/",
+      "author": {
+        "id": "822749116529901569",
+        "name": "ozone914",
+        "discriminator": "2374",
+        "nickname": "ozone914",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/822749116529901569/260ffdeec65495fc06483aab5a93e51b.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Welcome to: Ozone Designs, LLC",
+          "url": "http://ozone-designs.com/",
+          "timestamp": null,
+          "description": "",
+          "author": {
+            "name": "ozone914",
+            "url": "http://ozone-designs.com/author/ozone914"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "934076471285276762",
+      "type": "Default",
+      "timestamp": "2022-01-21T13:26:25.056+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Hi all, this is really cool thanks for doing it!",
+      "author": {
+        "id": "934030891930484747",
+        "name": "Toren",
+        "discriminator": "4768",
+        "nickname": "Toren",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/934030891930484747/b84eaa07c17c7567586c446fe79ef7a9.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDE4C\uD83C\uDFFB",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/svg/1f64c-1f3fb.svg"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "934085470890131556",
+      "type": "Default",
+      "timestamp": "2022-01-21T14:02:10.729+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Welcome!",
+      "author": {
+        "id": "703540563328368691",
+        "name": "BenJ",
+        "discriminator": "0551",
+        "nickname": "BenJ",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/703540563328368691/e4eacd321d76a0e2b88bbcb8076d5e4d.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83E\uDD73",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/svg/1f973.svg"
+          },
+          "count": 2
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "934400159712940032",
+      "type": "Default",
+      "timestamp": "2022-01-22T10:52:38.391+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Feed back is welcomed",
+      "author": {
+        "id": "822749116529901569",
+        "name": "ozone914",
+        "discriminator": "2374",
+        "nickname": "ozone914",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/822749116529901569/260ffdeec65495fc06483aab5a93e51b.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "934404337411706890",
+      "type": "Default",
+      "timestamp": "2022-01-22T11:09:14.432+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "K",
+      "author": {
+        "id": "822749116529901569",
+        "name": "ozone914",
+        "discriminator": "2374",
+        "nickname": "ozone914",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/822749116529901569/260ffdeec65495fc06483aab5a93e51b.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "934404359284989992",
+      "type": "Default",
+      "timestamp": "2022-01-22T11:09:19.647+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "K",
+      "author": {
+        "id": "822749116529901569",
+        "name": "ozone914",
+        "discriminator": "2374",
+        "nickname": "ozone914",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/822749116529901569/260ffdeec65495fc06483aab5a93e51b.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "935099313820958780",
+      "type": "Default",
+      "timestamp": "2022-01-24T09:10:49.72+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I am a driven, self-motivated Full Stack Developer with 7 + years of experience in the industry and has strong experience with JavaScript and its latest frameworks. I have 3 years of prior experience in blockchain development.\n\nI have hands-on expertise in React.JS | Angular.JS | Node.JS | Express.JS | Vue.JS | Garsby.JS | Anime.JS | Three.JS | 3d.JS | MongoDB | Flux | Redux | HTML5 | CSS3 | Bootstrap | LESS | SASS | AI | AR/VR | Rest/Json API | Apollo/GraphQL | Postgres and Dgraph (Graph database) | PHP | Laravel | Atlassian Tools | Code Management Tools | Payment Gateway integration.\n\nI have created multiple:\n1) DApps ( DEX, CEX, Staking, Farming & Minting Functionalities)\n2) NFT marketplaces ( Solana, Polygon Matic, Binance, Ethereum)\n\nWonderful examples would be better than 1K words.\n\nSome of my DApp projects:\n1)https://spookyswap.finance/\n2)https://nightmare.arhamsoft.org/\n3)https://www.annex.finance/\n4)https://www.holdex.finance/\n\nSome of my minting pages:\n- https://fatcatmafia.io/ (Solana)\n- https://savagesharks.io/ (Solana)\n- https://sockbuttz.com/ (Etherium)\n- https://moass-asses.club/ (Solana)\n- https://gamestorme-fg6gs.ondigitalocean.app/ (Solana)\n\nNFT Marketplace:\nhttps://www.figma.com/proto/G2vcEWJUUHoy70UE3FiLJS/MP4toNFT-%7C-Phase-2-%7C-Collaboration?node-id=572%3A0&scaling=min-zoom\n\nSwap/Exchange:\nhttps://www.figma.com/proto/PAQfSoLrFHa5t4yB6ZykGi/Rubyswap?node-id=70%3A57&scaling=min-zoom\n\nLooking Forward to hear from you!",
+      "author": {
+        "id": "869504097936605204",
+        "name": "Proharvester",
+        "discriminator": "9362",
+        "nickname": "Proharvester",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/869504097936605204/94455fd95a145d477c633c08c6d03ec6.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "SpookySwap - Fantom Opera's premier DeFi Hub and DEX",
+          "url": "https://spookyswap.finance/",
+          "timestamp": null,
+          "description": "The spookiest DEX and Defi hub around! Earn BOO through yield farming, enjoy low fees to swap or submit limit orders or try out the easiest to use bridge possible!",
+          "color": "#8C8CE3",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/Hdadb9y1DuU6P-ci-R5w6AwOk4FcWtAzGwjzdhapdTg/https/assets.spookyswap.finance/hero.png",
+            "width": 854,
+            "height": 480
+          },
+          "fields": []
+        },
+        {
+          "title": "Nightmare - A next evolution DeFi exchange on Fantom (FTM)",
+          "url": "https://nightmare.arhamsoft.org/",
+          "timestamp": null,
+          "description": "The most popular AMM on FTM by user count! Earn CAKE through yield farming or win it in the Lottery, then stake it in Syrup Pools to earn more tokens! Initial Farm Offerings (new token launch model pioneered by Nightmare Finance), NFTs, and more, on a platform you can trust.",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/nPGlotO_hAkt7mJkzXFRsXf5WcYdNNwtJbA_XdaUO0M/https/nightmare.arhamsoft.org/favicon.png",
+            "width": 32,
+            "height": 32
+          },
+          "fields": []
+        },
+        {
+          "title": "Annex Finance | Money Markets | Swap | Auction Decentralized",
+          "url": "https://www.annex.finance/",
+          "timestamp": null,
+          "description": "Money Markets. A one stop shop DeFi platform for lenders and borrowers with borderless stablecoins, that also features own AMM, Auction ILO Launchpad, and NFT Marketplace.",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/2rPxgAgRHl0mpu22bWse9E26l5JSiOfCBSM0xGv3xiQ/https/www.annex.finance/images/thumbnail.png",
+            "width": 512,
+            "height": 361
+          },
+          "fields": []
+        },
+        {
+          "title": "Holdex Finance - Holders always win!",
+          "url": "https://www.holdex.finance/",
+          "timestamp": null,
+          "description": "Holdex will be one of the most powerful Decentralized Fin-Tech Platform! Our community is building a decentralized trading platform for the future of finance.",
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "935108842478526495",
+      "type": "Reply",
+      "timestamp": "2022-01-24T09:48:41.529+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Welcome!\n\nWanna join us in #\uD83D\uDEE0development ?",
+      "author": {
+        "id": "703540563328368691",
+        "name": "BenJ",
+        "discriminator": "0551",
+        "nickname": "BenJ",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/703540563328368691/e4eacd321d76a0e2b88bbcb8076d5e4d.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "869504097936605204",
+          "name": "Proharvester",
+          "discriminator": "9362",
+          "nickname": "Proharvester",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "935099313820958780",
+        "channelId": "925152337213943848",
+        "guildId": "916751469678579784"
+      }
+    },
+    {
+      "id": "935136294575697921",
+      "type": "Reply",
+      "timestamp": "2022-01-24T11:37:46.619+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "What's your involvement with SpookySwap?",
+      "author": {
+        "id": "915035187547615243",
+        "name": "kevalin",
+        "discriminator": "4394",
+        "nickname": "kevalin",
+        "color": "#1F8B4C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/915035187547615243/8aec11e684cd1c3ab575358a58fda0bd.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "869504097936605204",
+          "name": "Proharvester",
+          "discriminator": "9362",
+          "nickname": "Proharvester",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "935099313820958780",
+        "channelId": "925152337213943848",
+        "guildId": "916751469678579784"
+      }
+    },
+    {
+      "id": "935138037074112522",
+      "type": "Reply",
+      "timestamp": "2022-01-24T11:44:42.063+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I have built it from scratch. I was responsible for contract dev, web3.js in frontend.",
+      "author": {
+        "id": "869504097936605204",
+        "name": "Proharvester",
+        "discriminator": "9362",
+        "nickname": "Proharvester",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/869504097936605204/94455fd95a145d477c633c08c6d03ec6.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "915035187547615243",
+          "name": "kevalin",
+          "discriminator": "4394",
+          "nickname": "kevalin",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "935136294575697921",
+        "channelId": "925152337213943848",
+        "guildId": "916751469678579784"
+      }
+    },
+    {
+      "id": "935138292393988096",
+      "type": "Reply",
+      "timestamp": "2022-01-24T11:45:42.936+00:00",
+      "timestampEdited": "2022-01-24T11:46:05.426+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "DM me. How many devs are behind this fork? Impressive execution",
+      "author": {
+        "id": "915035187547615243",
+        "name": "kevalin",
+        "discriminator": "4394",
+        "nickname": "kevalin",
+        "color": "#1F8B4C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/915035187547615243/8aec11e684cd1c3ab575358a58fda0bd.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "869504097936605204",
+          "name": "Proharvester",
+          "discriminator": "9362",
+          "nickname": "Proharvester",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "935138037074112522",
+        "channelId": "925152337213943848",
+        "guildId": "916751469678579784"
+      }
+    },
+    {
+      "id": "935580630501163048",
+      "type": "Default",
+      "timestamp": "2022-01-25T17:03:24.559+00:00",
+      "timestampEdited": "2022-01-25T17:03:36.577+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Hi ya'll, my name is Nigel and I am founder of Next Billion Burgers (http://www.nextbillionburgers.com)\n\nThe goal is simple; decentralise the plant-based industry by making open-source the tacit knowledge that resides in large companies, institutions and experts.\n\nThe desired outcome: enabling a billion plant-based burgers by entrepreneurs anywhere in the world that are __actually affordable, healthy and sustainable__.\n\nMy background has been mainly in the finance world across private equity and VC but mainly in food and agtech. Happy to be here and thanks @chanelcoco for the invite!",
+      "author": {
+        "id": "453521852090810368",
+        "name": "nomirolce",
+        "discriminator": "0773",
+        "nickname": "nomirolce",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/453521852090810368/d051315115985a56294c08c694a610c0.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Next Billion Burgers | Plant-Based, Open Source, Foodtech",
+          "url": "http://www.nextbillionburgers.com/",
+          "timestamp": null,
+          "description": "Next Billion Burgers is creating the GitHub of the plant-based food industry.",
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/6kdqUVKc9D70kv9SeebniX6Ssc8WQLKFmerC84Nd4YU/https/static.wixstatic.com/media/b0373a_32b95e1d60974449bb4a241bf63f6105~mv2.jpg/v1/fill/w_2500%2Ch_1666%2Cal_c/b0373a_32b95e1d60974449bb4a241bf63f6105~mv2.jpg",
+            "width": 2500,
+            "height": 1666
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "574196160298745876",
+          "name": "chanelcoco",
+          "discriminator": "4816",
+          "nickname": "chanelcoco",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "935977967878832169",
+      "type": "Default",
+      "timestamp": "2022-01-26T19:22:17.172+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Hey @kevalin  - cool to see you on the Syndicate server. Would love to hear your thoughts on what's most challenging for Hyperscale rn. I'm growing  a similar community investment fund on Syndicate and one for a student founder community to invest in each other.",
+      "author": {
+        "id": "481203634491621377",
+        "name": "davidtsong",
+        "discriminator": "4630",
+        "nickname": "davidtsong",
+        "color": "#1ABC9C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/481203634491621377/7905c6d986dd6c7f3a7504c6405bc6cf.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "915035187547615243",
+          "name": "kevalin",
+          "discriminator": "4394",
+          "nickname": "kevalin",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "936510415180021760",
+      "type": "Reply",
+      "timestamp": "2022-01-28T06:38:02.501+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Deal sourcing",
+      "author": {
+        "id": "915035187547615243",
+        "name": "kevalin",
+        "discriminator": "4394",
+        "nickname": "kevalin",
+        "color": "#1F8B4C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/915035187547615243/8aec11e684cd1c3ab575358a58fda0bd.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "481203634491621377",
+          "name": "davidtsong",
+          "discriminator": "4630",
+          "nickname": "davidtsong",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "935977967878832169",
+        "channelId": "925152337213943848",
+        "guildId": "916751469678579784"
+      }
+    },
+    {
+      "id": "936877980741947422",
+      "type": "Default",
+      "timestamp": "2022-01-29T06:58:36.96+00:00",
+      "timestampEdited": "2022-01-29T06:59:21.193+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Greetings. Dropping in from talentDAO - https://www.talentdao.io/ - (behavioral researchers focused on DAOs). My background is in HR/People Analytics. Happy to be here!       ✊ \uD83D\uDE01",
+      "author": {
+        "id": "903680720462053437",
+        "name": "Blockpusher_J",
+        "discriminator": "3137",
+        "nickname": "Blockpusher_J",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/903680720462053437/b777d3851cb494460356a041db4e1c1a.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": "https://www.talentdao.io/",
+          "timestamp": null,
+          "description": "",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/4CCRNeddl5swFlOHTl9KTEABKpmMnRxx5z3oAydfl9w/https/lirp.cdn-website.com/eeeb2848/dms3rep/multi/opt/TD-circle-T-black-1920w.png",
+            "width": 625,
+            "height": 625
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "936884695659057153",
+      "type": "Reply",
+      "timestamp": "2022-01-29T07:25:17.921+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Glad to have you!",
+      "author": {
+        "id": "915035187547615243",
+        "name": "kevalin",
+        "discriminator": "4394",
+        "nickname": "kevalin",
+        "color": "#1F8B4C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/915035187547615243/8aec11e684cd1c3ab575358a58fda0bd.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDE4F",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/svg/1f64f.svg"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": [
+        {
+          "id": "903680720462053437",
+          "name": "Blockpusher_J",
+          "discriminator": "3137",
+          "nickname": "Blockpusher_J",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "936877980741947422",
+        "channelId": "925152337213943848",
+        "guildId": "916751469678579784"
+      }
+    },
+    {
+      "id": "936997221319204925",
+      "type": "Default",
+      "timestamp": "2022-01-29T14:52:26.129+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Hello, @eveyone, How are you ?\nI am software engineer who has rich experience over 6 years.\nhttps://redblood639.github.io/RedBlood639\nthank you",
+      "author": {
+        "id": "892288309982797865",
+        "name": "R.G.M",
+        "discriminator": "6255",
+        "nickname": "R.G.M",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/892288309982797865/15e18397306b3f198656f43eaf5581af.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Haoming Profile",
+          "url": "https://redblood639.github.io/RedBlood639",
+          "timestamp": null,
+          "description": "Haoming is an outstanding software engineer who is passionate about his work. I firmly believe everyone can depend on him to complete their projects!",
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "937002749135044619",
+      "type": "Default",
+      "timestamp": "2022-01-29T15:14:24.063+00:00",
+      "timestampEdited": "2022-01-29T15:14:33.476+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Hello everyone.\nI am a blockchain engineer, also available for frontend too.",
+      "author": {
+        "id": "928649269567684648",
+        "name": "iikitty",
+        "discriminator": "8970",
+        "nickname": "iikitty",
+        "color": "#1ABC9C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/928649269567684648/d149510d92df9bac221ad2de4a0c9ab7.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "⚡",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/svg/26a1.svg"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "937087144424513616",
+      "type": "Reply",
+      "timestamp": "2022-01-29T20:49:45.468+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Welcome to Hyperscale.",
+      "author": {
+        "id": "900502872670744616",
+        "name": "AMICA",
+        "discriminator": "7675",
+        "nickname": "AMICA",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/900502872670744616/798fb3bd4007400558239f1e5a504b50.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "936997221319204925",
+        "channelId": "925152337213943848",
+        "guildId": "916751469678579784"
+      }
+    },
+    {
+      "id": "937087177806975017",
+      "type": "Reply",
+      "timestamp": "2022-01-29T20:49:53.427+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Welcome here.",
+      "author": {
+        "id": "900502872670744616",
+        "name": "AMICA",
+        "discriminator": "7675",
+        "nickname": "AMICA",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/900502872670744616/798fb3bd4007400558239f1e5a504b50.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "928649269567684648",
+          "name": "iikitty",
+          "discriminator": "8970",
+          "nickname": "iikitty",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "937002749135044619",
+        "channelId": "925152337213943848",
+        "guildId": "916751469678579784"
+      }
+    },
+    {
+      "id": "937087786136248360",
+      "type": "Default",
+      "timestamp": "2022-01-29T20:52:18.464+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Everyone who would love to code on awesome stuff at Hyperscale, head over to #\uD83D\uDEE0development @BenJ and his crew would love to have additional hands to build the ship!",
+      "author": {
+        "id": "900502872670744616",
+        "name": "AMICA",
+        "discriminator": "7675",
+        "nickname": "AMICA",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/900502872670744616/798fb3bd4007400558239f1e5a504b50.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "703540563328368691",
+          "name": "BenJ",
+          "discriminator": "0551",
+          "nickname": "BenJ",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "937087954726293566",
+      "type": "Reply",
+      "timestamp": "2022-01-29T20:52:58.659+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Awesome! Join us in #\uD83D\uDEE0development",
+      "author": {
+        "id": "703540563328368691",
+        "name": "BenJ",
+        "discriminator": "0551",
+        "nickname": "BenJ",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/703540563328368691/e4eacd321d76a0e2b88bbcb8076d5e4d.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "⚡",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/svg/26a1.svg"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": [
+        {
+          "id": "928649269567684648",
+          "name": "iikitty",
+          "discriminator": "8970",
+          "nickname": "iikitty",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "937002749135044619",
+        "channelId": "925152337213943848",
+        "guildId": "916751469678579784"
+      }
+    },
+    {
+      "id": "937404800876822529",
+      "type": "Default",
+      "timestamp": "2022-01-30T17:52:00.668+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Hello everyone I'm an aspiring software engineer",
+      "author": {
+        "id": "660345636549427210",
+        "name": "karthik",
+        "discriminator": "7728",
+        "nickname": "karthik",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/3.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDC4D",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/svg/1f44d.svg"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "937431434568822794",
+      "type": "Reply",
+      "timestamp": "2022-01-30T19:37:50.635+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Welcome to Hyperscale!",
+      "author": {
+        "id": "900502872670744616",
+        "name": "AMICA",
+        "discriminator": "7675",
+        "nickname": "AMICA",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/900502872670744616/798fb3bd4007400558239f1e5a504b50.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "660345636549427210",
+          "name": "karthik",
+          "discriminator": "7728",
+          "nickname": "karthik",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "937404800876822529",
+        "channelId": "925152337213943848",
+        "guildId": "916751469678579784"
+      }
+    },
+    {
+      "id": "939195903372308540",
+      "type": "Default",
+      "timestamp": "2022-02-04T16:29:12.78+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Hello folks\n\nI'm a founder working on a platform to allow people to  create a DAO in a matter of seconds (if the chain is not too congested ^^)\n\nHave a technical background, but see myself as a generalist.\n\nLooking to connect with people involved in DAOs and also always happy to help people get onboarded in web3",
+      "author": {
+        "id": "428790869139652619",
+        "name": "hotkartoffel",
+        "discriminator": "2160",
+        "nickname": "ben | DAOnative",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/428790869139652619/883a9744b89e00e1dd99832833bc39ac.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDE0D",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/svg/1f60d.svg"
+          },
+          "count": 2
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "939234619834925106",
+      "type": "Default",
+      "timestamp": "2022-02-04T19:03:03.504+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Hello @hotkartoffel welcome to Hyperscale. Feel at home!",
+      "author": {
+        "id": "900502872670744616",
+        "name": "AMICA",
+        "discriminator": "7675",
+        "nickname": "AMICA",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/900502872670744616/798fb3bd4007400558239f1e5a504b50.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "❤️",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/svg/2764.svg"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": [
+        {
+          "id": "428790869139652619",
+          "name": "hotkartoffel",
+          "discriminator": "2160",
+          "nickname": "ben | DAOnative",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "939488751690874920",
+      "type": "Default",
+      "timestamp": "2022-02-05T11:52:53.26+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@mrtnhWelcome to Hyperscale! glad ya found it. Whats your project about? Hard to read thru translation",
+      "author": {
+        "id": "391832438026010626",
+        "name": "Carsey",
+        "discriminator": "7622",
+        "nickname": "Carsey",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/391832438026010626/68e9e4b53b8fc5f3e391e89c66b69e1a.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "273371483198324736",
+          "name": "mrtnh",
+          "discriminator": "2168",
+          "nickname": "mrtnh",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "939841808702255125",
+      "type": "Reply",
+      "timestamp": "2022-02-06T11:15:48.611+00:00",
+      "timestampEdited": "2022-02-06T11:16:25.037+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I have a coaching & mentorship program with ~200 members. Am trying to see how to make it into a DAO. Your platform is very appealing to me. Figuring out discord but would love to connect and learn more.",
+      "author": {
+        "id": "623819684625645568",
+        "name": "skillsforsuccess",
+        "discriminator": "5145",
+        "nickname": "skillsforsuccess",
+        "color": "#9B59B6",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/623819684625645568/b989ebbf788a3de24ac755f82f408c95.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "428790869139652619",
+          "name": "hotkartoffel",
+          "discriminator": "2160",
+          "nickname": "ben | DAOnative",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "939195903372308540",
+        "channelId": "925152337213943848",
+        "guildId": "916751469678579784"
+      }
+    },
+    {
+      "id": "939855882999693362",
+      "type": "Reply",
+      "timestamp": "2022-02-06T12:11:44.185+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Welcome, happy to have you! \uD83D\uDE42",
+      "author": {
+        "id": "931292706460815450",
+        "name": "soitsu",
+        "discriminator": "3079",
+        "nickname": "soitsu",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/931292706460815450/4ab93d951ea18154a3d233a718b54e7a.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "623819684625645568",
+          "name": "skillsforsuccess",
+          "discriminator": "5145",
+          "nickname": "skillsforsuccess",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "939841808702255125",
+        "channelId": "925152337213943848",
+        "guildId": "916751469678579784"
+      }
+    },
+    {
+      "id": "939858363540443176",
+      "type": "Reply",
+      "timestamp": "2022-02-06T12:21:35.592+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://tenor.com/view/bow-bowing-michael-scott-steve-carell-the-office-gif-5632990",
+      "author": {
+        "id": "623819684625645568",
+        "name": "skillsforsuccess",
+        "discriminator": "5145",
+        "nickname": "skillsforsuccess",
+        "color": "#9B59B6",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/623819684625645568/b989ebbf788a3de24ac755f82f408c95.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Bow down - The Office",
+          "url": "https://tenor.com/view/bow-bowing-michael-scott-steve-carell-the-office-gif-5632990",
+          "timestamp": null,
+          "description": "",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/ZQAp7cC3YjOhPw35lqUmby8PwasYENtv1crs7A-CIig/https/media.tenor.co/images/0a4264ad0572831b7ffb422d3b36b9db/raw",
+            "width": 300,
+            "height": 168
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "931292706460815450",
+          "name": "soitsu",
+          "discriminator": "3079",
+          "nickname": "soitsu",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "939855882999693362",
+        "channelId": "925152337213943848",
+        "guildId": "916751469678579784"
+      }
+    },
+    {
+      "id": "940429434396246046",
+      "type": "Default",
+      "timestamp": "2022-02-08T02:10:49.494+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Hi, I'm Lorenzo. I'm working with TokenHunt (https://tokenhunt.club/). It is a platform that allows everyone to create a dedicated page for their web3 project, get a shareable link and start attracting a loyal audience. This is a way to create an early boost for your project and generate valuable feedback from the get go. Our platform is now in Open Beta. We welcome you all to check it out at\u00A0https://tokenhunt.club/. Any feedback will be much appreciated!",
+      "author": {
+        "id": "743913102256636085",
+        "name": "Lorenzo T",
+        "discriminator": "8696",
+        "nickname": "Lorenzo T",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/743913102256636085/a17bb93970b8c04f6f4239ddefa0ec52.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "940551675771490335",
+      "type": "Default",
+      "timestamp": "2022-02-08T10:16:34.109+00:00",
+      "timestampEdited": "2022-02-08T10:17:40.284+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "GM...  a contributor @BanklessDAO Genesis team member @BanklessAfrica lead and role holder at Daolationships @Bankless consulting @ Bdao research and marketing guild here to collaborate and contribute",
+      "author": {
+        "id": "910221565973643284",
+        "name": "morte-ch",
+        "discriminator": "8200",
+        "nickname": "morte-ch",
+        "color": "#2ECC71",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/910221565973643284/6ae4f5e0369ef475263519835ac78f41.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "940716052545953887",
+      "type": "Default",
+      "timestamp": "2022-02-08T21:09:44.586+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Hi all I am a backend engineer with a big tech background that has been working with GPT3, codex and web3 for the last year and a half",
+      "author": {
+        "id": "617762426200260609",
+        "name": "ch",
+        "discriminator": "4688",
+        "nickname": "ch",
+        "color": "#1ABC9C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/617762426200260609/0afcc4ce33b4047f7c0b1b9899a071c7.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "941181671393341441",
+      "type": "Default",
+      "timestamp": "2022-02-10T03:59:56.77+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Hi Everyone, My name is Adam, I graduated college from Syracuse in 2019, with a degree in economics and entrepreneurship, so I am still very young in my career. I have a lot of knowledge and experience in many different things, but I currently work in social media. I started learning about the web3/crypto space back in July of 2021, and I am eager to continue learning about the space and hope to shift to full-time in the crypto space one day, of which I am still trying to discover where I fit in that realm, but I am very open-minded to every opportunity out there. If anyone is looking to hire someone young, hungry, and ready to learn, do not hesitate to reach out, because I'm your guy. I am excited to be a part of this community and hope everyone here finds what we are looking for because we are all on our crypto journeys together!",
+      "author": {
+        "id": "813516190718623765",
+        "name": "Raven457",
+        "discriminator": "0702",
+        "nickname": "Raven457",
+        "color": "#9B59B6",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/813516190718623765/638a0c6ddfd859c2e70a4962afa4455e.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "941181869309972480",
+      "type": "Reply",
+      "timestamp": "2022-02-10T04:00:43.957+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Glad to have you on this journey",
+      "author": {
+        "id": "915035187547615243",
+        "name": "kevalin",
+        "discriminator": "4394",
+        "nickname": "kevalin",
+        "color": "#1F8B4C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/915035187547615243/8aec11e684cd1c3ab575358a58fda0bd.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83C\uDF89",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/svg/1f389.svg"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": [
+        {
+          "id": "813516190718623765",
+          "name": "Raven457",
+          "discriminator": "0702",
+          "nickname": "Raven457",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "941181671393341441",
+        "channelId": "925152337213943848",
+        "guildId": "916751469678579784"
+      }
+    },
+    {
+      "id": "941182552511770676",
+      "type": "Reply",
+      "timestamp": "2022-02-10T04:03:26.845+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Hi Ben, would love to connect with you to hear your insight in helping to get onboarded into web3!",
+      "author": {
+        "id": "813516190718623765",
+        "name": "Raven457",
+        "discriminator": "0702",
+        "nickname": "Raven457",
+        "color": "#9B59B6",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/813516190718623765/638a0c6ddfd859c2e70a4962afa4455e.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "428790869139652619",
+          "name": "hotkartoffel",
+          "discriminator": "2160",
+          "nickname": "ben | DAOnative",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "939195903372308540",
+        "channelId": "925152337213943848",
+        "guildId": "916751469678579784"
+      }
+    },
+    {
+      "id": "941363568392167565",
+      "type": "Default",
+      "timestamp": "2022-02-10T16:02:44.394+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "HI, everyone. \nI am a driven, self-motivated Full Stack Developer with 7 + years of experience in the industry and has strong experience with JavaScript and its latest frameworks. I have 3 years of prior experience in blockchain development.\n\nI have hands-on expertise in React.JS | Angular.JS | Node.JS | Express.JS | Vue.JS | Garsby.JS | Anime.JS | Three.JS | 3d.JS | MongoDB | Flux | Redux | HTML5 | CSS3 | Bootstrap | LESS | SASS | AI | AR/VR | Rest/Json API | Apollo/GraphQL | Postgres and Dgraph (Graph database) | PHP | Laravel | Atlassian Tools | Code Management Tools | Payment Gateway integration.\n\nI have created multiple:\n1) DApps ( DEX, CEX, Staking, Farming & Minting Functionalities)\n2) NFT marketplaces ( Solana, Polygon Matic, Binance, Ethereum)\n\nWonderful examples would be better than 1K words.\n\nSome of my DApp projects:\n- https://spookyswap.finance/\n- https://nightmare.arhamsoft.org/\n\nSome of my minting pages:\n- https://fatcatmafia.io/ (Solana)\n- https://sockbuttz.com/ (Etherium)\n- https://moass-asses.club/ (Solana)\n- https://gamestorme-fg6gs.ondigitalocean.app/ (Solana)\n\nNFT Marketplace:\nhttps://www.figma.com/proto/G2vcEWJUUHoy70UE3FiLJS/MP4toNFT-%7C-Phase-2-%7C-Collaboration?node-id=572%3A0&scaling=min-zoom\n\nSwap/Exchange:\nhttps://www.figma.com/proto/PAQfSoLrFHa5t4yB6ZykGi/Rubyswap?node-id=70%3A57&scaling=min-zoom\n\nLooking Forward to hear from you!",
+      "author": {
+        "id": "869504097936605204",
+        "name": "Proharvester",
+        "discriminator": "9362",
+        "nickname": "Proharvester",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/869504097936605204/94455fd95a145d477c633c08c6d03ec6.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDC4D",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/svg/1f44d.svg"
+          },
+          "count": 3
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "942145695928967289",
+      "type": "Default",
+      "timestamp": "2022-02-12T19:50:38.13+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Hey everyone!\u00A0 \uD83D\uDC4B \n\nAlbert here, was based in the Philippines, but currently in Palo Alto (will be in SF city starting next week, so open to have a casual coffee chat!!!) \n\n I'm now on my sabbatical exploring web3 space + advising some startups (mostly Fintech). Prior to that, I was a Founding Engineer & Tech Lead at a YC-backed company,\u00A0Xendit\u00A0(YC S15, Stripe for Southeast Asia)\n\nMy short bio & contact: \u00A0https://bit.ly/albert-lie-adrian-bio\u00A0and feel free to ping me if I could be helpful in any way!\u00A0 \uD83E\uDD29",
+      "author": {
+        "id": "603458338126299136",
+        "name": "albertlie",
+        "discriminator": "7026",
+        "nickname": "albertlie",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/603458338126299136/2994086e96a1abfcdcbe33d530b4ee2c.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "942223505334866020",
+      "type": "Default",
+      "timestamp": "2022-02-13T00:59:49.338+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Hello all! Very excited about what is happening here! I am a beginner investor and do not have tech skills to speak of. I am not sure where I may fit in other than investment and referrals. Thank you for the amazing opportunity.\n\uD83D\uDE4F☮️",
+      "author": {
+        "id": "813150730323755028",
+        "name": "Zion",
+        "discriminator": "1086",
+        "nickname": "Zion",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/813150730323755028/ab5f0aee3b0d8d820db0e63da8569327.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "942419083796840489",
+      "type": "Default",
+      "timestamp": "2022-02-13T13:56:58.877+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": true,
+      "content": "Welcome everyone! Great intros. Hope to see much interaction in the community. Please note that just joining Hyperscale and participating in meaningful conversations is a great contribution in itself. Skills are secondary. But if you have the skills and mood to change the Investment world, then you are welcome to contribute code, literature / docs and stuff! \n\nP.S. As a side note, when you add links to bios and projects, please do not include any short URLs, instead use the full transparent URLs. Discord does not have a character limit like Twitter... Short URLs track the user (Analytics, IP address, Browser, OS, Country etc and make it available to the link creator) and we really don't know where they lead to - so for the safety and comfort of the community, please avoid short URLs!",
+      "author": {
+        "id": "900502872670744616",
+        "name": "AMICA",
+        "discriminator": "7675",
+        "nickname": "AMICA",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/900502872670744616/798fb3bd4007400558239f1e5a504b50.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "942422170397708298",
+      "type": "ChannelPinnedMessage",
+      "timestamp": "2022-02-13T14:09:14.78+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Pinned a message.",
+      "author": {
+        "id": "915035187547615243",
+        "name": "kevalin",
+        "discriminator": "4394",
+        "nickname": "kevalin",
+        "color": "#1F8B4C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/915035187547615243/8aec11e684cd1c3ab575358a58fda0bd.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "942419083796840489",
+        "channelId": "925152337213943848",
+        "guildId": null
+      }
+    },
+    {
+      "id": "942793697920163901",
+      "type": "Reply",
+      "timestamp": "2022-02-14T14:45:33.844+00:00",
+      "timestampEdited": "2022-02-14T14:45:48.447+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Thanks for the great post. A better fit for this would be in #\uD83E\uDD11shill . Once you have done that, let me know. Cheers!",
+      "author": {
+        "id": "900502872670744616",
+        "name": "AMICA",
+        "discriminator": "7675",
+        "nickname": "AMICA",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/900502872670744616/798fb3bd4007400558239f1e5a504b50.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDCAF",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/svg/1f4af.svg"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": [
+        {
+          "id": "518449689406865419",
+          "name": "nurlannurmanov",
+          "discriminator": "0026",
+          "nickname": "nurlannurmanov",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "942654300507746314",
+        "channelId": "925152337213943848",
+        "guildId": "916751469678579784"
+      }
+    },
+    {
+      "id": "942982472189218877",
+      "type": "Reply",
+      "timestamp": "2022-02-15T03:15:41.137+00:00",
+      "timestampEdited": "2022-02-15T03:16:03.452+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Hi, deleted here and re-posted in #\uD83E\uDD11shill Here is the link https://discord.com/channels/916751469678579784/926986561399177216/942982320028254229",
+      "author": {
+        "id": "518449689406865419",
+        "name": "nurlannurmanov",
+        "discriminator": "0026",
+        "nickname": "nurlannurmanov",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/518449689406865419/bb455fa647dca83a0d5269eb63ae0c09.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDC4D",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/svg/1f44d.svg"
+          },
+          "count": 2
+        }
+      ],
+      "mentions": [
+        {
+          "id": "900502872670744616",
+          "name": "AMICA",
+          "discriminator": "7675",
+          "nickname": "AMICA",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "942793697920163901",
+        "channelId": "925152337213943848",
+        "guildId": "916751469678579784"
+      }
+    },
+    {
+      "id": "943344824952700948",
+      "type": "Default",
+      "timestamp": "2022-02-16T03:15:32.768+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Hey everyone!",
+      "author": {
+        "id": "910983568442920980",
+        "name": "lazymoose_nfts",
+        "discriminator": "1442",
+        "nickname": "lazymoose_nfts",
+        "color": "#2ECC71",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/910983568442920980/61c75e0f8b9b9d84f5d4d16add188bb3.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDC4D\uD83C\uDFFC",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/svg/1f44d-1f3fc.svg"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "943345390974017537",
+      "type": "Default",
+      "timestamp": "2022-02-16T03:17:47.718+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Musa Hakim Jr. here. I am the CEO and co-founder of https://www.lazymoose.co/ which is a geo-centric NFT project based in Cleveland, OH. My co-founder and I are recent Case Western Reserve university graduates and have been NFT though leaders in North East Ohio for the past few months. Excited to get to know everyone! Check out our site to learn more about the project. Thank you!!",
+      "author": {
+        "id": "910983568442920980",
+        "name": "lazymoose_nfts",
+        "discriminator": "1442",
+        "nickname": "lazymoose_nfts",
+        "color": "#2ECC71",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/910983568442920980/61c75e0f8b9b9d84f5d4d16add188bb3.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "⚡",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/svg/26a1.svg"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "943509192604549130",
+      "type": "Reply",
+      "timestamp": "2022-02-16T14:08:41.07+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "just sent you an email to cofounder1/2@ your website. chat soon?",
+      "author": {
+        "id": "804574359255646289",
+        "name": "seanmcdonald.eth",
+        "discriminator": "1792",
+        "nickname": "seanmcdonald.eth",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/804574359255646289/72e8271ba0630cfbbd998950605b8253.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "910983568442920980",
+          "name": "lazymoose_nfts",
+          "discriminator": "1442",
+          "nickname": "lazymoose_nfts",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "943344824952700948",
+        "channelId": "925152337213943848",
+        "guildId": "916751469678579784"
+      }
+    },
+    {
+      "id": "944198016196280350",
+      "type": "Default",
+      "timestamp": "2022-02-18T11:45:49.412+00:00",
+      "timestampEdited": "2022-02-18T11:46:28.447+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Hey guys, my name is Gigi and i am the CEO and Co-Founder of Anthill DAO (https://theanthill.io), first Social Platform with a Decentralised Marketplace for Creatives where Content Creators own and can monetise 100% of their Content, Engagement, Social Activity, Data and receive a Universal Basic Income in proportion to their participation on the platform.\nOur Vision is to be the world’s most inclusive and diverse home for Creatives on a mission to provide a space for us all to Connect, Learn and Earn with Imagination, Innovation and ingenuity.\nI look forward to connect with you all \uD83D\uDE42",
+      "author": {
+        "id": "492788409673449482",
+        "name": "GigiPiscitelli",
+        "discriminator": "7529",
+        "nickname": "GigiPiscitelli",
+        "color": "#2ECC71",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/492788409673449482/347471b41716e542459e7e66b389feef.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "⚡",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/svg/26a1.svg"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "944244384717762661",
+      "type": "Default",
+      "timestamp": "2022-02-18T14:50:04.529+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Welcome all! \n\nNice projects! Please do not forget to apply here: \n\nhttps://www.hyperscalefund.com/\n\nLooking forward to see more great applicants!\n\nPS: Did you know that you can refer other great founders and their DAO's to HS, also gain some bonus $$$* doing so?! What are you waiting for?! Please ping @kevalin @hawtlava or anyone form core to know specifics!\n\n* Terms and conditions apply",
+      "author": {
+        "id": "900502872670744616",
+        "name": "AMICA",
+        "discriminator": "7675",
+        "nickname": "AMICA",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/900502872670744616/798fb3bd4007400558239f1e5a504b50.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Hyperscale - Fast Funding",
+          "url": "https://www.hyperscalefund.com/",
+          "timestamp": null,
+          "description": "Receive up to 1 mill by filling out a simple application. You'll receive a decision within 1 week.",
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDE0D",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/svg/1f60d.svg"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": [
+        {
+          "id": "531561241219694592",
+          "name": "hawtlava",
+          "discriminator": "2461",
+          "nickname": "Ryu",
+          "isBot": false
+        },
+        {
+          "id": "915035187547615243",
+          "name": "kevalin",
+          "discriminator": "4394",
+          "nickname": "kevalin",
+          "isBot": false
+        }
+      ]
+    }
+  ],
+  "messageCount": 86
+}

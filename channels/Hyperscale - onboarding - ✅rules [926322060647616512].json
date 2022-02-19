@@ -1,0 +1,129 @@
+{
+  "guild": {
+    "id": "916751469678579784",
+    "name": "Hyperscale",
+    "iconUrl": "https://cdn.discordapp.com/icons/916751469678579784/874219cdd9c60b09fc62afefa1efea43.png"
+  },
+  "channel": {
+    "id": "926322060647616512",
+    "type": "GuildTextChat",
+    "categoryId": "925152243513192479",
+    "category": "onboarding",
+    "name": "✅rules",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "messages": [
+    {
+      "id": "926322118424158290",
+      "type": "Default",
+      "timestamp": "2021-12-31T03:53:23.265+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "In this server, we abide by the Contributor Covenant.",
+      "author": {
+        "id": "124016824202297344",
+        "name": "jzlegion",
+        "discriminator": "4444",
+        "nickname": "jzlegion",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/124016824202297344/a_0b9751c77d9ba0d46354062327d5e4f5.gif?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "926322122312253500",
+      "type": "Default",
+      "timestamp": "2021-12-31T03:53:24.192+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://www.contributor-covenant.org/",
+      "author": {
+        "id": "124016824202297344",
+        "name": "jzlegion",
+        "discriminator": "4444",
+        "nickname": "jzlegion",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/124016824202297344/a_0b9751c77d9ba0d46354062327d5e4f5.gif?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "926322619429564427",
+      "type": "Default",
+      "timestamp": "2021-12-31T03:55:22.714+00:00",
+      "timestampEdited": "2021-12-31T03:55:43.725+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Our Pledge\n**We as members, contributors, and leaders pledge to make participation in our community a harassment-free experience for everyone, regardless of age, body size, visible or invisible disability, ethnicity, sex characteristics, gender identity and expression, level of experience, education, socio-economic status, nationality, personal appearance, race, caste, color, religion, or sexual identity and orientation.\n\nWe pledge to act and interact in ways that contribute to an open, welcoming, diverse, inclusive, and healthy community.",
+      "author": {
+        "id": "124016824202297344",
+        "name": "jzlegion",
+        "discriminator": "4444",
+        "nickname": "jzlegion",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/124016824202297344/a_0b9751c77d9ba0d46354062327d5e4f5.gif?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "926322784785821697",
+      "type": "Default",
+      "timestamp": "2021-12-31T03:56:02.138+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Our Standards\n**Examples of behavior that contributes to a positive environment for our community include:\n\nDemonstrating empathy and kindness toward other people\nBeing respectful of differing opinions, viewpoints, and experiences\nGiving and gracefully accepting constructive feedback\nAccepting responsibility and apologizing to those affected by our mistakes, and learning from the experience\nFocusing on what is best not just for us as individuals, but for the overall community\nExamples of unacceptable behavior include:\n\nThe use of sexualized language or imagery, and sexual attention or advances of any kind\nTrolling, insulting or derogatory comments, and personal or political attacks\nPublic or private harassment\nPublishing others’ private information, such as a physical or email address, without their explicit permission\nOther conduct which could reasonably be considered inappropriate in a professional setting",
+      "author": {
+        "id": "124016824202297344",
+        "name": "jzlegion",
+        "discriminator": "4444",
+        "nickname": "jzlegion",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/124016824202297344/a_0b9751c77d9ba0d46354062327d5e4f5.gif?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDC4D\uD83C\uDFFB",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/svg/1f44d-1f3fb.svg"
+          },
+          "count": 25
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDC4D",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/svg/1f44d.svg"
+          },
+          "count": 15
+        }
+      ],
+      "mentions": []
+    }
+  ],
+  "messageCount": 4
+}

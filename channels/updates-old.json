@@ -1,0 +1,780 @@
+{
+  "guild": {
+    "id": "916751469678579784",
+    "name": "Hyperscale",
+    "iconUrl": "https://cdn.discordapp.com/icons/916751469678579784/874219cdd9c60b09fc62afefa1efea43.png"
+  },
+  "channel": {
+    "id": "924233086869323856",
+    "type": "GuildTextChat",
+    "categoryId": "922689148861685780",
+    "category": "archived",
+    "name": "updates-old",
+    "topic": "NOTICE: Archived channel. Please do NOT post!"
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "messages": [
+    {
+      "id": "924246238478626826",
+      "type": "Default",
+      "timestamp": "2021-12-25T10:24:34.918+00:00",
+      "timestampEdited": "2021-12-25T10:24:43.444+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Please check out #proposal-discussion; specifically this message",
+      "author": {
+        "id": "915035187547615243",
+        "name": "kevalin",
+        "discriminator": "4394",
+        "nickname": "kevalin",
+        "color": "#1F8B4C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/915035187547615243/8aec11e684cd1c3ab575358a58fda0bd.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDC4D",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/svg/1f44d.svg"
+          },
+          "count": 22
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "924246242635182120",
+      "type": "Default",
+      "timestamp": "2021-12-25T10:24:35.909+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://discord.com/channels/916751469678579784/923608250891517972/924024286509928448",
+      "author": {
+        "id": "915035187547615243",
+        "name": "kevalin",
+        "discriminator": "4394",
+        "nickname": "kevalin",
+        "color": "#1F8B4C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/915035187547615243/8aec11e684cd1c3ab575358a58fda0bd.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "924246431726960691",
+      "type": "Default",
+      "timestamp": "2021-12-25T10:25:20.992+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Would greatly appreciate ideas and feedback",
+      "author": {
+        "id": "915035187547615243",
+        "name": "kevalin",
+        "discriminator": "4394",
+        "nickname": "kevalin",
+        "color": "#1F8B4C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/915035187547615243/8aec11e684cd1c3ab575358a58fda0bd.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "924246496499630100",
+      "type": "Default",
+      "timestamp": "2021-12-25T10:25:36.435+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Writing a blog post on the new structure and future of Hyperscale",
+      "author": {
+        "id": "915035187547615243",
+        "name": "kevalin",
+        "discriminator": "4394",
+        "nickname": "kevalin",
+        "color": "#1F8B4C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/915035187547615243/8aec11e684cd1c3ab575358a58fda0bd.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "924569483153121292",
+      "type": "Default",
+      "timestamp": "2021-12-26T07:49:02.454+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@here *Conducting interviews to improve the Hyperscale community. Would greatly appreciate your response to these simple questions! —Kevalin*\n- How did you find Hyperscale? What interests you?\n- How do you engage with the server? What would you like to get out of it?\n- What do you find confusing about Hyperscale? What do you find difficult?\n- If Hyperscale disappeared tomorrow how disappointed would you be? (0-5)\n\nPlease DM me with answers! I'd love to talk!!",
+      "author": {
+        "id": "915035187547615243",
+        "name": "kevalin",
+        "discriminator": "4394",
+        "nickname": "kevalin",
+        "color": "#1F8B4C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/915035187547615243/8aec11e684cd1c3ab575358a58fda0bd.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDC4B\uD83C\uDFFB",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/svg/1f44b-1f3fb.svg"
+          },
+          "count": 51
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "✅",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/svg/2705.svg"
+          },
+          "count": 29
+        },
+        {
+          "emoji": {
+            "id": "842816937431007352",
+            "name": "this",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/842816937431007352.png"
+          },
+          "count": 11
+        },
+        {
+          "emoji": {
+            "id": "917432959370407996",
+            "name": "1000",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/917432959370407996.png"
+          },
+          "count": 12
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "925864170384134265",
+      "type": "Default",
+      "timestamp": "2021-12-29T21:33:39.944+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@here **WEEKLY GOALS**\n**Fund**\n- Make >5 investments\n- Release blog on structure & funding process\n- Explore decentralized fund structures\n\n**DAO race x Hackathon**\n- Start hackathon this Friday!\n- Modify DAO race to view projects & their progress updates for the hackathon\n\n**Community**\n- Build out a clear onboarding process\n- Have transparent internal efforts that anyone can contribute towards\n- Build out a team of community managers *(if this interests you DM me!)*",
+      "author": {
+        "id": "915035187547615243",
+        "name": "kevalin",
+        "discriminator": "4394",
+        "nickname": "kevalin",
+        "color": "#1F8B4C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/915035187547615243/8aec11e684cd1c3ab575358a58fda0bd.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "⚡",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/svg/26a1.svg"
+          },
+          "count": 40
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "925989192276795452",
+      "type": "Default",
+      "timestamp": "2021-12-30T05:50:27.486+00:00",
+      "timestampEdited": "2021-12-30T05:51:13.115+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Update on Idena (the winner of the DAO race): talking with @AndrewEdi, a co-founder of the project. I'm waiting for his response & will keep the community posted!",
+      "author": {
+        "id": "915035187547615243",
+        "name": "kevalin",
+        "discriminator": "4394",
+        "nickname": "kevalin",
+        "color": "#1F8B4C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/915035187547615243/8aec11e684cd1c3ab575358a58fda0bd.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "⚡",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/svg/26a1.svg"
+          },
+          "count": 30
+        }
+      ],
+      "mentions": [
+        {
+          "id": "613600015792996373",
+          "name": "AndrewEdi",
+          "discriminator": "8774",
+          "nickname": "AndrewEdi",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "926189366903181403",
+      "type": "Default",
+      "timestamp": "2021-12-30T19:05:52.836+00:00",
+      "timestampEdited": "2021-12-30T19:44:36.394+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@here **Development update! Building out the DAO Sphere!\n**\n**The DAO Sphere is a directory that helps coordinate contributors. Here's what DAOs will be able to do:**\n- Publish internal projects & what's needed. Helps with transparency.\n- Post bounties for tasks that need to be completed (e.g. build a website). These will tie into the internal projects dashboard.\n- Create a DAO profile with one's direction, about, governance forum, & helpful links.\n\n**We're the MVP!!** Right now our DAO profile is our Notion doc (https://bit.ly/3FJeM75). We're in the process of setting up bounties that'll be used for paying contributors (will be announced in #updates-old). Here's where you can find Hyperscale's internal projects, their progress, & how you can help: https://bit.ly/3qBPMbp\n\n**DAO Sphere progress and how you can help:**\nhttps://hyperscale.notion.site/DAO-Sphere-c6142cfdc93e44848d0d10ee4411ea0a\n#sphere-development",
+      "author": {
+        "id": "915035187547615243",
+        "name": "kevalin",
+        "discriminator": "4394",
+        "nickname": "kevalin",
+        "color": "#1F8B4C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/915035187547615243/8aec11e684cd1c3ab575358a58fda0bd.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDD25",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/svg/1f525.svg"
+          },
+          "count": 17
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "926989972014239854",
+      "type": "Default",
+      "timestamp": "2022-01-02T00:07:11.969+00:00",
+      "timestampEdited": "2022-01-02T00:07:30.787+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Update on investments: we're currently in the process of making the first few investments. I'm working on an article about the investment process, fund structure, and the plan moving forward. This article & our investments will be announced over the next few days.",
+      "author": {
+        "id": "915035187547615243",
+        "name": "kevalin",
+        "discriminator": "4394",
+        "nickname": "kevalin",
+        "color": "#1F8B4C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/915035187547615243/8aec11e684cd1c3ab575358a58fda0bd.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "⚡",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/svg/26a1.svg"
+          },
+          "count": 13
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDE4C",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/svg/1f64c.svg"
+          },
+          "count": 4
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "927061370149679126",
+      "type": "Default",
+      "timestamp": "2022-01-02T04:50:54.611+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@here @Core-Dev @Core-Design brainstorming how to airdrop tokens to contributors! **Would love everyone's input!** https://docs.google.com/document/d/1LfQ9kxestu2CcBdlEurGFeO5IrnV8Vz__YHDc0QR2vo/edit?usp=sharing",
+      "author": {
+        "id": "915035187547615243",
+        "name": "kevalin",
+        "discriminator": "4394",
+        "nickname": "kevalin",
+        "color": "#1F8B4C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/915035187547615243/8aec11e684cd1c3ab575358a58fda0bd.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Brainstorming | Contributor Airdrop | Hyperscale",
+          "url": "https://docs.google.com/document/d/1LfQ9kxestu2CcBdlEurGFeO5IrnV8Vz__YHDc0QR2vo/edit?usp=sharing",
+          "timestamp": null,
+          "description": "How could Hyperscale airdrop to contributors in proportion to how much they’ve contributed? I’m thinking of having three tiers of contributors. There’ll be a monthly NFT airdrop that represents future HYPE tokens. I’m thinking that the NFTs will be redeemable for HYPE tokens at a future date. Co...",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/UIMdP6Oz577IeTkjSk3X6GdoSs3M0-8OslCJcAgbdWA/https/lh4.googleusercontent.com/LeYKKGXgiY6FgqYomg24RrPy3DkS8rTFdGe1u8PcyVzz-khu1d_mRq-gFMf8NJCRHavb7x1_yHktEQ%3Dw1200-h630-p",
+            "width": 1200,
+            "height": 630
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDC4D",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/svg/1f44d.svg"
+          },
+          "count": 15
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83E\uDD1E",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/svg/1f91e.svg"
+          },
+          "count": 3
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "927317244470509568",
+      "type": "Default",
+      "timestamp": "2022-01-02T21:47:39.803+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@here the DAO Race is currently paused while we iterate on the ranking system. Decentralized investing is an iterative process. Our current & future investment process will be announced today!",
+      "author": {
+        "id": "915035187547615243",
+        "name": "kevalin",
+        "discriminator": "4394",
+        "nickname": "kevalin",
+        "color": "#1F8B4C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/915035187547615243/8aec11e684cd1c3ab575358a58fda0bd.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDC4D",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/svg/1f44d.svg"
+          },
+          "count": 17
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "⏳",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/svg/23f3.svg"
+          },
+          "count": 2
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "927360114044829766",
+      "type": "Reply",
+      "timestamp": "2022-01-03T00:38:00.706+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Updated info and direction here:** https://discord.com/channels/916751469678579784/925928766235103292/927336395486421103\n\n**TL;DR**\n- DAO Sphere != DAO Race\n- DAO Sphere is the infrastructure that contributors & DAOs use to collaborate with other DAOs. It’s a directory.\n- Users see a DAO’s KPIs, bio, & links to its product and community\n- KPIs are charted and provide signal. Using this we’re able to standardize DAOs and determine what makes a DAO “good.”\n- These KPIs will be used for the DAO Race v2. The next iteration of decentralized investing.\n- We’re rebranding to @Satoshiba's style\n\nAmazing work everyone! **The DAO Sphere and DAO Race v2 is rolling out over the next 1-2 weeks!!**",
+      "author": {
+        "id": "915035187547615243",
+        "name": "kevalin",
+        "discriminator": "4394",
+        "nickname": "kevalin",
+        "color": "#1F8B4C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/915035187547615243/8aec11e684cd1c3ab575358a58fda0bd.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "916901985737916427",
+          "name": "Satoshiba",
+          "discriminator": "7422",
+          "nickname": "Satoshiba",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "926189366903181403",
+        "channelId": "924233086869323856",
+        "guildId": "916751469678579784"
+      }
+    },
+    {
+      "id": "928865845969551380",
+      "type": "Default",
+      "timestamp": "2022-01-07T04:21:15.172+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@here everything that you need to know about the fund structure! https://docs.google.com/document/d/1u5f3JnyZonKdaFBxyhUHvIm9C-YVYXEdKPD_pPEwBFw/edit?usp=sharing",
+      "author": {
+        "id": "915035187547615243",
+        "name": "kevalin",
+        "discriminator": "4394",
+        "nickname": "kevalin",
+        "color": "#1F8B4C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/915035187547615243/8aec11e684cd1c3ab575358a58fda0bd.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Fund Structure | Hyperscale",
+          "url": "https://docs.google.com/document/d/1u5f3JnyZonKdaFBxyhUHvIm9C-YVYXEdKPD_pPEwBFw/edit?usp=sharing",
+          "timestamp": null,
+          "description": "Fund Structure FAQ  We’re going to be the most effective capital allocator in the world, starting with crypto. See more here!   How can I receive investment? Apply Interview Decision in <1 week!  Why should I apply? Network of DAOs to work with & sell to Community of contributors that can help w...",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/tjCJCakDnLsq60Eqx_o75LDAZmQVgzOW8dtjk9Sn4T8/https/lh4.googleusercontent.com/aa7VQSYazN5W1VRBEKABU8CiXF0Vz6MqXiYU7KuO857Q5GHo97ReYLJ9LI2NAB2tQJfpLLWmyqJhHQ%3Dw1200-h630-p",
+            "width": 1200,
+            "height": 630
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDC4D\uD83C\uDFFB",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/svg/1f44d-1f3fb.svg"
+          },
+          "count": 3
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "⚡",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/svg/26a1.svg"
+          },
+          "count": 3
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "928926800879431700",
+      "type": "Default",
+      "timestamp": "2022-01-07T08:23:27.955+00:00",
+      "timestampEdited": "2022-01-07T08:43:50.491+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@here**General update on what's happening:**\n- **Investing (#\uD83D\uDCB0investments) ⚡ PRIMARY FOCUS ⚡**\nWe're in the process of reviewing, speaking with, & investing in the first batch of DAOs. DAOs apply through a form, we interview great founders and DAOs that align with Hyperscale's vision, then we send them money. We're looking for the DAOs that'll become the core of the ecosystem. \n\nThe global internet economy is inevitable and we're catalyzing it. Using an economic graph we’ll become the most effective capital allocator in the world. Learn more about our vision here: https://bit.ly/3n0ePUA\n\n- **Product (#\uD83D\uDCF1product)**\nWill help connect contributors and DAOs. Considering spinning off the Sphere into a separate DAO—more on this soon!!\n\n- **Distribution (#\uD83D\uDD0Adistribution)**\nContent marketing\nBrand awareness\nGenerally attracting great DAOs, founders, & contributors\n\n**How you can contribute?**\nInvesting is currently our primary focus.\n- Refer a DAO that receives investment and receive a 1-5K bounty. DAO should align with our vision: https://bit.ly/3n0ePUA\n- Help with the distribution funnel in #\uD83D\uDD0Adistribution. Right now we're focused on clearly communicating Hyperscale's value prop and optimizing conversions.\n\n**Overview of what's ahead**\n1. Announce investments\n2. Help investments succeed with internal product\n3. Scale up distribution when product has traction",
+      "author": {
+        "id": "915035187547615243",
+        "name": "kevalin",
+        "discriminator": "4394",
+        "nickname": "kevalin",
+        "color": "#1F8B4C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/915035187547615243/8aec11e684cd1c3ab575358a58fda0bd.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Vision | Hyperscale",
+          "url": "https://bit.ly/3n0ePUA",
+          "timestamp": null,
+          "description": "Vision  The global internet economy is inevitable and we're catalyzing it. Using an economic graph we’ll become the most effective capital allocator in the world.  Blockchains have enabled a global internet economy where DAOs will replace corporations. This global economy allows people to securel...",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/COmofm-eQaywWNTDR7d8otvkdH6p7FlM-sKgLQPwWVQ/https/lh6.googleusercontent.com/3ScU7lCxTGM5p5YFzpQZZdVPk6k_EVUxz6V1J2qqJtySixrt5snMDKMBmGDZKIOTZEXzAHpbloG8Kw%3Dw1200-h630-p",
+            "width": 1200,
+            "height": 630
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDC4D",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/svg/1f44d.svg"
+          },
+          "count": 19
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "929399113936674906",
+      "type": "Default",
+      "timestamp": "2022-01-08T15:40:16.163+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@here The rough version of the new landing page is complete! \uD83D\uDC49 **https://rebrand.hyperscalefund.com/**\n\nThis falls under the distribution category as it'll be what converts great founders!\n\n**We still need**\n- Optimize the copy\n- Optimize UX\n- Make it responsive\n- Add small details\n\n**Help out in #\uD83D\uDD0Adistribution!**",
+      "author": {
+        "id": "915035187547615243",
+        "name": "kevalin",
+        "discriminator": "4394",
+        "nickname": "kevalin",
+        "color": "#1F8B4C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/915035187547615243/8aec11e684cd1c3ab575358a58fda0bd.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDE09",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/svg/1f609.svg"
+          },
+          "count": 11
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDCA5",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/svg/1f4a5.svg"
+          },
+          "count": 2
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDE2C",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/svg/1f62c.svg"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDC4D",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/svg/1f44d.svg"
+          },
+          "count": 3
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "⚡",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/svg/26a1.svg"
+          },
+          "count": 3
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "931872990310834227",
+      "type": "Default",
+      "timestamp": "2022-01-15T11:30:34.253+00:00",
+      "timestampEdited": "2022-01-29T02:47:04.671+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Investments are going to be announced sometime over the next few days.\n**\nWe'll be scaling up Hyperscale's three pillars: investments, product, & distribution.\n\nThe Race (decentralized investing) will be brought back in the future. We've got some exciting things in the pipeline for development.\n\nHigh level overview of what's next:\n- Platform that coordinates DAOs\n- Hyperscale token incentives\n\nVision: https://bit.ly/3n0ePUA\n\n@here @Core-Dev @Core-Design\n\n\n**UPDATE: deal sourcing and legal have been the most difficult aspects of this. It's taking longer than expected.**",
+      "author": {
+        "id": "915035187547615243",
+        "name": "kevalin",
+        "discriminator": "4394",
+        "nickname": "kevalin",
+        "color": "#1F8B4C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/915035187547615243/8aec11e684cd1c3ab575358a58fda0bd.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDC4D",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/svg/1f44d.svg"
+          },
+          "count": 6
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDE4C",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/svg/1f64c.svg"
+          },
+          "count": 2
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "933283492152897546",
+      "type": "Default",
+      "timestamp": "2022-01-19T08:55:24.098+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Announcing roadmap, mission, problem, structure, & general direction soon. Will provide clarity for this next phase of Hyperscale.**",
+      "author": {
+        "id": "915035187547615243",
+        "name": "kevalin",
+        "discriminator": "4394",
+        "nickname": "kevalin",
+        "color": "#1F8B4C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/915035187547615243/8aec11e684cd1c3ab575358a58fda0bd.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDC4D",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/svg/1f44d.svg"
+          },
+          "count": 20
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDC40",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/svg/1f440.svg"
+          },
+          "count": 3
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "935868924271153153",
+      "type": "Default",
+      "timestamp": "2022-01-26T12:08:59.15+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Figured that I'd update the OGs. Have been focused on the macro of Hyperscale. This is nearly decided so the community will pick back up soon. Thanks for sticking through this, you'll be remembered** \uD83D\uDC96 \n\nInvesting was slowed along with a few other components. Expect this to change soon.",
+      "author": {
+        "id": "915035187547615243",
+        "name": "kevalin",
+        "discriminator": "4394",
+        "nickname": "kevalin",
+        "color": "#1F8B4C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/915035187547615243/8aec11e684cd1c3ab575358a58fda0bd.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDE4C\uD83C\uDFFB",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/svg/1f64c-1f3fb.svg"
+          },
+          "count": 18
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDD25",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/svg/1f525.svg"
+          },
+          "count": 8
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDC4D",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/svg/1f44d.svg"
+          },
+          "count": 8
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83E\uDD14",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/svg/1f914.svg"
+          },
+          "count": 2
+        },
+        {
+          "emoji": {
+            "id": "886124945497784360",
+            "name": "SolFire",
+            "isAnimated": true,
+            "imageUrl": "https://cdn.discordapp.com/emojis/886124945497784360.gif"
+          },
+          "count": 5
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "⚡",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/svg/26a1.svg"
+          },
+          "count": 3
+        }
+      ],
+      "mentions": []
+    }
+  ],
+  "messageCount": 18
+}

@@ -1,0 +1,646 @@
+{
+  "guild": {
+    "id": "916751469678579784",
+    "name": "Hyperscale",
+    "iconUrl": "https://cdn.discordapp.com/icons/916751469678579784/874219cdd9c60b09fc62afefa1efea43.png"
+  },
+  "channel": {
+    "id": "921936987290751026",
+    "type": "GuildTextChat",
+    "categoryId": "922689148861685780",
+    "category": "archived",
+    "name": "bounties-old",
+    "topic": "NOTICE: Archived channel. Please do NOT post!"
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "messages": [
+    {
+      "id": "923131838728396810",
+      "type": "20",
+      "timestamp": "2021-12-22T08:36:21.313+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": true,
+      "content": "**\uD83D\uDD2E Welcome to the Miracle Bot! \uD83D\uDD2E**\n  \nThis bot is used for coordinating the community of your discord server and helping the community to complete bounties of a thing you're building. It's very simple!\n\n  **\uD83D\uDD2E Please use these commands:**\n  **/welcome** - Check out what the bot can do \uD83D\uDC40\n  **/setup** - Setup this bot after adding it to the server \uD83D\uDDB2\n  **/new_bounty** - Add a new bounty \uD83C\uDF81\n  **/send_solution** - Send a bounty solution \uD83D\uDCDC\n  **/approve_solution** - Approve a bounty solution \uD83D\uDC4D\n\nThis is still an alpha version of the Miracle Bot. Please, send Desputes & Bugs & Feedback to https://twitter.com/kirillzzy.\n  \nWAGMI \uD83D\uDE08",
+      "author": {
+        "id": "920174522815119390",
+        "name": "\uD83D\uDD2E Miracle Bot Alpha \uD83D\uDD2E",
+        "discriminator": "0494",
+        "nickname": "\uD83D\uDD2E Miracle Bot Alpha \uD83D\uDD2E",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/4.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "923131858315776061",
+      "type": "ChannelPinnedMessage",
+      "timestamp": "2021-12-22T08:36:25.983+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Pinned a message.",
+      "author": {
+        "id": "915035187547615243",
+        "name": "kevalin",
+        "discriminator": "4394",
+        "nickname": "kevalin",
+        "color": "#1F8B4C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/915035187547615243/8aec11e684cd1c3ab575358a58fda0bd.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "923131838728396810",
+        "channelId": "921936987290751026",
+        "guildId": null
+      }
+    },
+    {
+      "id": "923165040847233034",
+      "type": "Default",
+      "timestamp": "2021-12-22T10:48:17.315+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "920174522815119390",
+        "name": "\uD83D\uDD2E Miracle Bot Alpha \uD83D\uDD2E",
+        "discriminator": "0494",
+        "nickname": "\uD83D\uDD2E Miracle Bot Alpha \uD83D\uDD2E",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/4.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "\uD83C\uDF08 New solution is added! \uD83C\uDF08",
+          "url": null,
+          "timestamp": null,
+          "description": "Use '/send_solution' to propose a bounty solution, '/approve_solution' to approve a bounty solution",
+          "color": "#2ECC71",
+          "author": {
+            "name": "Manket",
+            "url": null,
+            "iconUrl": "https://images-ext-2.discordapp.net/external/fXgkkIUyfO8xD0H338aLyTBKw85Hy59oe_1_OMORSUA/%3Fsize%3D1024/https/cdn.discordapp.com/avatars/874500603181674506/82ee48b0447d6d655826b999fc653f15.webp"
+          },
+          "footer": {
+            "text": "Alpha version of the Miracle Bot. Desputes & Bugs & Feedback to https://twitter.com/kirillzzy"
+          },
+          "fields": [
+            {
+              "name": "\uD83C\uDF81 Bounty Name",
+              "value": "Write Hyperscale Twitter Thread",
+              "isInline": false
+            },
+            {
+              "name": "\uD83D\uDD17 Proof link",
+              "value": "https://twitter.com/Manket2/status/1473605838535159811?s=20",
+              "isInline": false
+            },
+            {
+              "name": "\uD83D\uDCB0 Reward",
+              "value": "5 USD",
+              "isInline": false
+            },
+            {
+              "name": "\uD83E\uDDEC Solution ID",
+              "value": "8c67faaf-cb17-4856-a3d9-316aa88d49be",
+              "isInline": false
+            },
+            {
+              "name": "⚙️ Bounty ID",
+              "value": "90498007-6657-4323-8a49-d3a9918ba514",
+              "isInline": false
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "923165304673169428",
+      "type": "Default",
+      "timestamp": "2021-12-22T10:49:20.216+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "920174522815119390",
+        "name": "\uD83D\uDD2E Miracle Bot Alpha \uD83D\uDD2E",
+        "discriminator": "0494",
+        "nickname": "\uD83D\uDD2E Miracle Bot Alpha \uD83D\uDD2E",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/4.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "\uD83C\uDF08 New solution is added! \uD83C\uDF08",
+          "url": null,
+          "timestamp": null,
+          "description": "Use '/send_solution' to propose a bounty solution, '/approve_solution' to approve a bounty solution",
+          "color": "#2ECC71",
+          "author": {
+            "name": "emirbolen.eth",
+            "url": null,
+            "iconUrl": "https://images-ext-2.discordapp.net/external/R2qySHh52tUhg4N-_oLq3ZD7C69XMsSxO-vq3ZI50To/%3Fsize%3D1024/https/cdn.discordapp.com/avatars/899944147811725323/0ad6d968c803b8eaa346cc63530e6da1.webp"
+          },
+          "footer": {
+            "text": "Alpha version of the Miracle Bot. Desputes & Bugs & Feedback to https://twitter.com/kirillzzy"
+          },
+          "fields": [
+            {
+              "name": "\uD83C\uDF81 Bounty Name",
+              "value": "Write Hyperscale Twitter Thread",
+              "isInline": false
+            },
+            {
+              "name": "\uD83D\uDD17 Proof link",
+              "value": "https://twitter.com/EmirBolen/status/1473605341392818177",
+              "isInline": false
+            },
+            {
+              "name": "\uD83D\uDCB0 Reward",
+              "value": "5 USD",
+              "isInline": false
+            },
+            {
+              "name": "\uD83E\uDDEC Solution ID",
+              "value": "b4b4355f-4363-4544-85f2-2a453185cfd8",
+              "isInline": false
+            },
+            {
+              "name": "⚙️ Bounty ID",
+              "value": "90498007-6657-4323-8a49-d3a9918ba514",
+              "isInline": false
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "923165829078589481",
+      "type": "Default",
+      "timestamp": "2021-12-22T10:51:25.244+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "920174522815119390",
+        "name": "\uD83D\uDD2E Miracle Bot Alpha \uD83D\uDD2E",
+        "discriminator": "0494",
+        "nickname": "\uD83D\uDD2E Miracle Bot Alpha \uD83D\uDD2E",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/4.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "\uD83C\uDF08 New solution is added! \uD83C\uDF08",
+          "url": null,
+          "timestamp": null,
+          "description": "Use '/send_solution' to propose a bounty solution, '/approve_solution' to approve a bounty solution",
+          "color": "#2ECC71",
+          "author": {
+            "name": "emirbolen.eth",
+            "url": null,
+            "iconUrl": "https://images-ext-2.discordapp.net/external/R2qySHh52tUhg4N-_oLq3ZD7C69XMsSxO-vq3ZI50To/%3Fsize%3D1024/https/cdn.discordapp.com/avatars/899944147811725323/0ad6d968c803b8eaa346cc63530e6da1.webp"
+          },
+          "footer": {
+            "text": "Alpha version of the Miracle Bot. Desputes & Bugs & Feedback to https://twitter.com/kirillzzy"
+          },
+          "fields": [
+            {
+              "name": "\uD83C\uDF81 Bounty Name",
+              "value": "Write Hyperscale Twitter Thread",
+              "isInline": false
+            },
+            {
+              "name": "\uD83D\uDD17 Proof link",
+              "value": "https://twitter.com/EmirBolen/status/1473606957881864195",
+              "isInline": false
+            },
+            {
+              "name": "\uD83D\uDCB0 Reward",
+              "value": "5 USD",
+              "isInline": false
+            },
+            {
+              "name": "\uD83E\uDDEC Solution ID",
+              "value": "16001871-3788-47c9-ad1a-e2c904ad1b86",
+              "isInline": false
+            },
+            {
+              "name": "⚙️ Bounty ID",
+              "value": "90498007-6657-4323-8a49-d3a9918ba514",
+              "isInline": false
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "923297002199064687",
+      "type": "Default",
+      "timestamp": "2021-12-22T19:32:39.353+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "920174522815119390",
+        "name": "\uD83D\uDD2E Miracle Bot Alpha \uD83D\uDD2E",
+        "discriminator": "0494",
+        "nickname": "\uD83D\uDD2E Miracle Bot Alpha \uD83D\uDD2E",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/4.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "\uD83C\uDF08 New solution is added! \uD83C\uDF08",
+          "url": null,
+          "timestamp": null,
+          "description": "Use '/send_solution' to propose a bounty solution, '/approve_solution' to approve a bounty solution",
+          "color": "#2ECC71",
+          "author": {
+            "name": "gojira",
+            "url": null,
+            "iconUrl": "https://images-ext-1.discordapp.net/external/KxK7iYB7TIeeoFBRR_ghu_SilHFZ-hRR0hVlGP_ukzc/%3Fsize%3D1024/https/cdn.discordapp.com/avatars/412315621511004160/5ccafdfdb6e4bf80d77cd862c83e11f2.webp"
+          },
+          "footer": {
+            "text": "Alpha version of the Miracle Bot. Desputes & Bugs & Feedback to https://twitter.com/kirillzzy"
+          },
+          "fields": [
+            {
+              "name": "\uD83C\uDF81 Bounty Name",
+              "value": "Write Hyperscale Twitter Thread",
+              "isInline": false
+            },
+            {
+              "name": "\uD83D\uDD17 Proof link",
+              "value": "https://twitter.com/gojira/status/1473737638125445128",
+              "isInline": false
+            },
+            {
+              "name": "\uD83D\uDCB0 Reward",
+              "value": "5 USD",
+              "isInline": false
+            },
+            {
+              "name": "\uD83E\uDDEC Solution ID",
+              "value": "e79afdfb-e4a3-41ab-a3cc-df3d66c58377",
+              "isInline": false
+            },
+            {
+              "name": "⚙️ Bounty ID",
+              "value": "90498007-6657-4323-8a49-d3a9918ba514",
+              "isInline": false
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "923308121223483394",
+      "type": "Default",
+      "timestamp": "2021-12-22T20:16:50.335+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "920174522815119390",
+        "name": "\uD83D\uDD2E Miracle Bot Alpha \uD83D\uDD2E",
+        "discriminator": "0494",
+        "nickname": "\uD83D\uDD2E Miracle Bot Alpha \uD83D\uDD2E",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/4.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "\uD83C\uDF08 New solution is added! \uD83C\uDF08",
+          "url": null,
+          "timestamp": null,
+          "description": "Use '/send_solution' to propose a bounty solution, '/approve_solution' to approve a bounty solution",
+          "color": "#2ECC71",
+          "author": {
+            "name": "pawel",
+            "url": null,
+            "iconUrl": "https://images-ext-1.discordapp.net/external/oIANaCOBSo_UcFZOInljgwwfOW-HuzV-tiyO2eq413E/%3Fsize%3D1024/https/cdn.discordapp.com/avatars/577229116097429558/d3d6d970e3e20cd4e8cd8a8cc004304d.webp"
+          },
+          "footer": {
+            "text": "Alpha version of the Miracle Bot. Desputes & Bugs & Feedback to https://twitter.com/kirillzzy"
+          },
+          "fields": [
+            {
+              "name": "\uD83C\uDF81 Bounty Name",
+              "value": "DAO Race Dev: Fix Multiple Upvote Buttons on the DAO Info Page",
+              "isInline": false
+            },
+            {
+              "name": "\uD83D\uDD17 Proof link",
+              "value": "https://github.com/hyper-scale/race/pull/113, https://github.com/hyper-scale/race/pull/115",
+              "isInline": false
+            },
+            {
+              "name": "\uD83D\uDCB0 Reward",
+              "value": "10 USD",
+              "isInline": false
+            },
+            {
+              "name": "\uD83E\uDDEC Solution ID",
+              "value": "5b3cf52a-521a-4a43-a0a0-391c418c14d0",
+              "isInline": false
+            },
+            {
+              "name": "⚙️ Bounty ID",
+              "value": "03b53aa8-d52d-4edf-a909-0703b80f66f2",
+              "isInline": false
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "923414200087371776",
+      "type": "Default",
+      "timestamp": "2021-12-23T03:18:21.507+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "920174522815119390",
+        "name": "\uD83D\uDD2E Miracle Bot Alpha \uD83D\uDD2E",
+        "discriminator": "0494",
+        "nickname": "\uD83D\uDD2E Miracle Bot Alpha \uD83D\uDD2E",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/4.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "\uD83C\uDF8A Solution is approved! \uD83C\uDF8A",
+          "url": null,
+          "timestamp": null,
+          "description": "Use '/send_solution' to propose a bounty solution, '/approve_solution' to approve a bounty solution",
+          "color": "#E74C3C",
+          "author": {
+            "name": "kevalin | core ⚡",
+            "url": null,
+            "iconUrl": "https://images-ext-1.discordapp.net/external/vsRN62BrJ7UJaeDIQGi4j4R7VihXF-oTHpGCERz0DSM/%3Fsize%3D1024/https/cdn.discordapp.com/avatars/915035187547615243/8aec11e684cd1c3ab575358a58fda0bd.webp"
+          },
+          "footer": {
+            "text": "Alpha version of the Miracle Bot. Desputes & Bugs & Feedback to https://twitter.com/kirillzzy"
+          },
+          "fields": [
+            {
+              "name": "\uD83C\uDF81 Bounty Name",
+              "value": "DAO Race Dev: Fix Multiple Upvote Buttons on the DAO Info Page",
+              "isInline": false
+            },
+            {
+              "name": "⚙️ Solution ID",
+              "value": "5b3cf52a-521a-4a43-a0a0-391c418c14d0",
+              "isInline": false
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "923414244530204673",
+      "type": "Default",
+      "timestamp": "2021-12-23T03:18:32.103+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "920174522815119390",
+        "name": "\uD83D\uDD2E Miracle Bot Alpha \uD83D\uDD2E",
+        "discriminator": "0494",
+        "nickname": "\uD83D\uDD2E Miracle Bot Alpha \uD83D\uDD2E",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/4.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "\uD83C\uDF8A Solution is approved! \uD83C\uDF8A",
+          "url": null,
+          "timestamp": null,
+          "description": "Use '/send_solution' to propose a bounty solution, '/approve_solution' to approve a bounty solution",
+          "color": "#E74C3C",
+          "author": {
+            "name": "kevalin | core ⚡",
+            "url": null,
+            "iconUrl": "https://images-ext-1.discordapp.net/external/vsRN62BrJ7UJaeDIQGi4j4R7VihXF-oTHpGCERz0DSM/%3Fsize%3D1024/https/cdn.discordapp.com/avatars/915035187547615243/8aec11e684cd1c3ab575358a58fda0bd.webp"
+          },
+          "footer": {
+            "text": "Alpha version of the Miracle Bot. Desputes & Bugs & Feedback to https://twitter.com/kirillzzy"
+          },
+          "fields": [
+            {
+              "name": "\uD83C\uDF81 Bounty Name",
+              "value": "Write Hyperscale Twitter Thread",
+              "isInline": false
+            },
+            {
+              "name": "⚙️ Solution ID",
+              "value": "e79afdfb-e4a3-41ab-a3cc-df3d66c58377",
+              "isInline": false
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "923414312826060852",
+      "type": "Default",
+      "timestamp": "2021-12-23T03:18:48.386+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "920174522815119390",
+        "name": "\uD83D\uDD2E Miracle Bot Alpha \uD83D\uDD2E",
+        "discriminator": "0494",
+        "nickname": "\uD83D\uDD2E Miracle Bot Alpha \uD83D\uDD2E",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/4.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "\uD83C\uDF8A Solution is approved! \uD83C\uDF8A",
+          "url": null,
+          "timestamp": null,
+          "description": "Use '/send_solution' to propose a bounty solution, '/approve_solution' to approve a bounty solution",
+          "color": "#E74C3C",
+          "author": {
+            "name": "kevalin | core ⚡",
+            "url": null,
+            "iconUrl": "https://images-ext-1.discordapp.net/external/vsRN62BrJ7UJaeDIQGi4j4R7VihXF-oTHpGCERz0DSM/%3Fsize%3D1024/https/cdn.discordapp.com/avatars/915035187547615243/8aec11e684cd1c3ab575358a58fda0bd.webp"
+          },
+          "footer": {
+            "text": "Alpha version of the Miracle Bot. Desputes & Bugs & Feedback to https://twitter.com/kirillzzy"
+          },
+          "fields": [
+            {
+              "name": "\uD83C\uDF81 Bounty Name",
+              "value": "Write Hyperscale Twitter Thread",
+              "isInline": false
+            },
+            {
+              "name": "⚙️ Solution ID",
+              "value": "16001871-3788-47c9-ad1a-e2c904ad1b86",
+              "isInline": false
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "923414359651287070",
+      "type": "Default",
+      "timestamp": "2021-12-23T03:18:59.55+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "920174522815119390",
+        "name": "\uD83D\uDD2E Miracle Bot Alpha \uD83D\uDD2E",
+        "discriminator": "0494",
+        "nickname": "\uD83D\uDD2E Miracle Bot Alpha \uD83D\uDD2E",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/4.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "\uD83C\uDF8A Solution is approved! \uD83C\uDF8A",
+          "url": null,
+          "timestamp": null,
+          "description": "Use '/send_solution' to propose a bounty solution, '/approve_solution' to approve a bounty solution",
+          "color": "#E74C3C",
+          "author": {
+            "name": "kevalin | core ⚡",
+            "url": null,
+            "iconUrl": "https://images-ext-1.discordapp.net/external/vsRN62BrJ7UJaeDIQGi4j4R7VihXF-oTHpGCERz0DSM/%3Fsize%3D1024/https/cdn.discordapp.com/avatars/915035187547615243/8aec11e684cd1c3ab575358a58fda0bd.webp"
+          },
+          "footer": {
+            "text": "Alpha version of the Miracle Bot. Desputes & Bugs & Feedback to https://twitter.com/kirillzzy"
+          },
+          "fields": [
+            {
+              "name": "\uD83C\uDF81 Bounty Name",
+              "value": "Write Hyperscale Twitter Thread",
+              "isInline": false
+            },
+            {
+              "name": "⚙️ Solution ID",
+              "value": "b4b4355f-4363-4544-85f2-2a453185cfd8",
+              "isInline": false
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "923414405381763103",
+      "type": "Default",
+      "timestamp": "2021-12-23T03:19:10.453+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "920174522815119390",
+        "name": "\uD83D\uDD2E Miracle Bot Alpha \uD83D\uDD2E",
+        "discriminator": "0494",
+        "nickname": "\uD83D\uDD2E Miracle Bot Alpha \uD83D\uDD2E",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/4.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "\uD83C\uDF8A Solution is approved! \uD83C\uDF8A",
+          "url": null,
+          "timestamp": null,
+          "description": "Use '/send_solution' to propose a bounty solution, '/approve_solution' to approve a bounty solution",
+          "color": "#E74C3C",
+          "author": {
+            "name": "kevalin | core ⚡",
+            "url": null,
+            "iconUrl": "https://images-ext-1.discordapp.net/external/vsRN62BrJ7UJaeDIQGi4j4R7VihXF-oTHpGCERz0DSM/%3Fsize%3D1024/https/cdn.discordapp.com/avatars/915035187547615243/8aec11e684cd1c3ab575358a58fda0bd.webp"
+          },
+          "footer": {
+            "text": "Alpha version of the Miracle Bot. Desputes & Bugs & Feedback to https://twitter.com/kirillzzy"
+          },
+          "fields": [
+            {
+              "name": "\uD83C\uDF81 Bounty Name",
+              "value": "Write Hyperscale Twitter Thread",
+              "isInline": false
+            },
+            {
+              "name": "⚙️ Solution ID",
+              "value": "8c67faaf-cb17-4856-a3d9-316aa88d49be",
+              "isInline": false
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    }
+  ],
+  "messageCount": 12
+}

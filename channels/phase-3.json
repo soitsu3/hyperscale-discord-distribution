@@ -1,0 +1,1839 @@
+{
+  "guild": {
+    "id": "916751469678579784",
+    "name": "Hyperscale",
+    "iconUrl": "https://cdn.discordapp.com/icons/916751469678579784/874219cdd9c60b09fc62afefa1efea43.png"
+  },
+  "channel": {
+    "id": "919831614249386035",
+    "type": "GuildTextChat",
+    "categoryId": "922689148861685780",
+    "category": "archived",
+    "name": "phase-3",
+    "topic": "NOTICE: Archived channel. Please do NOT post!"
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "messages": [
+    {
+      "id": "919831688807338064",
+      "type": "Default",
+      "timestamp": "2021-12-13T06:02:44.258+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**THIS PHASE ISN'T PUBLIC YET**",
+      "author": {
+        "id": "915035187547615243",
+        "name": "kevalin",
+        "discriminator": "4394",
+        "nickname": "kevalin",
+        "color": "#1F8B4C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/915035187547615243/8aec11e684cd1c3ab575358a58fda0bd.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "920117432062967879",
+      "type": "Default",
+      "timestamp": "2021-12-14T00:58:10.759+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://www.figma.com/file/OfZiI0qCQBYEwVhtsVu5Dm/Hyperscale---Bounty-Market?node-id=0%3A1",
+      "author": {
+        "id": "915035187547615243",
+        "name": "kevalin",
+        "discriminator": "4394",
+        "nickname": "kevalin",
+        "color": "#1F8B4C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/915035187547615243/8aec11e684cd1c3ab575358a58fda0bd.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Hyperscale - Bounty Market",
+          "url": "https://www.figma.com/file/OfZiI0qCQBYEwVhtsVu5Dm/Hyperscale---Bounty-Market?node-id=0%3A1",
+          "timestamp": null,
+          "description": "Created with Figma",
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/orV2i9LpfcILKrr2v3QHKU0O3RxPQMijSO5RwnroL98/%3Fver%3Dthumbnails%2Fa837e4ea-fae8-4fd0-9c22-bd8074d0432b/https/www.figma.com/file/OfZiI0qCQBYEwVhtsVu5Dm/thumbnail",
+            "width": 800,
+            "height": 538
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "920117463709007902",
+      "type": "Default",
+      "timestamp": "2021-12-14T00:58:18.304+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Here's the mockups for phase #3's website",
+      "author": {
+        "id": "915035187547615243",
+        "name": "kevalin",
+        "discriminator": "4394",
+        "nickname": "kevalin",
+        "color": "#1F8B4C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/915035187547615243/8aec11e684cd1c3ab575358a58fda0bd.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "920117496479100929",
+      "type": "Default",
+      "timestamp": "2021-12-14T00:58:26.117+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "It's a bounty marketplace",
+      "author": {
+        "id": "915035187547615243",
+        "name": "kevalin",
+        "discriminator": "4394",
+        "nickname": "kevalin",
+        "color": "#1F8B4C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/915035187547615243/8aec11e684cd1c3ab575358a58fda0bd.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "920117531983876116",
+      "type": "Default",
+      "timestamp": "2021-12-14T00:58:34.582+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "It'll look much like a video games",
+      "author": {
+        "id": "915035187547615243",
+        "name": "kevalin",
+        "discriminator": "4394",
+        "nickname": "kevalin",
+        "color": "#1F8B4C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/915035187547615243/8aec11e684cd1c3ab575358a58fda0bd.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "920117543564345385",
+      "type": "Default",
+      "timestamp": "2021-12-14T00:58:37.343+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Where players have ELO",
+      "author": {
+        "id": "915035187547615243",
+        "name": "kevalin",
+        "discriminator": "4394",
+        "nickname": "kevalin",
+        "color": "#1F8B4C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/915035187547615243/8aec11e684cd1c3ab575358a58fda0bd.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "920117597800919060",
+      "type": "Default",
+      "timestamp": "2021-12-14T00:58:50.274+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "And are matched with other players at a similar skill level",
+      "author": {
+        "id": "915035187547615243",
+        "name": "kevalin",
+        "discriminator": "4394",
+        "nickname": "kevalin",
+        "color": "#1F8B4C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/915035187547615243/8aec11e684cd1c3ab575358a58fda0bd.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "920117622450839573",
+      "type": "Default",
+      "timestamp": "2021-12-14T00:58:56.151+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "To go out and complete bounties",
+      "author": {
+        "id": "915035187547615243",
+        "name": "kevalin",
+        "discriminator": "4394",
+        "nickname": "kevalin",
+        "color": "#1F8B4C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/915035187547615243/8aec11e684cd1c3ab575358a58fda0bd.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "920117643309101118",
+      "type": "Default",
+      "timestamp": "2021-12-14T00:59:01.124+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "That DAOs put out",
+      "author": {
+        "id": "915035187547615243",
+        "name": "kevalin",
+        "discriminator": "4394",
+        "nickname": "kevalin",
+        "color": "#1F8B4C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/915035187547615243/8aec11e684cd1c3ab575358a58fda0bd.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "920117684002226176",
+      "type": "Default",
+      "timestamp": "2021-12-14T00:59:10.826+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@adelidusiam is working on the designs rn",
+      "author": {
+        "id": "915035187547615243",
+        "name": "kevalin",
+        "discriminator": "4394",
+        "nickname": "kevalin",
+        "color": "#1F8B4C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/915035187547615243/8aec11e684cd1c3ab575358a58fda0bd.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "917519744104546344",
+          "name": "adelidusiam",
+          "discriminator": "5606",
+          "nickname": "adelidusiam",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "920117744702214195",
+      "type": "Default",
+      "timestamp": "2021-12-14T00:59:25.298+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "But @Core-Design feel free to help out and iterate on these",
+      "author": {
+        "id": "915035187547615243",
+        "name": "kevalin",
+        "discriminator": "4394",
+        "nickname": "kevalin",
+        "color": "#1F8B4C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/915035187547615243/8aec11e684cd1c3ab575358a58fda0bd.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "920117812071125022",
+      "type": "Default",
+      "timestamp": "2021-12-14T00:59:41.36+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "You have as much creative freedom as possible",
+      "author": {
+        "id": "915035187547615243",
+        "name": "kevalin",
+        "discriminator": "4394",
+        "nickname": "kevalin",
+        "color": "#1F8B4C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/915035187547615243/8aec11e684cd1c3ab575358a58fda0bd.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "920117860385316894",
+      "type": "Default",
+      "timestamp": "2021-12-14T00:59:52.879+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "If you want to literally build a video game go for it!",
+      "author": {
+        "id": "915035187547615243",
+        "name": "kevalin",
+        "discriminator": "4394",
+        "nickname": "kevalin",
+        "color": "#1F8B4C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/915035187547615243/8aec11e684cd1c3ab575358a58fda0bd.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "920117914240159784",
+      "type": "Default",
+      "timestamp": "2021-12-14T01:00:05.719+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "cc: @Charles_ @Satoshiba",
+      "author": {
+        "id": "915035187547615243",
+        "name": "kevalin",
+        "discriminator": "4394",
+        "nickname": "kevalin",
+        "color": "#1F8B4C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/915035187547615243/8aec11e684cd1c3ab575358a58fda0bd.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "902419013693476914",
+          "name": "Charles_",
+          "discriminator": "4357",
+          "nickname": "Charles_",
+          "isBot": false
+        },
+        {
+          "id": "916901985737916427",
+          "name": "Satoshiba",
+          "discriminator": "7422",
+          "nickname": "Satoshiba",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "920118082972831754",
+      "type": "Default",
+      "timestamp": "2021-12-14T01:00:45.948+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Lmk if you need any clarification",
+      "author": {
+        "id": "915035187547615243",
+        "name": "kevalin",
+        "discriminator": "4394",
+        "nickname": "kevalin",
+        "color": "#1F8B4C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/915035187547615243/8aec11e684cd1c3ab575358a58fda0bd.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "920119338487386203",
+      "type": "Default",
+      "timestamp": "2021-12-14T01:05:45.286+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "What is the DAO credibility score based on?",
+      "author": {
+        "id": "917519744104546344",
+        "name": "adelidusiam",
+        "discriminator": "5606",
+        "nickname": "adelidusiam",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/917519744104546344/9031d19ca8af7fbfa99940284b4fa448.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "920119519085731860",
+      "type": "Default",
+      "timestamp": "2021-12-14T01:06:28.344+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Is it like how well they compensate, how fast, etc?",
+      "author": {
+        "id": "917519744104546344",
+        "name": "adelidusiam",
+        "discriminator": "5606",
+        "nickname": "adelidusiam",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/917519744104546344/9031d19ca8af7fbfa99940284b4fa448.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "920122124952272987",
+      "type": "Default",
+      "timestamp": "2021-12-14T01:16:49.631+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Exciting stuff!",
+      "author": {
+        "id": "695056390284115989",
+        "name": "mf777",
+        "discriminator": "2873",
+        "nickname": "mf777",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/695056390284115989/48cbc9085537435bd886c86322b94d4f.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "920122888894414848",
+      "type": "Reply",
+      "timestamp": "2021-12-14T01:19:51.769+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Exactly!",
+      "author": {
+        "id": "915035187547615243",
+        "name": "kevalin",
+        "discriminator": "4394",
+        "nickname": "kevalin",
+        "color": "#1F8B4C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/915035187547615243/8aec11e684cd1c3ab575358a58fda0bd.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDC4D",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/svg/1f44d.svg"
+          },
+          "count": 2
+        }
+      ],
+      "mentions": [
+        {
+          "id": "917519744104546344",
+          "name": "adelidusiam",
+          "discriminator": "5606",
+          "nickname": "adelidusiam",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "920119519085731860",
+        "channelId": "919831614249386035",
+        "guildId": "916751469678579784"
+      }
+    },
+    {
+      "id": "920129529316507678",
+      "type": "Default",
+      "timestamp": "2021-12-14T01:46:14.969+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Nice, @Satoshiba and I will jump on tonight to grab any tasks you have for us @adelidusiam /iterate on some explorations!",
+      "author": {
+        "id": "902419013693476914",
+        "name": "Charles_",
+        "discriminator": "4357",
+        "nickname": "Charles_",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/902419013693476914/a70441cfa7a9b3ca5e69a156f724f8e1.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "917519744104546344",
+          "name": "adelidusiam",
+          "discriminator": "5606",
+          "nickname": "adelidusiam",
+          "isBot": false
+        },
+        {
+          "id": "916901985737916427",
+          "name": "Satoshiba",
+          "discriminator": "7422",
+          "nickname": "Satoshiba",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "920156536322523136",
+      "type": "Reply",
+      "timestamp": "2021-12-14T03:33:33.941+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Hey @Satoshiba @Charles_ we can explore the UX of Pod matching and selection",
+      "author": {
+        "id": "917519744104546344",
+        "name": "adelidusiam",
+        "discriminator": "5606",
+        "nickname": "adelidusiam",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/917519744104546344/9031d19ca8af7fbfa99940284b4fa448.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "902419013693476914",
+          "name": "Charles_",
+          "discriminator": "4357",
+          "nickname": "Charles_",
+          "isBot": false
+        },
+        {
+          "id": "916901985737916427",
+          "name": "Satoshiba",
+          "discriminator": "7422",
+          "nickname": "Satoshiba",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "920129529316507678",
+        "channelId": "919831614249386035",
+        "guildId": "916751469678579784"
+      }
+    },
+    {
+      "id": "920157293973209089",
+      "type": "Reply",
+      "timestamp": "2021-12-14T03:36:34.579+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I've suggested an extra page-Bounty selection: To enable Pods to view open bounties and snipe them. We could also let individuals view them and if they see a bounty they like, quick-match into a Pod and accept the bounty",
+      "author": {
+        "id": "917519744104546344",
+        "name": "adelidusiam",
+        "discriminator": "5606",
+        "nickname": "adelidusiam",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/917519744104546344/9031d19ca8af7fbfa99940284b4fa448.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "915035187547615243",
+          "name": "kevalin",
+          "discriminator": "4394",
+          "nickname": "kevalin",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "920122888894414848",
+        "channelId": "919831614249386035",
+        "guildId": "916751469678579784"
+      }
+    },
+    {
+      "id": "920157632961065020",
+      "type": "Default",
+      "timestamp": "2021-12-14T03:37:55.4+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I imagine a layout similar to Snapshot: Grid view of bounties, filterable to preferences (type of task, pay, etc)",
+      "author": {
+        "id": "917519744104546344",
+        "name": "adelidusiam",
+        "discriminator": "5606",
+        "nickname": "adelidusiam",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/917519744104546344/9031d19ca8af7fbfa99940284b4fa448.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "920158635089338438",
+      "type": "Default",
+      "timestamp": "2021-12-14T03:41:54.326+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Great, I’ll be on tonight by 10pm and jump in.",
+      "author": {
+        "id": "902419013693476914",
+        "name": "Charles_",
+        "discriminator": "4357",
+        "nickname": "Charles_",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/902419013693476914/a70441cfa7a9b3ca5e69a156f724f8e1.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDC4D",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/svg/1f44d.svg"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "920159296568848474",
+      "type": "Default",
+      "timestamp": "2021-12-14T03:44:32.035+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Awesome, I'll need to get up-to-speed. Also may I get permission to edit the Figma file please?",
+      "author": {
+        "id": "916901985737916427",
+        "name": "Satoshiba",
+        "discriminator": "7422",
+        "nickname": "Satoshiba",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/916901985737916427/e7f45b1d9facd1972c6e2dbca926548a.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "920159551158882315",
+      "type": "Reply",
+      "timestamp": "2021-12-14T03:45:32.734+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Done",
+      "author": {
+        "id": "917519744104546344",
+        "name": "adelidusiam",
+        "discriminator": "5606",
+        "nickname": "adelidusiam",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/917519744104546344/9031d19ca8af7fbfa99940284b4fa448.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "916901985737916427",
+          "name": "Satoshiba",
+          "discriminator": "7422",
+          "nickname": "Satoshiba",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "920159296568848474",
+        "channelId": "919831614249386035",
+        "guildId": "916751469678579784"
+      }
+    },
+    {
+      "id": "920159592489562123",
+      "type": "Default",
+      "timestamp": "2021-12-14T03:45:42.588+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "thanks!",
+      "author": {
+        "id": "916901985737916427",
+        "name": "Satoshiba",
+        "discriminator": "7422",
+        "nickname": "Satoshiba",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/916901985737916427/e7f45b1d9facd1972c6e2dbca926548a.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "920170341085614130",
+      "type": "Default",
+      "timestamp": "2021-12-14T04:28:25.253+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Thanks for doing the flowchart @Satoshiba",
+      "author": {
+        "id": "917519744104546344",
+        "name": "adelidusiam",
+        "discriminator": "5606",
+        "nickname": "adelidusiam",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/917519744104546344/9031d19ca8af7fbfa99940284b4fa448.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "916901985737916427",
+          "name": "Satoshiba",
+          "discriminator": "7422",
+          "nickname": "Satoshiba",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "920170616382955540",
+      "type": "Default",
+      "timestamp": "2021-12-14T04:29:30.889+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@kevalin Where do DAOs land onto the Bounty creation page from? And where do users land onto the Onboarding page from?",
+      "author": {
+        "id": "917519744104546344",
+        "name": "adelidusiam",
+        "discriminator": "5606",
+        "nickname": "adelidusiam",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/917519744104546344/9031d19ca8af7fbfa99940284b4fa448.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "915035187547615243",
+          "name": "kevalin",
+          "discriminator": "4394",
+          "nickname": "kevalin",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "920170912639225857",
+      "type": "Default",
+      "timestamp": "2021-12-14T04:30:41.522+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "No problem, I haven't mapped any flows out yet, just porting over the blocks at the moment. I'm going to dive onto it later",
+      "author": {
+        "id": "916901985737916427",
+        "name": "Satoshiba",
+        "discriminator": "7422",
+        "nickname": "Satoshiba",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/916901985737916427/e7f45b1d9facd1972c6e2dbca926548a.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "920172190291361852",
+      "type": "Default",
+      "timestamp": "2021-12-14T04:35:46.138+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Nice, thanks! We need to make the rough versions by tomorrow afternoon.",
+      "author": {
+        "id": "917519744104546344",
+        "name": "adelidusiam",
+        "discriminator": "5606",
+        "nickname": "adelidusiam",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/917519744104546344/9031d19ca8af7fbfa99940284b4fa448.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDC4D",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/svg/1f44d.svg"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "920179178945544242",
+      "type": "Reply",
+      "timestamp": "2021-12-14T05:03:32.363+00:00",
+      "timestampEdited": "2021-12-14T05:03:53.785+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "There'd be a landing page. This landing page will describe the platform",
+      "author": {
+        "id": "915035187547615243",
+        "name": "kevalin",
+        "discriminator": "4394",
+        "nickname": "kevalin",
+        "color": "#1F8B4C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/915035187547615243/8aec11e684cd1c3ab575358a58fda0bd.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "917519744104546344",
+          "name": "adelidusiam",
+          "discriminator": "5606",
+          "nickname": "adelidusiam",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "920170616382955540",
+        "channelId": "919831614249386035",
+        "guildId": "916751469678579784"
+      }
+    },
+    {
+      "id": "920179350907813949",
+      "type": "Default",
+      "timestamp": "2021-12-14T05:04:13.362+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Then contributors & DAOs will go their respective ways",
+      "author": {
+        "id": "915035187547615243",
+        "name": "kevalin",
+        "discriminator": "4394",
+        "nickname": "kevalin",
+        "color": "#1F8B4C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/915035187547615243/8aec11e684cd1c3ab575358a58fda0bd.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDC4D",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/svg/1f44d.svg"
+          },
+          "count": 2
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "920190430191181834",
+      "type": "Default",
+      "timestamp": "2021-12-14T05:48:14.869+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@Core-Design update on timeline. Need final designs for phase #3 done by the end of the 14th.",
+      "author": {
+        "id": "915035187547615243",
+        "name": "kevalin",
+        "discriminator": "4394",
+        "nickname": "kevalin",
+        "color": "#1F8B4C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/915035187547615243/8aec11e684cd1c3ab575358a58fda0bd.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDC4D",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/svg/1f44d.svg"
+          },
+          "count": 4
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "920190460646010921",
+      "type": "Default",
+      "timestamp": "2021-12-14T05:48:22.13+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Shipping phase #2 in a few hours",
+      "author": {
+        "id": "915035187547615243",
+        "name": "kevalin",
+        "discriminator": "4394",
+        "nickname": "kevalin",
+        "color": "#1F8B4C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/915035187547615243/8aec11e684cd1c3ab575358a58fda0bd.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "920190587095896074",
+      "type": "Default",
+      "timestamp": "2021-12-14T05:48:52.278+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "We'll get a significant amount of dev inbound",
+      "author": {
+        "id": "915035187547615243",
+        "name": "kevalin",
+        "discriminator": "4394",
+        "nickname": "kevalin",
+        "color": "#1F8B4C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/915035187547615243/8aec11e684cd1c3ab575358a58fda0bd.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "920190606674915328",
+      "type": "Default",
+      "timestamp": "2021-12-14T05:48:56.946+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "And started on phase #3",
+      "author": {
+        "id": "915035187547615243",
+        "name": "kevalin",
+        "discriminator": "4394",
+        "nickname": "kevalin",
+        "color": "#1F8B4C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/915035187547615243/8aec11e684cd1c3ab575358a58fda0bd.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "920229225267613706",
+      "type": "Default",
+      "timestamp": "2021-12-14T08:22:24.336+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Hi @kevalin, based on @adelidusiam and @Satoshiba's initial design work I have created a set of lo-fi wireframes. Please review them and add notes using the yellow stickies! \n\nWe will iterate on the designs tomorrow. However, I'm not sure if we will be able to finish this large of a set of designs by EOD Dec 14th. \n\nBased on your notes I'll have a better understanding of how much time we will need and if we can get it done by EOD.",
+      "author": {
+        "id": "902419013693476914",
+        "name": "Charles_",
+        "discriminator": "4357",
+        "nickname": "Charles_",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/902419013693476914/a70441cfa7a9b3ca5e69a156f724f8e1.png?size=128"
+      },
+      "attachments": [
+        {
+          "id": "920229224315510815",
+          "url": "https://cdn.discordapp.com/attachments/919831614249386035/920229224315510815/unknown.png",
+          "fileName": "unknown.png",
+          "fileSizeBytes": 553506
+        }
+      ],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDC4D",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/svg/1f44d.svg"
+          },
+          "count": 2
+        }
+      ],
+      "mentions": [
+        {
+          "id": "916901985737916427",
+          "name": "Satoshiba",
+          "discriminator": "7422",
+          "nickname": "Satoshiba",
+          "isBot": false
+        },
+        {
+          "id": "917519744104546344",
+          "name": "adelidusiam",
+          "discriminator": "5606",
+          "nickname": "adelidusiam",
+          "isBot": false
+        },
+        {
+          "id": "915035187547615243",
+          "name": "kevalin",
+          "discriminator": "4394",
+          "nickname": "kevalin",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "920229338803224586",
+      "type": "Default",
+      "timestamp": "2021-12-14T08:22:51.405+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://www.figma.com/file/OfZiI0qCQBYEwVhtsVu5Dm/Hyperscale---Bounty-Market?node-id=33%3A56",
+      "author": {
+        "id": "902419013693476914",
+        "name": "Charles_",
+        "discriminator": "4357",
+        "nickname": "Charles_",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/902419013693476914/a70441cfa7a9b3ca5e69a156f724f8e1.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Hyperscale - Bounty Market",
+          "url": "https://www.figma.com/file/OfZiI0qCQBYEwVhtsVu5Dm/Hyperscale---Bounty-Market?node-id=33%3A56",
+          "timestamp": null,
+          "description": "Created with Figma",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/DdJWKjxphviATP3qO97msY98DrqL354OTZBT0IeJrVY/%3Fver%3Dthumbnails%2F2a3ca41e-26e6-4b11-922a-4556ae5dc8cc/https/www.figma.com/file/OfZiI0qCQBYEwVhtsVu5Dm/thumbnail",
+            "width": 665,
+            "height": 800
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "920229600301318185",
+      "type": "Reply",
+      "timestamp": "2021-12-14T08:23:53.751+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Alright. Will do. Will prioritize the pages that I need final versions of",
+      "author": {
+        "id": "915035187547615243",
+        "name": "kevalin",
+        "discriminator": "4394",
+        "nickname": "kevalin",
+        "color": "#1F8B4C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/915035187547615243/8aec11e684cd1c3ab575358a58fda0bd.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDC4D",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/svg/1f44d.svg"
+          },
+          "count": 3
+        }
+      ],
+      "mentions": [
+        {
+          "id": "902419013693476914",
+          "name": "Charles_",
+          "discriminator": "4357",
+          "nickname": "Charles_",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "920229225267613706",
+        "channelId": "919831614249386035",
+        "guildId": "916751469678579784"
+      }
+    },
+    {
+      "id": "920347789802766357",
+      "type": "Default",
+      "timestamp": "2021-12-14T16:13:32.324+00:00",
+      "timestampEdited": "2021-12-14T19:39:08.311+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Awesome wireframe thanks @Charles_ . I'm happy to use that as a rough draft and base my final designs on it. I'll try aim for slightly more gamification in Pod matching and Bounty selection. Should have them done by late afternoon, @Charles_ @Satoshiba can then iterate on them.",
+      "author": {
+        "id": "917519744104546344",
+        "name": "adelidusiam",
+        "discriminator": "5606",
+        "nickname": "adelidusiam",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/917519744104546344/9031d19ca8af7fbfa99940284b4fa448.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "902419013693476914",
+          "name": "Charles_",
+          "discriminator": "4357",
+          "nickname": "Charles_",
+          "isBot": false
+        },
+        {
+          "id": "916901985737916427",
+          "name": "Satoshiba",
+          "discriminator": "7422",
+          "nickname": "Satoshiba",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "920359162775478333",
+      "type": "Default",
+      "timestamp": "2021-12-14T16:58:43.852+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "\uD83D\uDE4C",
+      "author": {
+        "id": "902419013693476914",
+        "name": "Charles_",
+        "discriminator": "4357",
+        "nickname": "Charles_",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/902419013693476914/a70441cfa7a9b3ca5e69a156f724f8e1.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "920397198439612466",
+      "type": "Default",
+      "timestamp": "2021-12-14T19:29:52.261+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Bounty market pricing structure\nIdeally, we control pricing like Metamask advanced gas pricing. Let DAOs choose to go over the limit to guarantee priority and attract top talent. But we will have to set minimums and base rates to do that. We can calculate base rates using the following criteria\n- type of work\n- expertise level\n- number of contributors available at the time\n- how much that type of work normally earns\n\nWe’ll need some data to do that somewhat accurately. So I opted for selectors on the form to extract valuable data points about how DAOs assign value to their bounties / expertise of contributors. We can then benchmark it all behind the scenes, teach the Ai and create price multipliers / base rates.",
+      "author": {
+        "id": "917519744104546344",
+        "name": "adelidusiam",
+        "discriminator": "5606",
+        "nickname": "adelidusiam",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/917519744104546344/9031d19ca8af7fbfa99940284b4fa448.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDCA1",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/svg/1f4a1.svg"
+          },
+          "count": 2
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "920397283416231936",
+      "type": "Default",
+      "timestamp": "2021-12-14T19:30:12.521+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "917519744104546344",
+        "name": "adelidusiam",
+        "discriminator": "5606",
+        "nickname": "adelidusiam",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/917519744104546344/9031d19ca8af7fbfa99940284b4fa448.png?size=128"
+      },
+      "attachments": [
+        {
+          "id": "920397282749333604",
+          "url": "https://cdn.discordapp.com/attachments/919831614249386035/920397282749333604/Screen_Shot_2021-12-14_at_19.24.53.png",
+          "fileName": "Screen_Shot_2021-12-14_at_19.24.53.png",
+          "fileSizeBytes": 69582
+        }
+      ],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "920460581486600263",
+      "type": "Default",
+      "timestamp": "2021-12-14T23:41:43.957+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Love the Overwatch inspo",
+      "author": {
+        "id": "507400361238069260",
+        "name": "longtran",
+        "discriminator": "8358",
+        "nickname": "longtran",
+        "color": "#1ABC9C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/507400361238069260/810bf8c20724a3849eb57191a12f10fd.png?size=128"
+      },
+      "attachments": [
+        {
+          "id": "920460580928782376",
+          "url": "https://cdn.discordapp.com/attachments/919831614249386035/920460580928782376/CleanShot_2021-12-14_at_15.41.252x.png",
+          "fileName": "CleanShot_2021-12-14_at_15.41.252x.png",
+          "fileSizeBytes": 520728
+        }
+      ],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "920522670804713472",
+      "type": "Default",
+      "timestamp": "2021-12-15T03:48:27.204+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@Satoshiba Really like your iteration on the landing!",
+      "author": {
+        "id": "917519744104546344",
+        "name": "adelidusiam",
+        "discriminator": "5606",
+        "nickname": "adelidusiam",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/917519744104546344/9031d19ca8af7fbfa99940284b4fa448.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "916901985737916427",
+          "name": "Satoshiba",
+          "discriminator": "7422",
+          "nickname": "Satoshiba",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "920523957017382963",
+      "type": "Default",
+      "timestamp": "2021-12-15T03:53:33.861+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Thanks! I wasn't quite sure whether the initial starting flow to this dashboard was via the landing or from a subpage. Ended up exploring from landing",
+      "author": {
+        "id": "916901985737916427",
+        "name": "Satoshiba",
+        "discriminator": "7422",
+        "nickname": "Satoshiba",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/916901985737916427/e7f45b1d9facd1972c6e2dbca926548a.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "920524229852684328",
+      "type": "Default",
+      "timestamp": "2021-12-15T03:54:38.91+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I did also explore via one of the nav item as well",
+      "author": {
+        "id": "916901985737916427",
+        "name": "Satoshiba",
+        "discriminator": "7422",
+        "nickname": "Satoshiba",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/916901985737916427/e7f45b1d9facd1972c6e2dbca926548a.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "920524644543504456",
+      "type": "Default",
+      "timestamp": "2021-12-15T03:56:17.78+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Yeah same! I thought it may have its own landing, but that felt like much. Still unsure where contributors come from though. How do they land on Bounty marketplace? Through DAO race page, the main Hyperscale homepage or somewhere else?",
+      "author": {
+        "id": "917519744104546344",
+        "name": "adelidusiam",
+        "discriminator": "5606",
+        "nickname": "adelidusiam",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/917519744104546344/9031d19ca8af7fbfa99940284b4fa448.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "920524917601075240",
+      "type": "Default",
+      "timestamp": "2021-12-15T03:57:22.882+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I think DAOs will have a main Dashboard, which will have a link to the Bounty Dashboard. Sort of like Stripe having the main dash with lots of sub dashboards",
+      "author": {
+        "id": "917519744104546344",
+        "name": "adelidusiam",
+        "discriminator": "5606",
+        "nickname": "adelidusiam",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/917519744104546344/9031d19ca8af7fbfa99940284b4fa448.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "920525417658589194",
+      "type": "Default",
+      "timestamp": "2021-12-15T03:59:22.105+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Yeah, I'm not sure either. Still trying to wrap my heads around it too",
+      "author": {
+        "id": "916901985737916427",
+        "name": "Satoshiba",
+        "discriminator": "7422",
+        "nickname": "Satoshiba",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/916901985737916427/e7f45b1d9facd1972c6e2dbca926548a.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "920536840086355998",
+      "type": "Default",
+      "timestamp": "2021-12-15T04:44:45.424+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Nice work @adelidusiam and @Satoshiba, I will be on by 10pm to review and help out.",
+      "author": {
+        "id": "902419013693476914",
+        "name": "Charles_",
+        "discriminator": "4357",
+        "nickname": "Charles_",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/902419013693476914/a70441cfa7a9b3ca5e69a156f724f8e1.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDC4D",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/svg/1f44d.svg"
+          },
+          "count": 2
+        }
+      ],
+      "mentions": [
+        {
+          "id": "917519744104546344",
+          "name": "adelidusiam",
+          "discriminator": "5606",
+          "nickname": "adelidusiam",
+          "isBot": false
+        },
+        {
+          "id": "916901985737916427",
+          "name": "Satoshiba",
+          "discriminator": "7422",
+          "nickname": "Satoshiba",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "920540945458528308",
+      "type": "Reply",
+      "timestamp": "2021-12-15T05:01:04.221+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Thanks! I've riffed off of your initial wireframes with @adelidusiam's. Still not entirely sure how the two workflows differ from one another or whether flows make sense.",
+      "author": {
+        "id": "916901985737916427",
+        "name": "Satoshiba",
+        "discriminator": "7422",
+        "nickname": "Satoshiba",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/916901985737916427/e7f45b1d9facd1972c6e2dbca926548a.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "917519744104546344",
+          "name": "adelidusiam",
+          "discriminator": "5606",
+          "nickname": "adelidusiam",
+          "isBot": false
+        },
+        {
+          "id": "902419013693476914",
+          "name": "Charles_",
+          "discriminator": "4357",
+          "nickname": "Charles_",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "920536840086355998",
+        "channelId": "919831614249386035",
+        "guildId": "916751469678579784"
+      }
+    },
+    {
+      "id": "920576444327948320",
+      "type": "Default",
+      "timestamp": "2021-12-15T07:22:07.811+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@kevalin, \n\n@adelidusiam, @Satoshiba, and I have put together a set of full fidelity mocks for phase 3. Can you please give them a review and add notes using the yellow stickies?\n\nhttps://www.figma.com/file/OfZiI0qCQBYEwVhtsVu5Dm/Hyperscale---Bounty-Market?node-id=92%3A6997",
+      "author": {
+        "id": "902419013693476914",
+        "name": "Charles_",
+        "discriminator": "4357",
+        "nickname": "Charles_",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/902419013693476914/a70441cfa7a9b3ca5e69a156f724f8e1.png?size=128"
+      },
+      "attachments": [
+        {
+          "id": "920576444806086706",
+          "url": "https://cdn.discordapp.com/attachments/919831614249386035/920576444806086706/unknown.png",
+          "fileName": "unknown.png",
+          "fileSizeBytes": 612815
+        }
+      ],
+      "embeds": [
+        {
+          "title": "Hyperscale - Bounty Market",
+          "url": "https://www.figma.com/file/OfZiI0qCQBYEwVhtsVu5Dm/Hyperscale---Bounty-Market?node-id=92%3A6997",
+          "timestamp": null,
+          "description": "Created with Figma",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/Zfmh1rt_I2Gq4a1nMWAJbfKH4z_jgjX823J7JDmPdAw/%3Fver%3Dthumbnails%2F60c85000-197e-4012-b990-4ca06d397386/https/www.figma.com/file/OfZiI0qCQBYEwVhtsVu5Dm/thumbnail",
+            "width": 800,
+            "height": 620
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDD25",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/svg/1f525.svg"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": [
+        {
+          "id": "916901985737916427",
+          "name": "Satoshiba",
+          "discriminator": "7422",
+          "nickname": "Satoshiba",
+          "isBot": false
+        },
+        {
+          "id": "917519744104546344",
+          "name": "adelidusiam",
+          "discriminator": "5606",
+          "nickname": "adelidusiam",
+          "isBot": false
+        },
+        {
+          "id": "915035187547615243",
+          "name": "kevalin",
+          "discriminator": "4394",
+          "nickname": "kevalin",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "921207874632450098",
+      "type": "Default",
+      "timestamp": "2021-12-17T01:11:12.527+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Idea for a DAO Directory - in Bounty Figma.",
+      "author": {
+        "id": "917519744104546344",
+        "name": "adelidusiam",
+        "discriminator": "5606",
+        "nickname": "adelidusiam",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/917519744104546344/9031d19ca8af7fbfa99940284b4fa448.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "921207930836099102",
+      "type": "Default",
+      "timestamp": "2021-12-17T01:11:25.927+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "917519744104546344",
+        "name": "adelidusiam",
+        "discriminator": "5606",
+        "nickname": "adelidusiam",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/917519744104546344/9031d19ca8af7fbfa99940284b4fa448.png?size=128"
+      },
+      "attachments": [
+        {
+          "id": "921207929858818058",
+          "url": "https://cdn.discordapp.com/attachments/919831614249386035/921207929858818058/Screen_Shot_2021-12-17_at_00.57.30.png",
+          "fileName": "Screen_Shot_2021-12-17_at_00.57.30.png",
+          "fileSizeBytes": 175760
+        }
+      ],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDD25",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/svg/1f525.svg"
+          },
+          "count": 11
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "926573208344350740",
+      "type": "Reply",
+      "timestamp": "2021-12-31T20:31:07.767+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "What if we could demand people who apply for the DAO race to also specify a project icon / logo, a header image, and a unique ticker symbol such as HYPR relevant to the projects name. That way in responsive mode, we would have a lot of options on how the pages and elements would get rendered. And it would make everything more visually appealing.",
+      "author": {
+        "id": "900502872670744616",
+        "name": "AMICA",
+        "discriminator": "7675",
+        "nickname": "AMICA",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/900502872670744616/798fb3bd4007400558239f1e5a504b50.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDC4D",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/svg/1f44d.svg"
+          },
+          "count": 2
+        }
+      ],
+      "mentions": [
+        {
+          "id": "917519744104546344",
+          "name": "adelidusiam",
+          "discriminator": "5606",
+          "nickname": "adelidusiam",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "921207874632450098",
+        "channelId": "919831614249386035",
+        "guildId": "916751469678579784"
+      }
+    },
+    {
+      "id": "926622668990582894",
+      "type": "Reply",
+      "timestamp": "2021-12-31T23:47:40.104+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Yeah for sure! Would add flexibility",
+      "author": {
+        "id": "917519744104546344",
+        "name": "adelidusiam",
+        "discriminator": "5606",
+        "nickname": "adelidusiam",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/917519744104546344/9031d19ca8af7fbfa99940284b4fa448.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDC4D",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/svg/1f44d.svg"
+          },
+          "count": 2
+        }
+      ],
+      "mentions": [
+        {
+          "id": "900502872670744616",
+          "name": "AMICA",
+          "discriminator": "7675",
+          "nickname": "AMICA",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "926573208344350740",
+        "channelId": "919831614249386035",
+        "guildId": "916751469678579784"
+      }
+    },
+    {
+      "id": "932477870239023154",
+      "type": "Reply",
+      "timestamp": "2022-01-17T03:34:08.866+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Instead of Suggesting we can Give them Our desigers If they need",
+      "author": {
+        "id": "864406808436277248",
+        "name": "rx",
+        "discriminator": "5834",
+        "nickname": "rx",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/864406808436277248/f45b034d81a9f2db7be18ffded9f9bda.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "900502872670744616",
+          "name": "AMICA",
+          "discriminator": "7675",
+          "nickname": "AMICA",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "926573208344350740",
+        "channelId": "919831614249386035",
+        "guildId": "916751469678579784"
+      }
+    },
+    {
+      "id": "932489231526420521",
+      "type": "Reply",
+      "timestamp": "2022-01-17T04:19:17.608+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Great idea.  Let them present themselves like any other org",
+      "author": {
+        "id": "531561241219694592",
+        "name": "hawtlava",
+        "discriminator": "2461",
+        "nickname": "Ryu",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/531561241219694592/e93e2b42b8236ac750bae3fe24b0772b.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "900502872670744616",
+          "name": "AMICA",
+          "discriminator": "7675",
+          "nickname": "AMICA",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "926573208344350740",
+        "channelId": "919831614249386035",
+        "guildId": "916751469678579784"
+      }
+    }
+  ],
+  "messageCount": 60
+}

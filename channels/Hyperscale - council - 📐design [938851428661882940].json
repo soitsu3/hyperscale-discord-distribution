@@ -1,0 +1,294 @@
+{
+  "guild": {
+    "id": "916751469678579784",
+    "name": "Hyperscale",
+    "iconUrl": "https://cdn.discordapp.com/icons/916751469678579784/874219cdd9c60b09fc62afefa1efea43.png"
+  },
+  "channel": {
+    "id": "938851428661882940",
+    "type": "GuildTextChat",
+    "categoryId": "931126837365583882",
+    "category": "council",
+    "name": "\uD83D\uDCD0design",
+    "topic": "A place for designers to hang out and create the next big thing in UI/UX. Also to share great Art."
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "messages": [
+    {
+      "id": "938858904509628457",
+      "type": "Default",
+      "timestamp": "2022-02-03T18:10:05.99+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "\uD83D\uDC4B\uD83C\uDFFB",
+      "author": {
+        "id": "703540563328368691",
+        "name": "BenJ",
+        "discriminator": "0551",
+        "nickname": "BenJ",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/703540563328368691/e4eacd321d76a0e2b88bbcb8076d5e4d.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDE4C\uD83C\uDFFB",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/svg/1f64c-1f3fb.svg"
+          },
+          "count": 6
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "940245282225008680",
+      "type": "Default",
+      "timestamp": "2022-02-07T13:59:04.195+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Yo",
+      "author": {
+        "id": "452465881700630529",
+        "name": "mhrnik",
+        "discriminator": "3998",
+        "nickname": "mhrnik",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/452465881700630529/9f97bec6bfcc0c5eb3bb83e35da036fe.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "940461541755609138",
+      "type": "Default",
+      "timestamp": "2022-02-08T04:18:24.485+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Hi all, I’m still on vacation (intentionally with out my computer), however, I’m excited to jump back on when I’m back next week.",
+      "author": {
+        "id": "902419013693476914",
+        "name": "Charles_",
+        "discriminator": "4357",
+        "nickname": "Charles_",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/902419013693476914/a70441cfa7a9b3ca5e69a156f724f8e1.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDC4D",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/svg/1f44d.svg"
+          },
+          "count": 4
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "940491494467448862",
+      "type": "Reply",
+      "timestamp": "2022-02-08T06:17:25.768+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "You come back -> vertical growth lol",
+      "author": {
+        "id": "915035187547615243",
+        "name": "kevalin",
+        "discriminator": "4394",
+        "nickname": "kevalin",
+        "color": "#1F8B4C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/915035187547615243/8aec11e684cd1c3ab575358a58fda0bd.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDCC8",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/svg/1f4c8.svg"
+          },
+          "count": 2
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "⚡",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/svg/26a1.svg"
+          },
+          "count": 2
+        }
+      ],
+      "mentions": [
+        {
+          "id": "902419013693476914",
+          "name": "Charles_",
+          "discriminator": "4357",
+          "nickname": "Charles_",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "940461541755609138",
+        "channelId": "938851428661882940",
+        "guildId": "916751469678579784"
+      }
+    },
+    {
+      "id": "944013862355730452",
+      "type": "Default",
+      "timestamp": "2022-02-17T23:34:03.715+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I’m back tonight @kevalin, let me know what I can start work on!",
+      "author": {
+        "id": "902419013693476914",
+        "name": "Charles_",
+        "discriminator": "4357",
+        "nickname": "Charles_",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/902419013693476914/a70441cfa7a9b3ca5e69a156f724f8e1.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "915035187547615243",
+          "name": "kevalin",
+          "discriminator": "4394",
+          "nickname": "kevalin",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "944082467080519722",
+      "type": "Reply",
+      "timestamp": "2022-02-18T04:06:40.356+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "LFG!!!",
+      "author": {
+        "id": "915035187547615243",
+        "name": "kevalin",
+        "discriminator": "4394",
+        "nickname": "kevalin",
+        "color": "#1F8B4C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/915035187547615243/8aec11e684cd1c3ab575358a58fda0bd.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "902419013693476914",
+          "name": "Charles_",
+          "discriminator": "4357",
+          "nickname": "Charles_",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "944013862355730452",
+        "channelId": "938851428661882940",
+        "guildId": "916751469678579784"
+      }
+    },
+    {
+      "id": "944082512248987719",
+      "type": "Default",
+      "timestamp": "2022-02-18T04:06:51.125+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I’ll get back to you in a few hours",
+      "author": {
+        "id": "915035187547615243",
+        "name": "kevalin",
+        "discriminator": "4394",
+        "nickname": "kevalin",
+        "color": "#1F8B4C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/915035187547615243/8aec11e684cd1c3ab575358a58fda0bd.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDC4C",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/svg/1f44c.svg"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "944128724952039454",
+      "type": "Reply",
+      "timestamp": "2022-02-18T07:10:29.092+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Will have some details tomorrow. Here's the event schedule:\n- 11am PT: team sync\n- 4pm PT: community call",
+      "author": {
+        "id": "915035187547615243",
+        "name": "kevalin",
+        "discriminator": "4394",
+        "nickname": "kevalin",
+        "color": "#1F8B4C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/915035187547615243/8aec11e684cd1c3ab575358a58fda0bd.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "902419013693476914",
+          "name": "Charles_",
+          "discriminator": "4357",
+          "nickname": "Charles_",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "944013862355730452",
+        "channelId": "938851428661882940",
+        "guildId": "916751469678579784"
+      }
+    }
+  ],
+  "messageCount": 8
+}

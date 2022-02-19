@@ -1,0 +1,2765 @@
+{
+  "guild": {
+    "id": "916751469678579784",
+    "name": "Hyperscale",
+    "iconUrl": "https://cdn.discordapp.com/icons/916751469678579784/874219cdd9c60b09fc62afefa1efea43.png"
+  },
+  "channel": {
+    "id": "916849735439093760",
+    "type": "GuildTextChat",
+    "categoryId": "922689148861685780",
+    "category": "archived",
+    "name": "referral-program",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "messages": [
+    {
+      "id": "916853521486344263",
+      "type": "Default",
+      "timestamp": "2021-12-05T00:48:33.837+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@Development need to build a strong referral program. This will get people to refer strong web3 projects in exchange for some equity if the company is selected.",
+      "author": {
+        "id": "915035187547615243",
+        "name": "kevalin",
+        "discriminator": "4394",
+        "nickname": "kevalin",
+        "color": "#1F8B4C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/915035187547615243/8aec11e684cd1c3ab575358a58fda0bd.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDC4D",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/svg/1f44d.svg"
+          },
+          "count": 4
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "916853545330937886",
+      "type": "Default",
+      "timestamp": "2021-12-05T00:48:39.522+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Any ideas?",
+      "author": {
+        "id": "915035187547615243",
+        "name": "kevalin",
+        "discriminator": "4394",
+        "nickname": "kevalin",
+        "color": "#1F8B4C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/915035187547615243/8aec11e684cd1c3ab575358a58fda0bd.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "916853639837020190",
+      "type": "Default",
+      "timestamp": "2021-12-05T00:49:02.054+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Have a typeform where people submit who referred them?",
+      "author": {
+        "id": "915035187547615243",
+        "name": "kevalin",
+        "discriminator": "4394",
+        "nickname": "kevalin",
+        "color": "#1F8B4C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/915035187547615243/8aec11e684cd1c3ab575358a58fda0bd.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "916853667263565825",
+      "type": "Default",
+      "timestamp": "2021-12-05T00:49:08.593+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Brainstorm:",
+      "author": {
+        "id": "915035187547615243",
+        "name": "kevalin",
+        "discriminator": "4394",
+        "nickname": "kevalin",
+        "color": "#1F8B4C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/915035187547615243/8aec11e684cd1c3ab575358a58fda0bd.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "916853897430204436",
+      "type": "Default",
+      "timestamp": "2021-12-05T00:50:03.469+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "NFT of a referal",
+      "author": {
+        "id": "900286244372770827",
+        "name": "robiosss",
+        "discriminator": "8701",
+        "nickname": "robiosss",
+        "color": "#2ECC71",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/900286244372770827/d049f7fa586a0015969487221b3170a6.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "916853939805257758",
+      "type": "Default",
+      "timestamp": "2021-12-05T00:50:13.572+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I dont see an incentice for the company applying to tell who referred them",
+      "author": {
+        "id": "300713392539435008",
+        "name": "sualehasif996",
+        "discriminator": "8908",
+        "nickname": "sualehasif996",
+        "color": "#1ABC9C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/300713392539435008/d777116f630929b9979ed22b694d35a9.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "916853982029316239",
+      "type": "Default",
+      "timestamp": "2021-12-05T00:50:23.639+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "or how it deals with multiple people doing a referral",
+      "author": {
+        "id": "300713392539435008",
+        "name": "sualehasif996",
+        "discriminator": "8908",
+        "nickname": "sualehasif996",
+        "color": "#1ABC9C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/300713392539435008/d777116f630929b9979ed22b694d35a9.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "916854030653878304",
+      "type": "Default",
+      "timestamp": "2021-12-05T00:50:35.232+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Gitcoin grants is always a good place to start",
+      "author": {
+        "id": "822272634679066624",
+        "name": "noellar",
+        "discriminator": "6710",
+        "nickname": "noellar",
+        "color": "#1ABC9C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "916854063201660929",
+      "type": "Default",
+      "timestamp": "2021-12-05T00:50:42.992+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "What about a flat 5% of allocated equity (5% of the 5%)?",
+      "author": {
+        "id": "184885171995017216",
+        "name": "sendhey",
+        "discriminator": "2899",
+        "nickname": "sendhey",
+        "color": "#1ABC9C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/184885171995017216/7fcf15e99542cf1d5c90eb929918b4c3.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDC4D",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/svg/1f44d.svg"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "916854170840080396",
+      "type": "Default",
+      "timestamp": "2021-12-05T00:51:08.655+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "or something like it -:)",
+      "author": {
+        "id": "822272634679066624",
+        "name": "noellar",
+        "discriminator": "6710",
+        "nickname": "noellar",
+        "color": "#1ABC9C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "916854232404066316",
+      "type": "Default",
+      "timestamp": "2021-12-05T00:51:23.333+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Faster turnaround time if you get a referral?",
+      "author": {
+        "id": "756557574350045206",
+        "name": "jacobpedd",
+        "discriminator": "3043",
+        "nickname": "jacobpedd",
+        "color": "#1ABC9C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/756557574350045206/a66fb34919268b9e80c3b83a794bc7be.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "916854269230055456",
+      "type": "Default",
+      "timestamp": "2021-12-05T00:51:32.113+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "1 week -> 24 hours",
+      "author": {
+        "id": "756557574350045206",
+        "name": "jacobpedd",
+        "discriminator": "3043",
+        "nickname": "jacobpedd",
+        "color": "#1ABC9C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/756557574350045206/a66fb34919268b9e80c3b83a794bc7be.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "916854350012370955",
+      "type": "Default",
+      "timestamp": "2021-12-05T00:51:51.373+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I was thinking of having an application token. When you apply you spend the token. You could sell the token. You could also send it to someone so they apply in exchange for carry. Easy to track who gave a token to who.",
+      "author": {
+        "id": "915035187547615243",
+        "name": "kevalin",
+        "discriminator": "4394",
+        "nickname": "kevalin",
+        "color": "#1F8B4C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/915035187547615243/8aec11e684cd1c3ab575358a58fda0bd.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDC4D",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/svg/1f44d.svg"
+          },
+          "count": 2
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "916854609262293063",
+      "type": "Default",
+      "timestamp": "2021-12-05T00:52:53.183+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "What would sell of an application token mean?",
+      "author": {
+        "id": "900286244372770827",
+        "name": "robiosss",
+        "discriminator": "8701",
+        "nickname": "robiosss",
+        "color": "#2ECC71",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/900286244372770827/d049f7fa586a0015969487221b3170a6.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "916854646797123594",
+      "type": "Default",
+      "timestamp": "2021-12-05T00:53:02.132+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Who’s minting them?",
+      "author": {
+        "id": "900286244372770827",
+        "name": "robiosss",
+        "discriminator": "8701",
+        "nickname": "robiosss",
+        "color": "#2ECC71",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/900286244372770827/d049f7fa586a0015969487221b3170a6.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "916854701096583258",
+      "type": "Default",
+      "timestamp": "2021-12-05T00:53:15.078+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "It seems slightly overcomplicated for a generally simple thing?",
+      "author": {
+        "id": "327155315906838528",
+        "name": "ClaireBookworm",
+        "discriminator": "5393",
+        "nickname": "ClaireBookworm",
+        "color": "#1ABC9C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/327155315906838528/65560535c436fcc637eef141074fdba4.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "916854763004506122",
+      "type": "Reply",
+      "timestamp": "2021-12-05T00:53:29.838+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "that is certainly a better design except: good founders know other good founders. It seems bad to restrict to one application",
+      "author": {
+        "id": "300713392539435008",
+        "name": "sualehasif996",
+        "discriminator": "8908",
+        "nickname": "sualehasif996",
+        "color": "#1ABC9C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/300713392539435008/d777116f630929b9979ed22b694d35a9.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "915035187547615243",
+          "name": "kevalin",
+          "discriminator": "4394",
+          "nickname": "kevalin",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "916854350012370955",
+        "channelId": "916849735439093760",
+        "guildId": "916751469678579784"
+      }
+    },
+    {
+      "id": "916854776141082654",
+      "type": "Reply",
+      "timestamp": "2021-12-05T00:53:32.97+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Yeah def don't do that now",
+      "author": {
+        "id": "915035187547615243",
+        "name": "kevalin",
+        "discriminator": "4394",
+        "nickname": "kevalin",
+        "color": "#1F8B4C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/915035187547615243/8aec11e684cd1c3ab575358a58fda0bd.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "327155315906838528",
+          "name": "ClaireBookworm",
+          "discriminator": "5393",
+          "nickname": "ClaireBookworm",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "916854701096583258",
+        "channelId": "916849735439093760",
+        "guildId": "916751469678579784"
+      }
+    },
+    {
+      "id": "916854780318601259",
+      "type": "Default",
+      "timestamp": "2021-12-05T00:53:33.966+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "You can have the smart contract have a built in “carry” assigned to the lead/sponsor where on liquidity event you get a percent of carry. The way carry is assigned is there a step in the voting process called sponsoring, so even if someone else applies, only a member can sponsor, and basically put their “stake” on an investment that they think it should go through a vote",
+      "author": {
+        "id": "862277279480283147",
+        "name": "willsterr",
+        "discriminator": "2739",
+        "nickname": "willsterr",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/4.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "916854855765741599",
+      "type": "Reply",
+      "timestamp": "2021-12-05T00:53:51.954+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Like you'd give a good founder 3 tokens",
+      "author": {
+        "id": "915035187547615243",
+        "name": "kevalin",
+        "discriminator": "4394",
+        "nickname": "kevalin",
+        "color": "#1F8B4C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/915035187547615243/8aec11e684cd1c3ab575358a58fda0bd.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDC4D",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/svg/1f44d.svg"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": [
+        {
+          "id": "300713392539435008",
+          "name": "sualehasif996",
+          "discriminator": "8908",
+          "nickname": "sualehasif996",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "916854763004506122",
+        "channelId": "916849735439093760",
+        "guildId": "916751469678579784"
+      }
+    },
+    {
+      "id": "916855243231346728",
+      "type": "Default",
+      "timestamp": "2021-12-05T00:55:24.333+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Oh, what if you get limited number of referal tokens. You should choose who to refer and you spend you tokens on referring",
+      "author": {
+        "id": "900286244372770827",
+        "name": "robiosss",
+        "discriminator": "8701",
+        "nickname": "robiosss",
+        "color": "#2ECC71",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/900286244372770827/d049f7fa586a0015969487221b3170a6.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "916855281651167244",
+      "type": "Reply",
+      "timestamp": "2021-12-05T00:55:33.493+00:00",
+      "timestampEdited": "2021-12-05T00:56:55.403+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Make a referral systems gamified on a leaderboard with the ultimatum of part ownership in Hyperscale to the DAO or something like that\n\nCheck royal's referral system as an example, they did it extremely well\n\nhttps://royal.io/",
+      "author": {
+        "id": "863876052626833469",
+        "name": "Eric Zhu",
+        "discriminator": "3018",
+        "nickname": "Eric Zhu",
+        "color": "#1ABC9C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/863876052626833469/0d2b457fd2e9b47167c88826cff3f73a.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Royal - Own your favorite music.",
+          "url": "https://royal.io/",
+          "timestamp": null,
+          "description": "Own a piece of your favorite music with royal.",
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/Tmrnw-_ZA-0V5w2AaF49aVw6ty2vjGsHLBAtXLebsyQ/http/royal.io/assets/Meta_Preview.png",
+            "width": 1200,
+            "height": 675
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "915035187547615243",
+          "name": "kevalin",
+          "discriminator": "4394",
+          "nickname": "kevalin",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "916853521486344263",
+        "channelId": "916849735439093760",
+        "guildId": "916751469678579784"
+      }
+    },
+    {
+      "id": "916855721704947752",
+      "type": "Reply",
+      "timestamp": "2021-12-05T00:57:18.41+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "They're trying to attract users",
+      "author": {
+        "id": "915035187547615243",
+        "name": "kevalin",
+        "discriminator": "4394",
+        "nickname": "kevalin",
+        "color": "#1F8B4C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/915035187547615243/8aec11e684cd1c3ab575358a58fda0bd.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "863876052626833469",
+          "name": "Eric Zhu",
+          "discriminator": "3018",
+          "nickname": "Eric Zhu",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "916855281651167244",
+        "channelId": "916849735439093760",
+        "guildId": "916751469678579784"
+      }
+    },
+    {
+      "id": "916855743314022401",
+      "type": "Default",
+      "timestamp": "2021-12-05T00:57:23.562+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "We're trying to attract good founders",
+      "author": {
+        "id": "915035187547615243",
+        "name": "kevalin",
+        "discriminator": "4394",
+        "nickname": "kevalin",
+        "color": "#1F8B4C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/915035187547615243/8aec11e684cd1c3ab575358a58fda0bd.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "916855762662346752",
+      "type": "Default",
+      "timestamp": "2021-12-05T00:57:28.175+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "They want volume",
+      "author": {
+        "id": "915035187547615243",
+        "name": "kevalin",
+        "discriminator": "4394",
+        "nickname": "kevalin",
+        "color": "#1F8B4C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/915035187547615243/8aec11e684cd1c3ab575358a58fda0bd.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "916855784560820274",
+      "type": "Default",
+      "timestamp": "2021-12-05T00:57:33.396+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "We want quality",
+      "author": {
+        "id": "915035187547615243",
+        "name": "kevalin",
+        "discriminator": "4394",
+        "nickname": "kevalin",
+        "color": "#1F8B4C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/915035187547615243/8aec11e684cd1c3ab575358a58fda0bd.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "916855803313524787",
+      "type": "Default",
+      "timestamp": "2021-12-05T00:57:37.867+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Though we also need volume",
+      "author": {
+        "id": "915035187547615243",
+        "name": "kevalin",
+        "discriminator": "4394",
+        "nickname": "kevalin",
+        "color": "#1F8B4C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/915035187547615243/8aec11e684cd1c3ab575358a58fda0bd.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "916855838860251186",
+      "type": "Default",
+      "timestamp": "2021-12-05T00:57:46.342+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "So that could be promising",
+      "author": {
+        "id": "915035187547615243",
+        "name": "kevalin",
+        "discriminator": "4394",
+        "nickname": "kevalin",
+        "color": "#1F8B4C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/915035187547615243/8aec11e684cd1c3ab575358a58fda0bd.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "916855898373255220",
+      "type": "Reply",
+      "timestamp": "2021-12-05T00:58:00.531+00:00",
+      "timestampEdited": "2021-12-05T00:58:04.803+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Right assuming that good founders refer to good founders and etc.",
+      "author": {
+        "id": "863876052626833469",
+        "name": "Eric Zhu",
+        "discriminator": "3018",
+        "nickname": "Eric Zhu",
+        "color": "#1ABC9C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/863876052626833469/0d2b457fd2e9b47167c88826cff3f73a.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "915035187547615243",
+          "name": "kevalin",
+          "discriminator": "4394",
+          "nickname": "kevalin",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "916855784560820274",
+        "channelId": "916849735439093760",
+        "guildId": "916751469678579784"
+      }
+    },
+    {
+      "id": "916855904014589952",
+      "type": "Default",
+      "timestamp": "2021-12-05T00:58:01.876+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Like we'd give the top referrers a percentage of the fund",
+      "author": {
+        "id": "915035187547615243",
+        "name": "kevalin",
+        "discriminator": "4394",
+        "nickname": "kevalin",
+        "color": "#1F8B4C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/915035187547615243/8aec11e684cd1c3ab575358a58fda0bd.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "916855921580314647",
+      "type": "Default",
+      "timestamp": "2021-12-05T00:58:06.064+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Which would be carry",
+      "author": {
+        "id": "915035187547615243",
+        "name": "kevalin",
+        "discriminator": "4394",
+        "nickname": "kevalin",
+        "color": "#1F8B4C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/915035187547615243/8aec11e684cd1c3ab575358a58fda0bd.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "916856101650186332",
+      "type": "Default",
+      "timestamp": "2021-12-05T00:58:48.996+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I think top referrers is not an accurate measurement, because we want “good” referrals not just # as you said",
+      "author": {
+        "id": "862277279480283147",
+        "name": "willsterr",
+        "discriminator": "2739",
+        "nickname": "willsterr",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/4.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "916856111783616514",
+      "type": "Reply",
+      "timestamp": "2021-12-05T00:58:51.412+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Put up a team of scouts to source the founders, thats how you maintain quality control, and also make the community invite only, blow up the twitter",
+      "author": {
+        "id": "863876052626833469",
+        "name": "Eric Zhu",
+        "discriminator": "3018",
+        "nickname": "Eric Zhu",
+        "color": "#1ABC9C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/863876052626833469/0d2b457fd2e9b47167c88826cff3f73a.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "915035187547615243",
+          "name": "kevalin",
+          "discriminator": "4394",
+          "nickname": "kevalin",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "916855904014589952",
+        "channelId": "916849735439093760",
+        "guildId": "916751469678579784"
+      }
+    },
+    {
+      "id": "916856291702476842",
+      "type": "Reply",
+      "timestamp": "2021-12-05T00:59:34.308+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Only give credit for referral if the referred company is funded",
+      "author": {
+        "id": "756557574350045206",
+        "name": "jacobpedd",
+        "discriminator": "3043",
+        "nickname": "jacobpedd",
+        "color": "#1ABC9C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/756557574350045206/a66fb34919268b9e80c3b83a794bc7be.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "915035187547615243",
+          "name": "kevalin",
+          "discriminator": "4394",
+          "nickname": "kevalin",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "916855784560820274",
+        "channelId": "916849735439093760",
+        "guildId": "916751469678579784"
+      }
+    },
+    {
+      "id": "916856308693598218",
+      "type": "Reply",
+      "timestamp": "2021-12-05T00:59:38.359+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Well top referrers who's companies get invested in",
+      "author": {
+        "id": "915035187547615243",
+        "name": "kevalin",
+        "discriminator": "4394",
+        "nickname": "kevalin",
+        "color": "#1F8B4C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/915035187547615243/8aec11e684cd1c3ab575358a58fda0bd.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "862277279480283147",
+          "name": "willsterr",
+          "discriminator": "2739",
+          "nickname": "willsterr",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "916856101650186332",
+        "channelId": "916849735439093760",
+        "guildId": "916751469678579784"
+      }
+    },
+    {
+      "id": "916856331321872405",
+      "type": "Reply",
+      "timestamp": "2021-12-05T00:59:43.754+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Exactly. Which is carry",
+      "author": {
+        "id": "915035187547615243",
+        "name": "kevalin",
+        "discriminator": "4394",
+        "nickname": "kevalin",
+        "color": "#1F8B4C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/915035187547615243/8aec11e684cd1c3ab575358a58fda0bd.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "756557574350045206",
+          "name": "jacobpedd",
+          "discriminator": "3043",
+          "nickname": "jacobpedd",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "916856291702476842",
+        "channelId": "916849735439093760",
+        "guildId": "916751469678579784"
+      }
+    },
+    {
+      "id": "916856454315659314",
+      "type": "Default",
+      "timestamp": "2021-12-05T01:00:13.078+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "We need to attach carry as a sliding scale to liquidity event - how “good” of an investment (return) is it. So if it’s 1x investment, you get 1% carry, 5x 3%, etc",
+      "author": {
+        "id": "862277279480283147",
+        "name": "willsterr",
+        "discriminator": "2739",
+        "nickname": "willsterr",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/4.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDC4D",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/svg/1f44d.svg"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "916856497957380106",
+      "type": "Default",
+      "timestamp": "2021-12-05T01:00:23.483+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "It’s not enough that you’re referring and they’re going through",
+      "author": {
+        "id": "862277279480283147",
+        "name": "willsterr",
+        "discriminator": "2739",
+        "nickname": "willsterr",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/4.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "916856606711492669",
+      "type": "Reply",
+      "timestamp": "2021-12-05T01:00:49.412+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Like a finder's fee",
+      "author": {
+        "id": "833538859068293140",
+        "name": "abhirai",
+        "discriminator": "4320",
+        "nickname": "abhirai",
+        "color": "#2ECC71",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDC4D",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/svg/1f44d.svg"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": [
+        {
+          "id": "915035187547615243",
+          "name": "kevalin",
+          "discriminator": "4394",
+          "nickname": "kevalin",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "916855904014589952",
+        "channelId": "916849735439093760",
+        "guildId": "916751469678579784"
+      }
+    },
+    {
+      "id": "916856810160390234",
+      "type": "Reply",
+      "timestamp": "2021-12-05T01:01:37.918+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Yeah, it's what https://www.seedscout.com/ is doing",
+      "author": {
+        "id": "863876052626833469",
+        "name": "Eric Zhu",
+        "discriminator": "3018",
+        "nickname": "Eric Zhu",
+        "color": "#1ABC9C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/863876052626833469/0d2b457fd2e9b47167c88826cff3f73a.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Raise Venture Capital Like An Insider | Seedscout",
+          "url": "https://www.seedscout.com/",
+          "timestamp": null,
+          "description": "Seedscout enables founders to build context with investors over time with the goal of creating strong relationships and raising capital.",
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/p6hLc1wyaCQm0GhJB76qmfOvWi3SuwIMEwWKZMewx8g/https/cdn.substack.com/image/fetch/f_auto%2Cq_auto%3Agood%2Cfl_progressive%3Asteep/https%253A%252F%252Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%252Fpublic%252Fimages%252F106e3512-82dd-4cf2-bebd-13660100dda0_500x500.png",
+            "width": 500,
+            "height": 500
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDC4D",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/svg/1f44d.svg"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": [
+        {
+          "id": "833538859068293140",
+          "name": "abhirai",
+          "discriminator": "4320",
+          "nickname": "abhirai",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "916856606711492669",
+        "channelId": "916849735439093760",
+        "guildId": "916751469678579784"
+      }
+    },
+    {
+      "id": "916856813083820082",
+      "type": "Default",
+      "timestamp": "2021-12-05T01:01:38.615+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "How about something like - \nEach founders get's 5-10 tokens. \nThey can either sell it, or they could refer another founder using that token. Referral token transfer to a company that gets funded also gets a carry of the deal.",
+      "author": {
+        "id": "400778564808605696",
+        "name": "arpwal",
+        "discriminator": "7952",
+        "nickname": "arpwal",
+        "color": "#E67E22",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/400778564808605696/c7d81a180649ce75af112a45e7c1c0dd.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "916856825918402632",
+      "type": "Reply",
+      "timestamp": "2021-12-05T01:01:41.675+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I don’t think funding is a criterion of success. You need to put a higher bar",
+      "author": {
+        "id": "900286244372770827",
+        "name": "robiosss",
+        "discriminator": "8701",
+        "nickname": "robiosss",
+        "color": "#2ECC71",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/900286244372770827/d049f7fa586a0015969487221b3170a6.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "915035187547615243",
+          "name": "kevalin",
+          "discriminator": "4394",
+          "nickname": "kevalin",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "916856308693598218",
+        "channelId": "916849735439093760",
+        "guildId": "916751469678579784"
+      }
+    },
+    {
+      "id": "916857035360964788",
+      "type": "Default",
+      "timestamp": "2021-12-05T01:02:31.61+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "why don't we incentivize research instead of referrals... then use a combination of AI / crowd intelligence / expert panel (whatever is ultimately decided) to filter the wheat from the chaff",
+      "author": {
+        "id": "395582553496616971",
+        "name": "Paul | KILT Protocol",
+        "discriminator": "6254",
+        "nickname": "Paul | KILT Protocol",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/395582553496616971/48b0699dc8a18fdacd1abb0eb606ccf7.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "916857192869675038",
+      "type": "Default",
+      "timestamp": "2021-12-05T01:03:09.163+00:00",
+      "timestampEdited": "2021-12-05T01:03:43.948+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "if we incentivize direct referrals we're relying on existing social connections. whereas with research you gain breadth. and hopefully projects that otherwise would never see the light of day / get this opportunity.",
+      "author": {
+        "id": "395582553496616971",
+        "name": "Paul | KILT Protocol",
+        "discriminator": "6254",
+        "nickname": "Paul | KILT Protocol",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/395582553496616971/48b0699dc8a18fdacd1abb0eb606ccf7.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDC4D",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/svg/1f44d.svg"
+          },
+          "count": 2
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "916857260498632754",
+      "type": "Reply",
+      "timestamp": "2021-12-05T01:03:25.287+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Why this over a fixed percentage. If the company does well the fixed percentage is worth more?",
+      "author": {
+        "id": "915035187547615243",
+        "name": "kevalin",
+        "discriminator": "4394",
+        "nickname": "kevalin",
+        "color": "#1F8B4C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/915035187547615243/8aec11e684cd1c3ab575358a58fda0bd.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "862277279480283147",
+          "name": "willsterr",
+          "discriminator": "2739",
+          "nickname": "willsterr",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "916856454315659314",
+        "channelId": "916849735439093760",
+        "guildId": "916751469678579784"
+      }
+    },
+    {
+      "id": "916857374764064870",
+      "type": "Reply",
+      "timestamp": "2021-12-05T01:03:52.53+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "It’s what traditional VCs already do, higher carry for better performance",
+      "author": {
+        "id": "862277279480283147",
+        "name": "willsterr",
+        "discriminator": "2739",
+        "nickname": "willsterr",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/4.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "915035187547615243",
+          "name": "kevalin",
+          "discriminator": "4394",
+          "nickname": "kevalin",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "916857260498632754",
+        "channelId": "916849735439093760",
+        "guildId": "916751469678579784"
+      }
+    },
+    {
+      "id": "916857431072587888",
+      "type": "Default",
+      "timestamp": "2021-12-05T01:04:05.955+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Better alignment for finding “good” investments",
+      "author": {
+        "id": "862277279480283147",
+        "name": "willsterr",
+        "discriminator": "2739",
+        "nickname": "willsterr",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/4.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "916923102116585542",
+      "type": "Default",
+      "timestamp": "2021-12-05T05:25:03.152+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "for referral, perhaps we can do something with co-investing-- e.g. if someone refers a great project and it gets selected, we can either reward them with some percentage of the tokenshare that hyperscale takes (as a bounty) or create some predetermined mechanism for allocating tokenshare to them outside of it",
+      "author": {
+        "id": "829934658715385867",
+        "name": "shira",
+        "discriminator": "9703",
+        "nickname": "shira",
+        "color": "#1ABC9C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/829934658715385867/a69ac62e6d2ebfeafeb933e69e498107.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDC4D",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/svg/1f44d.svg"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "916923197889335317",
+      "type": "Default",
+      "timestamp": "2021-12-05T05:25:25.986+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "also is referring your own project allowed",
+      "author": {
+        "id": "829934658715385867",
+        "name": "shira",
+        "discriminator": "9703",
+        "nickname": "shira",
+        "color": "#1ABC9C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/829934658715385867/a69ac62e6d2ebfeafeb933e69e498107.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDC4D",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/svg/1f44d.svg"
+          },
+          "count": 3
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDE06",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/svg/1f606.svg"
+          },
+          "count": 2
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "916923201882304532",
+      "type": "Default",
+      "timestamp": "2021-12-05T05:25:26.938+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "lmao",
+      "author": {
+        "id": "829934658715385867",
+        "name": "shira",
+        "discriminator": "9703",
+        "nickname": "shira",
+        "color": "#1ABC9C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/829934658715385867/a69ac62e6d2ebfeafeb933e69e498107.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "916973498071658567",
+      "type": "Default",
+      "timestamp": "2021-12-05T08:45:18.484+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Just a thought, if there was no referral program, incentive I mean, does it mean that founders do not refer other founders?",
+      "author": {
+        "id": "518449689406865419",
+        "name": "nurlannurmanov",
+        "discriminator": "0026",
+        "nickname": "nurlannurmanov",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/518449689406865419/bb455fa647dca83a0d5269eb63ae0c09.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "916975730582224937",
+      "type": "Default",
+      "timestamp": "2021-12-05T08:54:10.756+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "We can also generate invite links from public addresses",
+      "author": {
+        "id": "907957026716549172",
+        "name": "wabitoshi",
+        "discriminator": "2742",
+        "nickname": "wabitoshi",
+        "color": "#2ECC71",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/907957026716549172/41e9d913c8d7c2e058a5f22b6d173f35.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDC4D",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/svg/1f44d.svg"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "916976137735925760",
+      "type": "Default",
+      "timestamp": "2021-12-05T08:55:47.829+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Can be kinda centralised at the moment, until we hash out contracts for hyperscale",
+      "author": {
+        "id": "907957026716549172",
+        "name": "wabitoshi",
+        "discriminator": "2742",
+        "nickname": "wabitoshi",
+        "color": "#2ECC71",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/907957026716549172/41e9d913c8d7c2e058a5f22b6d173f35.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "916994516005842945",
+      "type": "Reply",
+      "timestamp": "2021-12-05T10:08:49.55+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I like the idea of using a % of tokenshare as a bounty, if somebody refers \"low quality\" project, the referee gets a \"low quality\" token, and same for \"high quality\" projects, ideally it should be always high quality but this is not reality, basically the value of what you get depends on the quality of what you refer.",
+      "author": {
+        "id": "757723389912678420",
+        "name": "simply",
+        "discriminator": "3434",
+        "nickname": "simply",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/757723389912678420/9173ba3c4bacd4ef3f6fa164c2c91bbb.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDCAF",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/svg/1f4af.svg"
+          },
+          "count": 2
+        }
+      ],
+      "mentions": [
+        {
+          "id": "829934658715385867",
+          "name": "shira",
+          "discriminator": "9703",
+          "nickname": "shira",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "916923102116585542",
+        "channelId": "916849735439093760",
+        "guildId": "916751469678579784"
+      }
+    },
+    {
+      "id": "917074910986272840",
+      "type": "Default",
+      "timestamp": "2021-12-05T15:28:17.207+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@kevalin we can let them attend our grand parties or we can give them free 5 gb data we can give them a voucher if someone is ready to team up with us . If anyone here is restaurateur or has hotels we can team up and give people tourism packages .\n@kevalin our referral programs",
+      "author": {
+        "id": "864406808436277248",
+        "name": "rx",
+        "discriminator": "5834",
+        "nickname": "rx",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/864406808436277248/f45b034d81a9f2db7be18ffded9f9bda.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "917077821724184606",
+      "type": "Default",
+      "timestamp": "2021-12-05T15:39:51.181+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@kevalin",
+      "author": {
+        "id": "864406808436277248",
+        "name": "rx",
+        "discriminator": "5834",
+        "nickname": "rx",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/864406808436277248/f45b034d81a9f2db7be18ffded9f9bda.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "915035187547615243",
+          "name": "kevalin",
+          "discriminator": "4394",
+          "nickname": "kevalin",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "917077888912744448",
+      "type": "Default",
+      "timestamp": "2021-12-05T15:40:07.2+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@kevalin  we can let them attend our grand parties or we can give them free 5 gb data we can give them a voucher if someone is ready to team up with us . If anyone here is restaurateur or has hotels we can team up and give people tourism packages .",
+      "author": {
+        "id": "864406808436277248",
+        "name": "rx",
+        "discriminator": "5834",
+        "nickname": "rx",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/864406808436277248/f45b034d81a9f2db7be18ffded9f9bda.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "915035187547615243",
+          "name": "kevalin",
+          "discriminator": "4394",
+          "nickname": "kevalin",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "917101556795588629",
+      "type": "Default",
+      "timestamp": "2021-12-05T17:14:10.063+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I wonder if there’s a way to also seed some participation across the ecosystem so that all funded projects own a little slice of the success of all of the other hyperscale funded projects? Would encourage interoperability and collaboration across teams as well as cross-promo for a whole group of port co’s (and seems to follow a model happening across many token or coin specific funding mechanisms for their portfolio co’s)",
+      "author": {
+        "id": "901561751605231707",
+        "name": "jennifer hinkel",
+        "discriminator": "5065",
+        "nickname": "jennifer hinkel",
+        "color": "#E74C3C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/901561751605231707/91338575b5c2957293c04f29b8e3d658.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDC4C",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/svg/1f44c.svg"
+          },
+          "count": 3
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDC4D\uD83C\uDFFB",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/svg/1f44d-1f3fb.svg"
+          },
+          "count": 3
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "917110874152525844",
+      "type": "Reply",
+      "timestamp": "2021-12-05T17:51:11.494+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "i agree. community is crucial in #web3 and will be a big value add",
+      "author": {
+        "id": "855571429105467392",
+        "name": "better.law",
+        "discriminator": "0001",
+        "nickname": "better.law",
+        "color": "#E74C3C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/855571429105467392/438f1bffc657ea8be01a00026e1364e4.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDC4D",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/svg/1f44d.svg"
+          },
+          "count": 3
+        }
+      ],
+      "mentions": [
+        {
+          "id": "901561751605231707",
+          "name": "jennifer hinkel",
+          "discriminator": "5065",
+          "nickname": "jennifer hinkel",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "917101556795588629",
+        "channelId": "916849735439093760",
+        "guildId": "916751469678579784"
+      }
+    },
+    {
+      "id": "917116769955643402",
+      "type": "Reply",
+      "timestamp": "2021-12-05T18:14:37.163+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Love this idea! It gives founders an incentive to work with us vs. other DAOs and give back to the DAO",
+      "author": {
+        "id": "405389892387078167",
+        "name": "Harbs",
+        "discriminator": "0162",
+        "nickname": "Harbs",
+        "color": "#E74C3C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/405389892387078167/e5ae15a2e88c645f83ff88d0f7c8aadc.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDC4D",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/svg/1f44d.svg"
+          },
+          "count": 3
+        }
+      ],
+      "mentions": [
+        {
+          "id": "901561751605231707",
+          "name": "jennifer hinkel",
+          "discriminator": "5065",
+          "nickname": "jennifer hinkel",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "917101556795588629",
+        "channelId": "916849735439093760",
+        "guildId": "916751469678579784"
+      }
+    },
+    {
+      "id": "917156597501948035",
+      "type": "Reply",
+      "timestamp": "2021-12-05T20:52:52.79+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "We could set up a treasury with our own token (HYPE) using something like https://juicebox.money/#/ Anytime someone refers a project that gets funding, they get HYPE. HYPE can be redeemed at anytime (for USDC or some stable coin) but the longer they hold, the more likely they will be able to redeem HYPE for more USDC (assuming we do well). \n\nThe treasury would be a representation of all our investments so the referrer would own a little slice of all funded hyperscale projects.\n\n**More details**: Our treasury would mint HYPE when we make an investment or realize returns from an investment. When we make an investment, we put 200,000 USDC (for instance) into the treasury and mint some amount of HYPE, lets say 2 mil HYPE. The DAO that we are investing in receives that 2 mil HYPE. At any point in time they can \"burn\" their HYPE in order to receive USDC from the treasury.  \n\nAnytime we realize returns from our investments. The DAO pays us back in USDC which we put into the treasury, thus minting more HYPE. There are many ways we can distribute the newly minted HYPE to hyperscale community members. HYPE holders can then burn HYPE to redeem USDC from the treasury at any given time.  \n\nSo for the referral program, we can give a referrer HYPE each time they refer a deal that we decide to invest in. The referrer can hold onto this token (which would likely rise in value) and cash out at anytime by burning their HYPE for USDC.  \n\n**To Be Honest**: I don't fully understand why tokens like this (HYPE) rise in value as much as they do. Seems largely due to speculation? Some tokens have a bonding curve and a discount rate which effect the USDC per HYPE ratio over time. I mention this so that if anyone understands why why the price of HYPE would rise in this scenario, I'd love a clear explanation. Look at JBX and PEOPLE, they use this same model for a different use case and their coins have become more valuable over time compared to the initial investment.",
+      "author": {
+        "id": "783927840638369812",
+        "name": "nicklinck",
+        "discriminator": "6691",
+        "nickname": "nicklinck",
+        "color": "#1ABC9C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/783927840638369812/e5d89c5d7f7b63d63e77e8077da89c96.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Juicebox",
+          "url": "https://juicebox.money/",
+          "timestamp": null,
+          "description": "Community funding for people and projects on Ethereum.",
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/UVmO0KiFrsDp-sYNLL0OGV9nhFZ2cnlCPOEtM02_eS4/https/juicebox.money/assets/banana-cover.png",
+            "width": 2870,
+            "height": 1245
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDC4D",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/svg/1f44d.svg"
+          },
+          "count": 3
+        }
+      ],
+      "mentions": [
+        {
+          "id": "901561751605231707",
+          "name": "jennifer hinkel",
+          "discriminator": "5065",
+          "nickname": "jennifer hinkel",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "917101556795588629",
+        "channelId": "916849735439093760",
+        "guildId": "916751469678579784"
+      }
+    },
+    {
+      "id": "917157596648067082",
+      "type": "Reply",
+      "timestamp": "2021-12-05T20:56:51.005+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Interesting - I haven’t heard of these 2 before and will research",
+      "author": {
+        "id": "901561751605231707",
+        "name": "jennifer hinkel",
+        "discriminator": "5065",
+        "nickname": "jennifer hinkel",
+        "color": "#E74C3C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/901561751605231707/91338575b5c2957293c04f29b8e3d658.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDC4D",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/svg/1f44d.svg"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": [
+        {
+          "id": "783927840638369812",
+          "name": "nicklinck",
+          "discriminator": "6691",
+          "nickname": "nicklinck",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "917156597501948035",
+        "channelId": "916849735439093760",
+        "guildId": "916751469678579784"
+      }
+    },
+    {
+      "id": "917173534768377947",
+      "type": "Reply",
+      "timestamp": "2021-12-05T22:00:10.949+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Was just thinking about this / made a note in governance as well. Would it make more sense to provide returns in the project tokens generated by the projects. In this way the incentive is directly bound to the success of the projects. I certainly think it makes sense for council / high-level governance but perhaps for contributors as well. Vesting periods could be interesting as well to promote long term success bias when vetting projects.",
+      "author": {
+        "id": "395582553496616971",
+        "name": "Paul | KILT Protocol",
+        "discriminator": "6254",
+        "nickname": "Paul | KILT Protocol",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/395582553496616971/48b0699dc8a18fdacd1abb0eb606ccf7.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDC4D",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/svg/1f44d.svg"
+          },
+          "count": 2
+        }
+      ],
+      "mentions": [
+        {
+          "id": "783927840638369812",
+          "name": "nicklinck",
+          "discriminator": "6691",
+          "nickname": "nicklinck",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "917156597501948035",
+        "channelId": "916849735439093760",
+        "guildId": "916751469678579784"
+      }
+    },
+    {
+      "id": "917181496073261116",
+      "type": "Default",
+      "timestamp": "2021-12-05T22:31:49.072+00:00",
+      "timestampEdited": "2021-12-05T22:32:01.965+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "compiling existing copy: Is there any draft text describing referrals?",
+      "author": {
+        "id": "637334628893458441",
+        "name": "sj",
+        "discriminator": "6242",
+        "nickname": "sj",
+        "color": "#E74C3C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/637334628893458441/a1d855988f9513efaaf1839233121413.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "917203313710235648",
+      "type": "Default",
+      "timestamp": "2021-12-05T23:58:30.802+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@sj I've gone through most of the above conversation and summarized ideas in Notion here: https://www.notion.so/hyperscale/Referral-Program-fc653e0c57e544a993a4ce8b032920b1",
+      "author": {
+        "id": "266778624647102465",
+        "name": "connorg",
+        "discriminator": "4386",
+        "nickname": "connor",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/266778624647102465/bc553aefa36f23af0abefd9db54fbb17.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDCC8",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/svg/1f4c8.svg"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDC4D",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/svg/1f44d.svg"
+          },
+          "count": 2
+        }
+      ],
+      "mentions": [
+        {
+          "id": "637334628893458441",
+          "name": "sj",
+          "discriminator": "6242",
+          "nickname": "sj",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "917208617646710814",
+      "type": "Reply",
+      "timestamp": "2021-12-06T00:19:35.359+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "can you make this public please?",
+      "author": {
+        "id": "752475509564243990",
+        "name": "safwaan",
+        "discriminator": "1894",
+        "nickname": "safwaan",
+        "color": "#F1C40F",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/752475509564243990/9246f37a271e67de10d73981778ff308.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDCAF",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/svg/1f4af.svg"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": [
+        {
+          "id": "266778624647102465",
+          "name": "connorg",
+          "discriminator": "4386",
+          "nickname": "connor",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "917203313710235648",
+        "channelId": "916849735439093760",
+        "guildId": "916751469678579784"
+      }
+    },
+    {
+      "id": "917214531170754610",
+      "type": "Default",
+      "timestamp": "2021-12-06T00:43:05.253+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@better.law is the one who has been putting Notion together. We need to find a way to make this public without risking everything getting deleted",
+      "author": {
+        "id": "266778624647102465",
+        "name": "connorg",
+        "discriminator": "4386",
+        "nickname": "connor",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/266778624647102465/bc553aefa36f23af0abefd9db54fbb17.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "855571429105467392",
+          "name": "better.law",
+          "discriminator": "0001",
+          "nickname": "better.law",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "917214747684925490",
+      "type": "Default",
+      "timestamp": "2021-12-06T00:43:56.874+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "default read only + comments. Request access if want to contribute?",
+      "author": {
+        "id": "752475509564243990",
+        "name": "safwaan",
+        "discriminator": "1894",
+        "nickname": "safwaan",
+        "color": "#F1C40F",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/752475509564243990/9246f37a271e67de10d73981778ff308.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "917215769450926110",
+      "type": "Default",
+      "timestamp": "2021-12-06T00:48:00.482+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I see the problem, it is not even viewable for non-admins, correct?",
+      "author": {
+        "id": "266778624647102465",
+        "name": "connorg",
+        "discriminator": "4386",
+        "nickname": "connor",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/266778624647102465/bc553aefa36f23af0abefd9db54fbb17.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "917215929975341067",
+      "type": "Default",
+      "timestamp": "2021-12-06T00:48:38.754+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "yes",
+      "author": {
+        "id": "752475509564243990",
+        "name": "safwaan",
+        "discriminator": "1894",
+        "nickname": "safwaan",
+        "color": "#F1C40F",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/752475509564243990/9246f37a271e67de10d73981778ff308.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "917216753090711552",
+      "type": "Default",
+      "timestamp": "2021-12-06T00:51:55+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Creating a thread to deal with this:",
+      "author": {
+        "id": "266778624647102465",
+        "name": "connorg",
+        "discriminator": "4386",
+        "nickname": "connor",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/266778624647102465/bc553aefa36f23af0abefd9db54fbb17.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "917217958823088149",
+      "type": "Default",
+      "timestamp": "2021-12-06T00:56:42.469+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "can you guys see this now?\nhttps://www.notion.so/hyperscale/Start-Here-815dbebb7c4740f08da9193f949edefd",
+      "author": {
+        "id": "863555557168119808",
+        "name": "LZRS",
+        "discriminator": "8262",
+        "nickname": "LZRS",
+        "color": "#AD1457",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/2.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Start Here",
+          "url": "https://www.notion.so/hyperscale/Start-Here-815dbebb7c4740f08da9193f949edefd",
+          "timestamp": null,
+          "description": "Welcome to Hyperscale.",
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDC4D",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/svg/1f44d.svg"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "917240190374928414",
+      "type": "Default",
+      "timestamp": "2021-12-06T02:25:02.884+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@kevalin  we can let them attend our grand parties or we can give them free 5 gb data we can give them a voucher if someone is ready to team up with us . If anyone here is restaurateur or has hotels we can team up and give people tourism packages",
+      "author": {
+        "id": "864406808436277248",
+        "name": "rx",
+        "discriminator": "5834",
+        "nickname": "rx",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/864406808436277248/f45b034d81a9f2db7be18ffded9f9bda.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "915035187547615243",
+          "name": "kevalin",
+          "discriminator": "4394",
+          "nickname": "kevalin",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "917240288601333771",
+      "type": "Reply",
+      "timestamp": "2021-12-06T02:25:26.303+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "DM me more details on what you do",
+      "author": {
+        "id": "915035187547615243",
+        "name": "kevalin",
+        "discriminator": "4394",
+        "nickname": "kevalin",
+        "color": "#1F8B4C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/915035187547615243/8aec11e684cd1c3ab575358a58fda0bd.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "864406808436277248",
+          "name": "rx",
+          "discriminator": "5834",
+          "nickname": "rx",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "917240190374928414",
+        "channelId": "916849735439093760",
+        "guildId": "916751469678579784"
+      }
+    },
+    {
+      "id": "917441369268711424",
+      "type": "Default",
+      "timestamp": "2021-12-06T15:44:27.67+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Do we have any details/specifics on what the incentive for referrals are? I know there was some early discussion, but did we land on anything?",
+      "author": {
+        "id": "170014001533681664",
+        "name": "Notebook",
+        "discriminator": "6310",
+        "nickname": "Notebook",
+        "color": "#2ECC71",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "917514939147616276",
+      "type": "Reply",
+      "timestamp": "2021-12-06T20:36:48.096+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I'm not on the loop but I think @shira had an interesting idea on that",
+      "author": {
+        "id": "728404620938051624",
+        "name": "RoberDios",
+        "discriminator": "5742",
+        "nickname": "RoberDios",
+        "color": "#E74C3C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/728404620938051624/265e6c615c17822f579060dc560a1df2.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "170014001533681664",
+          "name": "Notebook",
+          "discriminator": "6310",
+          "nickname": "Notebook",
+          "isBot": false
+        },
+        {
+          "id": "829934658715385867",
+          "name": "shira",
+          "discriminator": "9703",
+          "nickname": "shira",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "917441369268711424",
+        "channelId": "916849735439093760",
+        "guildId": "916751469678579784"
+      }
+    },
+    {
+      "id": "917551455823597588",
+      "type": "Reply",
+      "timestamp": "2021-12-06T23:01:54.35+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "PEOPLE just rose from overseas (Chinese) speculation. No real value there as ConstitutionDAO disbanded pretty much",
+      "author": {
+        "id": "882618445643014205",
+        "name": "jesse",
+        "discriminator": "7347",
+        "nickname": "jesse",
+        "color": "#2ECC71",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/882618445643014205/931c8bb8ebd3ea3aeeb9c35afa4b18fc.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "783927840638369812",
+          "name": "nicklinck",
+          "discriminator": "6691",
+          "nickname": "nicklinck",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "917156597501948035",
+        "channelId": "916849735439093760",
+        "guildId": "916751469678579784"
+      }
+    },
+    {
+      "id": "917565255331250196",
+      "type": "Reply",
+      "timestamp": "2021-12-06T23:56:44.409+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "nicklinck: agree on yours mostly, especially on HYPE, imHo it fits today discussed in other channel that Hyperscale is about building new economy, myself purposed Hyperscale as world, so yours re treasury and minting own currency fits it, as well as one more idea make unique & universal tag/pin for Hyperscale so one can type/say it and all know what’s that.",
+      "author": {
+        "id": "775721337397182485",
+        "name": "financeAENDart",
+        "discriminator": "0964",
+        "nickname": "financeAENDart",
+        "color": "#AD1457",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/4.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "783927840638369812",
+          "name": "nicklinck",
+          "discriminator": "6691",
+          "nickname": "nicklinck",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "917156597501948035",
+        "channelId": "916849735439093760",
+        "guildId": "916751469678579784"
+      }
+    },
+    {
+      "id": "917627009159528448",
+      "type": "Reply",
+      "timestamp": "2021-12-07T04:02:07.669+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "\"purposed Hyperscale as world\" - what do you mean by this?",
+      "author": {
+        "id": "783927840638369812",
+        "name": "nicklinck",
+        "discriminator": "6691",
+        "nickname": "nicklinck",
+        "color": "#1ABC9C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/783927840638369812/e5d89c5d7f7b63d63e77e8077da89c96.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "775721337397182485",
+          "name": "financeAENDart",
+          "discriminator": "0964",
+          "nickname": "financeAENDart",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "917565255331250196",
+        "channelId": "916849735439093760",
+        "guildId": "916751469678579784"
+      }
+    },
+    {
+      "id": "917627316576874617",
+      "type": "Default",
+      "timestamp": "2021-12-07T04:03:20.963+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "\"make unique & universal tag/pin for Hyperscale so one can type/say it and all know what’s that.\" - also this? is this about the branding/name of the token needs to be something that all across the world can resonate with?",
+      "author": {
+        "id": "783927840638369812",
+        "name": "nicklinck",
+        "discriminator": "6691",
+        "nickname": "nicklinck",
+        "color": "#1ABC9C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/783927840638369812/e5d89c5d7f7b63d63e77e8077da89c96.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "917720891784306708",
+      "type": "Reply",
+      "timestamp": "2021-12-07T10:15:11.031+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "World & Economy, i.e. person can have all ID/Money/All other services online in that World, yet live anywhere in material world. Hope Hyperscale folks will soon make AI/ML/bot searching/codifying ideas/thoughts around all channels of this good forum. Thus, actually 1984 will be won and new paradigm shift — intellect/intelligence revolution done — not game changer — game aender:))) N.b. When Hyperscale will have TWTR?",
+      "author": {
+        "id": "775721337397182485",
+        "name": "financeAENDart",
+        "discriminator": "0964",
+        "nickname": "financeAENDart",
+        "color": "#AD1457",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/4.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "783927840638369812",
+          "name": "nicklinck",
+          "discriminator": "6691",
+          "nickname": "nicklinck",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "917627009159528448",
+        "channelId": "916849735439093760",
+        "guildId": "916751469678579784"
+      }
+    },
+    {
+      "id": "917782430147018763",
+      "type": "Default",
+      "timestamp": "2021-12-07T14:19:42.92+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Is the referral structure still a part of the initial marketing efforts or not so much?",
+      "author": {
+        "id": "170014001533681664",
+        "name": "Notebook",
+        "discriminator": "6310",
+        "nickname": "Notebook",
+        "color": "#2ECC71",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "917998320327196703",
+      "type": "Default",
+      "timestamp": "2021-12-08T04:37:35.15+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "What can I do for the community?",
+      "author": {
+        "id": "870175207703314442",
+        "name": "!0xSword",
+        "discriminator": "5830",
+        "nickname": "!0xSword",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/870175207703314442/18e74c6c6f187e8a8caaef4bd475dec0.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "918016446947295252",
+      "type": "Default",
+      "timestamp": "2021-12-08T05:49:36.873+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "How to do with the referral program?",
+      "author": {
+        "id": "335983001735397387",
+        "name": "Kae Sheng",
+        "discriminator": "1038",
+        "nickname": "Kae Sheng",
+        "color": "#2ECC71",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/3.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "918201743760842802",
+      "type": "Reply",
+      "timestamp": "2021-12-08T18:05:55.076+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Start with picking role first.",
+      "author": {
+        "id": "452465881700630529",
+        "name": "mhrnik",
+        "discriminator": "3998",
+        "nickname": "mhrnik",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/452465881700630529/9f97bec6bfcc0c5eb3bb83e35da036fe.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "870175207703314442",
+          "name": "!0xSword",
+          "discriminator": "5830",
+          "nickname": "!0xSword",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "917998320327196703",
+        "channelId": "916849735439093760",
+        "guildId": "916751469678579784"
+      }
+    },
+    {
+      "id": "918469500544892948",
+      "type": "Default",
+      "timestamp": "2021-12-09T11:49:53.268+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Pulling in a few of the above - a co-investment award of HYPE, especially if the Hyperscale treasury owns the liquidity (USDC, the project token, etc) seems correct (h/t @shira and @nicklinck). Linking in cross participation for funded companies via HYPE should be pretty straightforward then (h/t @jennifer hinkel).\n\nGiven all of that, I think we shouldn't be rewarding simple referrals - we should be rewarding research/analysis. Not only does that remove low quality entries (some proof of work) and creates some skin in the game, it also allows us to continue to train AI systems on the analyst/provided analysis/project outcomes.",
+      "author": {
+        "id": "253418842200604673",
+        "name": "Qworg",
+        "discriminator": "3284",
+        "nickname": "Qworg",
+        "color": "#1ABC9C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/253418842200604673/4aca02d325346f367844d2127c17852e.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDC4D",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/svg/1f44d.svg"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": [
+        {
+          "id": "901561751605231707",
+          "name": "jennifer hinkel",
+          "discriminator": "5065",
+          "nickname": "jennifer hinkel",
+          "isBot": false
+        },
+        {
+          "id": "829934658715385867",
+          "name": "shira",
+          "discriminator": "9703",
+          "nickname": "shira",
+          "isBot": false
+        },
+        {
+          "id": "783927840638369812",
+          "name": "nicklinck",
+          "discriminator": "6691",
+          "nickname": "nicklinck",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "918470053429645372",
+      "type": "Default",
+      "timestamp": "2021-12-09T11:52:05.086+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "We can also allow multiple analyses of the same company under this system.",
+      "author": {
+        "id": "253418842200604673",
+        "name": "Qworg",
+        "discriminator": "3284",
+        "nickname": "Qworg",
+        "color": "#1ABC9C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/253418842200604673/4aca02d325346f367844d2127c17852e.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "918546086719807518",
+      "type": "Reply",
+      "timestamp": "2021-12-09T16:54:12.835+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Interesting! I like that they should be rewarded for some kind of report that they give us",
+      "author": {
+        "id": "783927840638369812",
+        "name": "nicklinck",
+        "discriminator": "6691",
+        "nickname": "nicklinck",
+        "color": "#1ABC9C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/783927840638369812/e5d89c5d7f7b63d63e77e8077da89c96.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "253418842200604673",
+          "name": "Qworg",
+          "discriminator": "3284",
+          "nickname": "Qworg",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "918469500544892948",
+        "channelId": "916849735439093760",
+        "guildId": "916751469678579784"
+      }
+    },
+    {
+      "id": "918561927721013278",
+      "type": "Default",
+      "timestamp": "2021-12-09T17:57:09.624+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I think both could work.  Referral incentives exist for both leads and closed deals (the latter being more material obviously) but I do like rewarding research and analysis work as well.",
+      "author": {
+        "id": "531561241219694592",
+        "name": "hawtlava",
+        "discriminator": "2461",
+        "nickname": "Ryu",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/531561241219694592/e93e2b42b8236ac750bae3fe24b0772b.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "918781595773726730",
+      "type": "Default",
+      "timestamp": "2021-12-10T08:30:02.569+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "We could value the contributions differently - so regular referrals are worth X, analysis reports worth Y.",
+      "author": {
+        "id": "253418842200604673",
+        "name": "Qworg",
+        "discriminator": "3284",
+        "nickname": "Qworg",
+        "color": "#1ABC9C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/253418842200604673/4aca02d325346f367844d2127c17852e.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDC4D",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/svg/1f44d.svg"
+          },
+          "count": 2
+        }
+      ],
+      "mentions": []
+    }
+  ],
+  "messageCount": 90
+}

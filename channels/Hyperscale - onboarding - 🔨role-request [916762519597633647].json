@@ -1,0 +1,492 @@
+{
+  "guild": {
+    "id": "916751469678579784",
+    "name": "Hyperscale",
+    "iconUrl": "https://cdn.discordapp.com/icons/916751469678579784/874219cdd9c60b09fc62afefa1efea43.png"
+  },
+  "channel": {
+    "id": "916762519597633647",
+    "type": "GuildTextChat",
+    "categoryId": "925152243513192479",
+    "category": "onboarding",
+    "name": "\uD83D\uDD28role-request",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "messages": [
+    {
+      "id": "916762632399241226",
+      "type": "Default",
+      "timestamp": "2021-12-04T18:47:24.19+00:00",
+      "timestampEdited": "2021-12-05T03:55:31.829+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Role Menu: Skills**\nReact to give yourself a role.\n\n\uD83D\uDCF0 : `marketing`\n\n\uD83D\uDCDD : `pm`\n\n\uD83C\uDFA8 : `design`\n\n\uD83D\uDCBB : `dev`\n\n\uD83E\uDDD1‍⚖️ : `legal`\n\n\uD83E\uDD11 : `investor`",
+      "author": {
+        "id": "204255221017214977",
+        "name": "YAGPDB.xyz",
+        "discriminator": "8760",
+        "nickname": "YAGPDB.xyz",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/204255221017214977/2fa57b425415134d4f8b279174131ad6.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83C\uDFA8",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/svg/1f3a8.svg"
+          },
+          "count": 675
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDCBB",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/svg/1f4bb.svg"
+          },
+          "count": 975
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83E\uDDD1‍⚖️",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/svg/1f9d1-200d-2696.svg"
+          },
+          "count": 525
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83E\uDD11",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/svg/1f911.svg"
+          },
+          "count": 1309
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDCF0",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/svg/1f4f0.svg"
+          },
+          "count": 688
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDCDD",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/svg/1f4dd.svg"
+          },
+          "count": 847
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDEE0️",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/svg/1f6e0.svg"
+          },
+          "count": 137
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDCC8",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/svg/1f4c8.svg"
+          },
+          "count": 115
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDE4C",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/svg/1f64c.svg"
+          },
+          "count": 96
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83E\uDD47",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/svg/1f947.svg"
+          },
+          "count": 89
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83E\uDD83",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/svg/1f983.svg"
+          },
+          "count": 79
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83E\uDD37\uD83C\uDFFE‍♂️",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/svg/1f937-1f3fe-200d-2642.svg"
+          },
+          "count": 75
+        },
+        {
+          "emoji": {
+            "id": "908568763861991426",
+            "name": "shocked_cage",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/908568763861991426.png"
+          },
+          "count": 68
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDCA9",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/svg/1f4a9.svg"
+          },
+          "count": 58
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83E\uDD57",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/svg/1f957.svg"
+          },
+          "count": 63
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "♿",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/svg/267f.svg"
+          },
+          "count": 57
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDE80",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/svg/1f680.svg"
+          },
+          "count": 73
+        },
+        {
+          "emoji": {
+            "id": "858874583612260383",
+            "name": "brrr",
+            "isAnimated": true,
+            "imageUrl": "https://cdn.discordapp.com/emojis/858874583612260383.gif"
+          },
+          "count": 9
+        },
+        {
+          "emoji": {
+            "id": "880396541347643412",
+            "name": "toastpepe5",
+            "isAnimated": true,
+            "imageUrl": "https://cdn.discordapp.com/emojis/880396541347643412.gif"
+          },
+          "count": 8
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "917636172476469268",
+      "type": "Default",
+      "timestamp": "2021-12-07T04:38:32.374+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Selecting a role is very important for getting important notifications! We'll ping you when needed (Ex: Pinging dev for dev work, design for design work, etc.)**",
+      "author": {
+        "id": "124016824202297344",
+        "name": "jzlegion",
+        "discriminator": "4444",
+        "nickname": "jzlegion",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/124016824202297344/a_0b9751c77d9ba0d46354062327d5e4f5.gif?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDC4D",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/svg/1f44d.svg"
+          },
+          "count": 582
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "919156749586546739",
+      "type": "Default",
+      "timestamp": "2021-12-11T09:20:46.208+00:00",
+      "timestampEdited": "2021-12-11T09:23:19.37+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Role Menu: Timezones**\nReact to give yourself a role.\n\n⛰️ : `mst`\n\n\uD83C\uDDEE\uD83C\uDDF3 : `ist`\n\n\uD83C\uDFDB️ : `est`\n\n\uD83C\uDF35 : `cst`\n\n\uD83C\uDF0A : `pst`",
+      "author": {
+        "id": "204255221017214977",
+        "name": "YAGPDB.xyz",
+        "discriminator": "8760",
+        "nickname": "YAGPDB.xyz",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/204255221017214977/2fa57b425415134d4f8b279174131ad6.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83C\uDDEE\uD83C\uDDF3",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/svg/1f1ee-1f1f3.svg"
+          },
+          "count": 360
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83C\uDFDB️",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/svg/1f3db.svg"
+          },
+          "count": 675
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83C\uDF35",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/svg/1f335.svg"
+          },
+          "count": 336
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83C\uDF0A",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/svg/1f30a.svg"
+          },
+          "count": 403
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "⛰️",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/svg/26f0.svg"
+          },
+          "count": 259
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83C\uDDEA\uD83C\uDDFA",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/svg/1f1ea-1f1fa.svg"
+          },
+          "count": 146
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83C\uDFF4\uDB40\uDC67\uDB40\uDC62\uDB40\uDC65\uDB40\uDC6E\uDB40\uDC67\uDB40\uDC7F",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/svg/1f3f4-e0067-e0062-e0065-e006e-e0067-e007f.svg"
+          },
+          "count": 64
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83C\uDDEC\uD83C\uDDE7",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/svg/1f1ec-1f1e7.svg"
+          },
+          "count": 72
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83C\uDDFA\uD83C\uDDF8",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/svg/1f1fa-1f1f8.svg"
+          },
+          "count": 54
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83C\uDDEA\uD83C\uDDF8",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/svg/1f1ea-1f1f8.svg"
+          },
+          "count": 41
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83C\uDDE6\uD83C\uDDFA",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/svg/1f1e6-1f1fa.svg"
+          },
+          "count": 39
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83C\uDDF8\uD83C\uDDE6",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/svg/1f1f8-1f1e6.svg"
+          },
+          "count": 33
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83C\uDDEF\uD83C\uDDF5",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/svg/1f1ef-1f1f5.svg"
+          },
+          "count": 38
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83C\uDDF7\uD83C\uDDFA",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/svg/1f1f7-1f1fa.svg"
+          },
+          "count": 197
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83C\uDDFA\uD83C\uDDFF",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/svg/1f1fa-1f1ff.svg"
+          },
+          "count": 40
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83C\uDDFA\uD83C\uDDE6",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/svg/1f1fa-1f1e6.svg"
+          },
+          "count": 85
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83C\uDDFB\uD83C\uDDF3",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/svg/1f1fb-1f1f3.svg"
+          },
+          "count": 37
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83C\uDDE6\uD83C\uDDFF",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/svg/1f1e6-1f1ff.svg"
+          },
+          "count": 30
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83C\uDDE9\uD83C\uDDEA",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/svg/1f1e9-1f1ea.svg"
+          },
+          "count": 15
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83C\uDDF5\uD83C\uDDF0",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/svg/1f1f5-1f1f0.svg"
+          },
+          "count": 3
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "923284928714637332",
+      "type": "Default",
+      "timestamp": "2021-12-22T18:44:40.81+00:00",
+      "timestampEdited": "2021-12-22T18:44:44.929+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Role Menu: Archives**\nReact to give yourself a role.\n\n\uD83D\uDCDA : `Archives`",
+      "author": {
+        "id": "204255221017214977",
+        "name": "YAGPDB.xyz",
+        "discriminator": "8760",
+        "nickname": "YAGPDB.xyz",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/204255221017214977/2fa57b425415134d4f8b279174131ad6.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDCDA",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/svg/1f4da.svg"
+          },
+          "count": 774
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDCF0",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/svg/1f4f0.svg"
+          },
+          "count": 31
+        }
+      ],
+      "mentions": []
+    }
+  ],
+  "messageCount": 4
+}

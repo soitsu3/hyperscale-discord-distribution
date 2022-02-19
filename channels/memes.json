@@ -1,0 +1,1401 @@
+{
+  "guild": {
+    "id": "916751469678579784",
+    "name": "Hyperscale",
+    "iconUrl": "https://cdn.discordapp.com/icons/916751469678579784/874219cdd9c60b09fc62afefa1efea43.png"
+  },
+  "channel": {
+    "id": "919140648899186708",
+    "type": "GuildTextChat",
+    "categoryId": "922689148861685780",
+    "category": "archived",
+    "name": "memes",
+    "topic": "NOTICE: Archived channel. Please do NOT post!"
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "messages": [
+    {
+      "id": "919750176262983710",
+      "type": "Default",
+      "timestamp": "2021-12-13T00:38:50.153+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "905571325920292914",
+        "name": "Eric Berry",
+        "discriminator": "2971",
+        "nickname": "Eric Berry",
+        "color": "#2ECC71",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/905571325920292914/9ffe17e7248c5f0b48815f611a910395.png?size=128"
+      },
+      "attachments": [
+        {
+          "id": "919750175587696690",
+          "url": "https://cdn.discordapp.com/attachments/919140648899186708/919750175587696690/FGXCdLZXsAw4vyw.png",
+          "fileName": "FGXCdLZXsAw4vyw.png",
+          "fileSizeBytes": 164599
+        }
+      ],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "⚡",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/svg/26a1.svg"
+          },
+          "count": 5
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDE05",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/svg/1f605.svg"
+          },
+          "count": 4
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "919750265270337556",
+      "type": "Default",
+      "timestamp": "2021-12-13T00:39:11.374+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "905571325920292914",
+        "name": "Eric Berry",
+        "discriminator": "2971",
+        "nickname": "Eric Berry",
+        "color": "#2ECC71",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/905571325920292914/9ffe17e7248c5f0b48815f611a910395.png?size=128"
+      },
+      "attachments": [
+        {
+          "id": "919750264595042314",
+          "url": "https://cdn.discordapp.com/attachments/919140648899186708/919750264595042314/FGWD84TWUAMO0a0.jpeg",
+          "fileName": "FGWD84TWUAMO0a0.jpeg",
+          "fileSizeBytes": 110507
+        }
+      ],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "⚡",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/svg/26a1.svg"
+          },
+          "count": 9
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "919786996895977472",
+      "type": "Default",
+      "timestamp": "2021-12-13T03:05:08.876+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "\uD83D\uDC4D",
+      "author": {
+        "id": "783212024598626324",
+        "name": "Motorcycle（\uD83D\uDCF7,\uD83D\uDCF7）Rabbit\uD83D\uDC30",
+        "discriminator": "8925",
+        "nickname": "Motorcycle（\uD83D\uDCF7,\uD83D\uDCF7）Rabbit\uD83D\uDC30",
+        "color": "#F1C40F",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/783212024598626324/4be8ac0e0a7daacb76d9586f951ea69f.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "919795256856297492",
+      "type": "Default",
+      "timestamp": "2021-12-13T03:37:58.204+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "792670354941673473",
+        "name": "shawn",
+        "discriminator": "9697",
+        "nickname": "shawn",
+        "color": "#1ABC9C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/792670354941673473/a62a8889e96e5474d57e803e31130098.png?size=128"
+      },
+      "attachments": [
+        {
+          "id": "919795256088756264",
+          "url": "https://cdn.discordapp.com/attachments/919140648899186708/919795256088756264/IMG_5096.jpg",
+          "fileName": "IMG_5096.jpg",
+          "fileSizeBytes": 76541
+        }
+      ],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "⚡",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/svg/26a1.svg"
+          },
+          "count": 5
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "919847612549562429",
+      "type": "Default",
+      "timestamp": "2021-12-13T07:06:00.774+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://cdn.discordapp.com/attachments/466150847081086976/916968026203631646/1638675736587.png",
+      "author": {
+        "id": "262690852457938944",
+        "name": "TooManyBags",
+        "discriminator": "3359",
+        "nickname": "Raza",
+        "color": "#1ABC9C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/262690852457938944/a2877eab2193f3c9e5bc3e9cec210639.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": "https://cdn.discordapp.com/attachments/466150847081086976/916968026203631646/1638675736587.png",
+          "timestamp": null,
+          "description": "",
+          "thumbnail": {
+            "url": "https://media.discordapp.net/attachments/466150847081086976/916968026203631646/1638675736587.png",
+            "width": 720,
+            "height": 720
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83E\uDD23",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/svg/1f923.svg"
+          },
+          "count": 2
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "920416277166710836",
+      "type": "Default",
+      "timestamp": "2021-12-14T20:45:40.984+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "905571325920292914",
+        "name": "Eric Berry",
+        "discriminator": "2971",
+        "nickname": "Eric Berry",
+        "color": "#2ECC71",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/905571325920292914/9ffe17e7248c5f0b48815f611a910395.png?size=128"
+      },
+      "attachments": [
+        {
+          "id": "920416276449480768",
+          "url": "https://cdn.discordapp.com/attachments/919140648899186708/920416276449480768/5xw339.jpeg",
+          "fileName": "5xw339.jpeg",
+          "fileSizeBytes": 101095
+        }
+      ],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "920794033784234014",
+      "type": "Default",
+      "timestamp": "2021-12-15T21:46:45.18+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "A small meme, for my hyperscale team \nhttps://twitter.com/aletherx/status/1471235047588077569?s=20",
+      "author": {
+        "id": "882673718797672510",
+        "name": "AlEtherX",
+        "discriminator": "8561",
+        "nickname": "AlEtherX",
+        "color": "#9B59B6",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/1.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": "https://twitter.com/aletherx/status/1471235047588077569?s=20",
+          "timestamp": "2021-12-15T21:45:44.227+00:00",
+          "description": "Don't be like Pablo, send yours to @HyperscaleFund and hear back within 1 week. Apply here:  https://t.co/rRveEYhaGr",
+          "color": "#1DA1F2",
+          "author": {
+            "name": "ALΞX (⚡️,⚡️) (@aletherx)",
+            "url": "https://twitter.com/aletherx",
+            "iconUrl": "https://images-ext-2.discordapp.net/external/zFPuKoT5bEC01ebZdwaT8Ipi5vNwwi_YOctnDuvKi9c/https/pbs.twimg.com/profile_images/1446879649833816064/xApL7ne-_bigger.jpg"
+          },
+          "image": {
+            "url": "https://images-ext-2.discordapp.net/external/Sm4Iv4yKSHckqgfFkbYt64R_0MhuaARdrEHgU29d8Vg/https/pbs.twimg.com/media/FGrgOd_X0Acq58a.jpg%3Alarge",
+            "width": 1777,
+            "height": 2047
+          },
+          "footer": {
+            "text": "Twitter",
+            "iconUrl": "https://images-ext-1.discordapp.net/external/bXJWV2Y_F3XSra_kEqIYXAAsI3m1meckfLhYuWzxIfI/https/abs.twimg.com/icons/apple-touch-icon-192x192.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "⚡",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/svg/26a1.svg"
+          },
+          "count": 5
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "921666708027105311",
+      "type": "Default",
+      "timestamp": "2021-12-18T07:34:26.933+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "806398171134558218",
+        "name": "dtseto",
+        "discriminator": "1516",
+        "nickname": "David Seto, Esq. davidseto.eth",
+        "color": "#E74C3C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/806398171134558218/b28f6812e62ec10a6f89b05e9839cb95.png?size=128"
+      },
+      "attachments": [
+        {
+          "id": "921666707460870164",
+          "url": "https://cdn.discordapp.com/attachments/919140648899186708/921666707460870164/IMG_3155.jpg",
+          "fileName": "IMG_3155.jpg",
+          "fileSizeBytes": 148162
+        }
+      ],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "922187796209340448",
+      "type": "Default",
+      "timestamp": "2021-12-19T18:05:04.037+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/95521577765386107088233723478670342967466797180615987740639701782699276500993/",
+      "author": {
+        "id": "613008081869340697",
+        "name": "schneida",
+        "discriminator": "1436",
+        "nickname": "schneida",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/613008081869340697/4f51465733e90de63f58f3d18d39389d.png?size=128"
+      },
+      "attachments": [
+        {
+          "id": "922187796494557254",
+          "url": "https://cdn.discordapp.com/attachments/919140648899186708/922187796494557254/IMG_4892.jpg",
+          "fileName": "IMG_4892.jpg",
+          "fileSizeBytes": 160374
+        }
+      ],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "922258132015661126",
+      "type": "Reply",
+      "timestamp": "2021-12-19T22:44:33.4+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Bro stop shilling here. I created a channel for you #3rdparty-archived",
+      "author": {
+        "id": "915035187547615243",
+        "name": "kevalin",
+        "discriminator": "4394",
+        "nickname": "kevalin",
+        "color": "#1F8B4C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/915035187547615243/8aec11e684cd1c3ab575358a58fda0bd.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "613008081869340697",
+          "name": "schneida",
+          "discriminator": "1436",
+          "nickname": "schneida",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "922187796209340448",
+        "channelId": "919140648899186708",
+        "guildId": "916751469678579784"
+      }
+    },
+    {
+      "id": "925181308433498152",
+      "type": "Default",
+      "timestamp": "2021-12-28T00:20:12.968+00:00",
+      "timestampEdited": "2022-01-01T19:53:05.925+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Sam Altman (OpenAI dev) posts some tweets > \nHyperscale emerges to fund early web3 projects (web3 does not exists according to Twitter creator) > \nIdena (Proof of Person, anti bot, anti AI project) wins first DAO race > \nIdena gets disqualified by Hyperscale because they think so many votes are done using bots > \nHyperscale ends up never using Idena as authentication and Sybil protection (exact usecase of Idena, Gitcoin uses it)\n\nThat would be a good meme. Is this reality or just another bad Matrix sequel?",
+      "author": {
+        "id": "403883383920525313",
+        "name": "Rioda",
+        "discriminator": "8188",
+        "nickname": "Rioda",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/403883383920525313/643ac9ec4b03392a34c1d70283af55b3.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDE02",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/svg/1f602.svg"
+          },
+          "count": 9
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "925200538524581969",
+      "type": "Reply",
+      "timestamp": "2021-12-28T01:36:37.779+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Hahahahahah",
+      "author": {
+        "id": "915035187547615243",
+        "name": "kevalin",
+        "discriminator": "4394",
+        "nickname": "kevalin",
+        "color": "#1F8B4C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/915035187547615243/8aec11e684cd1c3ab575358a58fda0bd.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "403883383920525313",
+          "name": "Rioda",
+          "discriminator": "8188",
+          "nickname": "Rioda",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "925181308433498152",
+        "channelId": "919140648899186708",
+        "guildId": "916751469678579784"
+      }
+    },
+    {
+      "id": "925200616190525491",
+      "type": "Default",
+      "timestamp": "2021-12-28T01:36:56.296+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Would be a good meme",
+      "author": {
+        "id": "915035187547615243",
+        "name": "kevalin",
+        "discriminator": "4394",
+        "nickname": "kevalin",
+        "color": "#1F8B4C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/915035187547615243/8aec11e684cd1c3ab575358a58fda0bd.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "925200669030367292",
+      "type": "Default",
+      "timestamp": "2021-12-28T01:37:08.894+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "We're looking into this",
+      "author": {
+        "id": "915035187547615243",
+        "name": "kevalin",
+        "discriminator": "4394",
+        "nickname": "kevalin",
+        "color": "#1F8B4C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/915035187547615243/8aec11e684cd1c3ab575358a58fda0bd.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "925258947617759263",
+      "type": "Reply",
+      "timestamp": "2021-12-28T05:28:43.592+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Would be straight comedy hahaha",
+      "author": {
+        "id": "254069756313862144",
+        "name": "VirTius",
+        "discriminator": "4407",
+        "nickname": "VirTius",
+        "color": "#1ABC9C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/254069756313862144/fc7a17eddfda18c82d104601e6437516.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "403883383920525313",
+          "name": "Rioda",
+          "discriminator": "8188",
+          "nickname": "Rioda",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "925181308433498152",
+        "channelId": "919140648899186708",
+        "guildId": "916751469678579784"
+      }
+    },
+    {
+      "id": "925894879429668904",
+      "type": "Default",
+      "timestamp": "2021-12-29T23:35:41.551+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "hey",
+      "author": {
+        "id": "693383538275516488",
+        "name": "saugustu",
+        "discriminator": "4432",
+        "nickname": "saugustu",
+        "color": "#F47FFF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/693383538275516488/95abd1f5db4de4874a1219471c3d11b9.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "925925193636016189",
+      "type": "Reply",
+      "timestamp": "2021-12-30T01:36:09.021+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Can u make one with Paradigm and 3AC",
+      "author": {
+        "id": "892228926129188884",
+        "name": "Randomish Walk",
+        "discriminator": "0601",
+        "nickname": "Randomish Walk",
+        "color": "#E74C3C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/892228926129188884/a_0995c0e4e792b903cd47b532b2cf20ff.gif?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "905571325920292914",
+          "name": "Eric Berry",
+          "discriminator": "2971",
+          "nickname": "Eric Berry",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "919750265270337556",
+        "channelId": "919140648899186708",
+        "guildId": "916751469678579784"
+      }
+    },
+    {
+      "id": "925925405184098304",
+      "type": "Reply",
+      "timestamp": "2021-12-30T01:36:59.458+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Can someone make this meme? I'll have a counter meme too",
+      "author": {
+        "id": "915035187547615243",
+        "name": "kevalin",
+        "discriminator": "4394",
+        "nickname": "kevalin",
+        "color": "#1F8B4C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/915035187547615243/8aec11e684cd1c3ab575358a58fda0bd.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "403883383920525313",
+          "name": "Rioda",
+          "discriminator": "8188",
+          "nickname": "Rioda",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "925181308433498152",
+        "channelId": "919140648899186708",
+        "guildId": "916751469678579784"
+      }
+    },
+    {
+      "id": "925925414533202010",
+      "type": "Default",
+      "timestamp": "2021-12-30T01:37:01.687+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Aka the good crypto funds",
+      "author": {
+        "id": "892228926129188884",
+        "name": "Randomish Walk",
+        "discriminator": "0601",
+        "nickname": "Randomish Walk",
+        "color": "#E74C3C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/892228926129188884/a_0995c0e4e792b903cd47b532b2cf20ff.gif?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "925925569080754286",
+      "type": "Default",
+      "timestamp": "2021-12-30T01:37:38.534+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Is this the shitposting channel?",
+      "author": {
+        "id": "892228926129188884",
+        "name": "Randomish Walk",
+        "discriminator": "0601",
+        "nickname": "Randomish Walk",
+        "color": "#E74C3C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/892228926129188884/a_0995c0e4e792b903cd47b532b2cf20ff.gif?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "925946110781030420",
+      "type": "Default",
+      "timestamp": "2021-12-30T02:59:16.057+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://tenor.com/view/rage-red-stocks-crash-stocks-crashing-downwards-gif-17056650",
+      "author": {
+        "id": "883254905383571456",
+        "name": "wanderer2049",
+        "discriminator": "4728",
+        "nickname": "wanderer2049",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/883254905383571456/4805323d89ddac77083e186fdcec9aac.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": "https://tenor.com/view/rage-red-stocks-crash-stocks-crashing-downwards-gif-17056650",
+          "timestamp": null,
+          "description": "",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/28INwZGzyrcePUIpTb-rHWJRj_KaLVqopx90aHdyboM/https/media.tenor.co/images/9b6eca8a43f409663002df4abb3a380a/tenor.png",
+            "width": 640,
+            "height": 480
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "926443991497572353",
+      "type": "Reply",
+      "timestamp": "2021-12-31T11:57:40.07+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Which one?",
+      "author": {
+        "id": "621027809963540488",
+        "name": "Ubiubi2018",
+        "discriminator": "9073",
+        "nickname": "Ubiubi2018",
+        "color": "#F1C40F",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/621027809963540488/85fdd07a188de7f5448d577f0b956465.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "915035187547615243",
+          "name": "kevalin",
+          "discriminator": "4394",
+          "nickname": "kevalin",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "925925405184098304",
+        "channelId": "919140648899186708",
+        "guildId": "916751469678579784"
+      }
+    },
+    {
+      "id": "926444093884731422",
+      "type": "Reply",
+      "timestamp": "2021-12-31T11:58:04.481+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://discord.com/channels/916751469678579784/919140648899186708/925181308433498152",
+      "author": {
+        "id": "915035187547615243",
+        "name": "kevalin",
+        "discriminator": "4394",
+        "nickname": "kevalin",
+        "color": "#1F8B4C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/915035187547615243/8aec11e684cd1c3ab575358a58fda0bd.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "621027809963540488",
+          "name": "Ubiubi2018",
+          "discriminator": "9073",
+          "nickname": "Ubiubi2018",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "926443991497572353",
+        "channelId": "919140648899186708",
+        "guildId": "916751469678579784"
+      }
+    },
+    {
+      "id": "926444310168240158",
+      "type": "Reply",
+      "timestamp": "2021-12-31T11:58:56.047+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Which is your counter meme? \uD83D\uDE03",
+      "author": {
+        "id": "621027809963540488",
+        "name": "Ubiubi2018",
+        "discriminator": "9073",
+        "nickname": "Ubiubi2018",
+        "color": "#F1C40F",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/621027809963540488/85fdd07a188de7f5448d577f0b956465.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "915035187547615243",
+          "name": "kevalin",
+          "discriminator": "4394",
+          "nickname": "kevalin",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "926444093884731422",
+        "channelId": "919140648899186708",
+        "guildId": "916751469678579784"
+      }
+    },
+    {
+      "id": "926444492817563658",
+      "type": "Reply",
+      "timestamp": "2021-12-31T11:59:39.594+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "You'll see",
+      "author": {
+        "id": "915035187547615243",
+        "name": "kevalin",
+        "discriminator": "4394",
+        "nickname": "kevalin",
+        "color": "#1F8B4C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/915035187547615243/8aec11e684cd1c3ab575358a58fda0bd.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83E\uDD72",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/svg/1f972.svg"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "⚡",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/svg/26a1.svg"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": [
+        {
+          "id": "621027809963540488",
+          "name": "Ubiubi2018",
+          "discriminator": "9073",
+          "nickname": "Ubiubi2018",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "926444310168240158",
+        "channelId": "919140648899186708",
+        "guildId": "916751469678579784"
+      }
+    },
+    {
+      "id": "926448861508169758",
+      "type": "Reply",
+      "timestamp": "2021-12-31T12:17:01.171+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I’ve just seen this… amazing \uD83D\uDE02",
+      "author": {
+        "id": "703540563328368691",
+        "name": "BenJ",
+        "discriminator": "0551",
+        "nickname": "BenJ",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/703540563328368691/e4eacd321d76a0e2b88bbcb8076d5e4d.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "403883383920525313",
+          "name": "Rioda",
+          "discriminator": "8188",
+          "nickname": "Rioda",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "925181308433498152",
+        "channelId": "919140648899186708",
+        "guildId": "916751469678579784"
+      }
+    },
+    {
+      "id": "926624894937075772",
+      "type": "Default",
+      "timestamp": "2021-12-31T23:56:30.811+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Ser, it's a meme channel, happy new year btw",
+      "author": {
+        "id": "403883383920525313",
+        "name": "Rioda",
+        "discriminator": "8188",
+        "nickname": "Rioda",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/403883383920525313/643ac9ec4b03392a34c1d70283af55b3.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83C\uDF8A",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/svg/1f38a.svg"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "926632226202984459",
+      "type": "Reply",
+      "timestamp": "2022-01-01T00:25:38.721+00:00",
+      "timestampEdited": "2022-01-01T00:26:09.963+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Great, but sir it was 800+ votes",
+      "author": {
+        "id": "821102798414282763",
+        "name": "MickeyK",
+        "discriminator": "6112",
+        "nickname": "MickeyK",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/821102798414282763/58dfcb971e4ac6eadf2d151498e51339.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDE07",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/svg/1f607.svg"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDC4D",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/svg/1f44d.svg"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": [
+        {
+          "id": "917519744104546344",
+          "name": "adelidusiam",
+          "discriminator": "5606",
+          "nickname": "adelidusiam",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "926623522934120468",
+        "channelId": "919140648899186708",
+        "guildId": "916751469678579784"
+      }
+    },
+    {
+      "id": "926638257716985936",
+      "type": "Reply",
+      "timestamp": "2022-01-01T00:49:36.746+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "\uD83D\uDE05 800! It was 200 last time I heard hahaha thank you! Have to update it!",
+      "author": {
+        "id": "917519744104546344",
+        "name": "adelidusiam",
+        "discriminator": "5606",
+        "nickname": "adelidusiam",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/917519744104546344/9031d19ca8af7fbfa99940284b4fa448.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "821102798414282763",
+          "name": "MickeyK",
+          "discriminator": "6112",
+          "nickname": "MickeyK",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "926632226202984459",
+        "channelId": "919140648899186708",
+        "guildId": "916751469678579784"
+      }
+    },
+    {
+      "id": "926641077073625178",
+      "type": "Reply",
+      "timestamp": "2022-01-01T01:00:48.933+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": true,
+      "content": "Updated the vote count! \uD83D\uDE05",
+      "author": {
+        "id": "917519744104546344",
+        "name": "adelidusiam",
+        "discriminator": "5606",
+        "nickname": "adelidusiam",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/917519744104546344/9031d19ca8af7fbfa99940284b4fa448.png?size=128"
+      },
+      "attachments": [
+        {
+          "id": "926641070757007400",
+          "url": "https://cdn.discordapp.com/attachments/919140648899186708/926641070757007400/Dao_Race_Meme.mp4",
+          "fileName": "Dao_Race_Meme.mp4",
+          "fileSizeBytes": 45395320
+        }
+      ],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83E\uDD23",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/svg/1f923.svg"
+          },
+          "count": 15
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDD25",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/svg/1f525.svg"
+          },
+          "count": 5
+        }
+      ],
+      "mentions": [
+        {
+          "id": "915035187547615243",
+          "name": "kevalin",
+          "discriminator": "4394",
+          "nickname": "kevalin",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "925925405184098304",
+        "channelId": "919140648899186708",
+        "guildId": "916751469678579784"
+      }
+    },
+    {
+      "id": "926643970266791967",
+      "type": "Reply",
+      "timestamp": "2022-01-01T01:12:18.724+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Lmaooo this is so good",
+      "author": {
+        "id": "915035187547615243",
+        "name": "kevalin",
+        "discriminator": "4394",
+        "nickname": "kevalin",
+        "color": "#1F8B4C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/915035187547615243/8aec11e684cd1c3ab575358a58fda0bd.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "917519744104546344",
+          "name": "adelidusiam",
+          "discriminator": "5606",
+          "nickname": "adelidusiam",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "926641077073625178",
+        "channelId": "919140648899186708",
+        "guildId": "916751469678579784"
+      }
+    },
+    {
+      "id": "926646531254284308",
+      "type": "Default",
+      "timestamp": "2022-01-01T01:22:29.311+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Too Good! \uD83E\uDD23",
+      "author": {
+        "id": "900502872670744616",
+        "name": "AMICA",
+        "discriminator": "7675",
+        "nickname": "AMICA",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/900502872670744616/798fb3bd4007400558239f1e5a504b50.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "926982906935640065",
+      "type": "Default",
+      "timestamp": "2022-01-01T23:39:07.523+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "\uD83E\uDD23\uD83E\uDD23\uD83E\uDD23 amazing",
+      "author": {
+        "id": "630645146102267924",
+        "name": "jkey",
+        "discriminator": "2329",
+        "nickname": "jkey",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/630645146102267924/6e61d2671238895beb3254d7e0a27b30.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "927602636688093245",
+      "type": "Reply",
+      "timestamp": "2022-01-03T16:41:42.61+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://tenor.com/view/ping-slap-dog-doggo-punch-gif-17672413",
+      "author": {
+        "id": "821102798414282763",
+        "name": "MickeyK",
+        "discriminator": "6112",
+        "nickname": "MickeyK",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/821102798414282763/58dfcb971e4ac6eadf2d151498e51339.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": "https://tenor.com/view/ping-slap-dog-doggo-punch-gif-17672413",
+          "timestamp": null,
+          "description": "",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/Kfz5jA8bNJKGHL0dn6tHNLjewjne2_RoqmoX831r32w/https/media.tenor.co/images/ef045b28afd03282ccf87156a2e95de6/tenor.png",
+            "width": 640,
+            "height": 338
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "915035187547615243",
+          "name": "kevalin",
+          "discriminator": "4394",
+          "nickname": "kevalin",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "925925405184098304",
+        "channelId": "919140648899186708",
+        "guildId": "916751469678579784"
+      }
+    },
+    {
+      "id": "928503451393093662",
+      "type": "Default",
+      "timestamp": "2022-01-06T04:21:13.572+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Devs and Designers are building Hyperscale like this:\nhttps://www.youtube.com/watch?v=eMYWVKd0ar0",
+      "author": {
+        "id": "900502872670744616",
+        "name": "AMICA",
+        "discriminator": "7675",
+        "nickname": "AMICA",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/900502872670744616/798fb3bd4007400558239f1e5a504b50.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "MILK CRATE",
+          "url": "https://www.youtube.com/watch?v=eMYWVKd0ar0",
+          "timestamp": null,
+          "description": "A HAPPY NEW YEAR!!!!!\nCG is not used.  I just lined up 2854 photos.I haven't processed any photos.This is the so-called \"stop motion animation\".",
+          "color": "#FF0000",
+          "author": {
+            "name": "omozoc",
+            "url": "https://www.youtube.com/channel/UCo0Ek8Te0osbhI0WnhF3QzA"
+          },
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/BrKIS_dHJdv4gdWXG55YuXYJbTknwPz4clvHap_kYMI/https/i.ytimg.com/vi/eMYWVKd0ar0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83E\uDD23",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/svg/1f923.svg"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "928511302060613633",
+      "type": "Default",
+      "timestamp": "2022-01-06T04:52:25.317+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://bitcoinorshit.com/",
+      "author": {
+        "id": "900502872670744616",
+        "name": "AMICA",
+        "discriminator": "7675",
+        "nickname": "AMICA",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/900502872670744616/798fb3bd4007400558239f1e5a504b50.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "bitcoin or stupid shit?",
+          "url": "https://bitcoinorshit.com/",
+          "timestamp": null,
+          "description": "See what your dumbest purchases would be worth if you bought Bitcoin instead.",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/9sTGmEcUNIZJKOWZ8s_1i2eHV1BLjI5GjPdJUGO1aIc/https/i.imgur.com/xkax4Mp.png",
+            "width": 2000,
+            "height": 1000
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDEA9",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/svg/1f6a9.svg"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83C\uDFF4",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/svg/1f3f4.svg"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "932679037854289930",
+      "type": "Default",
+      "timestamp": "2022-01-17T16:53:30.963+00:00",
+      "timestampEdited": "2022-01-17T16:54:24.636+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "#\uD83E\uDD11shill",
+      "author": {
+        "id": "900502872670744616",
+        "name": "AMICA",
+        "discriminator": "7675",
+        "nickname": "AMICA",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/900502872670744616/798fb3bd4007400558239f1e5a504b50.png?size=128"
+      },
+      "attachments": [
+        {
+          "id": "932679037090955274",
+          "url": "https://cdn.discordapp.com/attachments/919140648899186708/932679037090955274/shell.png",
+          "fileName": "shell.png",
+          "fileSizeBytes": 295538
+        }
+      ],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "933399057878097951",
+      "type": "Default",
+      "timestamp": "2022-01-19T16:34:37.114+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "OpenAi you in here? Come get it from me \uD83D\uDE09",
+      "author": {
+        "id": "391832438026010626",
+        "name": "Carsey",
+        "discriminator": "7622",
+        "nickname": "Carsey",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/391832438026010626/68e9e4b53b8fc5f3e391e89c66b69e1a.png?size=128"
+      },
+      "attachments": [
+        {
+          "id": "933399057139892254",
+          "url": "https://cdn.discordapp.com/attachments/919140648899186708/933399057139892254/unknown-4.jpg",
+          "fileName": "unknown-4.jpg",
+          "fileSizeBytes": 127220
+        }
+      ],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "933399351106109500",
+      "type": "ChannelPinnedMessage",
+      "timestamp": "2022-01-19T16:35:47.025+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Pinned a message.",
+      "author": {
+        "id": "900502872670744616",
+        "name": "AMICA",
+        "discriminator": "7675",
+        "nickname": "AMICA",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/900502872670744616/798fb3bd4007400558239f1e5a504b50.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "926641077073625178",
+        "channelId": "919140648899186708",
+        "guildId": null
+      }
+    }
+  ],
+  "messageCount": 39
+}

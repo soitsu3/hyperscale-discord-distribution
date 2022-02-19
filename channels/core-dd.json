@@ -1,0 +1,696 @@
+{
+  "guild": {
+    "id": "916751469678579784",
+    "name": "Hyperscale",
+    "iconUrl": "https://cdn.discordapp.com/icons/916751469678579784/874219cdd9c60b09fc62afefa1efea43.png"
+  },
+  "channel": {
+    "id": "922763915463643137",
+    "type": "GuildTextChat",
+    "categoryId": "922689148861685780",
+    "category": "archived",
+    "name": "core-dd",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "messages": [
+    {
+      "id": "922764294968451082",
+      "type": "Default",
+      "timestamp": "2021-12-21T08:15:52.052+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@emirbolen.eth",
+      "author": {
+        "id": "915035187547615243",
+        "name": "kevalin",
+        "discriminator": "4394",
+        "nickname": "kevalin",
+        "color": "#1F8B4C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/915035187547615243/8aec11e684cd1c3ab575358a58fda0bd.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "899944147811725323",
+          "name": "emirbolen.eth",
+          "discriminator": "6782",
+          "nickname": "emirbolen.eth",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "922765616685912105",
+      "type": "Default",
+      "timestamp": "2021-12-21T08:21:07.174+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "\uD83D\uDC4D",
+      "author": {
+        "id": "899944147811725323",
+        "name": "emirbolen.eth",
+        "discriminator": "6782",
+        "nickname": "emirbolen.eth",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/899944147811725323/f7f9fabb1fba2e52e37fe3330129ef4a.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "922765704237830154",
+      "type": "Default",
+      "timestamp": "2021-12-21T08:21:28.048+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Let me work on preliminary criterias, then share here",
+      "author": {
+        "id": "899944147811725323",
+        "name": "emirbolen.eth",
+        "discriminator": "6782",
+        "nickname": "emirbolen.eth",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/899944147811725323/f7f9fabb1fba2e52e37fe3330129ef4a.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "922765779450101780",
+      "type": "Default",
+      "timestamp": "2021-12-21T08:21:45.98+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "If we agree but can put then on notion to be transparent",
+      "author": {
+        "id": "899944147811725323",
+        "name": "emirbolen.eth",
+        "discriminator": "6782",
+        "nickname": "emirbolen.eth",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/899944147811725323/f7f9fabb1fba2e52e37fe3330129ef4a.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "922769071748055041",
+      "type": "Default",
+      "timestamp": "2021-12-21T08:34:50.925+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Yeah def want to have an investment process doc",
+      "author": {
+        "id": "915035187547615243",
+        "name": "kevalin",
+        "discriminator": "4394",
+        "nickname": "kevalin",
+        "color": "#1F8B4C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/915035187547615243/8aec11e684cd1c3ab575358a58fda0bd.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "922769137703473214",
+      "type": "Default",
+      "timestamp": "2021-12-21T08:35:06.65+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://hyperscalefund.notion.site/Investment-Process-a8d9c9c97862479596f53f1e3d69e52c",
+      "author": {
+        "id": "915035187547615243",
+        "name": "kevalin",
+        "discriminator": "4394",
+        "nickname": "kevalin",
+        "color": "#1F8B4C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/915035187547615243/8aec11e684cd1c3ab575358a58fda0bd.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Investment Process",
+          "url": "https://hyperscalefund.notion.site/Investment-Process-a8d9c9c97862479596f53f1e3d69e52c",
+          "timestamp": null,
+          "description": "Are you looking for funding for your DAO? Start here to learn how to get funded!",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/7cylGODjR4ldc5JHu8LNQ0G6WXJnIfwOguBYGexEf3o/%3Ftable%3Dblock%26id%3Da8d9c9c9-7862-4795-96f5-3f1e3d69e52c%26spaceId%3D7350214e-d16f-4aea-bd0f-a71ced9c6ef9%26width%3D2000%26userId%3D%26cache%3Dv2/https/hyperscalefund.notion.site/image/https%253A%252F%252Fhyperscalefund.notion.site%252Fimages%252Fpage-cover%252Fgradients_5.png",
+            "width": 1500,
+            "height": 1500
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "922769147321020446",
+      "type": "Default",
+      "timestamp": "2021-12-21T08:35:08.943+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Like expand on this",
+      "author": {
+        "id": "915035187547615243",
+        "name": "kevalin",
+        "discriminator": "4394",
+        "nickname": "kevalin",
+        "color": "#1F8B4C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/915035187547615243/8aec11e684cd1c3ab575358a58fda0bd.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "922779058163564554",
+      "type": "Default",
+      "timestamp": "2021-12-21T09:14:31.872+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "\uD83D\uDC4D  on it",
+      "author": {
+        "id": "899944147811725323",
+        "name": "emirbolen.eth",
+        "discriminator": "6782",
+        "nickname": "emirbolen.eth",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/899944147811725323/f7f9fabb1fba2e52e37fe3330129ef4a.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "922804448223461387",
+      "type": "Default",
+      "timestamp": "2021-12-21T10:55:25.334+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "just prepared a draft, at least to create a basis for this week, attaching now",
+      "author": {
+        "id": "899944147811725323",
+        "name": "emirbolen.eth",
+        "discriminator": "6782",
+        "nickname": "emirbolen.eth",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/899944147811725323/f7f9fabb1fba2e52e37fe3330129ef4a.png?size=128"
+      },
+      "attachments": [
+        {
+          "id": "922804448143740968",
+          "url": "https://cdn.discordapp.com/attachments/922763915463643137/922804448143740968/Hyperscale_DD_1st_draft.docx",
+          "fileName": "Hyperscale_DD_1st_draft.docx",
+          "fileSizeBytes": 17175
+        }
+      ],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "922804549268426842",
+      "type": "Default",
+      "timestamp": "2021-12-21T10:55:49.425+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Gonna improve it progressively",
+      "author": {
+        "id": "899944147811725323",
+        "name": "emirbolen.eth",
+        "discriminator": "6782",
+        "nickname": "emirbolen.eth",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/899944147811725323/f7f9fabb1fba2e52e37fe3330129ef4a.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "922820602413350912",
+      "type": "Reply",
+      "timestamp": "2021-12-21T11:59:36.793+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Could you create a public google drive?",
+      "author": {
+        "id": "915035187547615243",
+        "name": "kevalin",
+        "discriminator": "4394",
+        "nickname": "kevalin",
+        "color": "#1F8B4C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/915035187547615243/8aec11e684cd1c3ab575358a58fda0bd.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "899944147811725323",
+          "name": "emirbolen.eth",
+          "discriminator": "6782",
+          "nickname": "emirbolen.eth",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "922804448223461387",
+        "channelId": "922763915463643137",
+        "guildId": "916751469678579784"
+      }
+    },
+    {
+      "id": "922820945461260358",
+      "type": "Default",
+      "timestamp": "2021-12-21T12:00:58.582+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "sure",
+      "author": {
+        "id": "899944147811725323",
+        "name": "emirbolen.eth",
+        "discriminator": "6782",
+        "nickname": "emirbolen.eth",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/899944147811725323/f7f9fabb1fba2e52e37fe3330129ef4a.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "922821189854953472",
+      "type": "Default",
+      "timestamp": "2021-12-21T12:01:56.85+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://drive.google.com/drive/folders/1ZH9Ba5vzkIvEVYoafmK71om85rawj1SY?usp=sharing",
+      "author": {
+        "id": "899944147811725323",
+        "name": "emirbolen.eth",
+        "discriminator": "6782",
+        "nickname": "emirbolen.eth",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/899944147811725323/f7f9fabb1fba2e52e37fe3330129ef4a.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "922821638490308629",
+      "type": "Default",
+      "timestamp": "2021-12-21T12:03:43.813+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Perfect, will read over in a few hours",
+      "author": {
+        "id": "915035187547615243",
+        "name": "kevalin",
+        "discriminator": "4394",
+        "nickname": "kevalin",
+        "color": "#1F8B4C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/915035187547615243/8aec11e684cd1c3ab575358a58fda0bd.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "922823111479541850",
+      "type": "Default",
+      "timestamp": "2021-12-21T12:09:35.001+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "np",
+      "author": {
+        "id": "899944147811725323",
+        "name": "emirbolen.eth",
+        "discriminator": "6782",
+        "nickname": "emirbolen.eth",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/899944147811725323/f7f9fabb1fba2e52e37fe3330129ef4a.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "922893401966403584",
+      "type": "Default",
+      "timestamp": "2021-12-21T16:48:53.559+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I suggest we open a channel for updates & ask portfolio companies to post there. I included a template for what they need to give as update",
+      "author": {
+        "id": "899944147811725323",
+        "name": "emirbolen.eth",
+        "discriminator": "6782",
+        "nickname": "emirbolen.eth",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/899944147811725323/f7f9fabb1fba2e52e37fe3330129ef4a.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "922893557793194015",
+      "type": "Default",
+      "timestamp": "2021-12-21T16:49:30.711+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Cuz otherwise it becomes too many messages which is hard to track. And no particular place to post these info",
+      "author": {
+        "id": "899944147811725323",
+        "name": "emirbolen.eth",
+        "discriminator": "6782",
+        "nickname": "emirbolen.eth",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/899944147811725323/f7f9fabb1fba2e52e37fe3330129ef4a.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "922918298616754266",
+      "type": "Reply",
+      "timestamp": "2021-12-21T18:27:49.383+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "This will be automated in the web app",
+      "author": {
+        "id": "915035187547615243",
+        "name": "kevalin",
+        "discriminator": "4394",
+        "nickname": "kevalin",
+        "color": "#1F8B4C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/915035187547615243/8aec11e684cd1c3ab575358a58fda0bd.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "899944147811725323",
+          "name": "emirbolen.eth",
+          "discriminator": "6782",
+          "nickname": "emirbolen.eth",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "922893401966403584",
+        "channelId": "922763915463643137",
+        "guildId": "916751469678579784"
+      }
+    },
+    {
+      "id": "922920200733589565",
+      "type": "Default",
+      "timestamp": "2021-12-21T18:35:22.883+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Ok i see, i just see people posting in general",
+      "author": {
+        "id": "899944147811725323",
+        "name": "emirbolen.eth",
+        "discriminator": "6782",
+        "nickname": "emirbolen.eth",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/899944147811725323/f7f9fabb1fba2e52e37fe3330129ef4a.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "923153302932299796",
+      "type": "Default",
+      "timestamp": "2021-12-22T10:01:38.778+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "before getting overwhelmed after friday, how will we get necessary info on leaders properly?",
+      "author": {
+        "id": "899944147811725323",
+        "name": "emirbolen.eth",
+        "discriminator": "6782",
+        "nickname": "emirbolen.eth",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/899944147811725323/f7f9fabb1fba2e52e37fe3330129ef4a.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "923153449716166707",
+      "type": "Reply",
+      "timestamp": "2021-12-22T10:02:13.774+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Meaning to get to this",
+      "author": {
+        "id": "915035187547615243",
+        "name": "kevalin",
+        "discriminator": "4394",
+        "nickname": "kevalin",
+        "color": "#1F8B4C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/915035187547615243/8aec11e684cd1c3ab575358a58fda0bd.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "899944147811725323",
+          "name": "emirbolen.eth",
+          "discriminator": "6782",
+          "nickname": "emirbolen.eth",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "923153302932299796",
+        "channelId": "922763915463643137",
+        "guildId": "916751469678579784"
+      }
+    },
+    {
+      "id": "923153527809925140",
+      "type": "Default",
+      "timestamp": "2021-12-22T10:02:32.393+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "But who should I add to `Core-Investors`?",
+      "author": {
+        "id": "915035187547615243",
+        "name": "kevalin",
+        "discriminator": "4394",
+        "nickname": "kevalin",
+        "color": "#1F8B4C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/915035187547615243/8aec11e684cd1c3ab575358a58fda0bd.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "923154306717351966",
+      "type": "Reply",
+      "timestamp": "2021-12-22T10:05:38.099+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "no rush on that",
+      "author": {
+        "id": "899944147811725323",
+        "name": "emirbolen.eth",
+        "discriminator": "6782",
+        "nickname": "emirbolen.eth",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/899944147811725323/f7f9fabb1fba2e52e37fe3330129ef4a.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "915035187547615243",
+          "name": "kevalin",
+          "discriminator": "4394",
+          "nickname": "kevalin",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "923153527809925140",
+        "channelId": "922763915463643137",
+        "guildId": "916751469678579784"
+      }
+    },
+    {
+      "id": "923154335980986438",
+      "type": "Default",
+      "timestamp": "2021-12-22T10:05:45.076+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "before we need to have a solid setup",
+      "author": {
+        "id": "899944147811725323",
+        "name": "emirbolen.eth",
+        "discriminator": "6782",
+        "nickname": "emirbolen.eth",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/899944147811725323/f7f9fabb1fba2e52e37fe3330129ef4a.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "923154401949024287",
+      "type": "Default",
+      "timestamp": "2021-12-22T10:06:00.804+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "i can deal with it this w-end, i am rather free",
+      "author": {
+        "id": "899944147811725323",
+        "name": "emirbolen.eth",
+        "discriminator": "6782",
+        "nickname": "emirbolen.eth",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/899944147811725323/f7f9fabb1fba2e52e37fe3330129ef4a.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "923154528965120051",
+      "type": "Default",
+      "timestamp": "2021-12-22T10:06:31.087+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "then we can get applications from community, i can chat with them real quick & see their interest and background",
+      "author": {
+        "id": "899944147811725323",
+        "name": "emirbolen.eth",
+        "discriminator": "6782",
+        "nickname": "emirbolen.eth",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/899944147811725323/f7f9fabb1fba2e52e37fe3330129ef4a.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "923154685345554472",
+      "type": "Default",
+      "timestamp": "2021-12-22T10:07:08.371+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "we need to make sure we are getting info on leaders in a proper way, idk maybe some kind of template",
+      "author": {
+        "id": "899944147811725323",
+        "name": "emirbolen.eth",
+        "discriminator": "6782",
+        "nickname": "emirbolen.eth",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/899944147811725323/f7f9fabb1fba2e52e37fe3330129ef4a.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    }
+  ],
+  "messageCount": 27
+}

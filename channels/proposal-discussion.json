@@ -1,0 +1,4055 @@
+{
+  "guild": {
+    "id": "916751469678579784",
+    "name": "Hyperscale",
+    "iconUrl": "https://cdn.discordapp.com/icons/916751469678579784/874219cdd9c60b09fc62afefa1efea43.png"
+  },
+  "channel": {
+    "id": "923608250891517972",
+    "type": "GuildTextChat",
+    "categoryId": "922689148861685780",
+    "category": "archived",
+    "name": "proposal-discussion",
+    "topic": "NOTICE: Archived channel. Please do NOT post!"
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "messages": [
+    {
+      "id": "924024286509928448",
+      "type": "Default",
+      "timestamp": "2021-12-24T19:42:37.445+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://docs.google.com/document/d/1vQ6rY8fgAVXMZw_1v-E3BnPMOtTdn9qyhweJbRiVlgE/edit?usp=sharing",
+      "author": {
+        "id": "915035187547615243",
+        "name": "kevalin",
+        "discriminator": "4394",
+        "nickname": "kevalin",
+        "color": "#1F8B4C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/915035187547615243/8aec11e684cd1c3ab575358a58fda0bd.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Potential Proposals - Governance & Community - Hyperscale",
+          "url": "https://docs.google.com/document/d/1vQ6rY8fgAVXMZw_1v-E3BnPMOtTdn9qyhweJbRiVlgE/edit?usp=sharing",
+          "timestamp": null,
+          "description": "After posting a brainstorming doc on how to improve community & governance here are some potential solutions. These solutions, when further developed, will be proposed on Snapshot.  What is Hyperscale? Hyperscale is an ecosystem fund for the new economy. At our core, there are two parts: the comm...",
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/NuMd8_VPthbhQVpujkOrgVkK5DvfTDugly-z3MYNnW8/https/lh4.googleusercontent.com/PhtgcMWunhI6HT9bevZ7AX_t-BS7FA7NSDulRKM_k0I5GrDSM_JDBAViLWB18OlFdapW73FeqmHG1g%3Dw1200-h630-p",
+            "width": 1200,
+            "height": 630
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "924025848317751347",
+      "type": "Default",
+      "timestamp": "2021-12-24T19:48:49.809+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "After posting a brainstorming doc on how to improve community & governance here are some potential solutions. These solutions, when further developed, will be proposed on Snapshot. https://snapshot.org/#/hyperscaledao.eth\n\nBrainstorming doc: https://discord.com/channels/916751469678579784/917002777304105000/923434858380935228\n\n@here\ncc: @connorg @Qworg @JayIRL @Party Doodle @mhrnik @dtseto @langmei @adelidusiam @rainmaker",
+      "author": {
+        "id": "915035187547615243",
+        "name": "kevalin",
+        "discriminator": "4394",
+        "nickname": "kevalin",
+        "color": "#1F8B4C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/915035187547615243/8aec11e684cd1c3ab575358a58fda0bd.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDC96",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/svg/1f496.svg"
+          },
+          "count": 11
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDC40",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/svg/1f440.svg"
+          },
+          "count": 5
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDC4D",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/svg/1f44d.svg"
+          },
+          "count": 4
+        }
+      ],
+      "mentions": [
+        {
+          "id": "804465443724722208",
+          "name": "rainmaker",
+          "discriminator": "2032",
+          "nickname": "rainmaker",
+          "isBot": false
+        },
+        {
+          "id": "253418842200604673",
+          "name": "Qworg",
+          "discriminator": "3284",
+          "nickname": "Qworg",
+          "isBot": false
+        },
+        {
+          "id": "481156587776507906",
+          "name": "Party Doodle",
+          "discriminator": "2753",
+          "nickname": "Party Doodle",
+          "isBot": false
+        },
+        {
+          "id": "266778624647102465",
+          "name": "connorg",
+          "discriminator": "4386",
+          "nickname": "connor",
+          "isBot": false
+        },
+        {
+          "id": "452465881700630529",
+          "name": "mhrnik",
+          "discriminator": "3998",
+          "nickname": "mhrnik",
+          "isBot": false
+        },
+        {
+          "id": "917519744104546344",
+          "name": "adelidusiam",
+          "discriminator": "5606",
+          "nickname": "adelidusiam",
+          "isBot": false
+        },
+        {
+          "id": "652085657266814986",
+          "name": "JayIRL",
+          "discriminator": "8804",
+          "nickname": "JayIRL",
+          "isBot": false
+        },
+        {
+          "id": "806398171134558218",
+          "name": "dtseto",
+          "discriminator": "1516",
+          "nickname": "David Seto, Esq. davidseto.eth",
+          "isBot": false
+        },
+        {
+          "id": "834922768226451477",
+          "name": "langmei",
+          "discriminator": "0007",
+          "nickname": "lang",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "924025982208335883",
+      "type": "Default",
+      "timestamp": "2021-12-24T19:49:21.731+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Please discuss, propose, & ideate on proposals",
+      "author": {
+        "id": "915035187547615243",
+        "name": "kevalin",
+        "discriminator": "4394",
+        "nickname": "kevalin",
+        "color": "#1F8B4C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/915035187547615243/8aec11e684cd1c3ab575358a58fda0bd.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "924031095224287233",
+      "type": "Default",
+      "timestamp": "2021-12-24T20:09:40.769+00:00",
+      "timestampEdited": "2021-12-24T20:10:00.376+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "***Potential proposals***\nPlease elaborate on these proposal ideas and add new ones. I'll try to sync both discussions happening here and in the doc. This channel will be the center of communication so default to posting here.\n\n**(1) Replace tired roles with pods focused on a goal\n**- Tiered roles gate people out of the DAO. The role assignment is also fairly arbitrary.\n- Pods focused on a goal that would be meritocratic. The DAO votes on goals and pods of the most qualified people accomplish these goals.\n- Core and sub-core teams will be dissolved into pods centered around an objective. An example would be building Hyperscale’s investing infrastructure.\n- Pod members can be voted out. Also, it’s worth considering implementing the Miracle reputation protocol here.\n\n**(2) Transparent treasury breakdown\n**\n**(3) Each pod posts weekly updates. These updates follow a template where they report the past week’s work and the following week’s work.\n**\n**(4) Pods have a budget breakdown and operate like sub-DAOs.\n**\n**(5) Document how decisions were made. Also address community feedback.\n**\n**(6) Distribute governance token and ownership to the community (potential airdrop)\n**\n**(7) Pod suggestions (please discuss)**",
+      "author": {
+        "id": "915035187547615243",
+        "name": "kevalin",
+        "discriminator": "4394",
+        "nickname": "kevalin",
+        "color": "#1F8B4C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/915035187547615243/8aec11e684cd1c3ab575358a58fda0bd.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "924031707907248240",
+      "type": "Default",
+      "timestamp": "2021-12-24T20:12:06.844+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I'm going to write a blog post outlining everything and changes going forward",
+      "author": {
+        "id": "915035187547615243",
+        "name": "kevalin",
+        "discriminator": "4394",
+        "nickname": "kevalin",
+        "color": "#1F8B4C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/915035187547615243/8aec11e684cd1c3ab575358a58fda0bd.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "924031734276821043",
+      "type": "Default",
+      "timestamp": "2021-12-24T20:12:13.131+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Will do so in ~6 hours",
+      "author": {
+        "id": "915035187547615243",
+        "name": "kevalin",
+        "discriminator": "4394",
+        "nickname": "kevalin",
+        "color": "#1F8B4C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/915035187547615243/8aec11e684cd1c3ab575358a58fda0bd.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "924031800169341009",
+      "type": "Default",
+      "timestamp": "2021-12-24T20:12:28.841+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Any feedback is greatly appreciated",
+      "author": {
+        "id": "915035187547615243",
+        "name": "kevalin",
+        "discriminator": "4394",
+        "nickname": "kevalin",
+        "color": "#1F8B4C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/915035187547615243/8aec11e684cd1c3ab575358a58fda0bd.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "924031859942363139",
+      "type": "Default",
+      "timestamp": "2021-12-24T20:12:43.092+00:00",
+      "timestampEdited": "2021-12-24T20:20:16.021+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Will also be talking with everyone and getting community feedback. Check your DMs.",
+      "author": {
+        "id": "915035187547615243",
+        "name": "kevalin",
+        "discriminator": "4394",
+        "nickname": "kevalin",
+        "color": "#1F8B4C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/915035187547615243/8aec11e684cd1c3ab575358a58fda0bd.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "924053188401856592",
+      "type": "Default",
+      "timestamp": "2021-12-24T21:37:28.193+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Pods Discussion (a thread)",
+      "author": {
+        "id": "253418842200604673",
+        "name": "Qworg",
+        "discriminator": "3284",
+        "nickname": "Qworg",
+        "color": "#1ABC9C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/253418842200604673/4aca02d325346f367844d2127c17852e.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "924056608718356540",
+      "type": "Default",
+      "timestamp": "2021-12-24T21:51:03.66+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I'll add @kevalin that you may get less uptake on this as it is Christmas Eve.",
+      "author": {
+        "id": "253418842200604673",
+        "name": "Qworg",
+        "discriminator": "3284",
+        "nickname": "Qworg",
+        "color": "#1ABC9C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/253418842200604673/4aca02d325346f367844d2127c17852e.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "915035187547615243",
+          "name": "kevalin",
+          "discriminator": "4394",
+          "nickname": "kevalin",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "924100820906147850",
+      "type": "Default",
+      "timestamp": "2021-12-25T00:46:44.667+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://www.youtube.com/watch?v=7OBx-YwPl8g",
+      "author": {
+        "id": "539639935737528339",
+        "name": "Deleted",
+        "discriminator": "7465",
+        "nickname": "Deleted",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Вы кто такие? Я вас не звал",
+          "url": "https://www.youtube.com/watch?v=7OBx-YwPl8g",
+          "timestamp": null,
+          "description": "",
+          "color": "#FF0000",
+          "author": {
+            "name": "Magista",
+            "url": "https://www.youtube.com/channel/UCM0duKEijTj5IHzfJ4ruXdQ"
+          },
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/aUkeMmJ6glsLvDjA9nqBIAM2mltNg7j_FrUfilsJPLc/https/i.ytimg.com/vi/7OBx-YwPl8g/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "924100868985458768",
+      "type": "Default",
+      "timestamp": "2021-12-25T00:46:56.13+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "ла попро",
+      "author": {
+        "id": "539639935737528339",
+        "name": "Deleted",
+        "discriminator": "7465",
+        "nickname": "Deleted",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "924100881996214293",
+      "type": "Default",
+      "timestamp": "2021-12-25T00:46:59.232+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "беи",
+      "author": {
+        "id": "539639935737528339",
+        "name": "Deleted",
+        "discriminator": "7465",
+        "nickname": "Deleted",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "924188744628699148",
+      "type": "Default",
+      "timestamp": "2021-12-25T06:36:07.316+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "why do we need race ?",
+      "author": {
+        "id": "864406808436277248",
+        "name": "rx",
+        "discriminator": "5834",
+        "nickname": "rx",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/864406808436277248/f45b034d81a9f2db7be18ffded9f9bda.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "924339699319996516",
+      "type": "Default",
+      "timestamp": "2021-12-25T16:35:57.719+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Happy Holidays \uD83C\uDF84\n\nAs to the token distribution…rewarding voting for a DAO that wins a Race makes sense on one hand but also seems ripe for group think and other concerns more specific to DAOs.\n\nThe current model does tend to make sure voters are reading applications and voting for the most promising DAO in good faith.   However, just because a DAO ultimately wins a Race doesn’t necessarily mean that was in fact the “best” DAO - just the winner - so potentially the target becomes a strategic game of voting for the DAO most likely to win or just following the most influential voters.\n\nThe reward mechanism should be careful not to overly reward traditional VCs to the exclusion a diverse group of people outside traditional investing.  The rationale here is that DAOs are proving to be outside the scope of traditional VC investments.  Example, some of the most successful/highest profile DAOs to date like ConstitutionDAO, MountainDAO, BlimpDAO are investments in social  movements more so than a typical investment.  I hope the social movement aspect and diversity of thought doesn’t get lost.\n\nI previously suggested maybe giving everyone who votes a token, but I see where that can result in just as low effort and places to much value on rewarding the HS DAO network to the exclusion of a quality investment.\n\nI hope I’m not beating a dead horse, but I hope to see more brainstorming and discussion on potential alternative $HYPE incentive/reward mechanisms that strike a balance between diversity of thought, participation, and outcome.  Even if not right for HS, a discussion may be helpful for HS applicants developing their own token rewards/incentives.",
+      "author": {
+        "id": "814923153666605097",
+        "name": "GeoCities",
+        "discriminator": "5700",
+        "nickname": "GeoCities",
+        "color": "#E74C3C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/814923153666605097/df3e6e3545bdee777bedc66cab891d24.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDC4D",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/svg/1f44d.svg"
+          },
+          "count": 2
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "924408061769187349",
+      "type": "Reply",
+      "timestamp": "2021-12-25T21:07:36.597+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Exactly. Going to pivot the DAO Race with high certainty.",
+      "author": {
+        "id": "915035187547615243",
+        "name": "kevalin",
+        "discriminator": "4394",
+        "nickname": "kevalin",
+        "color": "#1F8B4C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/915035187547615243/8aec11e684cd1c3ab575358a58fda0bd.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "814923153666605097",
+          "name": "GeoCities",
+          "discriminator": "5700",
+          "nickname": "GeoCities",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "924339699319996516",
+        "channelId": "923608250891517972",
+        "guildId": "916751469678579784"
+      }
+    },
+    {
+      "id": "924408630802018315",
+      "type": "Default",
+      "timestamp": "2021-12-25T21:09:52.265+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "The main question is **how can Hyperscale make good investments as a fund?**",
+      "author": {
+        "id": "915035187547615243",
+        "name": "kevalin",
+        "discriminator": "4394",
+        "nickname": "kevalin",
+        "color": "#1F8B4C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/915035187547615243/8aec11e684cd1c3ab575358a58fda0bd.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "924408657628762133",
+      "type": "Default",
+      "timestamp": "2021-12-25T21:09:58.661+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "How does one know who to delegate to?",
+      "author": {
+        "id": "915035187547615243",
+        "name": "kevalin",
+        "discriminator": "4394",
+        "nickname": "kevalin",
+        "color": "#1F8B4C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/915035187547615243/8aec11e684cd1c3ab575358a58fda0bd.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "924408671939739668",
+      "type": "Default",
+      "timestamp": "2021-12-25T21:10:02.073+00:00",
+      "timestampEdited": "2021-12-25T21:34:05.881+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "What makes a good investor?",
+      "author": {
+        "id": "915035187547615243",
+        "name": "kevalin",
+        "discriminator": "4394",
+        "nickname": "kevalin",
+        "color": "#1F8B4C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/915035187547615243/8aec11e684cd1c3ab575358a58fda0bd.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "924414406224404480",
+      "type": "Default",
+      "timestamp": "2021-12-25T21:32:49.233+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@GeoCities Excited to discuss - still working on a broader proposal!",
+      "author": {
+        "id": "253418842200604673",
+        "name": "Qworg",
+        "discriminator": "3284",
+        "nickname": "Qworg",
+        "color": "#1ABC9C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/253418842200604673/4aca02d325346f367844d2127c17852e.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "814923153666605097",
+          "name": "GeoCities",
+          "discriminator": "5700",
+          "nickname": "GeoCities",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "924417311815921745",
+      "type": "Reply",
+      "timestamp": "2021-12-25T21:44:21.98+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Historically it may have been as easy as saying the best investors/best investments are determined by ROI.  (Maximizing shareholder value)\n\nWeb3 might change the paradigm and good HS investments might come down to DAOs with tokenomics that best reward their users/token holders. (Maximizing user value)",
+      "author": {
+        "id": "814923153666605097",
+        "name": "GeoCities",
+        "discriminator": "5700",
+        "nickname": "GeoCities",
+        "color": "#E74C3C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/814923153666605097/df3e6e3545bdee777bedc66cab891d24.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "915035187547615243",
+          "name": "kevalin",
+          "discriminator": "4394",
+          "nickname": "kevalin",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "924408630802018315",
+        "channelId": "923608250891517972",
+        "guildId": "916751469678579784"
+      }
+    },
+    {
+      "id": "924417962499264542",
+      "type": "Reply",
+      "timestamp": "2021-12-25T21:46:57.115+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I think the initial concern about first attracting good investment opportunists is still valid",
+      "author": {
+        "id": "531561241219694592",
+        "name": "hawtlava",
+        "discriminator": "2461",
+        "nickname": "Ryu",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/531561241219694592/e93e2b42b8236ac750bae3fe24b0772b.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "915035187547615243",
+          "name": "kevalin",
+          "discriminator": "4394",
+          "nickname": "kevalin",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "924408630802018315",
+        "channelId": "923608250891517972",
+        "guildId": "916751469678579784"
+      }
+    },
+    {
+      "id": "924418307833073714",
+      "type": "Reply",
+      "timestamp": "2021-12-25T21:48:19.449+00:00",
+      "timestampEdited": "2021-12-25T21:50:52.664+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "And then how to delegate / determine a good investor: if the intent is to be community driven then it may need to start with the “wisdom of the crowd” and then over time, whittle down the pool to “good” investors based on track record",
+      "author": {
+        "id": "531561241219694592",
+        "name": "hawtlava",
+        "discriminator": "2461",
+        "nickname": "Ryu",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/531561241219694592/e93e2b42b8236ac750bae3fe24b0772b.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "915035187547615243",
+          "name": "kevalin",
+          "discriminator": "4394",
+          "nickname": "kevalin",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "924408657628762133",
+        "channelId": "923608250891517972",
+        "guildId": "916751469678579784"
+      }
+    },
+    {
+      "id": "924418806225453086",
+      "type": "Default",
+      "timestamp": "2021-12-25T21:50:18.275+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Or…start with a pool of known, good investors, and invite everyone else to run a paper portfolio alongside them and promote good paper investors to the investor pool",
+      "author": {
+        "id": "531561241219694592",
+        "name": "hawtlava",
+        "discriminator": "2461",
+        "nickname": "Ryu",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/531561241219694592/e93e2b42b8236ac750bae3fe24b0772b.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "924420375167791184",
+      "type": "Default",
+      "timestamp": "2021-12-25T21:56:32.34+00:00",
+      "timestampEdited": "2021-12-25T21:57:44.704+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "As someone who’s spent a lot of time in the traditional investment industry on both buy and sell sides, I would say a good investor is someone who has consistently produced a “good” risk adjusted return for their shareholders/token holders/etc. within the parameters of some predetermined mandate",
+      "author": {
+        "id": "531561241219694592",
+        "name": "hawtlava",
+        "discriminator": "2461",
+        "nickname": "Ryu",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/531561241219694592/e93e2b42b8236ac750bae3fe24b0772b.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "924425760444411915",
+      "type": "Reply",
+      "timestamp": "2021-12-25T22:17:56.29+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "IMO a good investor is someone that has a good map of reality",
+      "author": {
+        "id": "917519744104546344",
+        "name": "adelidusiam",
+        "discriminator": "5606",
+        "nickname": "adelidusiam",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/917519744104546344/9031d19ca8af7fbfa99940284b4fa448.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "915035187547615243",
+          "name": "kevalin",
+          "discriminator": "4394",
+          "nickname": "kevalin",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "924408671939739668",
+        "channelId": "923608250891517972",
+        "guildId": "916751469678579784"
+      }
+    },
+    {
+      "id": "924425834943631360",
+      "type": "Default",
+      "timestamp": "2021-12-25T22:18:14.052+00:00",
+      "timestampEdited": "2021-12-25T22:24:49.057+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "They can identify things like possible future network effects and judge a project’s potential of capturing it.",
+      "author": {
+        "id": "917519744104546344",
+        "name": "adelidusiam",
+        "discriminator": "5606",
+        "nickname": "adelidusiam",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/917519744104546344/9031d19ca8af7fbfa99940284b4fa448.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "924426049163517984",
+      "type": "Default",
+      "timestamp": "2021-12-25T22:19:05.126+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "But that's tough to assess! Maybe have a Hyperscale Investment Guide that gives community members specific guidelines and values to follow, metrics to look for, etc.",
+      "author": {
+        "id": "917519744104546344",
+        "name": "adelidusiam",
+        "discriminator": "5606",
+        "nickname": "adelidusiam",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/917519744104546344/9031d19ca8af7fbfa99940284b4fa448.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "924426489091465226",
+      "type": "Default",
+      "timestamp": "2021-12-25T22:20:50.013+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Or we could have people go through a test to assess their judgement? Like generate random fictional projects, have a few easter eggs and see how people judge them? Sort of like those verbal reasoning tests.",
+      "author": {
+        "id": "917519744104546344",
+        "name": "adelidusiam",
+        "discriminator": "5606",
+        "nickname": "adelidusiam",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/917519744104546344/9031d19ca8af7fbfa99940284b4fa448.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "924431905615675462",
+      "type": "Default",
+      "timestamp": "2021-12-25T22:42:21.413+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Or start by giving the votes of people with proven investing experience more weight than those with no experience. Then have all non-investors go through assessments to prove their judgement skill and improve the weight of their vote?",
+      "author": {
+        "id": "917519744104546344",
+        "name": "adelidusiam",
+        "discriminator": "5606",
+        "nickname": "adelidusiam",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/917519744104546344/9031d19ca8af7fbfa99940284b4fa448.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "924445337098268722",
+      "type": "Default",
+      "timestamp": "2021-12-25T23:35:43.728+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "it's tough to measure proven investing experience",
+      "author": {
+        "id": "851174988199231491",
+        "name": "joshpizzaro",
+        "discriminator": "4496",
+        "nickname": "joshpizzaro",
+        "color": "#E67E22",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/851174988199231491/2a8fc4862f59584f06bc9e7859ba73b0.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "924445423777775726",
+      "type": "Default",
+      "timestamp": "2021-12-25T23:36:04.394+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "sometimes one good deal can make or break",
+      "author": {
+        "id": "851174988199231491",
+        "name": "joshpizzaro",
+        "discriminator": "4496",
+        "nickname": "joshpizzaro",
+        "color": "#E67E22",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/851174988199231491/2a8fc4862f59584f06bc9e7859ba73b0.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "924445486855884853",
+      "type": "Default",
+      "timestamp": "2021-12-25T23:36:19.433+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "one way could be a willingness to commit funds",
+      "author": {
+        "id": "851174988199231491",
+        "name": "joshpizzaro",
+        "discriminator": "4496",
+        "nickname": "joshpizzaro",
+        "color": "#E67E22",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/851174988199231491/2a8fc4862f59584f06bc9e7859ba73b0.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "924445553734058042",
+      "type": "Default",
+      "timestamp": "2021-12-25T23:36:35.378+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "if X% of people are willing to invest $X in a project",
+      "author": {
+        "id": "851174988199231491",
+        "name": "joshpizzaro",
+        "discriminator": "4496",
+        "nickname": "joshpizzaro",
+        "color": "#E67E22",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/851174988199231491/2a8fc4862f59584f06bc9e7859ba73b0.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "924445633388089354",
+      "type": "Default",
+      "timestamp": "2021-12-25T23:36:54.369+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "that shows a commitment to an idea",
+      "author": {
+        "id": "851174988199231491",
+        "name": "joshpizzaro",
+        "discriminator": "4496",
+        "nickname": "joshpizzaro",
+        "color": "#E67E22",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/851174988199231491/2a8fc4862f59584f06bc9e7859ba73b0.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "924446798377013258",
+      "type": "Default",
+      "timestamp": "2021-12-25T23:41:32.124+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "we could set parameters around the types of projects we are investing in",
+      "author": {
+        "id": "851174988199231491",
+        "name": "joshpizzaro",
+        "discriminator": "4496",
+        "nickname": "joshpizzaro",
+        "color": "#E67E22",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/851174988199231491/2a8fc4862f59584f06bc9e7859ba73b0.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "924446955692761219",
+      "type": "Default",
+      "timestamp": "2021-12-25T23:42:09.631+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Risk tolerance - \"Pre-seed\", \"seed\", \"series a\"",
+      "author": {
+        "id": "851174988199231491",
+        "name": "joshpizzaro",
+        "discriminator": "4496",
+        "nickname": "joshpizzaro",
+        "color": "#E67E22",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/851174988199231491/2a8fc4862f59584f06bc9e7859ba73b0.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "924447023502073916",
+      "type": "Default",
+      "timestamp": "2021-12-25T23:42:25.798+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I know these are terms that will go away in the crypto world",
+      "author": {
+        "id": "851174988199231491",
+        "name": "joshpizzaro",
+        "discriminator": "4496",
+        "nickname": "joshpizzaro",
+        "color": "#E67E22",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/851174988199231491/2a8fc4862f59584f06bc9e7859ba73b0.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "924447405699649556",
+      "type": "Default",
+      "timestamp": "2021-12-25T23:43:56.921+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "but still need to understand the willingness to invest in things with some degree of traction v. something truly angel",
+      "author": {
+        "id": "851174988199231491",
+        "name": "joshpizzaro",
+        "discriminator": "4496",
+        "nickname": "joshpizzaro",
+        "color": "#E67E22",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/851174988199231491/2a8fc4862f59584f06bc9e7859ba73b0.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "924456780992487424",
+      "type": "Reply",
+      "timestamp": "2021-12-26T00:21:12.165+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I’d argue “proven” investment experience is very easy to measure.  But identifying “unproven” investors is hard",
+      "author": {
+        "id": "531561241219694592",
+        "name": "hawtlava",
+        "discriminator": "2461",
+        "nickname": "Ryu",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/531561241219694592/e93e2b42b8236ac750bae3fe24b0772b.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "851174988199231491",
+          "name": "joshpizzaro",
+          "discriminator": "4496",
+          "nickname": "joshpizzaro",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "924445337098268722",
+        "channelId": "923608250891517972",
+        "guildId": "916751469678579784"
+      }
+    },
+    {
+      "id": "924459335562723439",
+      "type": "Default",
+      "timestamp": "2021-12-26T00:31:21.222+00:00",
+      "timestampEdited": "2021-12-26T00:31:56.688+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "how would you measure?",
+      "author": {
+        "id": "851174988199231491",
+        "name": "joshpizzaro",
+        "discriminator": "4496",
+        "nickname": "joshpizzaro",
+        "color": "#E67E22",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/851174988199231491/2a8fc4862f59584f06bc9e7859ba73b0.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "924459399416774726",
+      "type": "Default",
+      "timestamp": "2021-12-26T00:31:36.446+00:00",
+      "timestampEdited": "2021-12-26T00:32:28.099+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I think there are a lot of variables that are difficult: timing, access, funding, etc",
+      "author": {
+        "id": "851174988199231491",
+        "name": "joshpizzaro",
+        "discriminator": "4496",
+        "nickname": "joshpizzaro",
+        "color": "#E67E22",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/851174988199231491/2a8fc4862f59584f06bc9e7859ba73b0.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "924460052071452753",
+      "type": "Default",
+      "timestamp": "2021-12-26T00:34:12.051+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "We’re talking about how to identify if someone in the community has proven investment experience, right?",
+      "author": {
+        "id": "531561241219694592",
+        "name": "hawtlava",
+        "discriminator": "2461",
+        "nickname": "Ryu",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/531561241219694592/e93e2b42b8236ac750bae3fe24b0772b.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "924460077333753878",
+      "type": "Default",
+      "timestamp": "2021-12-26T00:34:18.074+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "over time I understand, but in the beginning - I think it could be tough",
+      "author": {
+        "id": "851174988199231491",
+        "name": "joshpizzaro",
+        "discriminator": "4496",
+        "nickname": "joshpizzaro",
+        "color": "#E67E22",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/851174988199231491/2a8fc4862f59584f06bc9e7859ba73b0.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "924460110728794183",
+      "type": "Default",
+      "timestamp": "2021-12-26T00:34:26.036+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "If so, track record is everything",
+      "author": {
+        "id": "531561241219694592",
+        "name": "hawtlava",
+        "discriminator": "2461",
+        "nickname": "Ryu",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/531561241219694592/e93e2b42b8236ac750bae3fe24b0772b.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "924460154861260831",
+      "type": "Reply",
+      "timestamp": "2021-12-26T00:34:36.558+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Exactly, agree 100%",
+      "author": {
+        "id": "531561241219694592",
+        "name": "hawtlava",
+        "discriminator": "2461",
+        "nickname": "Ryu",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/531561241219694592/e93e2b42b8236ac750bae3fe24b0772b.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "851174988199231491",
+          "name": "joshpizzaro",
+          "discriminator": "4496",
+          "nickname": "joshpizzaro",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "924460077333753878",
+        "channelId": "923608250891517972",
+        "guildId": "916751469678579784"
+      }
+    },
+    {
+      "id": "924460216232316958",
+      "type": "Default",
+      "timestamp": "2021-12-26T00:34:51.19+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "pre-chain is hard to verify",
+      "author": {
+        "id": "851174988199231491",
+        "name": "joshpizzaro",
+        "discriminator": "4496",
+        "nickname": "joshpizzaro",
+        "color": "#E67E22",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/851174988199231491/2a8fc4862f59584f06bc9e7859ba73b0.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "924460787685294120",
+      "type": "Default",
+      "timestamp": "2021-12-26T00:37:07.435+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Imho I’d lean towards work experience",
+      "author": {
+        "id": "531561241219694592",
+        "name": "hawtlava",
+        "discriminator": "2461",
+        "nickname": "Ryu",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/531561241219694592/e93e2b42b8236ac750bae3fe24b0772b.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "924461626101473281",
+      "type": "Default",
+      "timestamp": "2021-12-26T00:40:27.329+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "strategy will be an interesting discussion as well",
+      "author": {
+        "id": "851174988199231491",
+        "name": "joshpizzaro",
+        "discriminator": "4496",
+        "nickname": "joshpizzaro",
+        "color": "#E67E22",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/851174988199231491/2a8fc4862f59584f06bc9e7859ba73b0.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "924461680207999037",
+      "type": "Default",
+      "timestamp": "2021-12-26T00:40:40.229+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Ie. If you’ve been vetted by some IB/PE/VC firm you’re probably ok",
+      "author": {
+        "id": "531561241219694592",
+        "name": "hawtlava",
+        "discriminator": "2461",
+        "nickname": "Ryu",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/531561241219694592/e93e2b42b8236ac750bae3fe24b0772b.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDC4D",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/svg/1f44d.svg"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "924461753419591730",
+      "type": "Default",
+      "timestamp": "2021-12-26T00:40:57.684+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "As far as proven investment experiences goes I mean",
+      "author": {
+        "id": "531561241219694592",
+        "name": "hawtlava",
+        "discriminator": "2461",
+        "nickname": "Ryu",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/531561241219694592/e93e2b42b8236ac750bae3fe24b0772b.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "924462140998422548",
+      "type": "Default",
+      "timestamp": "2021-12-26T00:42:30.09+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I think the challenge is more how to open it up to be more inclusive to people who don’t have that background but would like to participate",
+      "author": {
+        "id": "531561241219694592",
+        "name": "hawtlava",
+        "discriminator": "2461",
+        "nickname": "Ryu",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/531561241219694592/e93e2b42b8236ac750bae3fe24b0772b.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "924462229380821013",
+      "type": "Default",
+      "timestamp": "2021-12-26T00:42:51.162+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Ideally, something well defined, objective and entirely merit based",
+      "author": {
+        "id": "531561241219694592",
+        "name": "hawtlava",
+        "discriminator": "2461",
+        "nickname": "Ryu",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/531561241219694592/e93e2b42b8236ac750bae3fe24b0772b.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "924462359324557362",
+      "type": "Default",
+      "timestamp": "2021-12-26T00:43:22.143+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Yea, perhaps there are ways to create a competitive, merit-oriented approach",
+      "author": {
+        "id": "851174988199231491",
+        "name": "joshpizzaro",
+        "discriminator": "4496",
+        "nickname": "joshpizzaro",
+        "color": "#E67E22",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/851174988199231491/2a8fc4862f59584f06bc9e7859ba73b0.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "924462375246127105",
+      "type": "Default",
+      "timestamp": "2021-12-26T00:43:25.939+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "So any new member understands right at onboarding how they can join the pool, what weight their vote might have, etc.",
+      "author": {
+        "id": "531561241219694592",
+        "name": "hawtlava",
+        "discriminator": "2461",
+        "nickname": "Ryu",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/531561241219694592/e93e2b42b8236ac750bae3fe24b0772b.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDC4D",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/svg/1f44d.svg"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "924462390907637810",
+      "type": "Default",
+      "timestamp": "2021-12-26T00:43:29.673+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "but some of these types of investments can take years to play out",
+      "author": {
+        "id": "851174988199231491",
+        "name": "joshpizzaro",
+        "discriminator": "4496",
+        "nickname": "joshpizzaro",
+        "color": "#E67E22",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/851174988199231491/2a8fc4862f59584f06bc9e7859ba73b0.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "924463100198006786",
+      "type": "Default",
+      "timestamp": "2021-12-26T00:46:18.781+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Yes, that’s the challenge.  There probably needs to be some interim (quantifiable) measurement of success",
+      "author": {
+        "id": "531561241219694592",
+        "name": "hawtlava",
+        "discriminator": "2461",
+        "nickname": "Ryu",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/531561241219694592/e93e2b42b8236ac750bae3fe24b0772b.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "924464282186432552",
+      "type": "Default",
+      "timestamp": "2021-12-26T00:51:00.589+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Ryu, you are in the eastern time zone? NYC by chance?",
+      "author": {
+        "id": "851174988199231491",
+        "name": "joshpizzaro",
+        "discriminator": "4496",
+        "nickname": "joshpizzaro",
+        "color": "#E67E22",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/851174988199231491/2a8fc4862f59584f06bc9e7859ba73b0.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "924464611489636384",
+      "type": "Default",
+      "timestamp": "2021-12-26T00:52:19.101+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "EST yes",
+      "author": {
+        "id": "531561241219694592",
+        "name": "hawtlava",
+        "discriminator": "2461",
+        "nickname": "Ryu",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/531561241219694592/e93e2b42b8236ac750bae3fe24b0772b.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "924464703193890816",
+      "type": "Default",
+      "timestamp": "2021-12-26T00:52:40.965+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Toronto, Canada \uD83D\uDE43",
+      "author": {
+        "id": "531561241219694592",
+        "name": "hawtlava",
+        "discriminator": "2461",
+        "nickname": "Ryu",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/531561241219694592/e93e2b42b8236ac750bae3fe24b0772b.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "924465705045344256",
+      "type": "Default",
+      "timestamp": "2021-12-26T00:56:39.825+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Ha",
+      "author": {
+        "id": "851174988199231491",
+        "name": "joshpizzaro",
+        "discriminator": "4496",
+        "nickname": "joshpizzaro",
+        "color": "#E67E22",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/851174988199231491/2a8fc4862f59584f06bc9e7859ba73b0.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "924465803292721163",
+      "type": "Default",
+      "timestamp": "2021-12-26T00:57:03.249+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "can do a virtual meet-up at some point",
+      "author": {
+        "id": "851174988199231491",
+        "name": "joshpizzaro",
+        "discriminator": "4496",
+        "nickname": "joshpizzaro",
+        "color": "#E67E22",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/851174988199231491/2a8fc4862f59584f06bc9e7859ba73b0.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDC4D\uD83C\uDFFB",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/svg/1f44d-1f3fb.svg"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "924465841083400202",
+      "type": "Default",
+      "timestamp": "2021-12-26T00:57:12.259+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I don't even know if we can get in canada yet!",
+      "author": {
+        "id": "851174988199231491",
+        "name": "joshpizzaro",
+        "discriminator": "4496",
+        "nickname": "joshpizzaro",
+        "color": "#E67E22",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/851174988199231491/2a8fc4862f59584f06bc9e7859ba73b0.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "924470938798526464",
+      "type": "Default",
+      "timestamp": "2021-12-26T01:17:27.649+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Sure we could chat after the holidays",
+      "author": {
+        "id": "531561241219694592",
+        "name": "hawtlava",
+        "discriminator": "2461",
+        "nickname": "Ryu",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/531561241219694592/e93e2b42b8236ac750bae3fe24b0772b.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "924535787419205712",
+      "type": "Default",
+      "timestamp": "2021-12-26T05:35:08.765+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@hawtlava I'm warming more to the paper portfolio idea - especially as it provides \"proof of work\" to stomp on sybils. And, yes, identifying good investors postfact is very straightforward.\n\nThe biggest question is the one you highlighted - what is the intermediate measure?  The leading indicator?",
+      "author": {
+        "id": "253418842200604673",
+        "name": "Qworg",
+        "discriminator": "3284",
+        "nickname": "Qworg",
+        "color": "#1ABC9C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/253418842200604673/4aca02d325346f367844d2127c17852e.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDC4D\uD83C\uDFFB",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/svg/1f44d-1f3fb.svg"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": [
+        {
+          "id": "531561241219694592",
+          "name": "hawtlava",
+          "discriminator": "2461",
+          "nickname": "Ryu",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "924679674309779516",
+      "type": "Reply",
+      "timestamp": "2021-12-26T15:06:54.073+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Love the idea of pods here. Seems to account for autonomy, agility, and ease of contributing",
+      "author": {
+        "id": "530673798433734656",
+        "name": "davidh.eth",
+        "discriminator": "5637",
+        "nickname": "davidh.eth",
+        "color": "#1ABC9C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/530673798433734656/6e69cd0bbdd3b2a4f350c48d4bde8d3c.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDC4D",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/svg/1f44d.svg"
+          },
+          "count": 3
+        }
+      ],
+      "mentions": [
+        {
+          "id": "915035187547615243",
+          "name": "kevalin",
+          "discriminator": "4394",
+          "nickname": "kevalin",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "924031095224287233",
+        "channelId": "923608250891517972",
+        "guildId": "916751469678579784"
+      }
+    },
+    {
+      "id": "924853327643177020",
+      "type": "Default",
+      "timestamp": "2021-12-27T02:36:56.254+00:00",
+      "timestampEdited": "2021-12-27T02:38:17.462+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Hmmm, the challenge with a vote for capital allocation is that it’s so low effort to contribute that it’s open to a lot of abuse.\n\nWe need a quick way to filter out a large number of weak applications. Whether it’s not enough info or whatever reason. We should focus more energy on differentiating the strongest few applications.\n\nMaybe we then have a good old fashioned argument on a voice call, about the best 3 or 4? Someone can chair it, people can raise their hand to speak and then decide at the end of the call, either a panel, a jury or a more open vote. But this would eliminate most of the cheating. We could just throw out suspicious applications and move down the list.\n\nA little pragmatism is needed in the beginning. We should have some proper oversight here to minimise the risk of fraud. It would be a disaster if the first few approvals included anything suspicious",
+      "author": {
+        "id": "722076034765160498",
+        "name": "Inklin",
+        "discriminator": "7437",
+        "nickname": "Inklin",
+        "color": "#E74C3C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/722076034765160498/f656111f3f0936f9626e7ed60948021a.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDC4D",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/svg/1f44d.svg"
+          },
+          "count": 2
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "924866941229871145",
+      "type": "Default",
+      "timestamp": "2021-12-27T03:31:01.986+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "We didn’t have to wait long, word is someone already tried to bot vote the current application cycle \uD83D\uDE43",
+      "author": {
+        "id": "531561241219694592",
+        "name": "hawtlava",
+        "discriminator": "2461",
+        "nickname": "Ryu",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/531561241219694592/e93e2b42b8236ac750bae3fe24b0772b.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDC40",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/svg/1f440.svg"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDE0E",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/svg/1f60e.svg"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "924896487043924031",
+      "type": "Reply",
+      "timestamp": "2021-12-27T05:28:26.257+00:00",
+      "timestampEdited": "2021-12-27T05:31:46.017+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Part of that work is identifying a thesis — the judgment is not only selection, but the reasoning. If only to distinguish between random selection vs a good process of thinking. The book ‘The Success Equation’ addresses this assessment in investing: https://fs.blog/untangling-skill-and-luck/",
+      "author": {
+        "id": "826998705197809694",
+        "name": "cloudsport",
+        "discriminator": "6558",
+        "nickname": "cloudsport",
+        "color": "#1ABC9C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/826998705197809694/298e65f4b0247b1aa0c92502b6e77a30.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Untangling Skill and Luck in Business, Sports, and Investing",
+          "url": "https://fs.blog/untangling-skill-and-luck/",
+          "timestamp": null,
+          "description": "Michael Mauboussin explores the difference between skill and luck, the interactions between the two, and why we have a difficult time understanding luck.",
+          "author": {
+            "name": "Farnam Street",
+            "url": "https://fs.blog/author/shane-parrish/"
+          },
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/KkzsrWE2ipZ-g8moxftFPU07wIIP6zauI3w4S7XamUg/https/149664534.v2.pressablecdn.com/wp-content/uploads/2012/12/IMG_0031.jpg",
+            "width": 640,
+            "height": 427
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "892130482911842414",
+            "name": "100_rainbow",
+            "isAnimated": true,
+            "imageUrl": "https://cdn.discordapp.com/emojis/892130482911842414.gif"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": [
+        {
+          "id": "253418842200604673",
+          "name": "Qworg",
+          "discriminator": "3284",
+          "nickname": "Qworg",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "924535787419205712",
+        "channelId": "923608250891517972",
+        "guildId": "916751469678579784"
+      }
+    },
+    {
+      "id": "925022250904748112",
+      "type": "Default",
+      "timestamp": "2021-12-27T13:48:10.698+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I've been doing early stage investing for awhile.  What most of the good early stage investors look for - proof of early traction. Quick increase in revenue (e.g. MoM rev increasing rapidly)",
+      "author": {
+        "id": "851174988199231491",
+        "name": "joshpizzaro",
+        "discriminator": "4496",
+        "nickname": "joshpizzaro",
+        "color": "#E67E22",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/851174988199231491/2a8fc4862f59584f06bc9e7859ba73b0.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "925022285763592243",
+      "type": "Default",
+      "timestamp": "2021-12-27T13:48:19.009+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "This shows you have some degree of product market fit",
+      "author": {
+        "id": "851174988199231491",
+        "name": "joshpizzaro",
+        "discriminator": "4496",
+        "nickname": "joshpizzaro",
+        "color": "#E67E22",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/851174988199231491/2a8fc4862f59584f06bc9e7859ba73b0.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "925022331275980901",
+      "type": "Default",
+      "timestamp": "2021-12-27T13:48:29.86+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "and heavily de-risks investors",
+      "author": {
+        "id": "851174988199231491",
+        "name": "joshpizzaro",
+        "discriminator": "4496",
+        "nickname": "joshpizzaro",
+        "color": "#E67E22",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/851174988199231491/2a8fc4862f59584f06bc9e7859ba73b0.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "925022451602194494",
+      "type": "Default",
+      "timestamp": "2021-12-27T13:48:58.548+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "if you can't show SOME kind of traction, most VC/angel/early stage investors say \"come back later\" when you have more to show",
+      "author": {
+        "id": "851174988199231491",
+        "name": "joshpizzaro",
+        "discriminator": "4496",
+        "nickname": "joshpizzaro",
+        "color": "#E67E22",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/851174988199231491/2a8fc4862f59584f06bc9e7859ba73b0.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "925022803068088320",
+      "type": "Default",
+      "timestamp": "2021-12-27T13:50:22.344+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "we could set some parameters for early growth that need to be met",
+      "author": {
+        "id": "851174988199231491",
+        "name": "joshpizzaro",
+        "discriminator": "4496",
+        "nickname": "joshpizzaro",
+        "color": "#E67E22",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/851174988199231491/2a8fc4862f59584f06bc9e7859ba73b0.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "925022893417582603",
+      "type": "Default",
+      "timestamp": "2021-12-27T13:50:43.885+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "especially in an \"on-chain\" world - some of these analytics will be easier to prove",
+      "author": {
+        "id": "851174988199231491",
+        "name": "joshpizzaro",
+        "discriminator": "4496",
+        "nickname": "joshpizzaro",
+        "color": "#E67E22",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/851174988199231491/2a8fc4862f59584f06bc9e7859ba73b0.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDC40",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/svg/1f440.svg"
+          },
+          "count": 2
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "925071249368027188",
+      "type": "Default",
+      "timestamp": "2021-12-27T17:02:52.842+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I think we should definitely setup some metrics to give voters a more solid idea to help @joshpizzaro",
+      "author": {
+        "id": "254069756313862144",
+        "name": "VirTius",
+        "discriminator": "4407",
+        "nickname": "VirTius",
+        "color": "#1ABC9C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/254069756313862144/fc7a17eddfda18c82d104601e6437516.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "851174988199231491",
+          "name": "joshpizzaro",
+          "discriminator": "4496",
+          "nickname": "joshpizzaro",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "925095779373293638",
+      "type": "Default",
+      "timestamp": "2021-12-27T18:40:21.251+00:00",
+      "timestampEdited": "2021-12-27T18:47:33.105+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Plese add to \"Role Menu: Timezones\" UTC time",
+      "author": {
+        "id": "149889097417228288",
+        "name": "я_ᴽ ᴱᴸ╬ᴳᴿᵉᵉᴺ ᴽ",
+        "discriminator": "8986",
+        "nickname": "я_ᴽ ᴱᴸ╬ᴳᴿᵉᵉᴺ ᴽ",
+        "color": "#E74C3C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/149889097417228288/60aba6ba4f2a1db144b1f03cb544c153.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "925125096736178226",
+      "type": "Default",
+      "timestamp": "2021-12-27T20:36:51.055+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "My 2 cents:\n\u00A0\n·\u00A0\u00A0\u00A0\u00A0\u00A0 Hyperscale (HS) is not yet a DAO; it’s an autocracy on a path to DAOness –- i.e. a path towards greater distribution and autonomy.\n·\u00A0\u00A0\u00A0\u00A0\u00A0 The raison d'être of a DAO is not to be a corporation but an entity that distributes power and wealth to a community. Kind of like an old school cooperative, but with more tech and less friction. \n·\u00A0\u00A0\u00A0\u00A0\u00A0 YC serves as a petri dish for the SV VC community and helps drive a “pump-it-up” model that delivers centralized corporate control, and profit maximization for the few. So YC-style strategy and metrics are likely miss-aligned with this project.\n·\u00A0\u00A0\u00A0\u00A0\u00A0 HS might deliver unprecedented deal flow/origination, but it will not scale if we/you don’t answer some basic questions, such as:\n  * What is this DAO for, if not profit maximization for the few?\n  * What metrics are valid beyond e.g. product-market fit? \n     §\u00A0 A double or triple bottom line?\n     §\u00A0 Potential for industry disintermediation?\n     §\u00A0 Potential for community wealth sharing?\n     §\u00A0 Democratic vs autocratic governance?\n·\u00A0\u00A0\u00A0\u00A0\u00A0 Traditional VC exits are not aligned with DAOness – and just sliding into a Wyoming LLC DAO vehicle won’t cut it. So, maybe another metric is the candidate’s potential in terms of token market-making -- i.e. is there a reasonable chance of a defi exit?\n·\u00A0\u00A0\u00A0\u00A0\u00A0 What is the strategy? Most L1 and L2 blockchain orgs are investing in tools and infrastructure. Can/should HS compete in this arena? Or should it focus on dapps? Or maybe web2 ventures moving towards DAO structures?",
+      "author": {
+        "id": "842779429591842816",
+        "name": "Bergman",
+        "discriminator": "4572",
+        "nickname": "Bergman",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/2.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDC4D",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/svg/1f44d.svg"
+          },
+          "count": 5
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "925126426481557514",
+      "type": "Reply",
+      "timestamp": "2021-12-27T20:42:08.091+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Much appreciate, great insight you offer",
+      "author": {
+        "id": "254069756313862144",
+        "name": "VirTius",
+        "discriminator": "4407",
+        "nickname": "VirTius",
+        "color": "#1ABC9C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/254069756313862144/fc7a17eddfda18c82d104601e6437516.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "842779429591842816",
+          "name": "Bergman",
+          "discriminator": "4572",
+          "nickname": "Bergman",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "925125096736178226",
+        "channelId": "923608250891517972",
+        "guildId": "916751469678579784"
+      }
+    },
+    {
+      "id": "925143698017255475",
+      "type": "Default",
+      "timestamp": "2021-12-27T21:50:45.946+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Hi! role-request: language maybe?",
+      "author": {
+        "id": "897332350877302824",
+        "name": "MarioHe",
+        "discriminator": "7408",
+        "nickname": "MarioHe",
+        "color": "#9B59B6",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/897332350877302824/a13b4a4fd3d978c141754d7b4eecb46e.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "925503774561288212",
+      "type": "Default",
+      "timestamp": "2021-12-28T21:41:34.884+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "OK, so I've got the \"double OHM\" model sketched out - I'd love some feedback. I've added it to the proposal list - still trying to figure out how to pull in @hawtlava 's paper portfolio idea.\n\nIn terms of \"what is success/a good investment\" - this system drop kicks the question to the market.\n\nhttps://docs.google.com/document/d/1O0c5Kxwgrit4DDFwvF2gViJPMX8Py9mxkdCzPxJ7ns4/edit?usp=sharing",
+      "author": {
+        "id": "253418842200604673",
+        "name": "Qworg",
+        "discriminator": "3284",
+        "nickname": "Qworg",
+        "color": "#1ABC9C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/253418842200604673/4aca02d325346f367844d2127c17852e.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "DRAFT: HyperscaleDAO $HYPR Design Proposal",
+          "url": "https://docs.google.com/document/d/1O0c5Kxwgrit4DDFwvF2gViJPMX8Py9mxkdCzPxJ7ns4/edit?usp=sharing",
+          "timestamp": null,
+          "description": "HyperscaleDAO $HYPR Tokenomics  Introduction Hyperscale’s native token $HYPR serves as both a measure of control within the organization (governance), as a way to choose between investment alternatives (investment voting), and as a way to invest in companies and reward contributors (store of valu...",
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/dYVnhoE9UOjILwf8WgaxkZ57-iF4Hb1MIi-p_JSBd5g/https/lh5.googleusercontent.com/AXTUQfZRwpQ5jghlIiobJX80SDBA6gOhrAvMF0_yOOf77yZfMRpJRQr66B0wnmhk8d1bFNiTyxSJKw%3Dw1200-h630-p",
+            "width": 1200,
+            "height": 630
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDC4D",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/svg/1f44d.svg"
+          },
+          "count": 2
+        }
+      ],
+      "mentions": [
+        {
+          "id": "531561241219694592",
+          "name": "hawtlava",
+          "discriminator": "2461",
+          "nickname": "Ryu",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "925516526373728276",
+      "type": "Default",
+      "timestamp": "2021-12-28T22:32:15.153+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "The paper portfolio idea was more intended as a hurdle against RNG / group think voting, and a way to train AI for future voting application.  If we wanted to, issuance of tokens could be gated based on whether a paper portfolio was submitted.",
+      "author": {
+        "id": "531561241219694592",
+        "name": "hawtlava",
+        "discriminator": "2461",
+        "nickname": "Ryu",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/531561241219694592/e93e2b42b8236ac750bae3fe24b0772b.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDC4D",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/svg/1f44d.svg"
+          },
+          "count": 3
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "925516553653465149",
+      "type": "Default",
+      "timestamp": "2021-12-28T22:32:21.657+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@Qworg",
+      "author": {
+        "id": "531561241219694592",
+        "name": "hawtlava",
+        "discriminator": "2461",
+        "nickname": "Ryu",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/531561241219694592/e93e2b42b8236ac750bae3fe24b0772b.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "253418842200604673",
+          "name": "Qworg",
+          "discriminator": "3284",
+          "nickname": "Qworg",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "925527358205722624",
+      "type": "Default",
+      "timestamp": "2021-12-28T23:15:17.663+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Hi, I'm Lorenzo.\n\nWe are building a brand new platform dedicated to launching new projects in a web3, community-driven fashion. On our platform, participants can easily publish their project/idea and get a sharable link allowing anyone from anywhere to give feedback, express their interest and also contribute to the project.\n\nWe are primarily focused on incubating product ideas that will grow into a full-fledged business in the future. The twist here is that we want to do it in a totally web3 fashion, and that means community first. We have a team that's working on this for some time now.  Would be interesting to hear what you guys think.",
+      "author": {
+        "id": "743913102256636085",
+        "name": "Lorenzo T",
+        "discriminator": "8696",
+        "nickname": "Lorenzo T",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/743913102256636085/a17bb93970b8c04f6f4239ddefa0ec52.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "925539439063760947",
+      "type": "Reply",
+      "timestamp": "2021-12-29T00:03:17.964+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "This is great! Thanks",
+      "author": {
+        "id": "254069756313862144",
+        "name": "VirTius",
+        "discriminator": "4407",
+        "nickname": "VirTius",
+        "color": "#1ABC9C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/254069756313862144/fc7a17eddfda18c82d104601e6437516.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "253418842200604673",
+          "name": "Qworg",
+          "discriminator": "3284",
+          "nickname": "Qworg",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "925503774561288212",
+        "channelId": "923608250891517972",
+        "guildId": "916751469678579784"
+      }
+    },
+    {
+      "id": "925564349995704402",
+      "type": "Reply",
+      "timestamp": "2021-12-29T01:42:17.193+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "New member here, have pretty solid investment experience. One obvious but important heuristic for gauging investment experience can be a prior investment thesis with receipts showing the investment's time horizon in order to get a better idea of how someone thinks about value/growth.",
+      "author": {
+        "id": "516839294418288641",
+        "name": "MushCoin",
+        "discriminator": "3602",
+        "nickname": "MushCoin",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/516839294418288641/3779dd93a44a796fe33361939218044e.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "⏲️",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/svg/23f2.svg"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": [
+        {
+          "id": "851174988199231491",
+          "name": "joshpizzaro",
+          "discriminator": "4496",
+          "nickname": "joshpizzaro",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "924462359324557362",
+        "channelId": "923608250891517972",
+        "guildId": "916751469678579784"
+      }
+    },
+    {
+      "id": "925565016269262880",
+      "type": "Default",
+      "timestamp": "2021-12-29T01:44:56.045+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "For example, I'm currently at a HF and one of the interview questions during my recruitment was about a prior investment that I was willing to cross my risk tolerance for. And for me it was buying call options on GME very early on;  over discord we can simply ask for someone to show us proof through on chain transactions that confirm the wallet address or screenshots of a TradFi account",
+      "author": {
+        "id": "516839294418288641",
+        "name": "MushCoin",
+        "discriminator": "3602",
+        "nickname": "MushCoin",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/516839294418288641/3779dd93a44a796fe33361939218044e.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "728894308618469377",
+            "name": "flying_money_with_wings",
+            "isAnimated": true,
+            "imageUrl": "https://cdn.discordapp.com/emojis/728894308618469377.gif"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "925605925191032862",
+      "type": "Reply",
+      "timestamp": "2021-12-29T04:27:29.492+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "That's a really good point you make. Getting that snapshot will be crucial",
+      "author": {
+        "id": "254069756313862144",
+        "name": "VirTius",
+        "discriminator": "4407",
+        "nickname": "VirTius",
+        "color": "#1ABC9C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/254069756313862144/fc7a17eddfda18c82d104601e6437516.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "516839294418288641",
+          "name": "MushCoin",
+          "discriminator": "3602",
+          "nickname": "MushCoin",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "925564349995704402",
+        "channelId": "923608250891517972",
+        "guildId": "916751469678579784"
+      }
+    },
+    {
+      "id": "925836275649507330",
+      "type": "Default",
+      "timestamp": "2021-12-29T19:42:49.321+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "how to vote in DAO Race?",
+      "author": {
+        "id": "802189634280226826",
+        "name": "Alex 2417246187264",
+        "discriminator": "2382",
+        "nickname": "Alex 2417246187264",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/2.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "925871396473692214",
+      "type": "Default",
+      "timestamp": "2021-12-29T22:02:22.778+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "OK, I've read most channels and just about every doc linked in this server. Amazing work from the initial community. \n\nHere are some of my thoughts in no particular order:\n-Idea artifacts are already strewn everywhere making it incredibly hard for new joiners to understand what is going on and what is being worked on - not the initial community's fault. Mostly a problem with using Discord and GDrive to do complex problem-solving and coordination of work. \n\n-A see a lot of debate on governance/voting/treasury. Is the plan to build from scratch all of this for HS? Is it worth looking at governance tooling already built, like Colony or Aragon, etc? I have some experience with Colony and if we can adopt an existing tool we'll save a TON of effort recreating all this. Think of HS being in the validation stage where we want to spin something up quickly using Bubble to validate and when we work out the kinks and know what the MVP needs to be we can better decide if we build or buy.",
+      "author": {
+        "id": "807716623937962064",
+        "name": "OmnistratMatt",
+        "discriminator": "8692",
+        "nickname": "OmnistratMatt",
+        "color": "#F1C40F",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/807716623937962064/8e878b350d70a484eca6368e81eff41a.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "925924931110330398",
+      "type": "Default",
+      "timestamp": "2021-12-30T01:35:06.43+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Use Aragon and notion/discourse/GitHub. Discord is not good for this kind of stuff",
+      "author": {
+        "id": "892228926129188884",
+        "name": "Randomish Walk",
+        "discriminator": "0601",
+        "nickname": "Randomish Walk",
+        "color": "#E74C3C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/892228926129188884/a_0995c0e4e792b903cd47b532b2cf20ff.gif?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "925967558966935612",
+      "type": "Default",
+      "timestamp": "2021-12-30T04:24:29.703+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "yes discord meaning disagreement between people. @Randomish Walk",
+      "author": {
+        "id": "864406808436277248",
+        "name": "rx",
+        "discriminator": "5834",
+        "nickname": "rx",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/864406808436277248/f45b034d81a9f2db7be18ffded9f9bda.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "892228926129188884",
+          "name": "Randomish Walk",
+          "discriminator": "0601",
+          "nickname": "Randomish Walk",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "926834488749740062",
+      "type": "Default",
+      "timestamp": "2022-01-01T13:49:21.87+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I am not able to login to publish a proposal. Is there a pre requisite for that?",
+      "author": {
+        "id": "802551182584971307",
+        "name": "imadee",
+        "discriminator": "6849",
+        "nickname": "imadee",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/4.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "926861274720124969",
+      "type": "Default",
+      "timestamp": "2022-01-01T15:35:48.143+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://www.hyperscalefund.com/join and you'll need to log in with discord",
+      "author": {
+        "id": "900502872670744616",
+        "name": "AMICA",
+        "discriminator": "7675",
+        "nickname": "AMICA",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/900502872670744616/798fb3bd4007400558239f1e5a504b50.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "927050883919921152",
+      "type": "Reply",
+      "timestamp": "2022-01-02T04:09:14.499+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Having trouble with the join feature sending me on a loop to sign in with discord. I sign in but then I cannot go to the form - takes me back to the sign in with discord page.",
+      "author": {
+        "id": "767981871766044712",
+        "name": "Enki",
+        "discriminator": "9506",
+        "nickname": "Enki",
+        "color": "#F1C40F",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/767981871766044712/e732d28faf4d0f189841ce9dcdd713a0.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "900502872670744616",
+          "name": "AMICA",
+          "discriminator": "7675",
+          "nickname": "AMICA",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "926861274720124969",
+        "channelId": "923608250891517972",
+        "guildId": "916751469678579784"
+      }
+    },
+    {
+      "id": "927052190399471636",
+      "type": "Default",
+      "timestamp": "2022-01-02T04:14:25.988+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Okay weird, I started recording my screen to show you but it worked finally. So strange after 10+ tries \uD83D\uDE42",
+      "author": {
+        "id": "767981871766044712",
+        "name": "Enki",
+        "discriminator": "9506",
+        "nickname": "Enki",
+        "color": "#F1C40F",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/767981871766044712/e732d28faf4d0f189841ce9dcdd713a0.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "927131006618730547",
+      "type": "Reply",
+      "timestamp": "2022-01-02T09:27:37.239+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Can you post this in #bugs-old ?",
+      "author": {
+        "id": "900502872670744616",
+        "name": "AMICA",
+        "discriminator": "7675",
+        "nickname": "AMICA",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/900502872670744616/798fb3bd4007400558239f1e5a504b50.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDC4D",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/svg/1f44d.svg"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": [
+        {
+          "id": "767981871766044712",
+          "name": "Enki",
+          "discriminator": "9506",
+          "nickname": "Enki",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "927050883919921152",
+        "channelId": "923608250891517972",
+        "guildId": "916751469678579784"
+      }
+    },
+    {
+      "id": "927237945470095370",
+      "type": "Reply",
+      "timestamp": "2022-01-02T16:32:33.448+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "it gives me this",
+      "author": {
+        "id": "802551182584971307",
+        "name": "imadee",
+        "discriminator": "6849",
+        "nickname": "imadee",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/4.png"
+      },
+      "attachments": [
+        {
+          "id": "927237944727732244",
+          "url": "https://cdn.discordapp.com/attachments/923608250891517972/927237944727732244/Screenshot_2022-01-02_at_9.32.23_PM.png",
+          "fileName": "Screenshot_2022-01-02_at_9.32.23_PM.png",
+          "fileSizeBytes": 48094
+        }
+      ],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "900502872670744616",
+          "name": "AMICA",
+          "discriminator": "7675",
+          "nickname": "AMICA",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "926861274720124969",
+        "channelId": "923608250891517972",
+        "guildId": "916751469678579784"
+      }
+    },
+    {
+      "id": "927242536433623070",
+      "type": "Reply",
+      "timestamp": "2022-01-02T16:50:48.019+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "you should be member of this server",
+      "author": {
+        "id": "296591568750641155",
+        "name": "Aswanth",
+        "discriminator": "1733",
+        "nickname": "Aswanth",
+        "color": "#1ABC9C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/296591568750641155/4ef4fc06afe9edc7b5ff97180ced2d9f.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "802551182584971307",
+          "name": "imadee",
+          "discriminator": "6849",
+          "nickname": "imadee",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "927237945470095370",
+        "channelId": "923608250891517972",
+        "guildId": "916751469678579784"
+      }
+    },
+    {
+      "id": "927243502952275980",
+      "type": "Default",
+      "timestamp": "2022-01-02T16:54:38.455+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "how to be a member? I am already here and typing",
+      "author": {
+        "id": "802551182584971307",
+        "name": "imadee",
+        "discriminator": "6849",
+        "nickname": "imadee",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/4.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "927243678194487356",
+      "type": "Default",
+      "timestamp": "2022-01-02T16:55:20.236+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "nevermind",
+      "author": {
+        "id": "802551182584971307",
+        "name": "imadee",
+        "discriminator": "6849",
+        "nickname": "imadee",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/4.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "927243736075862056",
+      "type": "Default",
+      "timestamp": "2022-01-02T16:55:34.036+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "i was logged in via other discord on web \uD83E\uDD26",
+      "author": {
+        "id": "802551182584971307",
+        "name": "imadee",
+        "discriminator": "6849",
+        "nickname": "imadee",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/4.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "927249619551932446",
+      "type": "Default",
+      "timestamp": "2022-01-02T17:18:56.766+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Hahaha",
+      "author": {
+        "id": "254069756313862144",
+        "name": "VirTius",
+        "discriminator": "4407",
+        "nickname": "VirTius",
+        "color": "#1ABC9C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/254069756313862144/fc7a17eddfda18c82d104601e6437516.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "927250907958227006",
+      "type": "Reply",
+      "timestamp": "2022-01-02T17:24:03.946+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "sorry that was i meant",
+      "author": {
+        "id": "296591568750641155",
+        "name": "Aswanth",
+        "discriminator": "1733",
+        "nickname": "Aswanth",
+        "color": "#1ABC9C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/296591568750641155/4ef4fc06afe9edc7b5ff97180ced2d9f.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "802551182584971307",
+          "name": "imadee",
+          "discriminator": "6849",
+          "nickname": "imadee",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "927243736075862056",
+        "channelId": "923608250891517972",
+        "guildId": "916751469678579784"
+      }
+    },
+    {
+      "id": "927251054251348079",
+      "type": "Reply",
+      "timestamp": "2022-01-02T17:24:38.825+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "anyone having this issue make sure the account your are trying to login is member of this discord server",
+      "author": {
+        "id": "296591568750641155",
+        "name": "Aswanth",
+        "discriminator": "1733",
+        "nickname": "Aswanth",
+        "color": "#1ABC9C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/296591568750641155/4ef4fc06afe9edc7b5ff97180ced2d9f.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "802551182584971307",
+          "name": "imadee",
+          "discriminator": "6849",
+          "nickname": "imadee",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "927237945470095370",
+        "channelId": "923608250891517972",
+        "guildId": "916751469678579784"
+      }
+    },
+    {
+      "id": "927538316402901002",
+      "type": "Default",
+      "timestamp": "2022-01-03T12:26:07.459+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Hi guys, how are you doing? I am raising funds for https://thematic.so before going traditional VC way, I would love to explore hyperscale. However the website doesn't seem to be working for me, it still shows join after i login using discord.",
+      "author": {
+        "id": "367000955809431564",
+        "name": "supertramp",
+        "discriminator": "1623",
+        "nickname": "supertramp",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/367000955809431564/5ea81007d52ceabee67f465d59803156.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Thematic",
+          "url": "https://thematic.so/",
+          "timestamp": null,
+          "description": "Invest into simple ideas",
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "927674260439330907",
+      "type": "Reply",
+      "timestamp": "2022-01-03T21:26:19.043+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@supertramp We're currently reworking our process so it'll be live again shortly. In the future, please use #❓help-desk to ask questions and #\uD83E\uDD11shill to share more about your project.",
+      "author": {
+        "id": "630645146102267924",
+        "name": "jkey",
+        "discriminator": "2329",
+        "nickname": "jkey",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/630645146102267924/6e61d2671238895beb3254d7e0a27b30.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "367000955809431564",
+          "name": "supertramp",
+          "discriminator": "1623",
+          "nickname": "supertramp",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "927538316402901002",
+        "channelId": "923608250891517972",
+        "guildId": "916751469678579784"
+      }
+    },
+    {
+      "id": "928715095700308070",
+      "type": "Default",
+      "timestamp": "2022-01-06T18:22:13.507+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Hi -- I'm trying to submit my project via your online form but the Discord Auth fails",
+      "author": {
+        "id": "706962162664603749",
+        "name": "reallymemorable",
+        "discriminator": "8178",
+        "nickname": "reallymemorable",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/706962162664603749/70e961aeb404fc51eaad880117a0c24b.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "928715114704699412",
+      "type": "Default",
+      "timestamp": "2022-01-06T18:22:18.038+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "and im unable to proceed",
+      "author": {
+        "id": "706962162664603749",
+        "name": "reallymemorable",
+        "discriminator": "8178",
+        "nickname": "reallymemorable",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/706962162664603749/70e961aeb404fc51eaad880117a0c24b.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "928715295131049986",
+      "type": "Reply",
+      "timestamp": "2022-01-06T18:23:01.055+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Dao race  is on pause",
+      "author": {
+        "id": "296591568750641155",
+        "name": "Aswanth",
+        "discriminator": "1733",
+        "nickname": "Aswanth",
+        "color": "#1ABC9C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/296591568750641155/4ef4fc06afe9edc7b5ff97180ced2d9f.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "706962162664603749",
+          "name": "reallymemorable",
+          "discriminator": "8178",
+          "nickname": "reallymemorable",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "928715095700308070",
+        "channelId": "923608250891517972",
+        "guildId": "916751469678579784"
+      }
+    },
+    {
+      "id": "928715471178563714",
+      "type": "Default",
+      "timestamp": "2022-01-06T18:23:43.028+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Ah ok",
+      "author": {
+        "id": "706962162664603749",
+        "name": "reallymemorable",
+        "discriminator": "8178",
+        "nickname": "reallymemorable",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/706962162664603749/70e961aeb404fc51eaad880117a0c24b.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "931153367097540629",
+      "type": "Default",
+      "timestamp": "2022-01-13T11:51:02.709+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Does anyone know if there is something like a GitHub for DAO tasks?",
+      "author": {
+        "id": "918793573615423519",
+        "name": "justkaran",
+        "discriminator": "4082",
+        "nickname": "justkaran",
+        "color": "#9B59B6",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/918793573615423519/767fe0d1e06d4ab93ea7eb710dbc5531.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "931153877665976361",
+      "type": "Reply",
+      "timestamp": "2022-01-13T11:53:04.438+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Thx yeah, sorry, I need to rephrase my question. I meant a software that allows version control for tasks that are generally related to building up a DAO.",
+      "author": {
+        "id": "918793573615423519",
+        "name": "justkaran",
+        "discriminator": "4082",
+        "nickname": "justkaran",
+        "color": "#9B59B6",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/918793573615423519/767fe0d1e06d4ab93ea7eb710dbc5531.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "864406808436277248",
+          "name": "rx",
+          "discriminator": "5834",
+          "nickname": "rx",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "931153579711016960",
+        "channelId": "923608250891517972",
+        "guildId": "916751469678579784"
+      }
+    },
+    {
+      "id": "931154499760959508",
+      "type": "Reply",
+      "timestamp": "2022-01-13T11:55:32.757+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "yes we have to create one which converts non DAOs into DAOs you can start creating one @justkaran",
+      "author": {
+        "id": "864406808436277248",
+        "name": "rx",
+        "discriminator": "5834",
+        "nickname": "rx",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/864406808436277248/f45b034d81a9f2db7be18ffded9f9bda.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "918793573615423519",
+          "name": "justkaran",
+          "discriminator": "4082",
+          "nickname": "justkaran",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "931153877665976361",
+        "channelId": "923608250891517972",
+        "guildId": "916751469678579784"
+      }
+    },
+    {
+      "id": "931171513472790558",
+      "type": "Reply",
+      "timestamp": "2022-01-13T13:03:09.142+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Mmm that sounds like a product that needs to be build \uD83D\uDE42",
+      "author": {
+        "id": "918793573615423519",
+        "name": "justkaran",
+        "discriminator": "4082",
+        "nickname": "justkaran",
+        "color": "#9B59B6",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/918793573615423519/767fe0d1e06d4ab93ea7eb710dbc5531.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "864406808436277248",
+          "name": "rx",
+          "discriminator": "5834",
+          "nickname": "rx",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "931154499760959508",
+        "channelId": "923608250891517972",
+        "guildId": "916751469678579784"
+      }
+    },
+    {
+      "id": "931171795371982869",
+      "type": "Reply",
+      "timestamp": "2022-01-13T13:04:16.352+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "yes we need tools or AI that can convert non DAOs and explain to them why they need to convert or add features of decentralization",
+      "author": {
+        "id": "864406808436277248",
+        "name": "rx",
+        "discriminator": "5834",
+        "nickname": "rx",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/864406808436277248/f45b034d81a9f2db7be18ffded9f9bda.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "918793573615423519",
+          "name": "justkaran",
+          "discriminator": "4082",
+          "nickname": "justkaran",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "931171513472790558",
+        "channelId": "923608250891517972",
+        "guildId": "916751469678579784"
+      }
+    },
+    {
+      "id": "931171984975495168",
+      "type": "Reply",
+      "timestamp": "2022-01-13T13:05:01.557+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "we can also build a crypto-based stock market world-first crypto market where companies are listed and raise money on form of CRYPTO  can also ADD AI",
+      "author": {
+        "id": "864406808436277248",
+        "name": "rx",
+        "discriminator": "5834",
+        "nickname": "rx",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/864406808436277248/f45b034d81a9f2db7be18ffded9f9bda.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "918793573615423519",
+          "name": "justkaran",
+          "discriminator": "4082",
+          "nickname": "justkaran",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "931171513472790558",
+        "channelId": "923608250891517972",
+        "guildId": "916751469678579784"
+      }
+    },
+    {
+      "id": "932546254666350613",
+      "type": "Default",
+      "timestamp": "2022-01-17T08:05:52.984+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Hi @AMICA,\n rx#5834 asked me to contact you regarding UI/UX designer and Front end developer",
+      "author": {
+        "id": "422832994055618560",
+        "name": "shasha",
+        "discriminator": "3861",
+        "nickname": "shasha",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/422832994055618560/395819602f459eca4f0ee28913e7a775.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "900502872670744616",
+          "name": "AMICA",
+          "discriminator": "7675",
+          "nickname": "AMICA",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "932546763548655616",
+      "type": "Default",
+      "timestamp": "2022-01-17T08:07:54.311+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Hi @shasha welcome! Great to have you here.",
+      "author": {
+        "id": "900502872670744616",
+        "name": "AMICA",
+        "discriminator": "7675",
+        "nickname": "AMICA",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/900502872670744616/798fb3bd4007400558239f1e5a504b50.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "422832994055618560",
+          "name": "shasha",
+          "discriminator": "3861",
+          "nickname": "shasha",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "932547110803476543",
+      "type": "Reply",
+      "timestamp": "2022-01-17T08:09:17.103+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "A good start to bootstrap yourself would be here: https://discord.com/channels/916751469678579784/923986447621554196/932519962189373532",
+      "author": {
+        "id": "900502872670744616",
+        "name": "AMICA",
+        "discriminator": "7675",
+        "nickname": "AMICA",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/900502872670744616/798fb3bd4007400558239f1e5a504b50.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "422832994055618560",
+          "name": "shasha",
+          "discriminator": "3861",
+          "nickname": "shasha",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "932546254666350613",
+        "channelId": "923608250891517972",
+        "guildId": "916751469678579784"
+      }
+    },
+    {
+      "id": "932559434155171860",
+      "type": "Default",
+      "timestamp": "2022-01-17T08:58:15.219+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@rx @shasha Hyperscale is a platform for any one who wants to start a DAO and get funded. So if you are a DAO founder and want to contribute, you can do so as volunteer, cos the platform itself gives you a venue to showcase your DAO and a great chance to get funded. But if you are a good developer / designer, you can participate too. You can look for open bounties here ( Can anyone from @Development clearly explain how bounties work) and submit your PR's / solutions. We started recently, much is in flux, we also have plans to reward people who contribute with NFT's and remuneration, the exact plan / idea would be shared by @kevalin",
+      "author": {
+        "id": "900502872670744616",
+        "name": "AMICA",
+        "discriminator": "7675",
+        "nickname": "AMICA",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/900502872670744616/798fb3bd4007400558239f1e5a504b50.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDC4D\uD83C\uDFFE",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/svg/1f44d-1f3fe.svg"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": [
+        {
+          "id": "864406808436277248",
+          "name": "rx",
+          "discriminator": "5834",
+          "nickname": "rx",
+          "isBot": false
+        },
+        {
+          "id": "915035187547615243",
+          "name": "kevalin",
+          "discriminator": "4394",
+          "nickname": "kevalin",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "932559651021676554",
+      "type": "Reply",
+      "timestamp": "2022-01-17T08:59:06.924+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Thanks for doing this!",
+      "author": {
+        "id": "915035187547615243",
+        "name": "kevalin",
+        "discriminator": "4394",
+        "nickname": "kevalin",
+        "color": "#1F8B4C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/915035187547615243/8aec11e684cd1c3ab575358a58fda0bd.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "900502872670744616",
+          "name": "AMICA",
+          "discriminator": "7675",
+          "nickname": "AMICA",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "932559434155171860",
+        "channelId": "923608250891517972",
+        "guildId": "916751469678579784"
+      }
+    },
+    {
+      "id": "932559738212864010",
+      "type": "Default",
+      "timestamp": "2022-01-17T08:59:27.712+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "\uD83D\uDE42",
+      "author": {
+        "id": "900502872670744616",
+        "name": "AMICA",
+        "discriminator": "7675",
+        "nickname": "AMICA",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/900502872670744616/798fb3bd4007400558239f1e5a504b50.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "932559788636766228",
+      "type": "Default",
+      "timestamp": "2022-01-17T08:59:39.734+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Thank will convey him",
+      "author": {
+        "id": "864406808436277248",
+        "name": "rx",
+        "discriminator": "5834",
+        "nickname": "rx",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/864406808436277248/f45b034d81a9f2db7be18ffded9f9bda.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "932559870736101416",
+      "type": "Default",
+      "timestamp": "2022-01-17T08:59:59.308+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "credit to @rx for introducing great people.",
+      "author": {
+        "id": "900502872670744616",
+        "name": "AMICA",
+        "discriminator": "7675",
+        "nickname": "AMICA",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/900502872670744616/798fb3bd4007400558239f1e5a504b50.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "864406808436277248",
+          "name": "rx",
+          "discriminator": "5834",
+          "nickname": "rx",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "932560108066570270",
+      "type": "Default",
+      "timestamp": "2022-01-17T09:00:55.892+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Also @rx, tell people they can freely share their views and questions without fear/worry in #❓help-desk , that way the questions could be answered by anyone who has knowledge",
+      "author": {
+        "id": "900502872670744616",
+        "name": "AMICA",
+        "discriminator": "7675",
+        "nickname": "AMICA",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/900502872670744616/798fb3bd4007400558239f1e5a504b50.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "864406808436277248",
+          "name": "rx",
+          "discriminator": "5834",
+          "nickname": "rx",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "932567388946305024",
+      "type": "Default",
+      "timestamp": "2022-01-17T09:29:51.789+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Yes",
+      "author": {
+        "id": "864406808436277248",
+        "name": "rx",
+        "discriminator": "5834",
+        "nickname": "rx",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/864406808436277248/f45b034d81a9f2db7be18ffded9f9bda.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "932675699083448380",
+      "type": "Reply",
+      "timestamp": "2022-01-17T16:40:14.938+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Are you interested to volunteer and work on bounty basis? If so you can start hacking right away. But otherwise, we are still a community starting out and building the next big thing. Hyperscale is a platform to help DAO's get funded. So If you are a DAO founder or even someone looking for projects to work on, volunteering at Hyperscale would benefit you indirectly, cos we enable DAO's / we would fund them and we would create a Job market place for them to source talent from.",
+      "author": {
+        "id": "900502872670744616",
+        "name": "AMICA",
+        "discriminator": "7675",
+        "nickname": "AMICA",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/900502872670744616/798fb3bd4007400558239f1e5a504b50.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "779426766460551198",
+          "name": "Developer9300",
+          "discriminator": "3096",
+          "nickname": "Developer9300",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "932666273383448687",
+        "channelId": "923608250891517972",
+        "guildId": "916751469678579784"
+      }
+    },
+    {
+      "id": "932676652603932672",
+      "type": "Default",
+      "timestamp": "2022-01-17T16:44:02.275+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I am looking for a new job opportunities",
+      "author": {
+        "id": "779426766460551198",
+        "name": "Developer9300",
+        "discriminator": "3096",
+        "nickname": "Developer9300",
+        "color": "#1ABC9C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/779426766460551198/683e021832c266e6c323129ee02d6850.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "932677989685145620",
+      "type": "Reply",
+      "timestamp": "2022-01-17T16:49:21.06+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Okay. Just stay tuned then. Currently our devs are working hard on the rebrand, and we would be incorporating a support system for DAO's in our Sphere DAO in the near future where there would be a Job board and talent list of sorts.",
+      "author": {
+        "id": "900502872670744616",
+        "name": "AMICA",
+        "discriminator": "7675",
+        "nickname": "AMICA",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/900502872670744616/798fb3bd4007400558239f1e5a504b50.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "779426766460551198",
+          "name": "Developer9300",
+          "discriminator": "3096",
+          "nickname": "Developer9300",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "932676652603932672",
+        "channelId": "923608250891517972",
+        "guildId": "916751469678579784"
+      }
+    },
+    {
+      "id": "932682368681127976",
+      "type": "Reply",
+      "timestamp": "2022-01-17T17:06:45.094+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "thats great",
+      "author": {
+        "id": "779426766460551198",
+        "name": "Developer9300",
+        "discriminator": "3096",
+        "nickname": "Developer9300",
+        "color": "#1ABC9C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/779426766460551198/683e021832c266e6c323129ee02d6850.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "900502872670744616",
+          "name": "AMICA",
+          "discriminator": "7675",
+          "nickname": "AMICA",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "932677989685145620",
+        "channelId": "923608250891517972",
+        "guildId": "916751469678579784"
+      }
+    },
+    {
+      "id": "933663229115269170",
+      "type": "Default",
+      "timestamp": "2022-01-20T10:04:20.445+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Verify discord account, if someone use VPN, they can't pass verification.",
+      "author": {
+        "id": "365685903928328203",
+        "name": "Lecter",
+        "discriminator": "6754",
+        "nickname": "Lecter",
+        "color": "#E74C3C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/365685903928328203/f072ddd05b90bd0a5f76b9a9708d5ac2.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "933666704813330452",
+      "type": "Default",
+      "timestamp": "2022-01-20T10:18:09.116+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@moderator",
+      "author": {
+        "id": "365685903928328203",
+        "name": "Lecter",
+        "discriminator": "6754",
+        "nickname": "Lecter",
+        "color": "#E74C3C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/365685903928328203/f072ddd05b90bd0a5f76b9a9708d5ac2.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "933668208832024636",
+      "type": "Default",
+      "timestamp": "2022-01-20T10:24:07.702+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "btw, how to get legal role?",
+      "author": {
+        "id": "365685903928328203",
+        "name": "Lecter",
+        "discriminator": "6754",
+        "nickname": "Lecter",
+        "color": "#E74C3C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/365685903928328203/f072ddd05b90bd0a5f76b9a9708d5ac2.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "933669426786611230",
+      "type": "Reply",
+      "timestamp": "2022-01-20T10:28:58.085+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "#\uD83D\uDD28role-request and hit the lawyer icon \uD83D\uDC4D",
+      "author": {
+        "id": "703540563328368691",
+        "name": "BenJ",
+        "discriminator": "0551",
+        "nickname": "BenJ",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/703540563328368691/e4eacd321d76a0e2b88bbcb8076d5e4d.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83E\uDD73",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/svg/1f973.svg"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": [
+        {
+          "id": "365685903928328203",
+          "name": "Lecter",
+          "discriminator": "6754",
+          "nickname": "Lecter",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "933668208832024636",
+        "channelId": "923608250891517972",
+        "guildId": "916751469678579784"
+      }
+    },
+    {
+      "id": "933743724624744508",
+      "type": "Default",
+      "timestamp": "2022-01-20T15:24:12.07+00:00",
+      "timestampEdited": "2022-01-21T14:58:34.668+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "can you invest in people?",
+      "author": {
+        "id": "933103501603667998",
+        "name": "ddd4",
+        "discriminator": "1888",
+        "nickname": "ddd4",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/3.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "933760729826336798",
+      "type": "Reply",
+      "timestamp": "2022-01-20T16:31:46.426+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Investing in people is something we're looking into",
+      "author": {
+        "id": "915035187547615243",
+        "name": "kevalin",
+        "discriminator": "4394",
+        "nickname": "kevalin",
+        "color": "#1F8B4C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/915035187547615243/8aec11e684cd1c3ab575358a58fda0bd.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "933103501603667998",
+          "name": "ddd4",
+          "discriminator": "1888",
+          "nickname": "ddd4",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "933744743668678696",
+        "channelId": "923608250891517972",
+        "guildId": "916751469678579784"
+      }
+    },
+    {
+      "id": "933762249443651624",
+      "type": "Default",
+      "timestamp": "2022-01-20T16:37:48.731+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Awesome, thanks.",
+      "author": {
+        "id": "933103501603667998",
+        "name": "ddd4",
+        "discriminator": "1888",
+        "nickname": "ddd4",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/3.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "933906444712034365",
+      "type": "Default",
+      "timestamp": "2022-01-21T02:10:47.562+00:00",
+      "timestampEdited": "2022-01-22T18:26:23.896+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "my mistake it seems!",
+      "author": {
+        "id": "933103501603667998",
+        "name": "ddd4",
+        "discriminator": "1888",
+        "nickname": "ddd4",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/3.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "933907979848286208",
+      "type": "Reply",
+      "timestamp": "2022-01-21T02:16:53.567+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "What are you referring to? The idea behind Hyperscale is that we're enabling a global economy that anyone can plug into",
+      "author": {
+        "id": "915035187547615243",
+        "name": "kevalin",
+        "discriminator": "4394",
+        "nickname": "kevalin",
+        "color": "#1F8B4C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/915035187547615243/8aec11e684cd1c3ab575358a58fda0bd.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "933103501603667998",
+          "name": "ddd4",
+          "discriminator": "1888",
+          "nickname": "ddd4",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "933888714562756668",
+        "channelId": "923608250891517972",
+        "guildId": "916751469678579784"
+      }
+    },
+    {
+      "id": "933908075205783612",
+      "type": "Default",
+      "timestamp": "2022-01-21T02:17:16.302+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Global talent arbitrage",
+      "author": {
+        "id": "915035187547615243",
+        "name": "kevalin",
+        "discriminator": "4394",
+        "nickname": "kevalin",
+        "color": "#1F8B4C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/915035187547615243/8aec11e684cd1c3ab575358a58fda0bd.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "935583260602433596",
+      "type": "Default",
+      "timestamp": "2022-01-25T17:13:51.624+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Hi I'm Nigel. I'm building a platform to bring open source to the plant-based industry. Rather than have just a few large companies making lots of burgers, I believe the future belongs to localised ventures that are hyper focused on feeding their communities good food. (https://www.nextbillionburgers.com)\n\nI believe web3.0 and its related assets hold tremendous potential to help bring that vision to life , but am a complete noob at this.\n\nI'm hoping to reach the hyperscale mindhive to tap on your insights and ideas on how we can take DAOs, NFTs etc. even further, and converge in the real world with genuine impact.\n\nA quick approach paper to document some of that thinking here... \n\nP.s. wasn't sure if this was the right channel - pls let me know",
+      "author": {
+        "id": "453521852090810368",
+        "name": "nomirolce",
+        "discriminator": "0773",
+        "nickname": "nomirolce",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/453521852090810368/d051315115985a56294c08c694a610c0.png?size=128"
+      },
+      "attachments": [
+        {
+          "id": "935583260627595294",
+          "url": "https://cdn.discordapp.com/attachments/923608250891517972/935583260627595294/NBB_x_Web_3.0.pdf",
+          "fileName": "NBB_x_Web_3.0.pdf",
+          "fileSizeBytes": 361472
+        }
+      ],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    }
+  ],
+  "messageCount": 142
+}

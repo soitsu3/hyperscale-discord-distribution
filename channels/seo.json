@@ -1,0 +1,618 @@
+{
+  "guild": {
+    "id": "916751469678579784",
+    "name": "Hyperscale",
+    "iconUrl": "https://cdn.discordapp.com/icons/916751469678579784/874219cdd9c60b09fc62afefa1efea43.png"
+  },
+  "channel": {
+    "id": "918851602155180072",
+    "type": "GuildTextChat",
+    "categoryId": "922689148861685780",
+    "category": "archived",
+    "name": "seo",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "messages": [
+    {
+      "id": "918851796464705577",
+      "type": "Default",
+      "timestamp": "2021-12-10T13:08:59.718+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Starting the discussion around SEO. As time goes on this will become increasingly important. Any thoughts on how to approach our SEO strategy?",
+      "author": {
+        "id": "915035187547615243",
+        "name": "kevalin",
+        "discriminator": "4394",
+        "nickname": "kevalin",
+        "color": "#1F8B4C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/915035187547615243/8aec11e684cd1c3ab575358a58fda0bd.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "918853401775845386",
+      "type": "Default",
+      "timestamp": "2021-12-10T13:15:22.454+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "not an SEO expert here... but content is always a great place to start? Do we want to spin up a blog? also if we can get backlinks, that will boost our SEO score (so if anyone has their own blog, then writing about hyperscale and linking to the website will help. We could try to get picked up by other publications as well)",
+      "author": {
+        "id": "882618445643014205",
+        "name": "jesse",
+        "discriminator": "7347",
+        "nickname": "jesse",
+        "color": "#2ECC71",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/882618445643014205/931c8bb8ebd3ea3aeeb9c35afa4b18fc.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "918853542817718332",
+      "type": "Default",
+      "timestamp": "2021-12-10T13:15:56.081+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "we should also think about how we want people to find us AKA what key words do we want to optimize for. \"web3 investing\" etc etc",
+      "author": {
+        "id": "882618445643014205",
+        "name": "jesse",
+        "discriminator": "7347",
+        "nickname": "jesse",
+        "color": "#2ECC71",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/882618445643014205/931c8bb8ebd3ea3aeeb9c35afa4b18fc.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "918854021954035753",
+      "type": "Default",
+      "timestamp": "2021-12-10T13:17:50.316+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I’m an SEO and made some comments in other threads. My main advice was to build a /community/ as part of the native site vs having everything on Discord. User generated content benefits the site driving SEO vs essentially providing no SEO value all on Discord",
+      "author": {
+        "id": "898363945004453918",
+        "name": "matt-s",
+        "discriminator": "9417",
+        "nickname": "matt-s",
+        "color": "#2ECC71",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/898363945004453918/6c5996770c985bcd6e5b68131ff2ba04.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDC4D",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/svg/1f44d.svg"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "918854291249311764",
+      "type": "Default",
+      "timestamp": "2021-12-10T13:18:54.521+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "how do you recommend implementing that? like a chat forum?",
+      "author": {
+        "id": "882618445643014205",
+        "name": "jesse",
+        "discriminator": "7347",
+        "nickname": "jesse",
+        "color": "#2ECC71",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/882618445643014205/931c8bb8ebd3ea3aeeb9c35afa4b18fc.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "918854680736575498",
+      "type": "Default",
+      "timestamp": "2021-12-10T13:20:27.382+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Announcements, Discussions, News, Topical Groups/Threads all native in the /community/threads/Web3/how-to-start-a-DAO",
+      "author": {
+        "id": "898363945004453918",
+        "name": "matt-s",
+        "discriminator": "9417",
+        "nickname": "matt-s",
+        "color": "#2ECC71",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/898363945004453918/6c5996770c985bcd6e5b68131ff2ba04.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "918854760684224562",
+      "type": "Default",
+      "timestamp": "2021-12-10T13:20:46.443+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Lots of options on the how",
+      "author": {
+        "id": "898363945004453918",
+        "name": "matt-s",
+        "discriminator": "9417",
+        "nickname": "matt-s",
+        "color": "#2ECC71",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/898363945004453918/6c5996770c985bcd6e5b68131ff2ba04.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "918855040062619698",
+      "type": "Default",
+      "timestamp": "2021-12-10T13:21:53.052+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I would think of it like Reddit but native to the hyper scale website",
+      "author": {
+        "id": "898363945004453918",
+        "name": "matt-s",
+        "discriminator": "9417",
+        "nickname": "matt-s",
+        "color": "#2ECC71",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/898363945004453918/6c5996770c985bcd6e5b68131ff2ba04.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "918855141883531295",
+      "type": "Default",
+      "timestamp": "2021-12-10T13:22:17.328+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Live, real time chat not necessary for SEO",
+      "author": {
+        "id": "898363945004453918",
+        "name": "matt-s",
+        "discriminator": "9417",
+        "nickname": "matt-s",
+        "color": "#2ECC71",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/898363945004453918/6c5996770c985bcd6e5b68131ff2ba04.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "918855527331667998",
+      "type": "Default",
+      "timestamp": "2021-12-10T13:23:49.226+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Great example here:\n\nhttps://www.biggerpockets.com/forums",
+      "author": {
+        "id": "898363945004453918",
+        "name": "matt-s",
+        "discriminator": "9417",
+        "nickname": "matt-s",
+        "color": "#2ECC71",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/898363945004453918/6c5996770c985bcd6e5b68131ff2ba04.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Forums | Real Estate Investing Discussions | BiggerPockets",
+          "url": "https://www.biggerpockets.com/forums",
+          "timestamp": null,
+          "description": "The BiggerPockets Forums are the most active & comprehensive place for investors to find questions & answers or real estate discussions. Join the conversation today!",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/PTTSqvfjkMC5HR2uN9g-dKUG1zMGV_bWmG96N9qspE4/https/www.biggerpockets.com/assets/forums/forums-og-096d8b8b7ae34439be0be4aaf10f1e6d389d3549e484da0c3934d96dcd3fd480.jpg",
+            "width": 628,
+            "height": 356
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "918855609204502548",
+      "type": "Default",
+      "timestamp": "2021-12-10T13:24:08.746+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Drives 80% of their total site traffic and signups",
+      "author": {
+        "id": "898363945004453918",
+        "name": "matt-s",
+        "discriminator": "9417",
+        "nickname": "matt-s",
+        "color": "#2ECC71",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/898363945004453918/6c5996770c985bcd6e5b68131ff2ba04.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "918856158893195324",
+      "type": "Default",
+      "timestamp": "2021-12-10T13:26:19.802+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I would also have a /research section of the site curated and operated by only limited members. That’s where longer form content targeting mid, longer tail topics can live",
+      "author": {
+        "id": "898363945004453918",
+        "name": "matt-s",
+        "discriminator": "9417",
+        "nickname": "matt-s",
+        "color": "#2ECC71",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/898363945004453918/6c5996770c985bcd6e5b68131ff2ba04.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDCAF",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/svg/1f4af.svg"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "918856200542617641",
+      "type": "Default",
+      "timestamp": "2021-12-10T13:26:29.732+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "interesting to think about how Discord and a website forum would interact. What should be talked about in Discord and what on Hyperscale? Had a discussion last night with @nicklinck about our different tools and best way to organize them... maybe a website forum could be used for more formalized brainstorming / discussions while Discord is for casual discussion? just a thought",
+      "author": {
+        "id": "882618445643014205",
+        "name": "jesse",
+        "discriminator": "7347",
+        "nickname": "jesse",
+        "color": "#2ECC71",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/882618445643014205/931c8bb8ebd3ea3aeeb9c35afa4b18fc.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "783927840638369812",
+          "name": "nicklinck",
+          "discriminator": "6691",
+          "nickname": "nicklinck",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "918856934835245096",
+      "type": "Default",
+      "timestamp": "2021-12-10T13:29:24.801+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I would also follow Jesse advice and do some keyword research on the high volume topics, make those /folders/ on the top nav, main architecture; then build those /folders/subfolders/forming-a-dao with the individual long form, key pieces of content to form a hub and spike model, or also referred to as pillar pages with supporting sub-topics and individual posts",
+      "author": {
+        "id": "898363945004453918",
+        "name": "matt-s",
+        "discriminator": "9417",
+        "nickname": "matt-s",
+        "color": "#2ECC71",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/898363945004453918/6c5996770c985bcd6e5b68131ff2ba04.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDCAF",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/svg/1f4af.svg"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "918857060492410920",
+      "type": "Default",
+      "timestamp": "2021-12-10T13:29:54.76+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "It’d also be critical to internally link them together following the folder and relevance flow",
+      "author": {
+        "id": "898363945004453918",
+        "name": "matt-s",
+        "discriminator": "9417",
+        "nickname": "matt-s",
+        "color": "#2ECC71",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/898363945004453918/6c5996770c985bcd6e5b68131ff2ba04.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "918857168441208852",
+      "type": "Default",
+      "timestamp": "2021-12-10T13:30:20.497+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "And also do plenty of cross linking across other important pages",
+      "author": {
+        "id": "898363945004453918",
+        "name": "matt-s",
+        "discriminator": "9417",
+        "nickname": "matt-s",
+        "color": "#2ECC71",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/898363945004453918/6c5996770c985bcd6e5b68131ff2ba04.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "918857839743733830",
+      "type": "Reply",
+      "timestamp": "2021-12-10T13:33:00.548+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Yeah I think that’s the right way to think about it. Discord is chat while forum/discussion is evergreen, long form, researched content. I think though that chat can be extremely powerful as user generated content especially if it’s covering an SEO topic in depth, from all sides, with lots of authority",
+      "author": {
+        "id": "898363945004453918",
+        "name": "matt-s",
+        "discriminator": "9417",
+        "nickname": "matt-s",
+        "color": "#2ECC71",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/898363945004453918/6c5996770c985bcd6e5b68131ff2ba04.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "882618445643014205",
+          "name": "jesse",
+          "discriminator": "7347",
+          "nickname": "jesse",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "918856200542617641",
+        "channelId": "918851602155180072",
+        "guildId": "916751469678579784"
+      }
+    },
+    {
+      "id": "918862594931044382",
+      "type": "Default",
+      "timestamp": "2021-12-10T13:51:54.273+00:00",
+      "timestampEdited": "2021-12-10T13:53:47.886+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Maybe a great idea for website content to help with SEO is to create a some kind of project library / wiki section of the HS site?\n\nHS members can write about some of the projects from a journalism perspective rather than first person and explain why they are exciting.",
+      "author": {
+        "id": "722076034765160498",
+        "name": "Inklin",
+        "discriminator": "7437",
+        "nickname": "Inklin",
+        "color": "#E74C3C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/722076034765160498/f656111f3f0936f9626e7ed60948021a.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "918862786589777922",
+      "type": "Default",
+      "timestamp": "2021-12-10T13:52:39.968+00:00",
+      "timestampEdited": "2021-12-10T13:52:45.147+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Projects could then link the articles on their own website and would probably get picked up elsewhere too.",
+      "author": {
+        "id": "722076034765160498",
+        "name": "Inklin",
+        "discriminator": "7437",
+        "nickname": "Inklin",
+        "color": "#E74C3C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/722076034765160498/f656111f3f0936f9626e7ed60948021a.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "918874771922485369",
+      "type": "Default",
+      "timestamp": "2021-12-10T14:40:17.494+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Yeah, i think there are a lot of possibilities/ideas for types/content ideas. First order of business is to figure out the main keywords, folder structure, where those folders/links live on the site nav, internal links, and whether the /community/ or /discussion/ sections will be the de facto place to post content vs Discord (live chat focus but zero content ownership by Hyperscale (Discord owns all this content).",
+      "author": {
+        "id": "898363945004453918",
+        "name": "matt-s",
+        "discriminator": "9417",
+        "nickname": "matt-s",
+        "color": "#2ECC71",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/898363945004453918/6c5996770c985bcd6e5b68131ff2ba04.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDCAF",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/svg/1f4af.svg"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "918883658151129139",
+      "type": "Reply",
+      "timestamp": "2021-12-10T15:15:36.136+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I’m trying to work with @kevalin and get some documentation going!",
+      "author": {
+        "id": "481156587776507906",
+        "name": "Party Doodle",
+        "discriminator": "2753",
+        "nickname": "Party Doodle",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/481156587776507906/dfeeaedbc0b733134116e1d4ee388922.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "722076034765160498",
+          "name": "Inklin",
+          "discriminator": "7437",
+          "nickname": "Inklin",
+          "isBot": false
+        },
+        {
+          "id": "915035187547615243",
+          "name": "kevalin",
+          "discriminator": "4394",
+          "nickname": "kevalin",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "918862594931044382",
+        "channelId": "918851602155180072",
+        "guildId": "916751469678579784"
+      }
+    },
+    {
+      "id": "918964243150278709",
+      "type": "Default",
+      "timestamp": "2021-12-10T20:35:49.097+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "happy to help on this front @kevalin - have built some massive audiences primarily through SEO",
+      "author": {
+        "id": "841703908334108683",
+        "name": "davenemetz",
+        "discriminator": "8114",
+        "nickname": "davenemetz",
+        "color": "#9B59B6",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/841703908334108683/a26800c9821843f1ea14b9c5deb9a60b.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDD25",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/svg/1f525.svg"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": [
+        {
+          "id": "915035187547615243",
+          "name": "kevalin",
+          "discriminator": "4394",
+          "nickname": "kevalin",
+          "isBot": false
+        }
+      ]
+    }
+  ],
+  "messageCount": 22
+}

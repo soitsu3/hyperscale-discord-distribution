@@ -1,0 +1,792 @@
+{
+  "guild": {
+    "id": "916751469678579784",
+    "name": "Hyperscale",
+    "iconUrl": "https://cdn.discordapp.com/icons/916751469678579784/874219cdd9c60b09fc62afefa1efea43.png"
+  },
+  "channel": {
+    "id": "925251695162843216",
+    "type": "GuildTextChat",
+    "categoryId": "922689148861685780",
+    "category": "archived",
+    "name": "investment-process",
+    "topic": "NOTICE: Archived channel. Please do NOT post!"
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "messages": [
+    {
+      "id": "926595915932909618",
+      "type": "Default",
+      "timestamp": "2021-12-31T22:01:21.678+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Can a @mod please condider a timeout or ban at this stage?",
+      "author": {
+        "id": "652085657266814986",
+        "name": "JayIRL",
+        "discriminator": "8804",
+        "nickname": "JayIRL",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/652085657266814986/ac1f32bd7930e668aaad81d9d9461ac5.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "926619132668022804",
+      "type": "Default",
+      "timestamp": "2021-12-31T23:33:36.979+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@JayIRL I reached out to @kevalin about these proposals. We'll try to get something in place quickly since the bad actors will surely come.",
+      "author": {
+        "id": "630645146102267924",
+        "name": "jkey",
+        "discriminator": "2329",
+        "nickname": "jkey",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/630645146102267924/6e61d2671238895beb3254d7e0a27b30.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDC4D",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/svg/1f44d.svg"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": [
+        {
+          "id": "652085657266814986",
+          "name": "JayIRL",
+          "discriminator": "8804",
+          "nickname": "JayIRL",
+          "isBot": false
+        },
+        {
+          "id": "915035187547615243",
+          "name": "kevalin",
+          "discriminator": "4394",
+          "nickname": "kevalin",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "927316446072176700",
+      "type": "Default",
+      "timestamp": "2022-01-02T21:44:29.45+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Some questions, probably for @kevalin, the race is on pause but I read there is another project that won funding besides Idena, which will be announced soon. What process did this second project follow? I'm in here daily and I've not heard about a second race.\n\nI also read one of Sam's early posts about not getting many DM's from projects seeking funding and someone else said Sam and Kevalin pick winners directly. If I do seek funding, should I DM Sam or Kevalin to apply for funding or is the only way to get funding is through community-voted races when they start up again?",
+      "author": {
+        "id": "807716623937962064",
+        "name": "OmnistratMatt",
+        "discriminator": "8692",
+        "nickname": "OmnistratMatt",
+        "color": "#F1C40F",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/807716623937962064/8e878b350d70a484eca6368e81eff41a.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83E\uDD14",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/svg/1f914.svg"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": [
+        {
+          "id": "915035187547615243",
+          "name": "kevalin",
+          "discriminator": "4394",
+          "nickname": "kevalin",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "927316616478343259",
+      "type": "Reply",
+      "timestamp": "2022-01-02T21:45:10.078+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Releasing docs on this today",
+      "author": {
+        "id": "915035187547615243",
+        "name": "kevalin",
+        "discriminator": "4394",
+        "nickname": "kevalin",
+        "color": "#1F8B4C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/915035187547615243/8aec11e684cd1c3ab575358a58fda0bd.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "807716623937962064",
+          "name": "OmnistratMatt",
+          "discriminator": "8692",
+          "nickname": "OmnistratMatt",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "927316446072176700",
+        "channelId": "925251695162843216",
+        "guildId": "916751469678579784"
+      }
+    },
+    {
+      "id": "927666070909747230",
+      "type": "Reply",
+      "timestamp": "2022-01-03T20:53:46.507+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "was this ever posted? its super difficult finding things here. too splintered",
+      "author": {
+        "id": "121348792992792576",
+        "name": "f1cken",
+        "discriminator": "7092",
+        "nickname": "f1cken",
+        "color": "#E67E22",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/121348792992792576/76357ca0e123ae07cb00f0ffa9983dfa.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "915035187547615243",
+          "name": "kevalin",
+          "discriminator": "4394",
+          "nickname": "kevalin",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "927316616478343259",
+        "channelId": "925251695162843216",
+        "guildId": "916751469678579784"
+      }
+    },
+    {
+      "id": "927674669035819098",
+      "type": "Default",
+      "timestamp": "2022-01-03T21:27:56.46+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@f1cken We'll be restructuring the discord soon (we'll give everyone a heads up!) to help increase discoverability of key information.",
+      "author": {
+        "id": "630645146102267924",
+        "name": "jkey",
+        "discriminator": "2329",
+        "nickname": "jkey",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/630645146102267924/6e61d2671238895beb3254d7e0a27b30.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "121348792992792576",
+          "name": "f1cken",
+          "discriminator": "7092",
+          "nickname": "f1cken",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "927726019421569114",
+      "type": "Reply",
+      "timestamp": "2022-01-04T00:51:59.346+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Docs still under review",
+      "author": {
+        "id": "915035187547615243",
+        "name": "kevalin",
+        "discriminator": "4394",
+        "nickname": "kevalin",
+        "color": "#1F8B4C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/915035187547615243/8aec11e684cd1c3ab575358a58fda0bd.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "121348792992792576",
+          "name": "f1cken",
+          "discriminator": "7092",
+          "nickname": "f1cken",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "927666070909747230",
+        "channelId": "925251695162843216",
+        "guildId": "916751469678579784"
+      }
+    },
+    {
+      "id": "927753401842929686",
+      "type": "Reply",
+      "timestamp": "2022-01-04T02:40:47.824+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Apologies for the delay. It's a two part process:\n\nPart 1:\n- Get referred\n- Reach out\n- Apply\n- Make traction in the race\n\nPart 2:\n- Central fund negotiates terms and makes investment\n\nThe doc will go over this process and its future, the centralized fund structure, & the plan going forward.",
+      "author": {
+        "id": "915035187547615243",
+        "name": "kevalin",
+        "discriminator": "4394",
+        "nickname": "kevalin",
+        "color": "#1F8B4C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/915035187547615243/8aec11e684cd1c3ab575358a58fda0bd.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "807716623937962064",
+          "name": "OmnistratMatt",
+          "discriminator": "8692",
+          "nickname": "OmnistratMatt",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "927316446072176700",
+        "channelId": "925251695162843216",
+        "guildId": "916751469678579784"
+      }
+    },
+    {
+      "id": "927753818664472626",
+      "type": "Default",
+      "timestamp": "2022-01-04T02:42:27.202+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "The referral inbound will be the most significant going forward",
+      "author": {
+        "id": "915035187547615243",
+        "name": "kevalin",
+        "discriminator": "4394",
+        "nickname": "kevalin",
+        "color": "#1F8B4C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/915035187547615243/8aec11e684cd1c3ab575358a58fda0bd.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "929000912561766450",
+      "type": "Reply",
+      "timestamp": "2022-01-07T13:17:57.557+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "> How can I invest?\n> Once the DAO is legally compliant we’ll open it up to investors.\n\nIs there an ETA for this milestone?",
+      "author": {
+        "id": "121348792992792576",
+        "name": "f1cken",
+        "discriminator": "7092",
+        "nickname": "f1cken",
+        "color": "#E67E22",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/121348792992792576/76357ca0e123ae07cb00f0ffa9983dfa.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "915035187547615243",
+          "name": "kevalin",
+          "discriminator": "4394",
+          "nickname": "kevalin",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "927753818664472626",
+        "channelId": "925251695162843216",
+        "guildId": "916751469678579784"
+      }
+    },
+    {
+      "id": "929127215973679164",
+      "type": "Default",
+      "timestamp": "2022-01-07T21:39:50.637+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@kevalin Is the mechanism for investments now a traditional VC path, except with bounties for scouts versus carry?",
+      "author": {
+        "id": "253418842200604673",
+        "name": "Qworg",
+        "discriminator": "3284",
+        "nickname": "Qworg",
+        "color": "#1ABC9C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/253418842200604673/4aca02d325346f367844d2127c17852e.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "915035187547615243",
+          "name": "kevalin",
+          "discriminator": "4394",
+          "nickname": "kevalin",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "929173201311924274",
+      "type": "Reply",
+      "timestamp": "2022-01-08T00:42:34.396+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "A couple months. The current focus is making great investments, providing a quality product to founders and contributors, & distributing this product.\n\nScaling up conversations with lawyers next week.",
+      "author": {
+        "id": "915035187547615243",
+        "name": "kevalin",
+        "discriminator": "4394",
+        "nickname": "kevalin",
+        "color": "#1F8B4C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/915035187547615243/8aec11e684cd1c3ab575358a58fda0bd.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "121348792992792576",
+          "name": "f1cken",
+          "discriminator": "7092",
+          "nickname": "f1cken",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "929000912561766450",
+        "channelId": "925251695162843216",
+        "guildId": "916751469678579784"
+      }
+    },
+    {
+      "id": "929173260925558804",
+      "type": "Reply",
+      "timestamp": "2022-01-08T00:42:48.609+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Yes",
+      "author": {
+        "id": "915035187547615243",
+        "name": "kevalin",
+        "discriminator": "4394",
+        "nickname": "kevalin",
+        "color": "#1F8B4C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/915035187547615243/8aec11e684cd1c3ab575358a58fda0bd.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "253418842200604673",
+          "name": "Qworg",
+          "discriminator": "3284",
+          "nickname": "Qworg",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "929127215973679164",
+        "channelId": "925251695162843216",
+        "guildId": "916751469678579784"
+      }
+    },
+    {
+      "id": "932521854256689213",
+      "type": "Reply",
+      "timestamp": "2022-01-17T06:28:55.473+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "That's a form which @kevalin shared. It's a form to refer another project. Good questions. Let's wait for a reply from @kevalin",
+      "author": {
+        "id": "900502872670744616",
+        "name": "AMICA",
+        "discriminator": "7675",
+        "nickname": "AMICA",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/900502872670744616/798fb3bd4007400558239f1e5a504b50.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDC4D",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/svg/1f44d.svg"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": [
+        {
+          "id": "191956661156577280",
+          "name": "ǪuickMythril",
+          "discriminator": "3670",
+          "nickname": "ǪuickMythril",
+          "isBot": false
+        },
+        {
+          "id": "915035187547615243",
+          "name": "kevalin",
+          "discriminator": "4394",
+          "nickname": "kevalin",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "932356844578537512",
+        "channelId": "925251695162843216",
+        "guildId": "916751469678579784"
+      }
+    },
+    {
+      "id": "934621694868467722",
+      "type": "Reply",
+      "timestamp": "2022-01-23T01:32:56.488+00:00",
+      "timestampEdited": "2022-02-01T00:45:31.685+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "There will be an update on everything in a few days\n\n**UPDATE: there will be no update on these forms as they're now deprecated**",
+      "author": {
+        "id": "915035187547615243",
+        "name": "kevalin",
+        "discriminator": "4394",
+        "nickname": "kevalin",
+        "color": "#1F8B4C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/915035187547615243/8aec11e684cd1c3ab575358a58fda0bd.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "934573467808960572",
+        "channelId": "925251695162843216",
+        "guildId": "916751469678579784"
+      }
+    },
+    {
+      "id": "934621716683042836",
+      "type": "Default",
+      "timestamp": "2022-01-23T01:33:01.689+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Will have to wait for now",
+      "author": {
+        "id": "915035187547615243",
+        "name": "kevalin",
+        "discriminator": "4394",
+        "nickname": "kevalin",
+        "color": "#1F8B4C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/915035187547615243/8aec11e684cd1c3ab575358a58fda0bd.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "934621748765274202",
+      "type": "Default",
+      "timestamp": "2022-01-23T01:33:09.338+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Was posting this here for reference",
+      "author": {
+        "id": "915035187547615243",
+        "name": "kevalin",
+        "discriminator": "4394",
+        "nickname": "kevalin",
+        "color": "#1F8B4C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/915035187547615243/8aec11e684cd1c3ab575358a58fda0bd.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDC4D",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/svg/1f44d.svg"
+          },
+          "count": 2
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "935251127056879727",
+      "type": "Default",
+      "timestamp": "2022-01-24T19:14:04.816+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "can someone tell me what was the decision after the voting round where IDNA won, because now everything is not available and there is no answer, just the page is not available :+(",
+      "author": {
+        "id": "422394322806243328",
+        "name": "Ogion",
+        "discriminator": "6341",
+        "nickname": "Ogion",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/422394322806243328/bad3a319fe32025ce44d343c25aebe19.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDC4D",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/svg/1f44d.svg"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "935998500930457680",
+      "type": "Default",
+      "timestamp": "2022-01-26T20:43:52.633+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Hi, filled out the initial form a little over a week ago. I have a development team ready to go so only waiting to hear back about a yes/no. Any idea when I can expect an update?",
+      "author": {
+        "id": "337748024325570570",
+        "name": "akhilp.eth",
+        "discriminator": "3757",
+        "nickname": "akhilp.eth",
+        "color": "#2ECC71",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/337748024325570570/30cc4c8cd198a06cc6b3946eb1a5714d.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "936021218040107028",
+      "type": "Reply",
+      "timestamp": "2022-01-26T22:14:08.814+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Hey!\n\nPer this there should be an update in a few days...",
+      "author": {
+        "id": "703540563328368691",
+        "name": "BenJ",
+        "discriminator": "0551",
+        "nickname": "BenJ",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/703540563328368691/e4eacd321d76a0e2b88bbcb8076d5e4d.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDC4D",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/svg/1f44d.svg"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": [
+        {
+          "id": "337748024325570570",
+          "name": "akhilp.eth",
+          "discriminator": "3757",
+          "nickname": "akhilp.eth",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "935998500930457680",
+        "channelId": "925251695162843216",
+        "guildId": "916751469678579784"
+      }
+    },
+    {
+      "id": "937871278847709214",
+      "type": "Reply",
+      "timestamp": "2022-02-01T00:45:37.683+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "That has been deprecated",
+      "author": {
+        "id": "915035187547615243",
+        "name": "kevalin",
+        "discriminator": "4394",
+        "nickname": "kevalin",
+        "color": "#1F8B4C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/915035187547615243/8aec11e684cd1c3ab575358a58fda0bd.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "391832438026010626",
+          "name": "Carsey",
+          "discriminator": "7622",
+          "nickname": "Carsey",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "936774546898423848",
+        "channelId": "925251695162843216",
+        "guildId": "916751469678579784"
+      }
+    },
+    {
+      "id": "939634394832969808",
+      "type": "Default",
+      "timestamp": "2022-02-05T21:31:37.291+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Hey folks curious how to be able to pitch on pitch night",
+      "author": {
+        "id": "497046448303505409",
+        "name": "niyogi",
+        "discriminator": "8213",
+        "nickname": "niyogi",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/497046448303505409/b1a3d176a51eed2b0176e1e4174cebaf.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "939637053598093352",
+      "type": "Reply",
+      "timestamp": "2022-02-05T21:42:11.19+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://discord.com/channels/916751469678579784/916797646071541811/939588212677046323",
+      "author": {
+        "id": "531561241219694592",
+        "name": "hawtlava",
+        "discriminator": "2461",
+        "nickname": "Ryu",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/531561241219694592/e93e2b42b8236ac750bae3fe24b0772b.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDC4D",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/svg/1f44d.svg"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": [
+        {
+          "id": "497046448303505409",
+          "name": "niyogi",
+          "discriminator": "8213",
+          "nickname": "niyogi",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "939634394832969808",
+        "channelId": "925251695162843216",
+        "guildId": "916751469678579784"
+      }
+    }
+  ],
+  "messageCount": 23
+}

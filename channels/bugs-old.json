@@ -1,0 +1,2209 @@
+{
+  "guild": {
+    "id": "916751469678579784",
+    "name": "Hyperscale",
+    "iconUrl": "https://cdn.discordapp.com/icons/916751469678579784/874219cdd9c60b09fc62afefa1efea43.png"
+  },
+  "channel": {
+    "id": "923128542940758016",
+    "type": "GuildTextChat",
+    "categoryId": "922689148861685780",
+    "category": "archived",
+    "name": "bugs-old",
+    "topic": "NOTICE: Archived channel. Please do NOT post!"
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "messages": [
+    {
+      "id": "923181510725632061",
+      "type": "Default",
+      "timestamp": "2021-12-22T11:53:44.04+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "The wallet connect link/URL takes me to a blank screen.  Once there I have to refresh the page to get it working properly.  Same issue using Discord App, safari and MetaMask Mobile browser",
+      "author": {
+        "id": "814923153666605097",
+        "name": "GeoCities",
+        "discriminator": "5700",
+        "nickname": "GeoCities",
+        "color": "#E74C3C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/814923153666605097/df3e6e3545bdee777bedc66cab891d24.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "923256755423686676",
+      "type": "Default",
+      "timestamp": "2021-12-22T16:52:43.774+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Yes, it seems to come in stages.  I had to connect my Discord handle, and refresh the page for the wallet connection to pop up",
+      "author": {
+        "id": "531561241219694592",
+        "name": "hawtlava",
+        "discriminator": "2461",
+        "nickname": "Ryu",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/531561241219694592/e93e2b42b8236ac750bae3fe24b0772b.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "923280365274148895",
+      "type": "Default",
+      "timestamp": "2021-12-22T18:26:32.801+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Similar experience @rorhug",
+      "author": {
+        "id": "577229116097429558",
+        "name": "pawel",
+        "discriminator": "0756",
+        "nickname": "pawel",
+        "color": "#1ABC9C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/577229116097429558/d3d6d970e3e20cd4e8cd8a8cc004304d.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "656638112251904002",
+          "name": "rorhug",
+          "discriminator": "0001",
+          "nickname": "rorhug",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "923280435327406100",
+      "type": "Default",
+      "timestamp": "2021-12-22T18:26:49.503+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://trello.com/c/5qB0Umcf/43-fix-mobile-menu-display",
+      "author": {
+        "id": "695056390284115989",
+        "name": "mf777",
+        "discriminator": "2873",
+        "nickname": "mf777",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/695056390284115989/48cbc9085537435bd886c86322b94d4f.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Fix mobile menu display",
+          "url": "https://trello.com/c/5qB0Umcf/43-fix-mobile-menu-display",
+          "timestamp": null,
+          "description": "",
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "923633230740074496",
+      "type": "Default",
+      "timestamp": "2021-12-23T17:48:42.484+00:00",
+      "timestampEdited": "2021-12-23T17:50:57.931+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "The Hyperscale Notion Website Links mentioned in Bounty ID\n90498007-6657-4323-8a49-d3a9918ba514 are not working.\n\nGetting an error when you click the following links:\n\nResources for developing a deep understanding:\n- https://hyperscalefund.notion.site/Welcome-to-Hyperscale-12a06b6fe3c14b9c92db9a5a3298b862\n- https://hyperscalefund.notion.site/DAO-Race-2c22ac7105264666b52426f595f056a5\n\nAm getting the following error",
+      "author": {
+        "id": "833348407024287806",
+        "name": "chain surfer",
+        "discriminator": "7318",
+        "nickname": "chain surfer",
+        "color": "#2ECC71",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/833348407024287806/522c0a59998123f16b3d43c8778d0657.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "923633652540243999",
+      "type": "Default",
+      "timestamp": "2021-12-23T17:50:23.049+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "833348407024287806",
+        "name": "chain surfer",
+        "discriminator": "7318",
+        "nickname": "chain surfer",
+        "color": "#2ECC71",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/833348407024287806/522c0a59998123f16b3d43c8778d0657.png?size=128"
+      },
+      "attachments": [
+        {
+          "id": "923633651638480906",
+          "url": "https://cdn.discordapp.com/attachments/923128542940758016/923633651638480906/Screenshot_2021-12-23_at_11.19.30_PM.png",
+          "fileName": "Screenshot_2021-12-23_at_11.19.30_PM.png",
+          "fileSizeBytes": 148843
+        }
+      ],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "923654978306986014",
+      "type": "Reply",
+      "timestamp": "2021-12-23T19:15:07.508+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Resources for developing a deep understanding:\n- https://hyperscale.notion.site/Welcome-to-Hyperscale-12a06b6fe3c14b9c92db9a5a3298b862\n- https://hyperscale.notion.site/DAO-Race-2c22ac7105264666b52426f595f056a5",
+      "author": {
+        "id": "915035187547615243",
+        "name": "kevalin",
+        "discriminator": "4394",
+        "nickname": "kevalin",
+        "color": "#1F8B4C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/915035187547615243/8aec11e684cd1c3ab575358a58fda0bd.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "833348407024287806",
+          "name": "chain surfer",
+          "discriminator": "7318",
+          "nickname": "chain surfer",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "923633230740074496",
+        "channelId": "923128542940758016",
+        "guildId": "916751469678579784"
+      }
+    },
+    {
+      "id": "923654991636496424",
+      "type": "Default",
+      "timestamp": "2021-12-23T19:15:10.686+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "These should work",
+      "author": {
+        "id": "915035187547615243",
+        "name": "kevalin",
+        "discriminator": "4394",
+        "nickname": "kevalin",
+        "color": "#1F8B4C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/915035187547615243/8aec11e684cd1c3ab575358a58fda0bd.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "923655050528702504",
+      "type": "Default",
+      "timestamp": "2021-12-23T19:15:24.727+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Where did you see those links?",
+      "author": {
+        "id": "915035187547615243",
+        "name": "kevalin",
+        "discriminator": "4394",
+        "nickname": "kevalin",
+        "color": "#1F8B4C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/915035187547615243/8aec11e684cd1c3ab575358a58fda0bd.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "923786426330529812",
+      "type": "Default",
+      "timestamp": "2021-12-24T03:57:27.159+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "#deleted-channel  channel in the bounties section",
+      "author": {
+        "id": "833348407024287806",
+        "name": "chain surfer",
+        "discriminator": "7318",
+        "nickname": "chain surfer",
+        "color": "#2ECC71",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/833348407024287806/522c0a59998123f16b3d43c8778d0657.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "923786538431709244",
+      "type": "Default",
+      "timestamp": "2021-12-24T03:57:53.886+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "First post",
+      "author": {
+        "id": "833348407024287806",
+        "name": "chain surfer",
+        "discriminator": "7318",
+        "nickname": "chain surfer",
+        "color": "#2ECC71",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/833348407024287806/522c0a59998123f16b3d43c8778d0657.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "923786692006117416",
+      "type": "Default",
+      "timestamp": "2021-12-24T03:58:30.501+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://discord.com/channels/916751469678579784/921936760789946368/923135078605934613",
+      "author": {
+        "id": "833348407024287806",
+        "name": "chain surfer",
+        "discriminator": "7318",
+        "nickname": "chain surfer",
+        "color": "#2ECC71",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/833348407024287806/522c0a59998123f16b3d43c8778d0657.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "923988680815829032",
+      "type": "Reply",
+      "timestamp": "2021-12-24T17:21:08.386+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Is notion stil down?",
+      "author": {
+        "id": "656638112251904002",
+        "name": "rorhug",
+        "discriminator": "0001",
+        "nickname": "rorhug",
+        "color": "#1ABC9C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/656638112251904002/be3bff63c99ecb17cd6884466e2c5466.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "833348407024287806",
+          "name": "chain surfer",
+          "discriminator": "7318",
+          "nickname": "chain surfer",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "923633652540243999",
+        "channelId": "923128542940758016",
+        "guildId": "916751469678579784"
+      }
+    },
+    {
+      "id": "923988757244444712",
+      "type": "Reply",
+      "timestamp": "2021-12-24T17:21:26.608+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Maybe AWS is having issues. Afk but will be on in a few hours",
+      "author": {
+        "id": "656638112251904002",
+        "name": "rorhug",
+        "discriminator": "0001",
+        "nickname": "rorhug",
+        "color": "#1ABC9C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/656638112251904002/be3bff63c99ecb17cd6884466e2c5466.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "531561241219694592",
+          "name": "hawtlava",
+          "discriminator": "2461",
+          "nickname": "Ryu",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "923256755423686676",
+        "channelId": "923128542940758016",
+        "guildId": "916751469678579784"
+      }
+    },
+    {
+      "id": "924216321967816756",
+      "type": "Reply",
+      "timestamp": "2021-12-25T08:25:42.266+00:00",
+      "timestampEdited": "2021-12-26T13:03:57.842+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I think there is some problem with the links mentioned in the bounty (maybe a copy aster error).",
+      "author": {
+        "id": "833348407024287806",
+        "name": "chain surfer",
+        "discriminator": "7318",
+        "nickname": "chain surfer",
+        "color": "#2ECC71",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/833348407024287806/522c0a59998123f16b3d43c8778d0657.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "656638112251904002",
+          "name": "rorhug",
+          "discriminator": "0001",
+          "nickname": "rorhug",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "923988680815829032",
+        "channelId": "923128542940758016",
+        "guildId": "916751469678579784"
+      }
+    },
+    {
+      "id": "924216644383948820",
+      "type": "Default",
+      "timestamp": "2021-12-25T08:26:59.136+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Also not sure if this one is a bug or feature request, but should closed bounties be removed from the  Bounties>#deleted-channel  channel, ar et elast be highlighted with a closed emoji or some other indicator as soon as they get over?",
+      "author": {
+        "id": "833348407024287806",
+        "name": "chain surfer",
+        "discriminator": "7318",
+        "nickname": "chain surfer",
+        "color": "#2ECC71",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/833348407024287806/522c0a59998123f16b3d43c8778d0657.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "924557117510279178",
+      "type": "Default",
+      "timestamp": "2021-12-26T06:59:54.255+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Some issue in switching between most voted and most recent tabs",
+      "author": {
+        "id": "729483774911578142",
+        "name": "codesherpa",
+        "discriminator": "8623",
+        "nickname": "codesherpa",
+        "color": "#E67E22",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/3.png"
+      },
+      "attachments": [
+        {
+          "id": "924557116151304272",
+          "url": "https://cdn.discordapp.com/attachments/923128542940758016/924557116151304272/Screenshot_2021-12-26_at_12.29.11.png",
+          "fileName": "Screenshot_2021-12-26_at_12.29.11.png",
+          "fileSizeBytes": 178274
+        },
+        {
+          "id": "924557116524625940",
+          "url": "https://cdn.discordapp.com/attachments/923128542940758016/924557116524625940/Screenshot_2021-12-26_at_12.28.39.png",
+          "fileName": "Screenshot_2021-12-26_at_12.28.39.png",
+          "fileSizeBytes": 153276
+        }
+      ],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "925061288286113842",
+      "type": "Default",
+      "timestamp": "2021-12-27T16:23:17.935+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "After clicked upvote this button should be disabled because it no longer performs any function",
+      "author": {
+        "id": "337643467268423682",
+        "name": "GreyPK",
+        "discriminator": "7928",
+        "nickname": "GreyPK",
+        "color": "#F47FFF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/337643467268423682/b0f242a2970e55a4d048958069d589d3.png?size=128"
+      },
+      "attachments": [
+        {
+          "id": "925061287661146253",
+          "url": "https://cdn.discordapp.com/attachments/923128542940758016/925061287661146253/unknown.png",
+          "fileName": "unknown.png",
+          "fileSizeBytes": 21282
+        }
+      ],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "925119880108310528",
+      "type": "Default",
+      "timestamp": "2021-12-27T20:16:07.314+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "How do designers communicate since the channel was archived? Is it by mistake or design?",
+      "author": {
+        "id": "760969548412616714",
+        "name": "Exito",
+        "discriminator": "2134",
+        "nickname": "Exito",
+        "color": "#F1C40F",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/760969548412616714/bbba0a46482519ab343bbf581c75fc6d.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "925120009871712306",
+      "type": "Default",
+      "timestamp": "2021-12-27T20:16:38.252+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "not quite bug, wasnt sure where to post it",
+      "author": {
+        "id": "760969548412616714",
+        "name": "Exito",
+        "discriminator": "2134",
+        "nickname": "Exito",
+        "color": "#F1C40F",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/760969548412616714/bbba0a46482519ab343bbf581c75fc6d.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "925721802888589323",
+      "type": "Default",
+      "timestamp": "2021-12-29T12:07:56.888+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "all day 500 server error on the site",
+      "author": {
+        "id": "591575322890338304",
+        "name": "kool_kidd",
+        "discriminator": "0589",
+        "nickname": "kool_kidd",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/4.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDFEB",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/svg/1f7eb.svg"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "925778843527155712",
+      "type": "Reply",
+      "timestamp": "2021-12-29T15:54:36.436+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Could you explain in more detail what you mean please? Repro steps maybe?",
+      "author": {
+        "id": "577229116097429558",
+        "name": "pawel",
+        "discriminator": "0756",
+        "nickname": "pawel",
+        "color": "#1ABC9C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/577229116097429558/d3d6d970e3e20cd4e8cd8a8cc004304d.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "591575322890338304",
+          "name": "kool_kidd",
+          "discriminator": "0589",
+          "nickname": "kool_kidd",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "925721802888589323",
+        "channelId": "923128542940758016",
+        "guildId": "916751469678579784"
+      }
+    },
+    {
+      "id": "925837104657866772",
+      "type": "Default",
+      "timestamp": "2021-12-29T19:46:06.972+00:00",
+      "timestampEdited": "2021-12-29T19:47:34.411+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "When trying to join via Discord from the website, getting 500 server error and not being sent to beta site after clicking the Authorize button (see image).",
+      "author": {
+        "id": "807716623937962064",
+        "name": "OmnistratMatt",
+        "discriminator": "8692",
+        "nickname": "OmnistratMatt",
+        "color": "#F1C40F",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/807716623937962064/8e878b350d70a484eca6368e81eff41a.png?size=128"
+      },
+      "attachments": [
+        {
+          "id": "925837103860961300",
+          "url": "https://cdn.discordapp.com/attachments/923128542940758016/925837103860961300/Screen_Shot_2021-12-29_at_2.42.56_PM.png",
+          "fileName": "Screen_Shot_2021-12-29_at_2.42.56_PM.png",
+          "fileSizeBytes": 277467
+        }
+      ],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "925837700173549649",
+      "type": "Default",
+      "timestamp": "2021-12-29T19:48:28.954+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "807716623937962064",
+        "name": "OmnistratMatt",
+        "discriminator": "8692",
+        "nickname": "OmnistratMatt",
+        "color": "#F1C40F",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/807716623937962064/8e878b350d70a484eca6368e81eff41a.png?size=128"
+      },
+      "attachments": [
+        {
+          "id": "925837699502448760",
+          "url": "https://cdn.discordapp.com/attachments/923128542940758016/925837699502448760/Screen_Shot_2021-12-29_at_2.48.01_PM.png",
+          "fileName": "Screen_Shot_2021-12-29_at_2.48.01_PM.png",
+          "fileSizeBytes": 32214
+        }
+      ],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "925844830066733117",
+      "type": "Reply",
+      "timestamp": "2021-12-29T20:16:48.853+00:00",
+      "timestampEdited": "2021-12-29T20:16:59.873+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Can't reproduce. Any other detail that might help investigating?",
+      "author": {
+        "id": "577229116097429558",
+        "name": "pawel",
+        "discriminator": "0756",
+        "nickname": "pawel",
+        "color": "#1ABC9C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/577229116097429558/d3d6d970e3e20cd4e8cd8a8cc004304d.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "807716623937962064",
+          "name": "OmnistratMatt",
+          "discriminator": "8692",
+          "nickname": "OmnistratMatt",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "925837104657866772",
+        "channelId": "923128542940758016",
+        "guildId": "916751469678579784"
+      }
+    },
+    {
+      "id": "925846768401391626",
+      "type": "Default",
+      "timestamp": "2021-12-29T20:24:30.988+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Going through logs now...",
+      "author": {
+        "id": "577229116097429558",
+        "name": "pawel",
+        "discriminator": "0756",
+        "nickname": "pawel",
+        "color": "#1ABC9C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/577229116097429558/d3d6d970e3e20cd4e8cd8a8cc004304d.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "925856185041690687",
+      "type": "Reply",
+      "timestamp": "2021-12-29T21:01:56.09+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Could you try again, please?",
+      "author": {
+        "id": "577229116097429558",
+        "name": "pawel",
+        "discriminator": "0756",
+        "nickname": "pawel",
+        "color": "#1ABC9C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/577229116097429558/d3d6d970e3e20cd4e8cd8a8cc004304d.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "807716623937962064",
+          "name": "OmnistratMatt",
+          "discriminator": "8692",
+          "nickname": "OmnistratMatt",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "925837700173549649",
+        "channelId": "923128542940758016",
+        "guildId": "916751469678579784"
+      }
+    },
+    {
+      "id": "925861534591230022",
+      "type": "Default",
+      "timestamp": "2021-12-29T21:23:11.522+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I have pushed a quick fix to production. It looks like my recent sign in flow addition was the issue. I hope it is fixed for you now. I am sorry for the trouble.",
+      "author": {
+        "id": "577229116097429558",
+        "name": "pawel",
+        "discriminator": "0756",
+        "nickname": "pawel",
+        "color": "#1ABC9C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/577229116097429558/d3d6d970e3e20cd4e8cd8a8cc004304d.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDC4D",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/svg/1f44d.svg"
+          },
+          "count": 2
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "925864585364385853",
+      "type": "Reply",
+      "timestamp": "2021-12-29T21:35:18.883+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "It worked. Thanks!",
+      "author": {
+        "id": "807716623937962064",
+        "name": "OmnistratMatt",
+        "discriminator": "8692",
+        "nickname": "OmnistratMatt",
+        "color": "#F1C40F",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/807716623937962064/8e878b350d70a484eca6368e81eff41a.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "577229116097429558",
+          "name": "pawel",
+          "discriminator": "0756",
+          "nickname": "pawel",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "925861534591230022",
+        "channelId": "923128542940758016",
+        "guildId": "916751469678579784"
+      }
+    },
+    {
+      "id": "926656626553933855",
+      "type": "Default",
+      "timestamp": "2022-01-01T02:02:36.218+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@pawel this particular entry seems not valid. https://www.hyperscalefund.com/dao-race/61ca380017daddacf0552511 so I clicked the flag button and it doesn't do anything.",
+      "author": {
+        "id": "900502872670744616",
+        "name": "AMICA",
+        "discriminator": "7675",
+        "nickname": "AMICA",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/900502872670744616/798fb3bd4007400558239f1e5a504b50.png?size=128"
+      },
+      "attachments": [
+        {
+          "id": "926656626985934949",
+          "url": "https://cdn.discordapp.com/attachments/923128542940758016/926656626985934949/Screenshot_20220101_073147.png",
+          "fileName": "Screenshot_20220101_073147.png",
+          "fileSizeBytes": 189158
+        }
+      ],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "577229116097429558",
+          "name": "pawel",
+          "discriminator": "0756",
+          "nickname": "pawel",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "926659234001735760",
+      "type": "Reply",
+      "timestamp": "2022-01-01T02:12:57.882+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Flag functionality yet to be implemented I guess",
+      "author": {
+        "id": "296591568750641155",
+        "name": "Aswanth",
+        "discriminator": "1733",
+        "nickname": "Aswanth",
+        "color": "#1ABC9C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/296591568750641155/4ef4fc06afe9edc7b5ff97180ced2d9f.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "900502872670744616",
+          "name": "AMICA",
+          "discriminator": "7675",
+          "nickname": "AMICA",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "926656626553933855",
+        "channelId": "923128542940758016",
+        "guildId": "916751469678579784"
+      }
+    },
+    {
+      "id": "926659524541169705",
+      "type": "Default",
+      "timestamp": "2022-01-01T02:14:07.152+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Okay",
+      "author": {
+        "id": "900502872670744616",
+        "name": "AMICA",
+        "discriminator": "7675",
+        "nickname": "AMICA",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/900502872670744616/798fb3bd4007400558239f1e5a504b50.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "926670589907841055",
+      "type": "Default",
+      "timestamp": "2022-01-01T02:58:05.341+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I also can't undo a vote after a vote is cast. It would be good if one is able to undo ones votes.",
+      "author": {
+        "id": "900502872670744616",
+        "name": "AMICA",
+        "discriminator": "7675",
+        "nickname": "AMICA",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/900502872670744616/798fb3bd4007400558239f1e5a504b50.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "926670666739114035",
+      "type": "Default",
+      "timestamp": "2022-01-01T02:58:23.659+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "In case of accidental taps or clicks.",
+      "author": {
+        "id": "900502872670744616",
+        "name": "AMICA",
+        "discriminator": "7675",
+        "nickname": "AMICA",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/900502872670744616/798fb3bd4007400558239f1e5a504b50.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "926676598172831855",
+      "type": "Reply",
+      "timestamp": "2022-01-01T03:21:57.823+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "That's a feature we have been working",
+      "author": {
+        "id": "296591568750641155",
+        "name": "Aswanth",
+        "discriminator": "1733",
+        "nickname": "Aswanth",
+        "color": "#1ABC9C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/296591568750641155/4ef4fc06afe9edc7b5ff97180ced2d9f.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDC4D",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/svg/1f44d.svg"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": [
+        {
+          "id": "900502872670744616",
+          "name": "AMICA",
+          "discriminator": "7675",
+          "nickname": "AMICA",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "926670589907841055",
+        "channelId": "923128542940758016",
+        "guildId": "916751469678579784"
+      }
+    },
+    {
+      "id": "926676753026514994",
+      "type": "Default",
+      "timestamp": "2022-01-01T03:22:34.743+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "It will be like \nwhen you click again vote will be  removed",
+      "author": {
+        "id": "296591568750641155",
+        "name": "Aswanth",
+        "discriminator": "1733",
+        "nickname": "Aswanth",
+        "color": "#1ABC9C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/296591568750641155/4ef4fc06afe9edc7b5ff97180ced2d9f.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "926685425018470461",
+      "type": "Default",
+      "timestamp": "2022-01-01T03:57:02.307+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Cool",
+      "author": {
+        "id": "900502872670744616",
+        "name": "AMICA",
+        "discriminator": "7675",
+        "nickname": "AMICA",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/900502872670744616/798fb3bd4007400558239f1e5a504b50.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "926738360352006185",
+      "type": "Default",
+      "timestamp": "2022-01-01T07:27:23.074+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Hi everyone! Happy new year! Just want let you guys know that a lot of people are having  issues connecting with discord …. and because of that they can’t vote…",
+      "author": {
+        "id": "859511735174430751",
+        "name": "Afonso | impactMarket ($PACT)",
+        "discriminator": "2070",
+        "nickname": "Afonso | impactMarket ($PACT)",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/859511735174430751/5a6eb78a9f92d4205d39f7a5555d019f.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "926738472079884318",
+      "type": "Default",
+      "timestamp": "2022-01-01T07:27:49.712+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "is it something you guys are aware?",
+      "author": {
+        "id": "859511735174430751",
+        "name": "Afonso | impactMarket ($PACT)",
+        "discriminator": "2070",
+        "nickname": "Afonso | impactMarket ($PACT)",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/859511735174430751/5a6eb78a9f92d4205d39f7a5555d019f.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "926746865368727683",
+      "type": "Default",
+      "timestamp": "2022-01-01T08:01:10.828+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Could you guys show me what's the error is ?",
+      "author": {
+        "id": "296591568750641155",
+        "name": "Aswanth",
+        "discriminator": "1733",
+        "nickname": "Aswanth",
+        "color": "#1ABC9C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/296591568750641155/4ef4fc06afe9edc7b5ff97180ced2d9f.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "926753205696749569",
+      "type": "Default",
+      "timestamp": "2022-01-01T08:26:22.48+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "FYI discord account you are connecting should be member of this server",
+      "author": {
+        "id": "296591568750641155",
+        "name": "Aswanth",
+        "discriminator": "1733",
+        "nickname": "Aswanth",
+        "color": "#1ABC9C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/296591568750641155/4ef4fc06afe9edc7b5ff97180ced2d9f.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "926779331676606474",
+      "type": "Reply",
+      "timestamp": "2022-01-01T10:10:11.399+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Yeah, it seems invalid but I am not if just don't get this. Could you ping the submitter and confirm, please?",
+      "author": {
+        "id": "577229116097429558",
+        "name": "pawel",
+        "discriminator": "0756",
+        "nickname": "pawel",
+        "color": "#1ABC9C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/577229116097429558/d3d6d970e3e20cd4e8cd8a8cc004304d.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "900502872670744616",
+          "name": "AMICA",
+          "discriminator": "7675",
+          "nickname": "AMICA",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "926656626553933855",
+        "channelId": "923128542940758016",
+        "guildId": "916751469678579784"
+      }
+    },
+    {
+      "id": "926784993978621993",
+      "type": "Reply",
+      "timestamp": "2022-01-01T10:32:41.397+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I'll try",
+      "author": {
+        "id": "900502872670744616",
+        "name": "AMICA",
+        "discriminator": "7675",
+        "nickname": "AMICA",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/900502872670744616/798fb3bd4007400558239f1e5a504b50.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "577229116097429558",
+          "name": "pawel",
+          "discriminator": "0756",
+          "nickname": "pawel",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "926779331676606474",
+        "channelId": "923128542940758016",
+        "guildId": "916751469678579784"
+      }
+    },
+    {
+      "id": "926786224574824478",
+      "type": "Default",
+      "timestamp": "2022-01-01T10:37:34.794+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@zoofar Ξ the other dao Is your entry to the DAO Race valid?",
+      "author": {
+        "id": "900502872670744616",
+        "name": "AMICA",
+        "discriminator": "7675",
+        "nickname": "AMICA",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/900502872670744616/798fb3bd4007400558239f1e5a504b50.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "327922905990299649",
+          "name": "zoofar Ξ the other dao",
+          "discriminator": "2484",
+          "nickname": "zoofar Ξ the other dao",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "926787231128125470",
+      "type": "Default",
+      "timestamp": "2022-01-01T10:41:34.775+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Here is a typo: The \"Votes for\" should be probably be \"Voted by\" or \"Votes from\"",
+      "author": {
+        "id": "900502872670744616",
+        "name": "AMICA",
+        "discriminator": "7675",
+        "nickname": "AMICA",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/900502872670744616/798fb3bd4007400558239f1e5a504b50.png?size=128"
+      },
+      "attachments": [
+        {
+          "id": "926787230570270750",
+          "url": "https://cdn.discordapp.com/attachments/923128542940758016/926787230570270750/Screenshot_20220101_160932.png",
+          "fileName": "Screenshot_20220101_160932.png",
+          "fileSizeBytes": 14438
+        }
+      ],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "926788708928204840",
+      "type": "Reply",
+      "timestamp": "2022-01-01T10:47:27.11+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I can see some suspicious errors in the logs that might be related. It might be something with DB cluster or how vercel function handle DB connection for async functions.  I will investigate later today when I have some free time. How do you know that a lot of people are effected @Afonso | impactMarket ($PACT)",
+      "author": {
+        "id": "577229116097429558",
+        "name": "pawel",
+        "discriminator": "0756",
+        "nickname": "pawel",
+        "color": "#1ABC9C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/577229116097429558/d3d6d970e3e20cd4e8cd8a8cc004304d.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "859511735174430751",
+          "name": "Afonso | impactMarket ($PACT)",
+          "discriminator": "2070",
+          "nickname": "Afonso | impactMarket ($PACT)",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "926738360352006185",
+        "channelId": "923128542940758016",
+        "guildId": "916751469678579784"
+      }
+    },
+    {
+      "id": "926814523321634828",
+      "type": "Default",
+      "timestamp": "2022-01-01T12:30:01.741+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@pawel Could it be that people are trying to join from the link at github: https://github.com/hyper-scale/race --> http://race-blond.vercel.app/ Maybe the link could be changed to https://www.hyperscalefund.com/dao-race/ ? Not sure",
+      "author": {
+        "id": "900502872670744616",
+        "name": "AMICA",
+        "discriminator": "7675",
+        "nickname": "AMICA",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/900502872670744616/798fb3bd4007400558239f1e5a504b50.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "577229116097429558",
+          "name": "pawel",
+          "discriminator": "0756",
+          "nickname": "pawel",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "926815279126839366",
+      "type": "Reply",
+      "timestamp": "2022-01-01T12:33:01.939+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Probably a useless triage / question from my part: Are they getting a \"Try signing in with a different account.\" error? If so are you using the link from github? If you are directly logged on to https://www.hyperscalefund.com/dao-race/ but try to vote with the link from git, it wont work.",
+      "author": {
+        "id": "900502872670744616",
+        "name": "AMICA",
+        "discriminator": "7675",
+        "nickname": "AMICA",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/900502872670744616/798fb3bd4007400558239f1e5a504b50.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "859511735174430751",
+          "name": "Afonso | impactMarket ($PACT)",
+          "discriminator": "2070",
+          "nickname": "Afonso | impactMarket ($PACT)",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "926738360352006185",
+        "channelId": "923128542940758016",
+        "guildId": "916751469678579784"
+      }
+    },
+    {
+      "id": "926919720450551820",
+      "type": "Reply",
+      "timestamp": "2022-01-01T19:28:02.691+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "So that’s bad UX what would they know??",
+      "author": {
+        "id": "859511735174430751",
+        "name": "Afonso | impactMarket ($PACT)",
+        "discriminator": "2070",
+        "nickname": "Afonso | impactMarket ($PACT)",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/859511735174430751/5a6eb78a9f92d4205d39f7a5555d019f.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "296591568750641155",
+          "name": "Aswanth",
+          "discriminator": "1733",
+          "nickname": "Aswanth",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "926753205696749569",
+        "channelId": "923128542940758016",
+        "guildId": "916751469678579784"
+      }
+    },
+    {
+      "id": "926920062093389824",
+      "type": "Reply",
+      "timestamp": "2022-01-01T19:29:24.145+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "They replied on our twitter post and also half of the team can’t vote",
+      "author": {
+        "id": "859511735174430751",
+        "name": "Afonso | impactMarket ($PACT)",
+        "discriminator": "2070",
+        "nickname": "Afonso | impactMarket ($PACT)",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/859511735174430751/5a6eb78a9f92d4205d39f7a5555d019f.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "577229116097429558",
+          "name": "pawel",
+          "discriminator": "0756",
+          "nickname": "pawel",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "926788708928204840",
+        "channelId": "923128542940758016",
+        "guildId": "916751469678579784"
+      }
+    },
+    {
+      "id": "927136438879928331",
+      "type": "Default",
+      "timestamp": "2022-01-02T09:49:12.391+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Having trouble with the join feature sending me on a loop to sign in with discord. I sign in but then I cannot go to the form - takes me back to the sign in with discord page. After multiple attempts it works - but definitely buggy might be worth looking into.",
+      "author": {
+        "id": "767981871766044712",
+        "name": "Enki",
+        "discriminator": "9506",
+        "nickname": "Enki",
+        "color": "#F1C40F",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/767981871766044712/e732d28faf4d0f189841ce9dcdd713a0.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "927698169062629376",
+      "type": "Default",
+      "timestamp": "2022-01-03T23:01:19.303+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "\uD83D\uDC40",
+      "author": {
+        "id": "859511735174430751",
+        "name": "Afonso | impactMarket ($PACT)",
+        "discriminator": "2070",
+        "nickname": "Afonso | impactMarket ($PACT)",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/859511735174430751/5a6eb78a9f92d4205d39f7a5555d019f.png?size=128"
+      },
+      "attachments": [
+        {
+          "id": "927698168064409650",
+          "url": "https://cdn.discordapp.com/attachments/923128542940758016/927698168064409650/unknown.png",
+          "fileName": "unknown.png",
+          "fileSizeBytes": 802101
+        }
+      ],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "927698296481386587",
+      "type": "Default",
+      "timestamp": "2022-01-03T23:01:49.682+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://www.hyperscalefund.com/dao-race/61bdb2073a7a461f6f45e7a9#",
+      "author": {
+        "id": "859511735174430751",
+        "name": "Afonso | impactMarket ($PACT)",
+        "discriminator": "2070",
+        "nickname": "Afonso | impactMarket ($PACT)",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/859511735174430751/5a6eb78a9f92d4205d39f7a5555d019f.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "927736527566553139",
+      "type": "Default",
+      "timestamp": "2022-01-04T01:33:44.683+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@Core-Dev",
+      "author": {
+        "id": "915035187547615243",
+        "name": "kevalin",
+        "discriminator": "4394",
+        "nickname": "kevalin",
+        "color": "#1F8B4C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/915035187547615243/8aec11e684cd1c3ab575358a58fda0bd.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "927850986825998356",
+      "type": "Default",
+      "timestamp": "2022-01-04T09:08:33.897+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@Aswanth could you take a look at this?",
+      "author": {
+        "id": "577229116097429558",
+        "name": "pawel",
+        "discriminator": "0756",
+        "nickname": "pawel",
+        "color": "#1ABC9C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/577229116097429558/d3d6d970e3e20cd4e8cd8a8cc004304d.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "296591568750641155",
+          "name": "Aswanth",
+          "discriminator": "1733",
+          "nickname": "Aswanth",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "927851791062794240",
+      "type": "Reply",
+      "timestamp": "2022-01-04T09:11:45.642+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "okay",
+      "author": {
+        "id": "296591568750641155",
+        "name": "Aswanth",
+        "discriminator": "1733",
+        "nickname": "Aswanth",
+        "color": "#1ABC9C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/296591568750641155/4ef4fc06afe9edc7b5ff97180ced2d9f.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "577229116097429558",
+          "name": "pawel",
+          "discriminator": "0756",
+          "nickname": "pawel",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "927850986825998356",
+        "channelId": "923128542940758016",
+        "guildId": "916751469678579784"
+      }
+    },
+    {
+      "id": "927851841084067870",
+      "type": "Default",
+      "timestamp": "2022-01-04T09:11:57.568+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "its a small fix done",
+      "author": {
+        "id": "296591568750641155",
+        "name": "Aswanth",
+        "discriminator": "1733",
+        "nickname": "Aswanth",
+        "color": "#1ABC9C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/296591568750641155/4ef4fc06afe9edc7b5ff97180ced2d9f.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "927853283895291935",
+      "type": "Default",
+      "timestamp": "2022-01-04T09:17:41.561+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "will create a pr",
+      "author": {
+        "id": "296591568750641155",
+        "name": "Aswanth",
+        "discriminator": "1733",
+        "nickname": "Aswanth",
+        "color": "#1ABC9C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/296591568750641155/4ef4fc06afe9edc7b5ff97180ced2d9f.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "927853314987683860",
+      "type": "Default",
+      "timestamp": "2022-01-04T09:17:48.974+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "cool, thanks",
+      "author": {
+        "id": "577229116097429558",
+        "name": "pawel",
+        "discriminator": "0756",
+        "nickname": "pawel",
+        "color": "#1ABC9C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/577229116097429558/d3d6d970e3e20cd4e8cd8a8cc004304d.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "927855043837820999",
+      "type": "Default",
+      "timestamp": "2022-01-04T09:24:41.164+00:00",
+      "timestampEdited": "2022-01-04T09:25:09.094+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "in btw how can i authorize vercel?",
+      "author": {
+        "id": "296591568750641155",
+        "name": "Aswanth",
+        "discriminator": "1733",
+        "nickname": "Aswanth",
+        "color": "#1ABC9C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/296591568750641155/4ef4fc06afe9edc7b5ff97180ced2d9f.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "927855136024449054",
+      "type": "Default",
+      "timestamp": "2022-01-04T09:25:03.143+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "it shows a member of hyperscale team should authorize it",
+      "author": {
+        "id": "296591568750641155",
+        "name": "Aswanth",
+        "discriminator": "1733",
+        "nickname": "Aswanth",
+        "color": "#1ABC9C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/296591568750641155/4ef4fc06afe9edc7b5ff97180ced2d9f.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "927859073318268938",
+      "type": "Reply",
+      "timestamp": "2022-01-04T09:40:41.867+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "fixed",
+      "author": {
+        "id": "296591568750641155",
+        "name": "Aswanth",
+        "discriminator": "1733",
+        "nickname": "Aswanth",
+        "color": "#1ABC9C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/296591568750641155/4ef4fc06afe9edc7b5ff97180ced2d9f.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "859511735174430751",
+          "name": "Afonso | impactMarket ($PACT)",
+          "discriminator": "2070",
+          "nickname": "Afonso | impactMarket ($PACT)",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "927698169062629376",
+        "channelId": "923128542940758016",
+        "guildId": "916751469678579784"
+      }
+    },
+    {
+      "id": "927925724092981289",
+      "type": "Reply",
+      "timestamp": "2022-01-04T14:05:32.65+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Page is functional",
+      "author": {
+        "id": "900502872670744616",
+        "name": "AMICA",
+        "discriminator": "7675",
+        "nickname": "AMICA",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/900502872670744616/798fb3bd4007400558239f1e5a504b50.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "859511735174430751",
+          "name": "Afonso | impactMarket ($PACT)",
+          "discriminator": "2070",
+          "nickname": "Afonso | impactMarket ($PACT)",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "927698296481386587",
+        "channelId": "923128542940758016",
+        "guildId": "916751469678579784"
+      }
+    },
+    {
+      "id": "927926254852788224",
+      "type": "Default",
+      "timestamp": "2022-01-04T14:07:39.193+00:00",
+      "timestampEdited": "2022-01-04T14:09:13.791+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I thought voting was suspended. But I can see day by day https://www.hyperscalefund.com/dao-race votes are increasing. See: https://discord.com/channels/916751469678579784/916751469678579787/927313146715185182",
+      "author": {
+        "id": "900502872670744616",
+        "name": "AMICA",
+        "discriminator": "7675",
+        "nickname": "AMICA",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/900502872670744616/798fb3bd4007400558239f1e5a504b50.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "927965271308783637",
+      "type": "Default",
+      "timestamp": "2022-01-04T16:42:41.441+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "859511735174430751",
+        "name": "Afonso | impactMarket ($PACT)",
+        "discriminator": "2070",
+        "nickname": "Afonso | impactMarket ($PACT)",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/859511735174430751/5a6eb78a9f92d4205d39f7a5555d019f.png?size=128"
+      },
+      "attachments": [
+        {
+          "id": "927965270348271676",
+          "url": "https://cdn.discordapp.com/attachments/923128542940758016/927965270348271676/IMG_6262.png",
+          "fileName": "IMG_6262.png",
+          "fileSizeBytes": 702999
+        }
+      ],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "927965328036745227",
+      "type": "Default",
+      "timestamp": "2022-01-04T16:42:54.966+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Hi all\n\nI realise other people have noted this previously. But, the production site won't let me connect Discord (having previously connected)...",
+      "author": {
+        "id": "703540563328368691",
+        "name": "BenJ",
+        "discriminator": "0551",
+        "nickname": "BenJ",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/703540563328368691/e4eacd321d76a0e2b88bbcb8076d5e4d.png?size=128"
+      },
+      "attachments": [
+        {
+          "id": "927965327113994285",
+          "url": "https://cdn.discordapp.com/attachments/923128542940758016/927965327113994285/unknown.png",
+          "fileName": "unknown.png",
+          "fileSizeBytes": 41540
+        }
+      ],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "928034784234602497",
+      "type": "Default",
+      "timestamp": "2022-01-04T21:18:54.614+00:00",
+      "timestampEdited": "2022-01-04T21:19:14.942+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "The DAO Race has been paused, so I assume that's why you are getting this error",
+      "author": {
+        "id": "157890200402395136",
+        "name": "Solon",
+        "discriminator": "8510",
+        "nickname": "Solon",
+        "color": "#E74C3C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "928035111679701033",
+      "type": "Default",
+      "timestamp": "2022-01-04T21:20:12.683+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Hmmm, I'm not so sure",
+      "author": {
+        "id": "703540563328368691",
+        "name": "BenJ",
+        "discriminator": "0551",
+        "nickname": "BenJ",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/703540563328368691/e4eacd321d76a0e2b88bbcb8076d5e4d.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "928037497043316747",
+      "type": "Default",
+      "timestamp": "2022-01-04T21:29:41.398+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Even if it was possible to connect, you would not be able to vote on anything because as I said the race is paused, so no need to worry about this right now",
+      "author": {
+        "id": "157890200402395136",
+        "name": "Solon",
+        "discriminator": "8510",
+        "nickname": "Solon",
+        "color": "#E74C3C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "928054965908414555",
+      "type": "Default",
+      "timestamp": "2022-01-04T22:39:06.3+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Thanks @Solon",
+      "author": {
+        "id": "703540563328368691",
+        "name": "BenJ",
+        "discriminator": "0551",
+        "nickname": "BenJ",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/703540563328368691/e4eacd321d76a0e2b88bbcb8076d5e4d.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "157890200402395136",
+          "name": "Solon",
+          "discriminator": "8510",
+          "nickname": "Solon",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "928165076647706654",
+      "type": "Default",
+      "timestamp": "2022-01-05T05:56:38.746+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I remember seeing that the Race was paused ... I even capture a screenshot...",
+      "author": {
+        "id": "859511735174430751",
+        "name": "Afonso | impactMarket ($PACT)",
+        "discriminator": "2070",
+        "nickname": "Afonso | impactMarket ($PACT)",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/859511735174430751/5a6eb78a9f92d4205d39f7a5555d019f.png?size=128"
+      },
+      "attachments": [
+        {
+          "id": "928165076077269002",
+          "url": "https://cdn.discordapp.com/attachments/923128542940758016/928165076077269002/image.png",
+          "fileName": "image.png",
+          "fileSizeBytes": 92716
+        }
+      ],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "928165179655598111",
+      "type": "Default",
+      "timestamp": "2022-01-05T05:57:03.305+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "but now nothing shows up... is it paused still?",
+      "author": {
+        "id": "859511735174430751",
+        "name": "Afonso | impactMarket ($PACT)",
+        "discriminator": "2070",
+        "nickname": "Afonso | impactMarket ($PACT)",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/859511735174430751/5a6eb78a9f92d4205d39f7a5555d019f.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "928165185926070272",
+      "type": "Default",
+      "timestamp": "2022-01-05T05:57:04.8+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "859511735174430751",
+        "name": "Afonso | impactMarket ($PACT)",
+        "discriminator": "2070",
+        "nickname": "Afonso | impactMarket ($PACT)",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/859511735174430751/5a6eb78a9f92d4205d39f7a5555d019f.png?size=128"
+      },
+      "attachments": [
+        {
+          "id": "928165184856555581",
+          "url": "https://cdn.discordapp.com/attachments/923128542940758016/928165184856555581/unknown.png",
+          "fileName": "unknown.png",
+          "fileSizeBytes": 1216234
+        }
+      ],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "928165864639967232",
+      "type": "Reply",
+      "timestamp": "2022-01-05T05:59:46.618+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "it is paused",
+      "author": {
+        "id": "296591568750641155",
+        "name": "Aswanth",
+        "discriminator": "1733",
+        "nickname": "Aswanth",
+        "color": "#1ABC9C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/296591568750641155/4ef4fc06afe9edc7b5ff97180ced2d9f.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "859511735174430751",
+          "name": "Afonso | impactMarket ($PACT)",
+          "discriminator": "2070",
+          "nickname": "Afonso | impactMarket ($PACT)",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "928165076647706654",
+        "channelId": "923128542940758016",
+        "guildId": "916751469678579784"
+      }
+    },
+    {
+      "id": "928380372788600882",
+      "type": "Default",
+      "timestamp": "2022-01-05T20:12:09.346+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Ok…. I hope this gets fixed soon and we can win this…. So many lives depend on it….\uD83D\uDE4F\uD83D\uDE4F\uD83D\uDE4F\uD83D\uDE4F impactmarket.com",
+      "author": {
+        "id": "859511735174430751",
+        "name": "Afonso | impactMarket ($PACT)",
+        "discriminator": "2070",
+        "nickname": "Afonso | impactMarket ($PACT)",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/859511735174430751/5a6eb78a9f92d4205d39f7a5555d019f.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "928435658316476426",
+      "type": "Default",
+      "timestamp": "2022-01-05T23:51:50.443+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "please ping here when we can start voting again",
+      "author": {
+        "id": "530804528296099848",
+        "name": "meplov",
+        "discriminator": "6094",
+        "nickname": "meplov",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/530804528296099848/9412ab154fed9d0b5c07ff1d0e4b07c4.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "931093699574775808",
+      "type": "Default",
+      "timestamp": "2022-01-13T07:53:56.863+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Our submission disappeared … what happened? https://www.hyperscalefund.com/dao-race/61bdb2073a7a461f6f45e7a9",
+      "author": {
+        "id": "859511735174430751",
+        "name": "Afonso | impactMarket ($PACT)",
+        "discriminator": "2070",
+        "nickname": "Afonso | impactMarket ($PACT)",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/859511735174430751/5a6eb78a9f92d4205d39f7a5555d019f.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "931099335154892821",
+      "type": "Reply",
+      "timestamp": "2022-01-13T08:16:20.49+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "DAO Race (the experimentation around decentralized investing) has been paused in favor of a centralized fund model",
+      "author": {
+        "id": "915035187547615243",
+        "name": "kevalin",
+        "discriminator": "4394",
+        "nickname": "kevalin",
+        "color": "#1F8B4C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/915035187547615243/8aec11e684cd1c3ab575358a58fda0bd.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "859511735174430751",
+          "name": "Afonso | impactMarket ($PACT)",
+          "discriminator": "2070",
+          "nickname": "Afonso | impactMarket ($PACT)",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "931093699574775808",
+        "channelId": "923128542940758016",
+        "guildId": "916751469678579784"
+      }
+    },
+    {
+      "id": "931099629578244096",
+      "type": "Default",
+      "timestamp": "2022-01-13T08:17:30.686+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Ok… do we need to re-submit?",
+      "author": {
+        "id": "859511735174430751",
+        "name": "Afonso | impactMarket ($PACT)",
+        "discriminator": "2070",
+        "nickname": "Afonso | impactMarket ($PACT)",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/859511735174430751/5a6eb78a9f92d4205d39f7a5555d019f.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    }
+  ],
+  "messageCount": 79
+}

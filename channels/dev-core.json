@@ -1,0 +1,1448 @@
+{
+  "guild": {
+    "id": "916751469678579784",
+    "name": "Hyperscale",
+    "iconUrl": "https://cdn.discordapp.com/icons/916751469678579784/874219cdd9c60b09fc62afefa1efea43.png"
+  },
+  "channel": {
+    "id": "917677133260787735",
+    "type": "GuildTextChat",
+    "categoryId": "922689148861685780",
+    "category": "archived",
+    "name": "dev-core",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "messages": [
+    {
+      "id": "917805788129558548",
+      "type": "Default",
+      "timestamp": "2021-12-07T15:52:31.897+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "lol",
+      "author": {
+        "id": "539618266579206145",
+        "name": "neelr",
+        "discriminator": "5007",
+        "nickname": "neelr",
+        "color": "#1ABC9C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/539618266579206145/792d626cbd0a8c77dd4880e8afab29cf.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "917806945828765706",
+      "type": "Default",
+      "timestamp": "2021-12-07T15:57:07.914+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "heh",
+      "author": {
+        "id": "327155315906838528",
+        "name": "ClaireBookworm",
+        "discriminator": "5393",
+        "nickname": "ClaireBookworm",
+        "color": "#1ABC9C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/327155315906838528/65560535c436fcc637eef141074fdba4.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "917806954674544741",
+      "type": "Default",
+      "timestamp": "2021-12-07T15:57:10.023+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "delete? whats that",
+      "author": {
+        "id": "327155315906838528",
+        "name": "ClaireBookworm",
+        "discriminator": "5393",
+        "nickname": "ClaireBookworm",
+        "color": "#1ABC9C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/327155315906838528/65560535c436fcc637eef141074fdba4.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "917854074127413288",
+      "type": "Default",
+      "timestamp": "2021-12-07T19:04:24.176+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "hallo",
+      "author": {
+        "id": "656638112251904002",
+        "name": "rorhug",
+        "discriminator": "0001",
+        "nickname": "rorhug",
+        "color": "#1ABC9C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/656638112251904002/be3bff63c99ecb17cd6884466e2c5466.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "917854903001550910",
+      "type": "Default",
+      "timestamp": "2021-12-07T19:07:41.795+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Salutations",
+      "author": {
+        "id": "915035187547615243",
+        "name": "kevalin",
+        "discriminator": "4394",
+        "nickname": "kevalin",
+        "color": "#1F8B4C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/915035187547615243/8aec11e684cd1c3ab575358a58fda0bd.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "917902679529881620",
+      "type": "Default",
+      "timestamp": "2021-12-07T22:17:32.607+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "gm",
+      "author": {
+        "id": "215866112972161036",
+        "name": "m1guelpf",
+        "discriminator": "4217",
+        "nickname": "m1guelpf",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/215866112972161036/0b580d36511d0744f1c674a759aad37c.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "917951055810138142",
+      "type": "Default",
+      "timestamp": "2021-12-08T01:29:46.411+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "gmgm",
+      "author": {
+        "id": "539618266579206145",
+        "name": "neelr",
+        "discriminator": "5007",
+        "nickname": "neelr",
+        "color": "#1ABC9C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/539618266579206145/792d626cbd0a8c77dd4880e8afab29cf.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "917951230830055455",
+      "type": "Default",
+      "timestamp": "2021-12-08T01:30:28.139+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "also is it possible to get access to the airtable for future integrations & stuff",
+      "author": {
+        "id": "539618266579206145",
+        "name": "neelr",
+        "discriminator": "5007",
+        "nickname": "neelr",
+        "color": "#1ABC9C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/539618266579206145/792d626cbd0a8c77dd4880e8afab29cf.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "917964496834793513",
+      "type": "Default",
+      "timestamp": "2021-12-08T02:23:11.001+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "^",
+      "author": {
+        "id": "327155315906838528",
+        "name": "ClaireBookworm",
+        "discriminator": "5393",
+        "nickname": "ClaireBookworm",
+        "color": "#1ABC9C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/327155315906838528/65560535c436fcc637eef141074fdba4.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "917980919913119794",
+      "type": "Reply",
+      "timestamp": "2021-12-08T03:28:26.568+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Yeah trying to restrict access. Just good security practice.",
+      "author": {
+        "id": "915035187547615243",
+        "name": "kevalin",
+        "discriminator": "4394",
+        "nickname": "kevalin",
+        "color": "#1F8B4C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/915035187547615243/8aec11e684cd1c3ab575358a58fda0bd.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "539618266579206145",
+          "name": "neelr",
+          "discriminator": "5007",
+          "nickname": "neelr",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "917951230830055455",
+        "channelId": "917677133260787735",
+        "guildId": "916751469678579784"
+      }
+    },
+    {
+      "id": "917980991019167764",
+      "type": "Default",
+      "timestamp": "2021-12-08T03:28:43.521+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "When it's needed I'll have one in charge of this",
+      "author": {
+        "id": "915035187547615243",
+        "name": "kevalin",
+        "discriminator": "4394",
+        "nickname": "kevalin",
+        "color": "#1F8B4C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/915035187547615243/8aec11e684cd1c3ab575358a58fda0bd.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "918197841527197696",
+      "type": "Reply",
+      "timestamp": "2021-12-08T17:50:24.711+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "sounds good!",
+      "author": {
+        "id": "327155315906838528",
+        "name": "ClaireBookworm",
+        "discriminator": "5393",
+        "nickname": "ClaireBookworm",
+        "color": "#1ABC9C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/327155315906838528/65560535c436fcc637eef141074fdba4.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "915035187547615243",
+          "name": "kevalin",
+          "discriminator": "4394",
+          "nickname": "kevalin",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "917980991019167764",
+        "channelId": "917677133260787735",
+        "guildId": "916751469678579784"
+      }
+    },
+    {
+      "id": "918255427890839574",
+      "type": "Default",
+      "timestamp": "2021-12-08T21:39:14.37+00:00",
+      "timestampEdited": "2021-12-08T21:39:22.791+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Hey friends `@boshd` is interested in working on dev stuff, are we doing an application of any sort? Or are we up to just let anyone in",
+      "author": {
+        "id": "591386468132323349",
+        "name": "evann",
+        "discriminator": "0296",
+        "nickname": "evann",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/591386468132323349/36aac4a11d071bf60bd5423db0158f8c.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "918255483343749120",
+      "type": "Default",
+      "timestamp": "2021-12-08T21:39:27.591+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "He's sendin' me DMs",
+      "author": {
+        "id": "591386468132323349",
+        "name": "evann",
+        "discriminator": "0296",
+        "nickname": "evann",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/591386468132323349/36aac4a11d071bf60bd5423db0158f8c.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "918255602956902510",
+      "type": "Default",
+      "timestamp": "2021-12-08T21:39:56.109+00:00",
+      "timestampEdited": "2021-12-08T21:40:23.172+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Are we github yet",
+      "author": {
+        "id": "591386468132323349",
+        "name": "evann",
+        "discriminator": "0296",
+        "nickname": "evann",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/591386468132323349/36aac4a11d071bf60bd5423db0158f8c.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "918578990606856244",
+      "type": "Reply",
+      "timestamp": "2021-12-09T19:04:57.733+00:00",
+      "timestampEdited": "2021-12-09T19:05:02.887+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "mm not entirely sure what you mean but our github is public and anyone can make a pr!",
+      "author": {
+        "id": "327155315906838528",
+        "name": "ClaireBookworm",
+        "discriminator": "5393",
+        "nickname": "ClaireBookworm",
+        "color": "#1ABC9C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/327155315906838528/65560535c436fcc637eef141074fdba4.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "591386468132323349",
+          "name": "evann",
+          "discriminator": "0296",
+          "nickname": "evann",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "918255602956902510",
+        "channelId": "917677133260787735",
+        "guildId": "916751469678579784"
+      }
+    },
+    {
+      "id": "918625201674137621",
+      "type": "Reply",
+      "timestamp": "2021-12-09T22:08:35.31+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Ah apologies, unclear exactly what he was looking for \uD83D\uDE05",
+      "author": {
+        "id": "591386468132323349",
+        "name": "evann",
+        "discriminator": "0296",
+        "nickname": "evann",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/591386468132323349/36aac4a11d071bf60bd5423db0158f8c.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "327155315906838528",
+          "name": "ClaireBookworm",
+          "discriminator": "5393",
+          "nickname": "ClaireBookworm",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "918578990606856244",
+        "channelId": "917677133260787735",
+        "guildId": "916751469678579784"
+      }
+    },
+    {
+      "id": "918625230338031646",
+      "type": "Default",
+      "timestamp": "2021-12-09T22:08:42.144+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "But I think he found it",
+      "author": {
+        "id": "591386468132323349",
+        "name": "evann",
+        "discriminator": "0296",
+        "nickname": "evann",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/591386468132323349/36aac4a11d071bf60bd5423db0158f8c.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "918694732266360872",
+      "type": "Default",
+      "timestamp": "2021-12-10T02:44:52.695+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "gm",
+      "author": {
+        "id": "863555557168119808",
+        "name": "LZRS",
+        "discriminator": "8262",
+        "nickname": "LZRS",
+        "color": "#AD1457",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/2.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "918694960105156638",
+      "type": "Default",
+      "timestamp": "2021-12-10T02:45:47.016+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "have we started work on the dao race app yet?",
+      "author": {
+        "id": "863555557168119808",
+        "name": "LZRS",
+        "discriminator": "8262",
+        "nickname": "LZRS",
+        "color": "#AD1457",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/2.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "918695924241403935",
+      "type": "Reply",
+      "timestamp": "2021-12-10T02:49:36.884+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Not yet",
+      "author": {
+        "id": "915035187547615243",
+        "name": "kevalin",
+        "discriminator": "4394",
+        "nickname": "kevalin",
+        "color": "#1F8B4C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/915035187547615243/8aec11e684cd1c3ab575358a58fda0bd.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "863555557168119808",
+          "name": "LZRS",
+          "discriminator": "8262",
+          "nickname": "LZRS",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "918694960105156638",
+        "channelId": "917677133260787735",
+        "guildId": "916751469678579784"
+      }
+    },
+    {
+      "id": "918695998384132177",
+      "type": "Default",
+      "timestamp": "2021-12-10T02:49:54.561+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Like we are as of 40 min ago",
+      "author": {
+        "id": "915035187547615243",
+        "name": "kevalin",
+        "discriminator": "4394",
+        "nickname": "kevalin",
+        "color": "#1F8B4C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/915035187547615243/8aec11e684cd1c3ab575358a58fda0bd.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "918696099366195201",
+      "type": "Default",
+      "timestamp": "2021-12-10T02:50:18.637+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Much of the core team communication is off Discord",
+      "author": {
+        "id": "915035187547615243",
+        "name": "kevalin",
+        "discriminator": "4394",
+        "nickname": "kevalin",
+        "color": "#1F8B4C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/915035187547615243/8aec11e684cd1c3ab575358a58fda0bd.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "918696163497115718",
+      "type": "Default",
+      "timestamp": "2021-12-10T02:50:33.927+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Going to move more of it here",
+      "author": {
+        "id": "915035187547615243",
+        "name": "kevalin",
+        "discriminator": "4394",
+        "nickname": "kevalin",
+        "color": "#1F8B4C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/915035187547615243/8aec11e684cd1c3ab575358a58fda0bd.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "918974185479499797",
+      "type": "Default",
+      "timestamp": "2021-12-10T21:15:19.533+00:00",
+      "timestampEdited": "2021-12-10T21:15:47.155+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "i asked over in #deleted-channel but i'll ask here as well: is there a trello/clickup/jira/whatever for the project? i have some bandwidth for tasks over the next few days",
+      "author": {
+        "id": "695056390284115989",
+        "name": "mf777",
+        "discriminator": "2873",
+        "nickname": "mf777",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/695056390284115989/48cbc9085537435bd886c86322b94d4f.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "918982235531649075",
+      "type": "Default",
+      "timestamp": "2021-12-10T21:47:18.815+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I'll be more active here in the weekend and can spearheard a bunch of issues",
+      "author": {
+        "id": "539618266579206145",
+        "name": "neelr",
+        "discriminator": "5007",
+        "nickname": "neelr",
+        "color": "#1ABC9C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/539618266579206145/792d626cbd0a8c77dd4880e8afab29cf.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "918991519812317205",
+      "type": "Default",
+      "timestamp": "2021-12-10T22:24:12.36+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Anyone actively working on the 4 issues in GH? I only see one assigned",
+      "author": {
+        "id": "695056390284115989",
+        "name": "mf777",
+        "discriminator": "2873",
+        "nickname": "mf777",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/695056390284115989/48cbc9085537435bd886c86322b94d4f.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "918995984837644308",
+      "type": "Default",
+      "timestamp": "2021-12-10T22:41:56.905+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Hmmm idts",
+      "author": {
+        "id": "327155315906838528",
+        "name": "ClaireBookworm",
+        "discriminator": "5393",
+        "nickname": "ClaireBookworm",
+        "color": "#1ABC9C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/327155315906838528/65560535c436fcc637eef141074fdba4.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "918997068683554878",
+      "type": "Reply",
+      "timestamp": "2021-12-10T22:46:15.314+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I don't think so, free to grab",
+      "author": {
+        "id": "577229116097429558",
+        "name": "pawel",
+        "discriminator": "0756",
+        "nickname": "pawel",
+        "color": "#1ABC9C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/577229116097429558/d3d6d970e3e20cd4e8cd8a8cc004304d.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "695056390284115989",
+          "name": "mf777",
+          "discriminator": "2873",
+          "nickname": "mf777",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "918991519812317205",
+        "channelId": "917677133260787735",
+        "guildId": "916751469678579784"
+      }
+    },
+    {
+      "id": "918997251139969075",
+      "type": "Default",
+      "timestamp": "2021-12-10T22:46:58.815+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "on it!",
+      "author": {
+        "id": "695056390284115989",
+        "name": "mf777",
+        "discriminator": "2873",
+        "nickname": "mf777",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/695056390284115989/48cbc9085537435bd886c86322b94d4f.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "918997297545744474",
+      "type": "Default",
+      "timestamp": "2021-12-10T22:47:09.879+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@kevalin i'll grab a task",
+      "author": {
+        "id": "695056390284115989",
+        "name": "mf777",
+        "discriminator": "2873",
+        "nickname": "mf777",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/695056390284115989/48cbc9085537435bd886c86322b94d4f.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "915035187547615243",
+          "name": "kevalin",
+          "discriminator": "4394",
+          "nickname": "kevalin",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "918997504715001857",
+      "type": "Reply",
+      "timestamp": "2021-12-10T22:47:59.272+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "\uD83D\uDD25 planned to ship phase #2 by late tonight or early tomorrow MAX",
+      "author": {
+        "id": "915035187547615243",
+        "name": "kevalin",
+        "discriminator": "4394",
+        "nickname": "kevalin",
+        "color": "#1F8B4C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/915035187547615243/8aec11e684cd1c3ab575358a58fda0bd.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83E\uDD73",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/svg/1f973.svg"
+          },
+          "count": 2
+        }
+      ],
+      "mentions": [
+        {
+          "id": "539618266579206145",
+          "name": "neelr",
+          "discriminator": "5007",
+          "nickname": "neelr",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "918982235531649075",
+        "channelId": "917677133260787735",
+        "guildId": "916751469678579784"
+      }
+    },
+    {
+      "id": "918997624089112586",
+      "type": "Reply",
+      "timestamp": "2021-12-10T22:48:27.733+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Thanks! I'm also going to refine the Trello, rn it's confusing",
+      "author": {
+        "id": "915035187547615243",
+        "name": "kevalin",
+        "discriminator": "4394",
+        "nickname": "kevalin",
+        "color": "#1F8B4C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/915035187547615243/8aec11e684cd1c3ab575358a58fda0bd.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "695056390284115989",
+          "name": "mf777",
+          "discriminator": "2873",
+          "nickname": "mf777",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "918997297545744474",
+        "channelId": "917677133260787735",
+        "guildId": "916751469678579784"
+      }
+    },
+    {
+      "id": "918997735401742336",
+      "type": "Default",
+      "timestamp": "2021-12-10T22:48:54.272+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Also moving all dev convos to the #deleted-channel channel",
+      "author": {
+        "id": "915035187547615243",
+        "name": "kevalin",
+        "discriminator": "4394",
+        "nickname": "kevalin",
+        "color": "#1F8B4C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/915035187547615243/8aec11e684cd1c3ab575358a58fda0bd.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "919823488779452416",
+      "type": "Default",
+      "timestamp": "2021-12-13T05:30:09.219+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@Core-Dev keycOE37z9eKM27tY < Airtable API key",
+      "author": {
+        "id": "915035187547615243",
+        "name": "kevalin",
+        "discriminator": "4394",
+        "nickname": "kevalin",
+        "color": "#1F8B4C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/915035187547615243/8aec11e684cd1c3ab575358a58fda0bd.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "920022951611465761",
+      "type": "Default",
+      "timestamp": "2021-12-13T18:42:44.864+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Hey @kevalin can you add me to the Vercel team? Also, I brought up a point on #deleted-channel about storage servers. This might require aws or gcp as well as setting up vercel serverless functions for data uploads. Just things to think about.",
+      "author": {
+        "id": "671696590272200720",
+        "name": "boshd",
+        "discriminator": "8094",
+        "nickname": "boshd",
+        "color": "#1ABC9C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/671696590272200720/ad40a4e8d27fb64be8bbc92f1bccace6.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "915035187547615243",
+          "name": "kevalin",
+          "discriminator": "4394",
+          "nickname": "kevalin",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "920023561085792296",
+      "type": "Reply",
+      "timestamp": "2021-12-13T18:45:10.174+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "DM'ed you the invite link",
+      "author": {
+        "id": "915035187547615243",
+        "name": "kevalin",
+        "discriminator": "4394",
+        "nickname": "kevalin",
+        "color": "#1F8B4C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/915035187547615243/8aec11e684cd1c3ab575358a58fda0bd.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "671696590272200720",
+          "name": "boshd",
+          "discriminator": "8094",
+          "nickname": "boshd",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "920022951611465761",
+        "channelId": "917677133260787735",
+        "guildId": "916751469678579784"
+      }
+    },
+    {
+      "id": "920023596787699733",
+      "type": "Default",
+      "timestamp": "2021-12-13T18:45:18.686+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Also will read through #deleted-channel in a bit",
+      "author": {
+        "id": "915035187547615243",
+        "name": "kevalin",
+        "discriminator": "4394",
+        "nickname": "kevalin",
+        "color": "#1F8B4C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/915035187547615243/8aec11e684cd1c3ab575358a58fda0bd.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "920057390219534346",
+      "type": "Default",
+      "timestamp": "2021-12-13T20:59:35.668+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I vote for gcp but aws will do as well..",
+      "author": {
+        "id": "577229116097429558",
+        "name": "pawel",
+        "discriminator": "0756",
+        "nickname": "pawel",
+        "color": "#1ABC9C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/577229116097429558/d3d6d970e3e20cd4e8cd8a8cc004304d.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "920057924968144936",
+      "type": "Default",
+      "timestamp": "2021-12-13T21:01:43.162+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Yeah I'm doing some research on pricing between aws s3 and gcp storage. Functionally they're very similar, just comes down to price.",
+      "author": {
+        "id": "671696590272200720",
+        "name": "boshd",
+        "discriminator": "8094",
+        "nickname": "boshd",
+        "color": "#1ABC9C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/671696590272200720/ad40a4e8d27fb64be8bbc92f1bccace6.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "920058083730944042",
+      "type": "Default",
+      "timestamp": "2021-12-13T21:02:21.014+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Not much of a difference last time I checked",
+      "author": {
+        "id": "577229116097429558",
+        "name": "pawel",
+        "discriminator": "0756",
+        "nickname": "pawel",
+        "color": "#1ABC9C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/577229116097429558/d3d6d970e3e20cd4e8cd8a8cc004304d.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "920058197442695218",
+      "type": "Default",
+      "timestamp": "2021-12-13T21:02:48.125+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Ofc it'll be free in the beginning, but I'm just looking at it at scale",
+      "author": {
+        "id": "671696590272200720",
+        "name": "boshd",
+        "discriminator": "8094",
+        "nickname": "boshd",
+        "color": "#1ABC9C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/671696590272200720/ad40a4e8d27fb64be8bbc92f1bccace6.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "920118350544244757",
+      "type": "Default",
+      "timestamp": "2021-12-14T01:01:49.742+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Looks like GCP is cheaper but AWS has higher bandwidth",
+      "author": {
+        "id": "671696590272200720",
+        "name": "boshd",
+        "discriminator": "8094",
+        "nickname": "boshd",
+        "color": "#1ABC9C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/671696590272200720/ad40a4e8d27fb64be8bbc92f1bccace6.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "920118482824220732",
+      "type": "Default",
+      "timestamp": "2021-12-14T01:02:21.28+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "We need to decide on this soon since a part of the UI depends on this",
+      "author": {
+        "id": "671696590272200720",
+        "name": "boshd",
+        "discriminator": "8094",
+        "nickname": "boshd",
+        "color": "#1ABC9C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/671696590272200720/ad40a4e8d27fb64be8bbc92f1bccace6.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "920122699827789884",
+      "type": "Default",
+      "timestamp": "2021-12-14T01:19:06.692+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Doesn’t matter to me which one… I know that’s not very helpful…",
+      "author": {
+        "id": "695056390284115989",
+        "name": "mf777",
+        "discriminator": "2873",
+        "nickname": "mf777",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/695056390284115989/48cbc9085537435bd886c86322b94d4f.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "920253510891757649",
+      "type": "Default",
+      "timestamp": "2021-12-14T09:58:54.48+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@kevalin could you create GCP project? We would need that for attachments in the form sooner than later",
+      "author": {
+        "id": "577229116097429558",
+        "name": "pawel",
+        "discriminator": "0756",
+        "nickname": "pawel",
+        "color": "#1ABC9C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/577229116097429558/d3d6d970e3e20cd4e8cd8a8cc004304d.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "915035187547615243",
+          "name": "kevalin",
+          "discriminator": "4394",
+          "nickname": "kevalin",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "920253810591563796",
+      "type": "Reply",
+      "timestamp": "2021-12-14T10:00:05.934+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Okay doing now",
+      "author": {
+        "id": "915035187547615243",
+        "name": "kevalin",
+        "discriminator": "4394",
+        "nickname": "kevalin",
+        "color": "#1F8B4C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/915035187547615243/8aec11e684cd1c3ab575358a58fda0bd.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "577229116097429558",
+          "name": "pawel",
+          "discriminator": "0756",
+          "nickname": "pawel",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "920253510891757649",
+        "channelId": "917677133260787735",
+        "guildId": "916751469678579784"
+      }
+    },
+    {
+      "id": "920329738965360710",
+      "type": "Default",
+      "timestamp": "2021-12-14T15:01:48.669+00:00",
+      "timestampEdited": "2021-12-14T16:50:56.995+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "hey folks, with the new phase on its way and probably a lot of new devs joining I would like to propose that from now on we switch to pull requests from forks only, applies to dev-core as well.\nThat way we:\n- have uniform process for everyone: fork -> develop -> push to fork -> create PR to upstream. dev-core is responsible for merging to `main` (no any other branch allowed). \n- save github CI resources on the project, people can push and test in their forks as much as they want without affecting the project.\n- get rid of branch madness in the main repo as only `main` is allowed in main project",
+      "author": {
+        "id": "577229116097429558",
+        "name": "pawel",
+        "discriminator": "0756",
+        "nickname": "pawel",
+        "color": "#1ABC9C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/577229116097429558/d3d6d970e3e20cd4e8cd8a8cc004304d.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDC4D",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/svg/1f44d.svg"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "920380084555223112",
+      "type": "Default",
+      "timestamp": "2021-12-14T18:21:51.993+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "if no objections, can someone with admin rights to the github repo restrict that no direct push to `main` and creation of other branches possible, please? @kevalin",
+      "author": {
+        "id": "577229116097429558",
+        "name": "pawel",
+        "discriminator": "0756",
+        "nickname": "pawel",
+        "color": "#1ABC9C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/577229116097429558/d3d6d970e3e20cd4e8cd8a8cc004304d.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "915035187547615243",
+          "name": "kevalin",
+          "discriminator": "4394",
+          "nickname": "kevalin",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "920553673430560799",
+      "type": "Default",
+      "timestamp": "2021-12-15T05:51:38.806+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Good idea",
+      "author": {
+        "id": "863555557168119808",
+        "name": "LZRS",
+        "discriminator": "8262",
+        "nickname": "LZRS",
+        "color": "#AD1457",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/2.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "922933416192770119",
+      "type": "Default",
+      "timestamp": "2021-12-21T19:27:53.694+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://web3.hyperscalefund.com/",
+      "author": {
+        "id": "656638112251904002",
+        "name": "rorhug",
+        "discriminator": "0001",
+        "nickname": "rorhug",
+        "color": "#1ABC9C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/656638112251904002/be3bff63c99ecb17cd6884466e2c5466.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "922933441245380649",
+      "type": "Default",
+      "timestamp": "2021-12-21T19:27:59.667+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@kevalin  ^",
+      "author": {
+        "id": "656638112251904002",
+        "name": "rorhug",
+        "discriminator": "0001",
+        "nickname": "rorhug",
+        "color": "#1ABC9C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/656638112251904002/be3bff63c99ecb17cd6884466e2c5466.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "915035187547615243",
+          "name": "kevalin",
+          "discriminator": "4394",
+          "nickname": "kevalin",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "923035148331647006",
+      "type": "Reply",
+      "timestamp": "2021-12-22T02:12:08.526+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "\uD83D\uDD25 \uD83D\uDD25 \uD83D\uDD25",
+      "author": {
+        "id": "915035187547615243",
+        "name": "kevalin",
+        "discriminator": "4394",
+        "nickname": "kevalin",
+        "color": "#1F8B4C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/915035187547615243/8aec11e684cd1c3ab575358a58fda0bd.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "656638112251904002",
+          "name": "rorhug",
+          "discriminator": "0001",
+          "nickname": "rorhug",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "922933441245380649",
+        "channelId": "917677133260787735",
+        "guildId": "916751469678579784"
+      }
+    },
+    {
+      "id": "923165078113619979",
+      "type": "Reply",
+      "timestamp": "2021-12-22T10:48:26.2+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "is there a source code for that somewhere?",
+      "author": {
+        "id": "577229116097429558",
+        "name": "pawel",
+        "discriminator": "0756",
+        "nickname": "pawel",
+        "color": "#1ABC9C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/577229116097429558/d3d6d970e3e20cd4e8cd8a8cc004304d.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "656638112251904002",
+          "name": "rorhug",
+          "discriminator": "0001",
+          "nickname": "rorhug",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "922933416192770119",
+        "channelId": "917677133260787735",
+        "guildId": "916751469678579784"
+      }
+    },
+    {
+      "id": "923166854317490217",
+      "type": "Default",
+      "timestamp": "2021-12-22T10:55:29.68+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "and how we can integrate with you now?",
+      "author": {
+        "id": "577229116097429558",
+        "name": "pawel",
+        "discriminator": "0756",
+        "nickname": "pawel",
+        "color": "#1ABC9C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/577229116097429558/d3d6d970e3e20cd4e8cd8a8cc004304d.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    }
+  ],
+  "messageCount": 55
+}

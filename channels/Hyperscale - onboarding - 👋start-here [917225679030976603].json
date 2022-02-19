@@ -1,0 +1,170 @@
+{
+  "guild": {
+    "id": "916751469678579784",
+    "name": "Hyperscale",
+    "iconUrl": "https://cdn.discordapp.com/icons/916751469678579784/874219cdd9c60b09fc62afefa1efea43.png"
+  },
+  "channel": {
+    "id": "917225679030976603",
+    "type": "GuildTextChat",
+    "categoryId": "925152243513192479",
+    "category": "onboarding",
+    "name": "\uD83D\uDC4Bstart-here",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "messages": [
+    {
+      "id": "917225929351266364",
+      "type": "Default",
+      "timestamp": "2021-12-06T01:28:22.791+00:00",
+      "timestampEdited": "2022-01-13T11:25:43.913+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Start here:\nhttps://bit.ly/3qnijmc",
+      "author": {
+        "id": "915035187547615243",
+        "name": "kevalin",
+        "discriminator": "4394",
+        "nickname": "kevalin",
+        "color": "#1F8B4C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/915035187547615243/8aec11e684cd1c3ab575358a58fda0bd.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Vision | Hyperscale",
+          "url": "https://bit.ly/3qnijmc",
+          "timestamp": null,
+          "description": "Vision  The global internet economy is inevitable and we're catalyzing it. Using an economic graph we’ll become the most effective capital allocator in the world.  Blockchains have enabled a global internet economy where DAOs will replace corporations. This global economy allows people to securel...",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/COmofm-eQaywWNTDR7d8otvkdH6p7FlM-sKgLQPwWVQ/https/lh6.googleusercontent.com/3ScU7lCxTGM5p5YFzpQZZdVPk6k_EVUxz6V1J2qqJtySixrt5snMDKMBmGDZKIOTZEXzAHpbloG8Kw%3Dw1200-h630-p",
+            "width": 1200,
+            "height": 630
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDC4D",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/svg/1f44d.svg"
+          },
+          "count": 364
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDE80",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/svg/1f680.svg"
+          },
+          "count": 127
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDCAF",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/svg/1f4af.svg"
+          },
+          "count": 93
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83E\uDD1E",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/svg/1f91e.svg"
+          },
+          "count": 70
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "917637166371319868",
+      "type": "Default",
+      "timestamp": "2021-12-07T04:42:29.337+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "- - -",
+      "author": {
+        "id": "124016824202297344",
+        "name": "jzlegion",
+        "discriminator": "4444",
+        "nickname": "jzlegion",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/124016824202297344/a_0b9751c77d9ba0d46354062327d5e4f5.gif?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDC4D",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/svg/1f44d.svg"
+          },
+          "count": 246
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "917637619905601586",
+      "type": "Default",
+      "timestamp": "2021-12-07T04:44:17.468+00:00",
+      "timestampEdited": "2021-12-27T22:43:01.195+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "#announcements - See important info\n#\uD83D\uDD28role-request  - **Important**: Select your skills so you can be notified when you're needed\n#\uD83D\uDCD9general - General discussion about Hyperscale\n#❓help-desk - Ask anything!",
+      "author": {
+        "id": "124016824202297344",
+        "name": "jzlegion",
+        "discriminator": "4444",
+        "nickname": "jzlegion",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/124016824202297344/a_0b9751c77d9ba0d46354062327d5e4f5.gif?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "932453201305800734",
+      "type": "Default",
+      "timestamp": "2022-01-17T01:56:07.334+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Ask someone with the Mod role for help!",
+      "author": {
+        "id": "124016824202297344",
+        "name": "jzlegion",
+        "discriminator": "4444",
+        "nickname": "jzlegion",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/124016824202297344/a_0b9751c77d9ba0d46354062327d5e4f5.gif?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    }
+  ],
+  "messageCount": 4
+}

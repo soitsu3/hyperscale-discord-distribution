@@ -1,0 +1,1911 @@
+{
+  "guild": {
+    "id": "916751469678579784",
+    "name": "Hyperscale",
+    "iconUrl": "https://cdn.discordapp.com/icons/916751469678579784/874219cdd9c60b09fc62afefa1efea43.png"
+  },
+  "channel": {
+    "id": "926986561399177216",
+    "type": "GuildTextChat",
+    "categoryId": "916751469678579785",
+    "category": "Community",
+    "name": "\uD83E\uDD11shill",
+    "topic": "This is a channel for promoting your projects. \n\nTo keep this channel clean and excellent, please continue discussions about projects in #off-topic or create a thread from projects that interest you."
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "messages": [
+    {
+      "id": "926986766165094401",
+      "type": "Default",
+      "timestamp": "2022-01-01T23:54:27.635+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@hawtlava Thanks for your suggestion! This channel will be used for anyone to share their own projects \uD83D\uDE42",
+      "author": {
+        "id": "630645146102267924",
+        "name": "jkey",
+        "discriminator": "2329",
+        "nickname": "jkey",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/630645146102267924/6e61d2671238895beb3254d7e0a27b30.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "531561241219694592",
+          "name": "hawtlava",
+          "discriminator": "2461",
+          "nickname": "Ryu",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "927006676027080704",
+      "type": "Default",
+      "timestamp": "2022-01-02T01:13:34.516+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "What does a media platform look like in web3? \nFirst, it needs to be centered around XR content. VR and AR are soon going to be primary media consumption devices, so a new media platform should serve these devices from day 1.\n\nSecond, it should use blockchain technology to give ownership of that content back to the creators. \n\nFinally, it should realize that the distance between media and shopping is closing, so it should include the ability to buy and sell both digital and physical items.\n\nThat’s what we believe, and that’s what we are creating at Augmio. Augmio is a media platform built for web3. We distribute interactive augmented reality experiences, like a Youtube for AR. We use fractional NFTs to give content ownership to the creator, and allow them to sell partial ownership of their content to their fans. We have an integrated NFT marketplace to visualize, buy, and list NFTs in stunning augmented reality. We’re a small, experienced team and we’re ready to move fast. \n\nWelcome to Augmio \uD83D\uDE0A Currently looking for early investors\nhttps://augmio.com/",
+      "author": {
+        "id": "344157317291573248",
+        "name": "rcornwall",
+        "discriminator": "1234",
+        "nickname": "rcornwall",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/344157317291573248/5cafa4e9c73eef665cd16d8b57501e4e.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDC4D",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/svg/1f44d.svg"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "928324768594296870",
+      "type": "Default",
+      "timestamp": "2022-01-05T16:31:12.273+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "gm! A project that I've been building with a couple of my frens went live today. We've collected clear step-by-step guides for discovering and joining DAOs. Additionally, we offer also quite a few bounties and grants to work with. Could be sth some of you want to check out: https://kleoverse.xyz/join?now=vsjvxwc64k – wagmi!",
+      "author": {
+        "id": "877900904743968778",
+        "name": "riisiharakka",
+        "discriminator": "9394",
+        "nickname": "riisiharakka",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/877900904743968778/3913870bc1dc1bb2039949899271b053.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Kleoverse - Platform for Work in Web3",
+          "url": "https://kleoverse.xyz/join?now=vsjvxwc64k",
+          "timestamp": null,
+          "description": "Work with the leading Web3 projects to build your skill-based portfolio and earn objective Proof-of-Talent.",
+          "color": "#0B4C24",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/HDuQNW8rIZ5Ynlbftj72TTuq2iy6zExYcnyduUoAjaY/https/uploads-ssl.webflow.com/60e29ade1e8c084f76d367bd/61d5810124ebc27323e49fbc_Frame_35.png",
+            "width": 2400,
+            "height": 1260
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "928374082649608264",
+      "type": "Default",
+      "timestamp": "2022-01-05T19:47:09.66+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Sharing my art for a cause ❤️\n\nhttps://twitter.com/0xbased_/status/1478530311617236993?s=21",
+      "author": {
+        "id": "833704157302358067",
+        "name": "CassCee",
+        "discriminator": "5870",
+        "nickname": "CassCee",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/833704157302358067/558347ec80a114ed8f0a1462e59c5bd2.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": "https://twitter.com/0xbased_/status/1478530311617236993?s=21",
+          "timestamp": "2022-01-05T00:54:30.711+00:00",
+          "description": "Hi Frens! \n\nI’m selling my 1/1’s to raise money for my pups’ c*ncr treatment\n\nThis particular type affects 20% of all dogs \uD83D\uDE2D\n\nMy rescue pup Eevee, is only 5 + has a great prognosis w/ treatment\n\nAny little bit helps, tysm\uD83D\uDE4F\uD83C\uDFFB\n\n#NFTCommmunity #NFTfamily \n\nhttps://t.co/VYpmyh9Wh2",
+          "color": "#1DA1F2",
+          "author": {
+            "name": "NFT // Web3 // 0xBased ᵍᵐ \uD83C\uDF44\uD83E\uDDEA \uF8FF (@0xBased_)",
+            "url": "https://twitter.com/0xBased_",
+            "iconUrl": "https://images-ext-2.discordapp.net/external/jsm6JQE2DOFIq0MSJvvWoI92Zg014FW_KO7GA23FcKg/https/pbs.twimg.com/profile_images/1478751344949346305/sJ8uQ-SG_bigger.jpg"
+          },
+          "image": {
+            "url": "https://images-ext-2.discordapp.net/external/3bClLcbZRLM9mZbYYvtIBM0bWcVw3ZBZe675603y5Mg/%3Fformat%3Djpg%26name%3D386x202/https/pbs.twimg.com/card_img/1477409765483499524/nywb0pLm",
+            "width": 120,
+            "height": 63
+          },
+          "footer": {
+            "text": "Twitter",
+            "iconUrl": "https://images-ext-1.discordapp.net/external/bXJWV2Y_F3XSra_kEqIYXAAsI3m1meckfLhYuWzxIfI/https/abs.twimg.com/icons/apple-touch-icon-192x192.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "❤️",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/svg/2764.svg"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "928387682197991484",
+      "type": "Default",
+      "timestamp": "2022-01-05T20:41:12.045+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Come help us create an AI assistant that helps people make better decisions! We especially need designers right now.\nhttps://twitter.com/CasualBrady/status/1478767301281390595",
+      "author": {
+        "id": "597196802458124311",
+        "name": "Brady",
+        "discriminator": "0053",
+        "nickname": "Brady Neal",
+        "color": "#9B59B6",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/597196802458124311/13b945bff40b1c548872567d7cf4fe00.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": "https://twitter.com/CasualBrady/status/1478767301281390595",
+          "timestamp": "2022-01-05T16:36:13.45+00:00",
+          "description": "I've never been this excited before. Today, we launch the https://t.co/YEXyETnNrD website for a general-purpose decision making assistant. We need a community of AI developers to build it with us. We've written the first few pages of this story; let's write the rest together!",
+          "color": "#1DA1F2",
+          "author": {
+            "name": "Brady Neal (@CasualBrady)",
+            "url": "https://twitter.com/CasualBrady",
+            "iconUrl": "https://images-ext-2.discordapp.net/external/hXoc9Bt_BwAj9xY-B216wIbXBCM4DF4A-GMYac9FKgE/https/pbs.twimg.com/profile_images/1002377818867687425/FeDPDUJa_bigger.jpg"
+          },
+          "image": {
+            "url": "https://images-ext-1.discordapp.net/external/ACgMgUdaljwXSLrkntlp3P98yqKri1jO-ABQhgvD_xk/https/pbs.twimg.com/media/FIWd8sNX0AQ9TpR.jpg%3Alarge",
+            "width": 2048,
+            "height": 1152
+          },
+          "footer": {
+            "text": "Twitter",
+            "iconUrl": "https://images-ext-1.discordapp.net/external/bXJWV2Y_F3XSra_kEqIYXAAsI3m1meckfLhYuWzxIfI/https/abs.twimg.com/icons/apple-touch-icon-192x192.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDCAF",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/svg/1f4af.svg"
+          },
+          "count": 2
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "929034661504618587",
+      "type": "Default",
+      "timestamp": "2022-01-07T15:32:03.932+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Fascinating convo happening about Terraforms: https://twitter.com/i/spaces/1lPJqmDXqYmJb",
+      "author": {
+        "id": "909560542740512859",
+        "name": "BeeSee",
+        "discriminator": "5553",
+        "nickname": "BeeSee",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/909560542740512859/6c3af683f336fcffaa93ae51d15f8fb0.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "929834940638580736",
+      "type": "Default",
+      "timestamp": "2022-01-09T20:32:05.346+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Hiya great community. I am not yet ready to formally present our DAO NFT (but that will be very shortly), but I can give you a quick preview, as it seeks to do much of what you are also doing, so many ways to collaborate here",
+      "author": {
+        "id": "292725961860972545",
+        "name": "AikiWiki",
+        "discriminator": "9913",
+        "nickname": "AikiWiki",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/3.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "929835030568665119",
+      "type": "Default",
+      "timestamp": "2022-01-09T20:32:26.787+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Our DAO has a specific purpose, to take on Big Tech, i.e. \"The Social Dilemma Problem\"",
+      "author": {
+        "id": "292725961860972545",
+        "name": "AikiWiki",
+        "discriminator": "9913",
+        "nickname": "AikiWiki",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/3.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "929835072679448637",
+      "type": "Default",
+      "timestamp": "2022-01-09T20:32:36.827+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "or, basically converting web 2.0 into web 3.0",
+      "author": {
+        "id": "292725961860972545",
+        "name": "AikiWiki",
+        "discriminator": "9913",
+        "nickname": "AikiWiki",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/3.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDCAF",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/svg/1f4af.svg"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "929835290649067571",
+      "type": "Default",
+      "timestamp": "2022-01-09T20:33:28.795+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Our DAO is comprised of two technology platforms to start, but seeks to add more as the DAO is the community of artists and designers who sell their copyright as  a way to raise resources and awareness to any project that takes on this issue.",
+      "author": {
+        "id": "292725961860972545",
+        "name": "AikiWiki",
+        "discriminator": "9913",
+        "nickname": "AikiWiki",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/3.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "929835345648971788",
+      "type": "Default",
+      "timestamp": "2022-01-09T20:33:41.908+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Inclusive in this issue is Digital Governance as well (any kind)",
+      "author": {
+        "id": "292725961860972545",
+        "name": "AikiWiki",
+        "discriminator": "9913",
+        "nickname": "AikiWiki",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/3.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "929835618341621760",
+      "type": "Default",
+      "timestamp": "2022-01-09T20:34:46.923+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Our DAO presents an actionable business plan which both forms the DAO and initiates the business plan, through a series of nine levels of NFT Game Play which fund nine levels of the DAO business plan",
+      "author": {
+        "id": "292725961860972545",
+        "name": "AikiWiki",
+        "discriminator": "9913",
+        "nickname": "AikiWiki",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/3.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "929835795618074654",
+      "type": "Default",
+      "timestamp": "2022-01-09T20:35:29.189+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "By Level 5, our DAO becomes a content broadcast network, reaching millions of internet users, broadcasting the DAO message, which is taking on big tech, to simplify.",
+      "author": {
+        "id": "292725961860972545",
+        "name": "AikiWiki",
+        "discriminator": "9913",
+        "nickname": "AikiWiki",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/3.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "929836048735932497",
+      "type": "Default",
+      "timestamp": "2022-01-09T20:36:29.537+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Our DAO is a sophisticated economy and business plan, applying specific design principles in its construction that, so far, have. been able to work within US securities law while also finding a pathway to assign equity and profit margin back to our DAO",
+      "author": {
+        "id": "292725961860972545",
+        "name": "AikiWiki",
+        "discriminator": "9913",
+        "nickname": "AikiWiki",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/3.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "929836145473368074",
+      "type": "Default",
+      "timestamp": "2022-01-09T20:36:52.601+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "and every step of the way, members of our DAO make money when they raise money for the DAO, at the exact moment.",
+      "author": {
+        "id": "292725961860972545",
+        "name": "AikiWiki",
+        "discriminator": "9913",
+        "nickname": "AikiWiki",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/3.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "929836502081474580",
+      "type": "Default",
+      "timestamp": "2022-01-09T20:38:17.623+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "We've spent $700k in research as well as piloting and coding, so years of work and investment has already gone into this, so we are starting with something actionable, immediately adoptable.",
+      "author": {
+        "id": "292725961860972545",
+        "name": "AikiWiki",
+        "discriminator": "9913",
+        "nickname": "AikiWiki",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/3.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "929836603520745574",
+      "type": "Default",
+      "timestamp": "2022-01-09T20:38:41.808+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "The name of our DAO is Big Mother",
+      "author": {
+        "id": "292725961860972545",
+        "name": "AikiWiki",
+        "discriminator": "9913",
+        "nickname": "AikiWiki",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/3.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "929836699272507392",
+      "type": "Default",
+      "timestamp": "2022-01-09T20:39:04.637+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Where as Big Brother is watching you, tracking you, Big Mother is watching out for you \uD83D\uDE42",
+      "author": {
+        "id": "292725961860972545",
+        "name": "AikiWiki",
+        "discriminator": "9913",
+        "nickname": "AikiWiki",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/3.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "929836806457946153",
+      "type": "Default",
+      "timestamp": "2022-01-09T20:39:30.192+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Thanks for hearing me out on my #\uD83E\uDD11shill \uD83D\uDE42",
+      "author": {
+        "id": "292725961860972545",
+        "name": "AikiWiki",
+        "discriminator": "9913",
+        "nickname": "AikiWiki",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/3.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "929836967762481284",
+      "type": "Default",
+      "timestamp": "2022-01-09T20:40:08.65+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "PS: Our DAO generates profit and revenue and equity all within first year",
+      "author": {
+        "id": "292725961860972545",
+        "name": "AikiWiki",
+        "discriminator": "9913",
+        "nickname": "AikiWiki",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/3.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "930661102210142268",
+      "type": "Default",
+      "timestamp": "2022-01-12T03:14:57.614+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Hi all, I am contributing to a project on the intersection of NFTs DAOs and Writing. Among other things I am creating the early documentation for it, and would love ya'lls feedback. Be brutally honest \uD83D\uDE09 \n\nTLDR: \nTime Writer - A creative social experiment to rewrite history and predict the future. Collaborative writing of an infinite story expanding forever into the past and the future.\n\nTo ensure that a creative and valuable story will develop, we will utilize silent NFT auctions as submissions for story line proposals. A DAO with existing winners will vote on the submissions, and choose a winner based on which story will best continue the timeline. Every NFT holder will be a DAO member, can vote, and receives a distribution of the winning bids proceeds. \n\nMore info: https://badmonky.notion.site/Time-Writer-Wiki-5afb9765d4da4b22b03be3c7858985e1",
+      "author": {
+        "id": "401866038976970752",
+        "name": "Badmonky",
+        "discriminator": "4222",
+        "nickname": "Badmonky",
+        "color": "#1ABC9C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/401866038976970752/0d807310d248df97a2a429832ee24d33.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Time Writer Wiki",
+          "url": "https://badmonky.notion.site/Time-Writer-Wiki-5afb9765d4da4b22b03be3c7858985e1",
+          "timestamp": null,
+          "description": "A new tool for teams & individuals that blends everyday work apps into one.",
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/7D_zDsqlJOswsEXjCZRgt_2nW522KtzC7f5A7t5I1Wc/%3Ftable%3Dblock%26id%3D5afb9765-d4da-4b22-b03b-e3c7858985e1%26spaceId%3D29ccbb03-7567-4562-bbb6-9ade913c4613%26width%3D2000%26userId%3D%26cache%3Dv2/https/badmonky.notion.site/image/https%253A%252F%252Fimages.unsplash.com%252Fphoto-1595769648862-f3a631fead5c%253Fixlib%253Drb-1.2.1%2526q%253D85%2526fm%253Djpg%2526crop%253Dentropy%2526cs%253Dsrgb",
+            "width": 2000,
+            "height": 1333
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDCA5",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/svg/1f4a5.svg"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "932750485524480092",
+      "type": "Default",
+      "timestamp": "2022-01-17T21:37:25.415+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Have a pitch for the Sphere",
+      "author": {
+        "id": "915035187547615243",
+        "name": "kevalin",
+        "discriminator": "4394",
+        "nickname": "kevalin",
+        "color": "#1F8B4C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/915035187547615243/8aec11e684cd1c3ab575358a58fda0bd.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "932750531934425178",
+      "type": "Default",
+      "timestamp": "2022-01-17T21:37:36.48+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Will announce shortly",
+      "author": {
+        "id": "915035187547615243",
+        "name": "kevalin",
+        "discriminator": "4394",
+        "nickname": "kevalin",
+        "color": "#1F8B4C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/915035187547615243/8aec11e684cd1c3ab575358a58fda0bd.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "933502109159137340",
+      "type": "Default",
+      "timestamp": "2022-01-19T23:24:06.454+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Miami Hack Week is still looking for hackers  https://loom.ly/Lp47UyI. I got an airbnb for the week.",
+      "author": {
+        "id": "188786211844784128",
+        "name": "Lucas | DAOHQ",
+        "discriminator": "0001",
+        "nickname": "lucaschu.eth",
+        "color": "#E74C3C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/188786211844784128/e977b78e6fae47bf4f0b7ba2808d5269.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Miami Hack Week 2.0 -  House Details",
+          "url": "https://loom.ly/Lp47UyI.",
+          "timestamp": null,
+          "description": "Don't call it a comeback. We're back, bigger and better than ever in the heart of Magic City from January 23-30th 2022. Apply for early access and more info!",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/uXgI8Z7MSjnr3KfsY3qApMqRuW-ytBEj8PQ5EyS3ggM/https/res.cloudinary.com/norus-tech/image/upload/v1637181230/hack_week/assets/logo.png",
+            "width": 344,
+            "height": 180
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "933502150946988042",
+      "type": "Default",
+      "timestamp": "2022-01-19T23:24:16.417+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://medium.com/susa-ventures/announcing-the-susa-summer-fellows-program-f708efe984e3",
+      "author": {
+        "id": "188786211844784128",
+        "name": "Lucas | DAOHQ",
+        "discriminator": "0001",
+        "nickname": "lucaschu.eth",
+        "color": "#E74C3C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/188786211844784128/e977b78e6fae47bf4f0b7ba2808d5269.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Announcing the Susa Summer Fellows Program",
+          "url": "https://medium.com/susa-ventures/announcing-the-susa-summer-fellows-program-f708efe984e3",
+          "timestamp": null,
+          "description": "We are thrilled to announce the Susa Summer Fellows Program, an immersive summer program that connects high-performing university students…",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/4jpsDcyQfkzyHie62ICU4Q6G0TC-a547qZ2yPoBEIPY/https/miro.medium.com/max/701/1%2ARwMRhP3cGbbKhhMVaqeXvQ.png",
+            "width": 701,
+            "height": 517
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "933806417645797376",
+      "type": "Default",
+      "timestamp": "2022-01-20T19:33:19.251+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Relatively new AI DAO helping people make better decisions. Especially could use some marketing/growth people right now!\nhttps://www.oogway.ai",
+      "author": {
+        "id": "597196802458124311",
+        "name": "Brady",
+        "discriminator": "0053",
+        "nickname": "Brady Neal",
+        "color": "#9B59B6",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/597196802458124311/13b945bff40b1c548872567d7cf4fe00.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Oogway | Your Personalized AI Decision Assistant",
+          "url": "https://www.oogway.ai/",
+          "timestamp": null,
+          "description": "Oogway is your personalized AI decision assistant. It helps you search, filter, and evaluate your options to make easier, faster, and better decisions.",
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/qF0ug-YoJUPtLsiRo0ugy2Jto-9k3-I9Umtdp87FGcw/%3Fformat%3Djpg%26name%3D4096x4096/https/pbs.twimg.com/media/FIWf0WmWQAQsAUB",
+            "width": 2512,
+            "height": 1413
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "933870770290049065",
+      "type": "Default",
+      "timestamp": "2022-01-20T23:49:02.117+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "\uD83D\uDE98 MAVI House: Hack on auto and where it intersects with retail + fintech \uD83D\uDD17 https://hackweek.me/hackatmavi\n⚒️ 2TM House: Build with the largest crypto exchange in Latin America \uD83D\uDD17 https://hackweek.me/hackat2TM \n\uD83D\uDCB3 OpenStore House: Work on the next generation of solutions for eCommerce \uD83D\uDD17 https://hackweek.me/hackatOpenStore",
+      "author": {
+        "id": "188786211844784128",
+        "name": "Lucas | DAOHQ",
+        "discriminator": "0001",
+        "nickname": "lucaschu.eth",
+        "color": "#E74C3C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/188786211844784128/e977b78e6fae47bf4f0b7ba2808d5269.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Miami Hack Week 2.0 -  House Details",
+          "url": "https://hackweek.me/hackatmavi",
+          "timestamp": null,
+          "description": "Don't call it a comeback. We're back, bigger and better than ever in the heart of Magic City from January 23-30th 2022. Apply for early access and more info!",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/uXgI8Z7MSjnr3KfsY3qApMqRuW-ytBEj8PQ5EyS3ggM/https/res.cloudinary.com/norus-tech/image/upload/v1637181230/hack_week/assets/logo.png",
+            "width": 344,
+            "height": 180
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "934142931907018812",
+      "type": "Default",
+      "timestamp": "2022-01-21T17:50:30.503+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "One step closer...\n\nhttps://twitter.com/joinbuild_/status/1484563527889305600?s=20",
+      "author": {
+        "id": "441750040248320000",
+        "name": "angelo | build_",
+        "discriminator": "0202",
+        "nickname": "angelo | build_",
+        "color": "#2ECC71",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/441750040248320000/3b48ab70d09c5bb6f68375b00b1ef814.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": "https://twitter.com/joinbuild_/status/1484563527889305600?s=20",
+          "timestamp": "2022-01-21T16:28:21.562+00:00",
+          "description": "Today we shipped a community release MVP (v0.1).  After only 3 months of design & development, build_ is 1/N steps closer to our eternal vision.  \n\nSoon you will be able to host and reserve \"build_hubs\" throughout the world and access them with a global passport NFT.",
+          "color": "#1DA1F2",
+          "author": {
+            "name": "build_ (@joinbuild_)",
+            "url": "https://twitter.com/joinbuild_",
+            "iconUrl": "https://images-ext-1.discordapp.net/external/kWKklRuj2qoaPT0ElaKxtl1Rkwrnylrt1eJwykgspjk/https/pbs.twimg.com/profile_images/1399307809322319874/j2AvAYNL_bigger.jpg"
+          },
+          "image": {
+            "url": "https://images-ext-2.discordapp.net/external/IfHwnZVm0BsFXIcBHNvFes4ZTlUNjdQJzNrcccaedek/https/pbs.twimg.com/media/FJo0cKyXoAcbUn3.jpg%3Alarge",
+            "width": 1440,
+            "height": 1024
+          },
+          "footer": {
+            "text": "Twitter",
+            "iconUrl": "https://images-ext-1.discordapp.net/external/bXJWV2Y_F3XSra_kEqIYXAAsI3m1meckfLhYuWzxIfI/https/abs.twimg.com/icons/apple-touch-icon-192x192.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "934221834260471868",
+      "type": "Default",
+      "timestamp": "2022-01-21T23:04:02.29+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "gm everyone! sharing my experience in NFTs so far here: https://twitter.com/chanelcoco/status/1484538447759286273?s=20\n\nif it resonates with you, please do pop by my project Discord for a free mint ❤️ keep building!",
+      "author": {
+        "id": "574196160298745876",
+        "name": "chanelcoco",
+        "discriminator": "4816",
+        "nickname": "chanelcoco",
+        "color": "#F1C40F",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/574196160298745876/76427d8b8d10533c42ce5a916c175b36.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": "https://twitter.com/chanelcoco/status/1484538447759286273?s=20",
+          "timestamp": "2022-01-21T14:48:41.993+00:00",
+          "description": "1/ A few thoughts on the latest @NFTethics saga \uD83E\uDDF5 \n\nIf there’s one thing I’ve learnt from my brief 7 months in the NFT space, the hustle can be grueling and wear one out mentally. Beneath the memes, funky art and lulz is also a lot of shady scams and exploitation of new users.",
+          "color": "#1DA1F2",
+          "author": {
+            "name": "chanellee.eth \uD83C\uDF5E\uD83C\uDFE0 (@chanelcoco)",
+            "url": "https://twitter.com/chanelcoco",
+            "iconUrl": "https://images-ext-2.discordapp.net/external/2PkjPCvfYjqmq5LDf20wFLjuqxanAfoawDRvgQLMKlY/https/pbs.twimg.com/profile_images/1482592848264708096/h2xqufdU_bigger.jpg"
+          },
+          "footer": {
+            "text": "Twitter",
+            "iconUrl": "https://images-ext-1.discordapp.net/external/bXJWV2Y_F3XSra_kEqIYXAAsI3m1meckfLhYuWzxIfI/https/abs.twimg.com/icons/apple-touch-icon-192x192.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDC4D",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/svg/1f44d.svg"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "934404543070994474",
+      "type": "Default",
+      "timestamp": "2022-01-22T11:10:03.465+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://opensea.io/ozone914",
+      "author": {
+        "id": "822749116529901569",
+        "name": "ozone914",
+        "discriminator": "2374",
+        "nickname": "ozone914",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/822749116529901569/260ffdeec65495fc06483aab5a93e51b.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "ozone914 - Profile | OpenSea",
+          "url": "https://opensea.io/ozone914",
+          "timestamp": null,
+          "description": "Check out ozone914's NFTs on OpenSea, the largest marketplace for crypto collectibles.",
+          "color": "#FFFFFF",
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/b8yOFdRRZzTmAUjSghtQIZLagqkcHTTuDRQPBERYyCA/https/lh3.googleusercontent.com/4QxW_BBM1j0osD1_NIml29kdstUhPBsAXJCKje1-6K_nQtUWW9B3bcK_3eYCBu6r-etgtRg4h-8oawabNLYmQjbNSt-sPE0r4dKQ1Cc%3Ds100",
+            "width": 100,
+            "height": 83
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "934404727901413386",
+      "type": "Default",
+      "timestamp": "2022-01-22T11:10:47.532+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Now accepting offers.",
+      "author": {
+        "id": "822749116529901569",
+        "name": "ozone914",
+        "discriminator": "2374",
+        "nickname": "ozone914",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/822749116529901569/260ffdeec65495fc06483aab5a93e51b.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "935969765695041536",
+      "type": "Default",
+      "timestamp": "2022-01-26T18:49:41.619+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I wrote a tutorial for a discord bot that saves  discord messages as Notion notes when an admin greenlights them with an emoji. Could be useful to a few DAOs for FAQs, to keep track of community suggestions, etc. (originally built it for the Protein DAO)  https://dev.to/ndehouche/creating-a-discord-bot-to-save-messages-as-notion-notes-with-nodejs-and-discordjs-f8",
+      "author": {
+        "id": "800024001006141451",
+        "name": "ndehouche",
+        "discriminator": "7983",
+        "nickname": "ndehouche",
+        "color": "#1ABC9C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/800024001006141451/ceb0158df61de0a11f1b7e77e30c2e67.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "A Discord Bot to Save Messages as Notion Notes",
+          "url": "https://dev.to/ndehouche/creating-a-discord-bot-to-save-messages-as-notion-notes-with-nodejs-and-discordjs-f8",
+          "timestamp": null,
+          "description": "Twitter: https://twitter.com/ndehouche           Project overview   Some of your best ideas and...",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/39JQ_xaMzvpkE4GdRVnP3b6BlQx1Qpo6y9cmsVVhw30/https/res.cloudinary.com/practicaldev/image/fetch/s--pR1SNzVF--/c_imagga_scale%2Cf_auto%2Cfl_progressive%2Ch_500%2Cq_auto%2Cw_1000/https%3A//dev-to-uploads.s3.amazonaws.com/uploads/articles/fodkdw849xkwisvhgv7x.jpg",
+            "width": 1000,
+            "height": 500
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "⚡",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/svg/26a1.svg"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "935969783827021934",
+      "type": "Default",
+      "timestamp": "2022-01-26T18:49:45.942+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "If you want to check out the winner of dao-race and other few exciting projects around Proof of Person, please tune in tomorrow https://twitter.com/humanetics_/status/1485728178597466112?s=20",
+      "author": {
+        "id": "621027809963540488",
+        "name": "Ubiubi2018",
+        "discriminator": "9073",
+        "nickname": "Ubiubi2018",
+        "color": "#2ECC71",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/621027809963540488/85fdd07a188de7f5448d577f0b956465.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": "https://twitter.com/humanetics_/status/1485728178597466112?s=20",
+          "timestamp": "2022-01-24T21:36:15.929+00:00",
+          "description": "Incredibly excited for our Twitter Spaces this week!\nWe already have @IdenaNetwork, @BrightIDProject + a few others coming to share their thoughts, so make sure to listen in.\nFluid agenda:\n1. Intro and what PoP means to you or your team\n2. News\n3. Governance (if time permits) https://t.co/cz2BdTksRz",
+          "color": "#1DA1F2",
+          "author": {
+            "name": "Humanetics Workshop (@humanetics_)",
+            "url": "https://twitter.com/humanetics_",
+            "iconUrl": "https://images-ext-1.discordapp.net/external/wuVpcbxQqKnl1aeXtRIfG9kAtTHswRmjM0pHi9gvjS0/https/pbs.twimg.com/profile_images/1448640866663342092/qFXuU3F7_bigger.jpg"
+          },
+          "footer": {
+            "text": "Twitter",
+            "iconUrl": "https://images-ext-1.discordapp.net/external/bXJWV2Y_F3XSra_kEqIYXAAsI3m1meckfLhYuWzxIfI/https/abs.twimg.com/icons/apple-touch-icon-192x192.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "936352155131060284",
+      "type": "Default",
+      "timestamp": "2022-01-27T20:09:10.365+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Twitter space with bright ID, idenanetwork and a few others now live",
+      "author": {
+        "id": "621027809963540488",
+        "name": "Ubiubi2018",
+        "discriminator": "9073",
+        "nickname": "Ubiubi2018",
+        "color": "#2ECC71",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/621027809963540488/85fdd07a188de7f5448d577f0b956465.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "937061758638653531",
+      "type": "Default",
+      "timestamp": "2022-01-29T19:08:53.025+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Hey all! I'm a cofounder of DealDex, which lets you create NFT-gated investment deals. We recently launched on testnet: https://testnet.dealdex.io/. Please DM me if you want to schedule a pilot run for your investment DAO or to raise funds for your web3 startup.",
+      "author": {
+        "id": "382101271575789568",
+        "name": "ayanb.eth",
+        "discriminator": "0986",
+        "nickname": "ayanb.eth",
+        "color": "#1ABC9C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/1.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "937222337953169428",
+      "type": "Reply",
+      "timestamp": "2022-01-30T05:46:58.117+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Awesome to see the progress!",
+      "author": {
+        "id": "915035187547615243",
+        "name": "kevalin",
+        "discriminator": "4394",
+        "nickname": "kevalin",
+        "color": "#1F8B4C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/915035187547615243/8aec11e684cd1c3ab575358a58fda0bd.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDD25",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/svg/1f525.svg"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": [
+        {
+          "id": "382101271575789568",
+          "name": "ayanb.eth",
+          "discriminator": "0986",
+          "nickname": "ayanb.eth",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "937061758638653531",
+        "channelId": "926986561399177216",
+        "guildId": "916751469678579784"
+      }
+    },
+    {
+      "id": "937241406995583006",
+      "type": "Default",
+      "timestamp": "2022-01-30T07:02:44.531+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": true,
+      "content": "hey!\n\ni recently started a community called buildergroop with a few really cool folks. it's a place for ambitious gen-z builders and makers to connect, ideate, build, and ship together. we've grown to almost 700 young builders in under a month, and we have thousands of messages sent each day. \n\nwe're hosting tons of events, including podcasts with very notable individuals in the tech space, hackathons with over $5000 USD in prizes (macbooks, airpods, keyboards), and so much more!\n\ndo you happen to be a programmer, designer, entrepreneur, creator, or anything in between belonging to gen-z? we'd love nothing more than to have you :)\n\nhttps://buildergroop.com/",
+      "author": {
+        "id": "768075359651495956",
+        "name": "Aaryaman",
+        "discriminator": "0001",
+        "nickname": "Aaryaman",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/768075359651495956/5e5f5d9e70a9f7867ef3f525a0817b7d.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Buildergroop",
+          "url": "https://buildergroop.com/",
+          "timestamp": null,
+          "description": "The home for ambitious gen-z builders.",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/zt55-NS_J6dOtgM5ogA-_YFmtRcE9C1MdloH7x8E-SE/%3Fwidth%3D360%26height%3D360/https/images-ext-2.discordapp.net/external/q2Jwo_Jmv2yl5JeUn0fHnZFBykmV8YMYMmVJ3XfW4VE/%253Fsize%253D4096/https/cdn.discordapp.com/icons/913668807015407646/a_f8271ba713d72cb11a66b4601b1b044e.gif",
+            "width": 360,
+            "height": 360
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "937247281911042078",
+      "type": "ChannelPinnedMessage",
+      "timestamp": "2022-01-30T07:26:05.22+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Pinned a message.",
+      "author": {
+        "id": "915035187547615243",
+        "name": "kevalin",
+        "discriminator": "4394",
+        "nickname": "kevalin",
+        "color": "#1F8B4C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/915035187547615243/8aec11e684cd1c3ab575358a58fda0bd.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "937241406995583006",
+        "channelId": "926986561399177216",
+        "guildId": null
+      }
+    },
+    {
+      "id": "937247319945015296",
+      "type": "Default",
+      "timestamp": "2022-01-30T07:26:14.288+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Looks cool",
+      "author": {
+        "id": "915035187547615243",
+        "name": "kevalin",
+        "discriminator": "4394",
+        "nickname": "kevalin",
+        "color": "#1F8B4C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/915035187547615243/8aec11e684cd1c3ab575358a58fda0bd.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "937270890880720946",
+      "type": "Default",
+      "timestamp": "2022-01-30T08:59:54.037+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "appreciate it! ❤️",
+      "author": {
+        "id": "768075359651495956",
+        "name": "Aaryaman",
+        "discriminator": "0001",
+        "nickname": "Aaryaman",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/768075359651495956/5e5f5d9e70a9f7867ef3f525a0817b7d.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "937275965170651166",
+      "type": "Default",
+      "timestamp": "2022-01-30T09:20:03.842+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "❤️ ty :)",
+      "author": {
+        "id": "768075359651495956",
+        "name": "Aaryaman",
+        "discriminator": "0001",
+        "nickname": "Aaryaman",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/768075359651495956/5e5f5d9e70a9f7867ef3f525a0817b7d.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "938325730285195285",
+      "type": "Default",
+      "timestamp": "2022-02-02T06:51:27.349+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Tbh this is a little self plug, ngmi? but i actually think this would provide Value to we \"web3 bros\" lol\n\nI recently Launched Voice, a platform to Discover, contribute and Go Full-time on DAOs.\n\nVoice helps you Discover and Go full-time on DAOs. We, more like i and my friend, are on a mission to onboard a Million talents to the DAO ecosystem (Ps we have a goal of surpassing Mcdonlds in followers, LFG!!)\n\nhttps://voice.softr.app/\n\nWith every DAO listed on Voice, you can see\n\nName\n\nToken\n\nToken price(if available)\n\nAbout\n\nHow to Join/Participate\n\nAnd HOW TO GO FULL TIME ON THE DAO (if there are open positions) updating this weekly\n\nWould love some feedback, don't burn me please lol, be honest tho",
+      "author": {
+        "id": "865382030794817578",
+        "name": "nonfungiblemoyo",
+        "discriminator": "6269",
+        "nickname": "nonfungiblemoyo",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/865382030794817578/a5f74f1d786dc483dcd938b9ccdb866d.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Discover, Contribute and Go Full-time on DAOs",
+          "url": "https://voice.softr.app/",
+          "timestamp": null,
+          "description": "",
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "938468129544220745",
+      "type": "Default",
+      "timestamp": "2022-02-02T16:17:17.978+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://twitter.com/ericzhu105/status/1488908216209711106?",
+      "author": {
+        "id": "863876052626833469",
+        "name": "Eric Zhu",
+        "discriminator": "6969",
+        "nickname": "Eric Zhu",
+        "color": "#1ABC9C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/863876052626833469/4f1bfe0b54cc89cd1904b2c7527dd707.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": "https://twitter.com/ericzhu105/status/1488908216209711106?",
+          "timestamp": "2022-02-02T16:12:35.978+00:00",
+          "description": "99% of the tweets on twitter are not useful\n\nI make up the 1%",
+          "color": "#1DA1F2",
+          "author": {
+            "name": "Eric Zhu (@ericzhu105)",
+            "url": "https://twitter.com/ericzhu105",
+            "iconUrl": "https://images-ext-1.discordapp.net/external/HiaC-mh6nca2MxIDhyaqJj1foKFkZm7DPVMokwgk-P4/https/pbs.twimg.com/profile_images/1487808248795340805/Sxls9imh_bigger.jpg"
+          },
+          "footer": {
+            "text": "Twitter",
+            "iconUrl": "https://images-ext-1.discordapp.net/external/bXJWV2Y_F3XSra_kEqIYXAAsI3m1meckfLhYuWzxIfI/https/abs.twimg.com/icons/apple-touch-icon-192x192.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDCAA",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/svg/1f4aa.svg"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "938566152337104907",
+      "type": "Default",
+      "timestamp": "2022-02-02T22:46:48.433+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://twitter.com/jkey_eth",
+      "author": {
+        "id": "630645146102267924",
+        "name": "jkey",
+        "discriminator": "2329",
+        "nickname": "jkey",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/630645146102267924/6e61d2671238895beb3254d7e0a27b30.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "jkey.eth (\uD83E\uDD81,\uD83E\uDD81) (@jkey_eth)",
+          "url": "https://twitter.com/jkey_eth",
+          "timestamp": null,
+          "description": "Follow me to learn about #web3 and #DAOs \uD83D\uDD2E Summarizing good articles ✍️\nWriting @ScribeDAO | Batch 1 @SafaryDAO | Community @HyperscaleFund",
+          "color": "#1DA1F2",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/Wo7OuvlHHBavDioDxVlw_pEvdSx7SAzjlrRXCwt7b6E/https/pbs.twimg.com/profile_images/1487602102465544193/x3gJz9H3_normal.jpg",
+            "width": 48,
+            "height": 48
+          },
+          "footer": {
+            "text": "Twitter",
+            "iconUrl": "https://images-ext-1.discordapp.net/external/bXJWV2Y_F3XSra_kEqIYXAAsI3m1meckfLhYuWzxIfI/https/abs.twimg.com/icons/apple-touch-icon-192x192.png"
+          },
+          "fields": [
+            {
+              "name": "Tweets",
+              "value": "318",
+              "isInline": true
+            },
+            {
+              "name": "Followers",
+              "value": "310",
+              "isInline": true
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDCAA",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/svg/1f4aa.svg"
+          },
+          "count": 4
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "938788982479810610",
+      "type": "Default",
+      "timestamp": "2022-02-03T13:32:15.279+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Hey hey \uD83D\uDC4B  By way of introduction, my name is Marcus and I am on the team over at Cohere (https://cohere.network/) - a member-owned network of global co-living communities that through the power of web3, we are combining the value of owning a home and the freedom of renting to create impact-driven innovation hubs. Our members are comprised of changemakers, cultural creatives and impact entrepreneurs creating meaningful change in the world. \n\nYou can read more about us in our Litepaper (http://dao.cohere.network/litepaper) and our Deck (https://deck.cohere.network/investors). \n\nWe've recently opened our Discord server, so feel free to hop on over and say hi and get building with us: https://social.cohere.network/discord",
+      "author": {
+        "id": "718574139895447673",
+        "name": "marcvs",
+        "discriminator": "2968",
+        "nickname": "marcvs",
+        "color": "#E74C3C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/718574139895447673/17418ce003f01c5e40c9c8cec26612f9.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Cohere | A member-owned network of conscious co-living communities ...",
+          "url": "https://cohere.network/",
+          "timestamp": null,
+          "description": "Cohere is a member-owned network of conscious co-living communities for remote workers and distributed teams that provide the flexibility of renting, the value of owning and a sense of belonging wherever you go. Our innovative model grants members fractional ownership of a cooperative network of properties around the world. Our locations integra...",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/nxbkXCcVlqmFX7tTDSAVxrsE6sCUQ1m6MuTBYVdie5k/https/uploads-ssl.webflow.com/603d25a7e350810e91e2b444/606cdb506ab7703f255331dd_opengraph.jpg",
+            "width": 1200,
+            "height": 630
+          },
+          "fields": []
+        },
+        {
+          "title": "DAO Litepaper | Cohere is a member-owned network of conscious co-li...",
+          "url": "http://dao.cohere.network/litepaper",
+          "timestamp": null,
+          "description": "Cohere is a member-owned network of conscious co-living communities for remote workers and distributed teams that provide the flexibility of renting, the value of owning and a sense of belonging wherever you go. Our innovative model grants members fractional ownership of a cooperative network of properties around the world. Our locations integra...",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/nxbkXCcVlqmFX7tTDSAVxrsE6sCUQ1m6MuTBYVdie5k/https/uploads-ssl.webflow.com/603d25a7e350810e91e2b444/606cdb506ab7703f255331dd_opengraph.jpg",
+            "width": 1200,
+            "height": 630
+          },
+          "fields": []
+        },
+        {
+          "title": "Join the Cohere Discord Server!",
+          "url": "https://social.cohere.network/discord",
+          "timestamp": null,
+          "description": "Check out the Cohere community on Discord - hang out with 32 other members and enjoy free voice and text chat.",
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/rlZPK5laVxxiYAyENhFZhLUa8afHyOvsUB7p2HKTezY/%3Fsize%3D256/https/cdn.discordapp.com/icons/897122057492496466/10b24734ed10ba9e0025a89fdd7a53d5.jpg",
+            "width": 512,
+            "height": 512
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "939124122330480640",
+      "type": "Reply",
+      "timestamp": "2022-02-04T11:43:58.846+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Great to have you here!",
+      "author": {
+        "id": "915035187547615243",
+        "name": "kevalin",
+        "discriminator": "4394",
+        "nickname": "kevalin",
+        "color": "#1F8B4C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/915035187547615243/8aec11e684cd1c3ab575358a58fda0bd.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "718574139895447673",
+          "name": "marcvs",
+          "discriminator": "2968",
+          "nickname": "marcvs",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "938788982479810610",
+        "channelId": "926986561399177216",
+        "guildId": "916751469678579784"
+      }
+    },
+    {
+      "id": "939194997587181650",
+      "type": "Default",
+      "timestamp": "2022-02-04T16:25:36.824+00:00",
+      "timestampEdited": "2022-02-04T16:26:14.682+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Heyo \uD83D\uDC4B\n\nI'm Ben.\n\n\nCurrently building DAOnative a platform that makes it  easy to create and manage a DAO.\n\n\n\uD83D\uDCE3  Looking to talk with people evolved in DAO. Could that be you? Then send me a dm \uD83D\uDE42\n\nProduct is launching mid-feb .\n\nhttp://daonative.xyz/",
+      "author": {
+        "id": "428790869139652619",
+        "name": "hotkartoffel",
+        "discriminator": "2160",
+        "nickname": "ben | DAOnative",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/428790869139652619/883a9744b89e00e1dd99832833bc39ac.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "DAOnative",
+          "url": "http://daonative.xyz/",
+          "timestamp": null,
+          "description": "Create your DAO in less than 30 seconds",
+          "color": "#FAFAFA",
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "939609928258158712",
+      "type": "Default",
+      "timestamp": "2022-02-05T19:54:24.005+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Hey all! A friend of mine is launching a really neat NFT project. Check out their launch trailer here: https://twitter.com/psilonft/status/1489720520098541568?s=21",
+      "author": {
+        "id": "904786992158625853",
+        "name": "mtype",
+        "discriminator": "8681",
+        "nickname": "mtype",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/904786992158625853/ceba0ae3d048176e2171bb065a7a327a.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": "https://twitter.com/psilonft/status/1489720520098541568?s=21",
+          "timestamp": "2022-02-04T22:00:24.317+00:00",
+          "description": "Join our mind-bending experiment and journey to the Metaverse.\n\nhttps://t.co/m6U2iE0ey7 \uD83D\uDC48\uD83D\uDC48\uD83D\uDC48 https://t.co/KrLXcshYTa",
+          "color": "#1DA1F2",
+          "author": {
+            "name": "Psilo NFT (@PsiloNFT)",
+            "url": "https://twitter.com/PsiloNFT",
+            "iconUrl": "https://images-ext-2.discordapp.net/external/yqLWbOhc25YJUx_tCm0VkqrCCST-sLvGL6FAmYSr-mc/https/pbs.twimg.com/profile_images/1486028940640600065/KK47bjd9_bigger.jpg"
+          },
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/T-qDz4uxcQ4EDzhlftGlbj07PXnXb3tJ7ACbIisy-Yk/https/pbs.twimg.com/ext_tw_video_thumb/1489661276313698307/pu/img/dmgO3A9m3JNJAa2F.jpg",
+            "width": 1200,
+            "height": 675
+          },
+          "footer": {
+            "text": "Twitter",
+            "iconUrl": "https://images-ext-1.discordapp.net/external/bXJWV2Y_F3XSra_kEqIYXAAsI3m1meckfLhYuWzxIfI/https/abs.twimg.com/icons/apple-touch-icon-192x192.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "939633345371971624",
+      "type": "Default",
+      "timestamp": "2022-02-05T21:27:27.08+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Following up on @KAP presentation now, the website for DealDex is https://www.dealdex.io and you can message both of us for any questions!",
+      "author": {
+        "id": "372482180720623616",
+        "name": "BarryClams",
+        "discriminator": "0076",
+        "nickname": "BarryClams",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/372482180720623616/60db8f33bbc61da6647f76edff20d397.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "DealDex",
+          "url": "https://www.dealdex.io/",
+          "timestamp": null,
+          "description": "Raise funds for your crypto startup. Launch a decentralized VC fund with the click of a button. DealDex is here to solve your investment needs.",
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "487890606266515456",
+          "name": "KAP",
+          "discriminator": "9022",
+          "nickname": "KAP",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "940352215288254574",
+      "type": "Default",
+      "timestamp": "2022-02-07T21:03:59.024+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "GM a representative of bankless consulting an arm of the BanklessDAO we have a great team of professionals, we assist DAO startups, traditional web 2 orgs transition into web3 space, we also offer NFT consultancy, tokenomics, gov and community strategy/management services check out https://www.banklessconsulting.com/ and feel free to reach out",
+      "author": {
+        "id": "910221565973643284",
+        "name": "morte-ch",
+        "discriminator": "8200",
+        "nickname": "morte-ch",
+        "color": "#2ECC71",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/910221565973643284/6ae4f5e0369ef475263519835ac78f41.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Bankless Consulting - Web3 Consulting Services",
+          "url": "https://www.banklessconsulting.com/",
+          "timestamp": null,
+          "description": "​​Bankless Consulting is the world's first web3-native consulting firm. Whether you're a DAO or traditional enterprise, we’ll help you capture the potential of the rapidly expanding decentralized economy.",
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "940401883921645588",
+      "type": "Reply",
+      "timestamp": "2022-02-08T00:21:20.949+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Looks cool! Who could I contact about a Hyperscale <> Bankless Consulting partnership?",
+      "author": {
+        "id": "915035187547615243",
+        "name": "kevalin",
+        "discriminator": "4394",
+        "nickname": "kevalin",
+        "color": "#1F8B4C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/915035187547615243/8aec11e684cd1c3ab575358a58fda0bd.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "910221565973643284",
+          "name": "morte-ch",
+          "discriminator": "8200",
+          "nickname": "morte-ch",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "940352215288254574",
+        "channelId": "926986561399177216",
+        "guildId": "916751469678579784"
+      }
+    },
+    {
+      "id": "940502833080447006",
+      "type": "Reply",
+      "timestamp": "2022-02-08T07:02:29.104+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Cool lets take it to the DMs as i liase with team for a call.. Thank you",
+      "author": {
+        "id": "910221565973643284",
+        "name": "morte-ch",
+        "discriminator": "8200",
+        "nickname": "morte-ch",
+        "color": "#2ECC71",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/910221565973643284/6ae4f5e0369ef475263519835ac78f41.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "915035187547615243",
+          "name": "kevalin",
+          "discriminator": "4394",
+          "nickname": "kevalin",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "940401883921645588",
+        "channelId": "926986561399177216",
+        "guildId": "916751469678579784"
+      }
+    },
+    {
+      "id": "941113506139353138",
+      "type": "Default",
+      "timestamp": "2022-02-09T23:29:04.907+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://www.smallstep.capital/decentralized-autonomous-organizations/",
+      "author": {
+        "id": "249459643410153472",
+        "name": "PlumpTheBrave",
+        "discriminator": "4056",
+        "nickname": "PlumpTheBrave",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/249459643410153472/84ea1e785891a99ec4fd556ce1870ec4.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "The Internet as Coordination: A Primer for DAOs",
+          "url": "https://www.smallstep.capital/decentralized-autonomous-organizations/",
+          "timestamp": null,
+          "description": "Hey! We’re SmallStep, and we’re trying to use first principles thinking and scientific expertise to explore and write about different ideas, build long term theses, and sometimes invest in cool public companies and startups.  We’ve had 60 folks join our small, but growing community since our last",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/XGpaAIJqgNzwPowoQv6YfHoa_safwtO8GLO3a009I5E/https/www.smallstep.capital/content/images/2021/10/monica-garniga-XClNDg9Z9Ag-unsplash-1.jpg",
+            "width": 2000,
+            "height": 1174
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "941113818753413130",
+      "type": "Default",
+      "timestamp": "2022-02-09T23:30:19.44+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "^ recent post we wrote outlining the potential of DAOs going forward for impact + activism. Would love any feedback!",
+      "author": {
+        "id": "249459643410153472",
+        "name": "PlumpTheBrave",
+        "discriminator": "4056",
+        "nickname": "PlumpTheBrave",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/249459643410153472/84ea1e785891a99ec4fd556ce1870ec4.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "942269593722957884",
+      "type": "Default",
+      "timestamp": "2022-02-13T04:02:57.666+00:00",
+      "timestampEdited": "2022-02-13T04:07:30.264+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Soooo excited to launch Timewriter Season 0 tonight. Since some of you have expressed interest, I wanted to share an update here. \n\nStarting at midnight tonight (EST) we are using the scribble tool we built at https://timewriter.xyz/ to start the collaborative writing experiment for Season 0.\n\nWe would be so stoked to see some of you contributing. \n\n- Next 7 days: Day0 Submissions are open\n- After that submissions and voting will be in 24h intervals. \n- Any submission that get voted into the timeline will get a timewriter NFT airdropped (this is the only chance to get a dao membership NFT without having to bid, as will be the case in our final product (Season 1).",
+      "author": {
+        "id": "401866038976970752",
+        "name": "Badmonky",
+        "discriminator": "4222",
+        "nickname": "Badmonky",
+        "color": "#1ABC9C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/401866038976970752/0d807310d248df97a2a429832ee24d33.png?size=128"
+      },
+      "attachments": [
+        {
+          "id": "942269593815224410",
+          "url": "https://cdn.discordapp.com/attachments/926986561399177216/942269593815224410/Season_0.png",
+          "fileName": "Season_0.png",
+          "fileSizeBytes": 112416
+        }
+      ],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "942313808226045993",
+      "type": "Default",
+      "timestamp": "2022-02-13T06:58:39.225+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://twitter.com/utamadush/status/1492754887783817217?s=21",
+      "author": {
+        "id": "790312207996026890",
+        "name": "utamadush",
+        "discriminator": "5658",
+        "nickname": "utamadush",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/790312207996026890/17ad155b4112340f4e8fd593da445eba.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": "https://twitter.com/utamadush/status/1492754887783817217?s=21",
+          "timestamp": "2022-02-13T06:57:53.949+00:00",
+          "description": "anyone who wants to learn about. #Web3 should join @shl on Twitter or https://t.co/9LrZ70FKeC #discord. The token he #Airdrop 300 fweb3 to 2K addresses. 10M supply and only .028 but with no liquidity. I think once the training is over #FWEB3 could do many x. #learn to #play",
+          "color": "#1DA1F2",
+          "author": {
+            "name": "Utamadush (@utamadush)",
+            "url": "https://twitter.com/utamadush",
+            "iconUrl": "https://images-ext-2.discordapp.net/external/G0XWsYbtEn0J09ECJS2KV9aHREumONBiY2m7RE-PdAY/https/pbs.twimg.com/profile_images/1430599502566596610/1po3ZFlu_bigger.jpg"
+          },
+          "image": {
+            "url": "https://images-ext-1.discordapp.net/external/ScfGQSCUamES4qLRptrgD6n-FkOIT1M7D8Yp8hxcz5Y/%3Fformat%3Djpg%26name%3D386x202/https/pbs.twimg.com/card_img/1492754617066672131/_MQMKrt2",
+            "width": 256,
+            "height": 134
+          },
+          "footer": {
+            "text": "Twitter",
+            "iconUrl": "https://images-ext-1.discordapp.net/external/bXJWV2Y_F3XSra_kEqIYXAAsI3m1meckfLhYuWzxIfI/https/abs.twimg.com/icons/apple-touch-icon-192x192.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "942860313219432490",
+      "type": "Default",
+      "timestamp": "2022-02-14T19:10:16.169+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "The conversation with Szymon from Ramp is out. Extremely ambitious crypto payments project that closed a $50M+ Series A round and \nsupports numerous web3 projects that we all use. And Szymon is a very inspiring guy \uD83D\uDE42\n\nhttps://twitter.com/web3talks/status/1493297667404926981?s=20&t=APZlyo77pfwnVdTpazfCxA",
+      "author": {
+        "id": "784848209716969532",
+        "name": "MacBudkowski",
+        "discriminator": "2817",
+        "nickname": "MacBudkowski",
+        "color": "#9B59B6",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/784848209716969532/7fba4c0bcd150b53c66739f12cce7d0c.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": "https://twitter.com/web3talks/status/1493297667404926981?s=20&t=APZlyo77pfwnVdTpazfCxA",
+          "timestamp": "2022-02-14T18:54:42.695+00:00",
+          "description": "In Ep.9, Szymon from @RampNetwork tells us:\n- About Ramp's obsession over UX,\n- How they got partners such as Axie Infinity, SoRare, Polygon & Aave,\n- How Ramp is not just a payments business but also an identity business,\n- How to manage a 40X growth.\n\nhttps://t.co/w6DJ8sPAIB",
+          "color": "#1DA1F2",
+          "author": {
+            "name": "web3talks (@web3talks)",
+            "url": "https://twitter.com/web3talks",
+            "iconUrl": "https://images-ext-1.discordapp.net/external/iilfTpsrmdmF0gA86qUsRbbg2K3vJUAtXuzltkmjd_o/https/pbs.twimg.com/profile_images/1452384739877429254/RMpuZyV1_bigger.png"
+          },
+          "image": {
+            "url": "https://images-ext-2.discordapp.net/external/QJrTKA_u9XwM04TiW4_8jMegaQxz_cQ-q_sRdJnufZc/https/pbs.twimg.com/media/FLlAw0BXsAQJWcQ.png%3Alarge",
+            "width": 2048,
+            "height": 2048
+          },
+          "footer": {
+            "text": "Twitter",
+            "iconUrl": "https://images-ext-1.discordapp.net/external/bXJWV2Y_F3XSra_kEqIYXAAsI3m1meckfLhYuWzxIfI/https/abs.twimg.com/icons/apple-touch-icon-192x192.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "942982320028254229",
+      "type": "Default",
+      "timestamp": "2022-02-15T03:15:04.859+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Hi,\nWe did a survey among software engineers, project/product managers and it showed, that referral is one of the most effective ways to find a job!\nThen I thought, why not create an Upwork for Recruiters? And here is https://withpublic.com, where you can use referrals to find the best candidates. \n\nWould you be interested in featuring your jobs on our platform? It is free of charge, you only need to pay a referral bonus for each successful candidate. You set the amount of the bonus.\nLet me know if you are interested,\n\nRegards,\nNurlan",
+      "author": {
+        "id": "518449689406865419",
+        "name": "nurlannurmanov",
+        "discriminator": "0026",
+        "nickname": "nurlannurmanov",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/518449689406865419/bb455fa647dca83a0d5269eb63ae0c09.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "⚡",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/svg/26a1.svg"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    }
+  ],
+  "messageCount": 58
+}
